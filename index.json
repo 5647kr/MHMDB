@@ -1,0 +1,2061 @@
+[
+  {
+    "smallMonster": [
+      {
+        "id": 1,
+        "imgurl": "https://i.namu.wiki/i/Di1K538E6-W6tFsOcf9gv1lrc5nzszSM0DJHd2gTePo3PXQBU_ri4GABsOYjt3QAq3x-qnq0Tq0YzH8_Vnt17ryq7nxMX7sZ3MuNxkdC5ijUqSxB4eQ_BaiZO2bGPVPH0uR5FjPd5nmzzAoTffXg9Q.webp",
+        "name": "아이루",
+        "nickname": "",
+        "category": "",
+        "type": "",
+        "series": ""
+      }
+    ]
+  },
+  {
+    "bigMonster": [
+      {
+        "id": 1,
+        "imgurl": "https://i.namu.wiki/i/nMh2NjG2J0Ajplqnvm_-lANwOFvxNXGtxeKANsoiE4-rJmwPo6vgfrWxJak1oyqKZCT7kJYODqzqyAOY5yRkVORHtJpgZgDdghFFf0znQEL6C0w-p8W99ejesYNPO9vpJlK05WRyXILMfh7ZaannEg.webp",
+        "name": "다이묘자자미",
+        "nickname": "순해[盾蟹: 방패 순(盾), 게 해(蟹)] / 방패게",
+        "type": "갑각종",
+        "speices": "원종",
+        "series": "MH2, MHP2, MHP2G, MH4G, MHX, MHXX, MHRSB"
+      },
+      {
+        "id": 2,
+        "imgurl": "https://i.namu.wiki/i/b7t2mfjmjaWV3VNDqghQ25VhsWL2mbg5j-7tm2HrbZk0ISz_pvz5K0K0Rgo0EFCPWSgK1XwFm3vBxTbiWpn-DnZXSBehbCTeHKJKn3AumOD85EeGK4YimZFbdSP1t27b9-5StX2rfYV7cz4b6ULnIw.webp",
+        "name": "다이묘자자미 아종",
+        "nickname": "자순해[紫盾蟹: 자줏빛 자(紫), 방패 순(盾), 게 해(蟹)] / 보라방패게",
+        "type": "갑각종",
+        "speices": "아종",
+        "series": "MHP2G, MH4G"
+      },
+      {
+        "id": 3,
+        "imgurl": "https://i.namu.wiki/i/HBs0ntmHKLzUmnKblwqFCbQdMc0W6deR8KXWJ6FtzlMywI9Dad_Cbyg05BLhSYpAFl3BrjBtQGIF1glYwWDGGxyG9JMXrRLGtZwniWbjgfCyqFARMOBo_NfjzdAovy_INPWM7epRX3X7_mQ1FtgUyw.webp",
+        "name": "모쇄 다이묘자자미",
+        "nickname": "모쇄[矛砕: 창 모(矛), 부술 쇄(砕)]",
+        "type": "갑각종",
+        "speices": "이명 특수개체",
+        "series": "MHX, MHXX"
+      },
+      {
+        "id": 4,
+        "imgurl": "https://i.namu.wiki/i/ZaeN3qQBNXAlF8m5DpvtCUGJAEXsIHmNs1v9gIsx6uHboSmESlgY-a0vWJD38UNCeoL_yXU548DnMTBUiQ-P1MhcWuOA9Dqj22Rmjf-5K3pSkq4egsVOtAp6qNv9oav3mxm9-Cslm9cRmLj6aA0jPA.webp",
+        "name": "쇼군기자미",
+        "nickname": "겸해[鎌蟹: 낫 겸(鎌), 게 해(蟹)] / 낫게",
+        "type": "갑각종",
+        "speices": "원종",
+        "series": "MH2, MHP2, MHP2G, MHX, MHXX, MHRSB"
+      },
+      {
+        "id": 5,
+        "imgurl": "https://i.namu.wiki/i/njV6mTyV-o6xff40WORHQwH3VxIx_2dRTsfNr1_aucI3JRDVyTKy55gWRKC1DEe9HFdZOfIxRQJUYjtPN6t3p_O3OHWPOs9DE57C54vZokiA3UY8P2KuTqAQuz4Izgijf4TBICQ60W1NuPOzWgJ6JA.webp",
+        "name": "쇼군기자미 아종",
+        "nickname": "겸해[鎌蟹: 낫 겸(鎌), 게 해(蟹)] / 낫게",
+        "type": "갑각종",
+        "speices": "아종",
+        "series": "MHP2G"
+      },
+      {
+        "id": 6,
+        "imgurl": "https://i.namu.wiki/i/6ohln0zfomY16dumn8rbCwUmKr7mG6JhtWVQ_LoRPaEA6yxeSCRKnQX9OA7kTBzvf3kIhkJzVqhfgr21raDKsGntfeHSd5j4Axl7XmaPKre-Vf0Nk5VQ_ZhXw5N6x5EpDbz_P7HUtvKEf2E5q3flag.webp",
+        "name": "개열 쇼군기자미",
+        "nickname": "개열[鎧裂: 갑옷 개(鎧), 찢어질 렬(裂)]",
+        "type": "갑각종",
+        "speices": "이명 특수개체",
+        "series": "MHXX"
+      },
+      {
+        "id": 7,
+        "imgurl": "https://i.namu.wiki/i/bql7ChKcP8-m6qvd0vTsaLGh6JHFY1IR1yuGj8-bPV03_ltVSTZlGZA6NM9shDBLi4KHZYCFBOC5xZWexMc7ZwjaWR0TZvO38fMjma4JFzn0rqkfBH8aRcN_JZpcdgE4kFEJ7N_FkYaxgg3-oeDVgw.webp",
+        "name": "센가오렌",
+        "nickname": "채해[砦蟹: 목책 채(砦), 게 해(蟹)] / 성채게",
+        "type": "갑각종",
+        "speices": "원종",
+        "series": "MH2, MHP2, MHP2G"
+      },
+      {
+        "id": 8,
+        "imgurl": "https://i.namu.wiki/i/INSeQ_e05L1ThoKyagmRuXLZ7Mxw1NUc7Qxx4Dgz6dKIE3eqX4WYUKwT7meYZDfgeHcIvraxR0FNnuBLlSRIcgbDpuI8WMIhZGeAJWEh1JZhHr29FnJkcQ1FJZKmo04NVF8JTFepCqXxY-O2AsEqHQ.webp",
+        "name": "게넬-셀타스",
+        "nickname": "중갑충[重甲虫: 무거울 중(重), 갑옷 갑(甲), 벌레 충(虫)]",
+        "type": "갑충종",
+        "speices": "원종",
+        "series": "MH4, MH4G, MHX, MHXX"
+      },
+      {
+        "id": 9,
+        "imgurl": "https://i.namu.wiki/i/N87SC5OFwCL4N9NVIm-AAoeBL4mPlTMnWJ0nza1QNjiqPNxiwZgHyoxVfAG_jxlVZ3it6tzZK71xlx09ZqsMhHgvrZHEgJ7TUPFJSC1DlA6xkH_3RH3B5s8VIx6QNhG0V4XyeqHnnbKxKakp5rt-rA.webp",
+        "name": "게넬-셀타스 아종",
+        "nickname": "포갑충[砲甲虫: 돌 쇠뇌 포(砲), 갑옷 갑(甲), 벌레 충(虫)]",
+        "type": "갑충종",
+        "speices": "아종",
+        "series": "MH4G"
+      },
+      {
+        "id": 10,
+        "imgurl": "https://i.namu.wiki/i/-T6zOiCmPA8LRUrsBtLoAdCt1Uh7snHI_hO6gys_v6UBMog7xo3zmiET1Tw0PV7YhtxrZT5EWygXgdf5S0FAOFWfB2zvZsOHPASb1_7t2c1vdOuqhCaYZZr8VNj07hyi6Q2AFYAX0wjex65B_RRx-Q.webp",
+        "name": "아르셀타스",
+        "nickname": "철갑충[徹甲虫: 뚫을 철(徹), 갑옷 갑(甲), 벌레 충(虫)]",
+        "type": "갑충종",
+        "speices": "원종",
+        "series": "MH4, MH4G, MHX, MHXX"
+      },
+      {
+        "id": 11,
+        "imgurl": "https://i.namu.wiki/i/pDmj5KlQ3StmLaaV8nkguBlvfNfQV8IUXzNPWe03VIBiO88Dy_K4-fKKChZX2cR6igiReirb8aMaLv2ZvDO9ya9MKEwBRkbND0PSTcuu71veQoBgWyBrtOm5VAXqfAbbNgotoHkzDxsvBA4EeDkYHQ.webp",
+        "name": "아르셀타스 아종",
+        "nickname": "부갑충[斧甲虫: 도끼 부(斧), 갑옷 갑(甲), 벌레 충(虫)]",
+        "type": "갑충종",
+        "speices": "아종",
+        "series": "MH4G"
+      },
+      {
+        "id": 12,
+        "imgurl": "https://i.namu.wiki/i/EAq2UcY1h_wMUEWj1SPxz61vMTx1Al2z6n1Z_jl0pfvTeqTfq__CQZj1P_unvCe-v9cuEM7tAK-ZM21UbjHzhojlD0dbDr_ueYP3ZsCQAjJ6shHp3osO2jN7VI7zKUHhS18g_Yqsy42uOK-fsclBww.webp",
+        "name": "아트랄 카",
+        "nickname": "각당랑[閣蟷螂: 누각 각(閣), 버마재비 당(螳), 사마귀 랑(螂)]",
+        "type": "갑충종",
+        "speices": "원종",
+        "series": "MHXX"
+      },
+      {
+        "id": 13,
+        "imgurl": "https://i.namu.wiki/i/0j8YcCDwSTR1S8y835Zr_pioBPT_QcoEVWiVHt9VO4rvCUHQAHLNiEgXyWdTYcF8wnuSqyhpgiX3CtMIOYetCtdM0zzVh1JubjBUY4ccrl9ZIOKqFndQe4S6cEAkIK9LdgGfOo9flllkJwIdKc3QCA.webp",
+        "name": "퀸랑고스타",
+        "nickname": "여왕충[女王虫: 여자 녀(女), 왕 왕(王), 벌레 충(虫)]",
+        "type": "갑충종",
+        "speices": "원종",
+        "series": "MHP2G"
+      },
+      {
+        "id": 14,
+        "imgurl": "https://i.namu.wiki/i/ohismcMuJ8LqnLqj3zi2Zm5k8pAK-CJKhdn1uEezYww8XkoSGIARkHBWL6hZvBRXAC3wQ1OWeYa9Zypono6XZsGX5vb2An0L-bPCKzjcvnjZa05tJYHinUO9S_T-UEjm2HgYlAwm3mRl4Y7VaHebRg.webp",
+        "name": "그라비모스",
+        "nickname": "개룡[鎧竜: 갑옷 개(鎧), 용 룡(竜)]",
+        "type": "비룡종",
+        "speices": "원종",
+        "series": "MH, MHG, MHP, MH2, MHP2, MHP2G, MH4, MH4G, MHXX"
+      },
+      {
+        "id": 15,
+        "imgurl": "https://i.namu.wiki/i/7wv9ArraAkBP3cwvvLZDDzDnbSTu-Qb69NrfTXpRY0KRBw8SK6EsTXsAU90ofy3Jb7DwyA3s8s0ySuMZFnqp_vXsYZNOXZV4GWHjZaWN020ilfAH-RcEzPLV9MErvwzGhPV1euAnJhhlh4kNQRyBQQ.webp",
+        "name": "그라비모스 아종",
+        "nickname": "흑개룡[黒鎧竜: 검을 흑(黒), 갑옷 개(鎧), 용 룡(竜)]",
+        "type": "비룡종",
+        "speices": "아종",
+        "series": "MHG, MHP, MH2, MHP2, MHP2G, MH4, MH4G"
+      },
+      {
+        "id": 16,
+        "imgurl": "https://i.namu.wiki/i/kuPCaaWozhquZcwBtaWbaxx-SRmet4PRoiTQdJRTwmLyzQInidUQG-KzzIFhrbfNa-U4-KavJKYaivU5h1X_P4hE9oRDFHylHaQiwvLmIW7pC4HT1FKVMZH4PJ-Z4R1tsNyqfVTaKcYtmJqxDxDaGw.webp",
+        "name": "기기네블라",
+        "nickname": "독괴룡[毒怪竜: 독 독(毒), 기괴할 괴(怪), 용 룡(竜)]",
+        "type": "비룡종",
+        "speices": "원종",
+        "series": "MH3, MHP3, MH3G"
+      },
+      {
+        "id": 17,
+        "imgurl": "https://i.namu.wiki/i/CdFCERYfnOygarTngZXlqeyggGp3Hu3XkaIqGaI6P-NpdgVqEwLnhy8jg6xvX_igipcrEox_s20DZIRcxNPETmTLlxtWkgjs4tjf6xJlLqf7Enu6604VbukN3CsoUo8pCWlisH3TM6UJYC7pfZx2VA.webp",
+        "name": "기기네블라 아종",
+        "nickname": "전괴룡[電怪竜: 번개 전(電), 기괴할 괴(怪), 용 룡(竜)]",
+        "type": "비룡종",
+        "speices": "아종",
+        "series": "MHP3, MH3G"
+      },
+      {
+        "id": 18,
+        "imgurl": "https://i.namu.wiki/i/SHmk_tAL67Hinosw5vEmcD15BsmeKn34zACNboC-IKpvcBU8hPQ73Q3-fFaLTb5WPZHU8txfz4DwwxKA_tmQGQ5HPhv7wIIw3SRhPxvnuhpku6e7Nv6aVgdPSPIV4lOxgHpp4RUlT73Eoz3W6-FKbQ.webp",
+        "name": "나르가쿠르가",
+        "nickname": "신룡[迅竜: 빠를 신(迅), 용 룡(竜)]",
+        "type": "비룡종",
+        "speices": "원종",
+        "series": "MHP2G, MHP3, MH3G, MHX, MHXX, MHWI, MHRise, MHRSB"
+      },
+      {
+        "id": 19,
+        "imgurl": "https://i.namu.wiki/i/r-Z6sIrOgPo3ex0eZj8y9lbR2mfltDtlge2s5OlttXeV5j-ICOCGtXPRMYuv2o5jGr3oaGvZprv9zqMewf2vsOST0tuxawBd-5QCX09rLhuxuJa3Bc66bRxpTyZ7hV-O1Y0nZhCqzBivqbVlGOGFEQ.webp",
+        "name": "나르가쿠르가 아종",
+        "nickname": "녹신룡[綠迅竜: 푸를 녹(綠), 빠를 신(迅), 용 룡(竜)]",
+        "type": "비룡종",
+        "speices": "아종",
+        "series": "MHP3, MH3G"
+      },
+      {
+        "id": 20,
+        "imgurl": "https://i.namu.wiki/i/pgKV5hMvJ8XcT_Bwg4UB63_C_tjRKwl7L63PKXFMM3lOfkp0mk3qS2PK0FY_8EssgJvkM3VR4KiLjeWf3o-AwpNK-Pd67SCv_hYpohJ01YS8LgJzdV5E_NeLnNrWezw0Slt6EjGLdjqloCToc6DCqw.webp",
+        "name": "나르가쿠르가 희소종",
+        "nickname": "월신룡[月迅竜: 달 월(月), 빠를 신(迅), 용 룡(竜)]",
+        "type": "비룡종",
+        "speices": "희소종",
+        "series": "MH3G, MHRSB"
+      },
+      {
+        "id": 21,
+        "imgurl": "https://i.namu.wiki/i/eCVKACcD4lf7gxdeR5KHcT9uDImkpH6yFao2GPHxpFN22QCG5P3LUI8A90bLUtfv6oUgiWh-C0VOveK6l-fvMYnwvnqfVQYX_71RHEqbFjhL-AVIowrgN-dhCnaaS4sqSog-5RxkRZWJIgukPWn5FQ.webp",
+        "name": "백질풍 나르가쿠르가",
+        "nickname": "백질풍[白疾風: 흰 백(白), 병 질(疾), 바람 풍(風)]",
+        "type": "비룡종",
+        "speices": "이명 특수개체",
+        "series": "MHX, MHXX"
+      },
+      {
+        "id": 22,
+        "imgurl": "https://i.namu.wiki/i/ur-Ug6fEbXFr2a5jPchLeMED05LPVmobCsf9PXK-cMLR6axXnLjflY8TN4j_sdgSQn7qVgMHTtKXYPclZYhGWIP6y8ztkKyNLuNr_4Vwnk5Z08XScGn-oEiAHs1E1CJYTAOd7hYebYmfQGvuFjQcOQ.webp",
+        "name": "디아블로스",
+        "nickname": "각룡[角竜: 뿔 각(角), 용 룡(竜)]",
+        "type": "비룡종",
+        "speices": "원종",
+        "series": "MH, MHG, MHP, MH2, MHP2, MHP2G, MH3, MHP3, MH3G, MH4G, MHXX, MHW, MHWI, MHRise, MHRSB"
+      },
+      {
+        "id": 23,
+        "imgurl": "https://i.namu.wiki/i/L3Dgc5eiWiaoOmmyyXfRY1iAPa9Xbohk1ETGNIv4I3_XKarKf5kBYMGXHxHJePOBpSi-6c2pkCZLmz0B-0XH5uf9tbh2JuS7Ez8vtKccOifQn__M-oT871n_G98v65R448V9R-NzQ6TkiMHRmMexqA.webp",
+        "name": "디아블로스 아종",
+        "nickname": "흑각룡[黒角竜: 검을 흑(黒), 뿔 각(角), 용 룡(竜)]",
+        "type": "비룡종",
+        "speices": "아종",
+        "series": "MHG, MHP, MH2, MHP2, MHP2G, MHP3, MH3G, MH4G, MHW, MHWI"
+      },
+      {
+        "id": 24,
+        "imgurl": "https://i.namu.wiki/i/RTu9Oi4ycaE5-u89Z6hbFEuTX36wqOFZ-pwn3fLn64pcrmB53Oc4r-2Iw4GZCP4UumE9tjYPJNeYJaMffjhL2gG_wbsgPX3OtnY6JS5AbI0WlPCjxU35SDXTsz0GePJ1V280Nw_h_tGN70Nf44mNtg.webp",
+        "name": "오마 디아블로스",
+        "nickname": "오마[鏖魔: 오살할 오(鏖), 마귀 마(魔)]",
+        "type": "비룡종",
+        "speices": "이명 특수개체",
+        "series": "MHXX"
+      },
+      {
+        "id": 25,
+        "imgurl": "https://i.namu.wiki/i/FW7NmQgORYRoZ9BrCpj4-FcLo0Lqhe3TwBXRyJL3pp2DKotrs12VGtiVV56Wme_hm2NdnsPhKkEsk83cuTtaMCMTVd4s0JjigiBX-wG6WM40KcuFyJQy89ln8z1LcFHicP6V23q_ANQGLCa9lZvGaA.webp",
+        "name": "주인 디아블로스",
+        "nickname": "각룡[角竜: 뿔 각(角), 용 룡(竜)]",
+        "type": "비룡종",
+        "speices": "주인",
+        "series": "MHRise"
+      },
+      {
+        "id": 26,
+        "imgurl": "https://i.namu.wiki/i/eSnP-IeFxlCLG_mzymuW4SQ_f1AeMIqfk57YGqWzGRuEKXscDCVTcLAEvIEidfiWvVnfjjPCR-C20QEt9DkrCHT1rZIlZVNlJO6Eh1V_FOH-__urRfgoN4ItPpK4KWl_l7IsZbI09MHZrNmXfnZidw.webp",
+        "name": "라이젝스",
+        "nickname": "전룡[電竜: 번개 전(電), 용 룡(竜)]",
+        "type": "비룡종",
+        "speices": "원종",
+        "series": "MHX, MHXX, MHRSB"
+      },
+      {
+        "id": 27,
+        "imgurl": "https://i.namu.wiki/i/zwtTx8n4gBIHRV9TUUT3tynnHkEfgmWLOMdKDme5U-L9uunZX_5GGhZpKrmXnjUcvv0QVyzLxtWLAVkHGIL1tnjpOzSC5ai_4ee6nXBp8ep7h2VyUH8D7ILX1DKFo51hGihEdVinwMIoCMmMHs1vaQ.webp",
+        "name": "청전주 라이젝스",
+        "nickname": "청전주[青電主: 푸를 청(青), 전기 전(電), 주인 주(主)]",
+        "type": "비룡종",
+        "speices": "이명 특수개체",
+        "series": "MHXX"
+      },
+      {
+        "id": 28,
+        "imgurl": "https://i.namu.wiki/i/6djcKIwPFRrzl9SXo7z87QQ1eFN2Zv5573vqAP9ImaWCikC4BxUNqBoxhSBU7geWbaD-s1Yoc_NTIO7cfcH1GXGAdTXRXu_9lCb27HCFMQ8qYNYOlzTm7EWO6C5_hoRRRnLKrxO-NQdT4-oyRBh0Uw.webp",
+        "name": "레이기에나",
+        "nickname": "풍표룡[風漂竜: 바람 풍(風), 떠돌 표(漂), 용 룡(竜)]",
+        "type": "비룡종",
+        "speices": "원종",
+        "series": "MHW, MHWI"
+      },
+      {
+        "id": 29,
+        "imgurl": "https://i.namu.wiki/i/DYSQXkc40uf4NSbL4lrGleIMxxp2tfEv8ETYLixRDImZgv5C4HXdCOeBa891xHqPymdZL9IbTk1vl0zlHk9F7eCHueT7ppOPn3d1S3RS_tW-tn_5XazZeMJNZabvxCHh7AIrgp6dqUHIkgLRCp0gsQ.webp",
+        "name": "얼려 찌르는 레이기에나",
+        "nickname": "풍표룡[風漂竜: 바람 풍(風), 떠돌 표(漂), 용 룡(竜)]",
+        "type": "비룡종",
+        "speices": "특수 개체",
+        "series": "MHWI"
+      },
+      {
+        "id": 30,
+        "imgurl": "https://i.namu.wiki/i/YENDZzxtd6K_1R5SiZEBjR8ztlq3QAi0dal0B5nngDVKtjW5k8UKeLwkDTp7tyAeNqMFjbIfwe2t-Wg4UyClUGGC5U5RSIDvGXQ10L0TUpTNSmAK6A3MYu_5FXnBR9bVkz-Potw0YwB4dC3uY_AkKA.webp",
+        "name": "리오레우스",
+        "nickname": "화룡[火竜: 불 화(火) 용 룡(竜)] / 웅화룡[雄火竜: 수컷 웅(雄), 불 화(火), 용 룡(竜)]",
+        "type": "비룡종",
+        "speices": "원종",
+        "series": "MH, MHG, MHP, MH2, MHP2, MHP2G, MH3, MH3G, MHP3, MH4, MH4G, MHX, MHXX, MHW, MHWI, MHRise, MHRSB"
+      },
+      {
+        "id": 31,
+        "imgurl": "https://i.namu.wiki/i/kjyXERYlY7jpI0SNHkwF0VqZ5fpGSxNWz5NVTrmPDJ0XpxZYd51ausyh3ZGJVzMJvwFo-klFKvlpVtuuQwuQkr2eks7ooBvDrvDOVbE7kjlrmiCysQNzq5YYqkC7d5zcrYv3WOgCjaz-NU5bLwbEAg.webp",
+        "name": "리오레우스 아종",
+        "nickname": "창화룡[蒼火竜: 푸를 창(火), 불 화(火), 용 룡(竜)]",
+        "type": "비룡종",
+        "speices": "아종",
+        "series": "MHG, MHP, MH2, MHP2, MHP2G, MH3G, MH4, MH4G, MHW, MHWI"
+      },
+      {
+        "id": 32,
+        "imgurl": "https://i.namu.wiki/i/UEA8_rHk3t3IDb-AYL8BUhKtzI3UkieS1wEqSiQz65tsYLGXPNfFbmArhchnxayCZr3RJXLgaAh9enrculKkhcJjWGlvUvRfu__eTKdXgQz7Gu-KUi9dGSvuFUL9W-lUupwF0JrMVG_U9A8VgqSDXQ.webp",
+        "name": "리오레우스 희소종",
+        "nickname": "은화룡[銀火竜: 은 은(銀), 불 화(火), 용 룡(竜)]",
+        "type": "비룡종",
+        "speices": "희소종",
+        "series": "MHG, MHP, MH2, MHP2, MHP2G, MHP3, MH3G, MH4, MH4G, MHX, MHXX, MHWI"
+      },
+      {
+        "id": 33,
+        "imgurl": "https://i.namu.wiki/i/t4SOZWK-E5dcsTP6XGNhdZz4UQO_ohy0z2lmXBu3nu33HpSvwwJfkgM4SVQxQkhCwi2UgkJsaLBvT0zv8Amp9QVrH2qMp4-wHy8UMVCk-jom4w8VucXzBV_Lbj30_nfJzvTjkYlbJjGpfhnyltaX3g.webp",
+        "name": "흑염왕 리오레우스",
+        "nickname": "흑염왕[黒炎王: 검을 흑(黒), 불꽃 염(炎), 임금 왕(王)]",
+        "type": "비룡종",
+        "speices": "이명 특수개체",
+        "series": "MHX, MHXX"
+      },
+      {
+        "id": 34,
+        "imgurl": "https://i.namu.wiki/i/B2HwoPDyWCMW1gB_O2G3Po92T4i32r_O_GN9_7kZohZWrNwDf1-ZgJryJRmTE9u1-WwTLqVAVO6MVBPeaXe896NMwhFsWkiEmQOTfMSwo5WOGtbHK2sbsaNthy434ouKSPD_uwlv5sTTw_AzDVJpHw.webp",
+        "name": "주인 리오레우스",
+        "nickname": "화룡[火竜: 불 화(火), 용 룡(竜)]",
+        "type": "비룡종",
+        "speices": "주인",
+        "series": "MHRise"
+      },
+      {
+        "id": 35,
+        "imgurl": "https://i.namu.wiki/i/PkwLtC2Cun4Gt9nJcEeAtXY3ajlAmqpZc16i1SV5X4BKt9bhvHYqIPV8JYxuaSdwWjOTmeSy2FkOiBn9cJm9Oeci61IOE7JppRANzH6_uSs9zcxW5vlWxZ6Evol1NUmdYzuSfE2hLKFiKEXL49kF-w.webp",
+        "name": "리오레이아",
+        "nickname": "자화룡[雌火竜: 암컷 자(雌), 불 화(火), 용 룡(竜)]",
+        "type": "비룡종",
+        "speices": "원종",
+        "series": "MH, MHG, MHP, MH2, MHP2, MHP2G, MH3, MH3G, MHP3, MH4, MH4G, MHX, MHXX, MHW, MHWI, MHRise, MHRSB"
+      },
+      {
+        "id": 36,
+        "imgurl": "https://i.namu.wiki/i/9_5jWwm7jw2Urj5SfRe1m19ABxYYYIWRgff_HChi_PIk-t7SUJqhjgZ8peFOu6m3YVu9288-DGML45EKjeeRlknpftBujmp-sGr1bCfyc_MePyeS-ossD-KhaNyFV_qpT-cCfq__7CeDkDkuxSV1Nw.webp",
+        "name": "리오레이아 아종",
+        "nickname": "앵화룡[桜火竜: 앵두나무 앵(桜), 불 화(火), 용 룡(竜)]",
+        "type": "비룡종",
+        "speices": "아종",
+        "series": "MHG, MHP, MH2, MHP2, MHP2G, MH3G, MH4, MH4G, MHW, MHWI"
+      },
+      {
+        "id": 37,
+        "imgurl": "https://i.namu.wiki/i/VVZXIS6oI_DC096C8xk5QfFX2eFhKRrQK4ydMQ4KZ5ZVya37DPHtzt7hhTfTTUdOTqUJbhKrV6KV5g0tirmFKUUQDx77oNVjiCpG6vQpSdvTklQMVIxe1cFWBjbWR904RXDnjUy_V-eG9wlDpIPnRQ.webp",
+        "name": "리오레이아 희소종",
+        "nickname": "금화룡[金火竜: 금 금(金), 불 화(火), 용 룡(竜)]",
+        "type": "비룡종",
+        "speices": "희소종",
+        "series": "MHG, MHP, MH2, MHP2, MHP2G, MHP3, MH3G, MH4, MH4G, MHX, MHXX, MHWI, MHRSB"
+      },
+      {
+        "id": 38,
+        "imgurl": "https://i.namu.wiki/i/BZWF33pyOWdtD_3WsiUsAHIbyZc1fH6G-RnE1OSg_K7tco_0KOoZpK-82x5sAThasUJ1ZdrigcdHoXtdbTZnalbr7CPcoQfbFq_j973HSDre_PjI7OKUhIDZLaUyGUm7ljV3id5vB0rsb4Bxm0whRA.webp",
+        "name": "자독희 리오레이아",
+        "nickname": "자독희[紫毒姫: 자줏빛 자(紫), 독 독(毒), 여자 희(姫)]",
+        "type": "비룡종",
+        "speices": "이명 특수개체",
+        "series": "MHX, MHXX"
+      },
+      {
+        "id": 39,
+        "imgurl": "https://i.namu.wiki/i/hc8cZCkguU0iYlGq0mnKlymAl7lupxx401eecokoVSbLUIm5OfAfMTnYriaWKf9QTUWOY16mG-4g7hRQpjirCE8qEHdWpH2sKBawtaPfMjBJOqOJYtoHwztzUThSpO0KJnfwUYQu9P9rbz29PyO6Sg.webp",
+        "name": "주인 리오레이아",
+        "nickname": "자화룡[雌火竜: 불 화(火), 암컷 자(雌), 용 룡(竜)]",
+        "type": "비룡종",
+        "speices": "주인",
+        "series": "MHRise"
+      },
+      {
+        "id": 40,
+        "imgurl": "https://i.namu.wiki/i/DlCK2ZwNWSGlyIzy92SgHw_ec8RjIeBomYoQGm8ghwpRNsiqKNoueDcWfjxDDWslEWzx-R5_NBuq6RC8SLgAhxH0d2yoI0Uo-vcbGNq_qjbEVqp9kxQnyooE-QpYDv4VjUr-6vo4y3GfFIt7tSToYg.webp",
+        "name": "모노블로스",
+        "nickname": "일각룡[一角竜: 하나 일(一), 뿔 각(角), 용 룡(竜)]",
+        "type": "비룡종",
+        "speices": "원종",
+        "series": "MH, MHG, MHP, MH2, MHP2, MHP2G, MH4G"
+      },
+      {
+        "id": 41,
+        "imgurl": "https://i.namu.wiki/i/xLOgH2IiLZ4srr2wSqmclR2FqB0wS_EWYFzx-9bermgATQg2BI6HJ9_gcGfoSwkWa_DDYPGF36djFCLGS3BM7EyAJSqYTjSD2uKP8g5lTY4C2TisSrBqAQps4HZEP__BQxLK0bqw2niIbnz3PGeWig.webp",
+        "name": "모노블로스 아종",
+        "nickname": "백일각룡[白一角竜: 흰 백(一), 하나 일(一), 뿔 각(角), 용 룡(竜)]",
+        "type": "비룡종",
+        "speices": "아종",
+        "series": "MHG, MHP, MH2, MHP2, MHP2G, MH4G"
+      },
+      {
+        "id": 42,
+        "imgurl": "https://i.namu.wiki/i/pzg6ziXyrozFAmWRg-VjMuA-tPuGkU3UjnPz1xcoAppcSLSF7v9aJ9ENlCSTxO4t6zjoH2wvwhtPerKQj4TQucL0oMYIVpeJJ-6r3AMW3yTfT9mIp_340QM9a7ryYYpeHIAY3Mu8OBbfFvvLNnyGLw.webp",
+        "name": "바살모스",
+        "nickname": "암룡[岩竜: 바위 암(岩), 용 룡(竜)]",
+        "type": "비룡종",
+        "speices": "원종",
+        "series": "MH, MHG, MHP, MH2, MHP2, MHP2G, MH4, MH4G, MHXX, MHRise, MHRSB"
+      },
+      {
+        "id": 43,
+        "imgurl": "https://i.namu.wiki/i/O1-h7OPYGAJAFCxJ6DNRWxH-sSLFdb1OeAdHS-aNcCa5gfUWgzzYClZc-7oSAJeBaYPUynB6TraO5uVroWCaHfSNsRFw4VAKakzACsxkSuTZ6vC2PlSFx3yc7J1GwJLtLA-ioKWJenOjZweNk9v8hg.webp",
+        "name": "바살모스 아종",
+        "nickname": "도암룡[桃岩竜: 복숭아 도(桃), 바위 암(岩), 용 룡(竜)]",
+        "type": "비룡종",
+        "speices": "원종",
+        "series": "MH4, MH4G"
+      },
+      {
+        "id": 44,
+        "imgurl": "https://i.namu.wiki/i/yUdtgN-OBkLmbyygicy-3tD2vFGBFFmoW1B1VJNDBZmbn6d0XDMdynBD7z4pp8VjuCGnLdQ5GsiZB8VKuLuQUYdqwArOlPuhy1nRxqZhr7YM9xbKrbqgpNYpxojYSUTHXpOGQI36qHnXrt6a-Q4_WA.webp",
+        "name": "바젤기우스",
+        "nickname": "폭린룡[爆鱗竜: 불터질 폭(爆), 비늘 린(鱗), 용 룡(竜)]",
+        "type": "비룡종",
+        "speices": "원종",
+        "series": "MHW, MHWI, MHRise, MHRSB"
+      },
+      {
+        "id": 45,
+        "imgurl": "https://i.namu.wiki/i/uArFl-vbWbYRJeOPDTaDA-XUZ2XHEvu91hks4yFnrbung0I7DE_hTcYOR9uhF4Om_esgtFyYdoaU780jolJVXTqj9fx7PN4iy_O5zDghoCKdf7I6VKDMjihPVd9LbsBDjaFgtFdnp8SNDY0QEscTHw.webp",
+        "name": "홍련에 솟구치는 바젤기우스",
+        "nickname": "폭린룡[爆鱗竜: 불터질 폭(爆), 비늘 린(鱗), 용 룡(竜)]",
+        "type": "비룡종",
+        "speices": "특수 개체",
+        "series": "MHWI, MHRSB"
+      },
+      {
+        "id": 46,
+        "imgurl": "https://i.namu.wiki/i/AX7iYwe9XGXsRovSc937zjE_MMnoYgoLtqvKTIwjg60E3LVvwuN0I90U9_tIFGF1Oe3fqEddkK3FUb7KLWrU_hhs5MlObpedWsz4p4md06Ls0H25kyEQfCSSlDKDHyCvy3ONwm5W9m-xzNTnmHhbdA.webp",
+        "name": "벨리오로스",
+        "nickname": "빙아룡[氷牙竜: 얼음 빙(氷), 어금니 아(牙), 용 룡(竜)]",
+        "type": "비룡종",
+        "speices": "원종",
+        "series": "MH3, MHP3, MH3G, MHXX, MHWI, MHRise, MHRSB"
+      },
+      {
+        "id": 47,
+        "imgurl": "https://i.namu.wiki/i/-Dkq8LvM3ZCPjop_b3F6-6TsEg_yYIhluaF0tn7jBmThS6RKddgKr7tIc6v_6O5XE1s9a9WN-ldXlcaulOLvklQqeaD143Qz1KhJxuSXNWsJqzjPM2Aol8Cl_WAoYqcAfurUCSH3FSB1WZYuH_3mRQ.webp",
+        "name": "벨리오로스 아종",
+        "nickname": "풍아룡[風牙竜: 바람 풍(風), 어금니 아(牙), 용 룡(竜)]",
+        "type": "비룡종",
+        "speices": "아종",
+        "series": "MHP3, MH3G"
+      },
+      {
+        "id": 48,
+        "imgurl": "https://i.namu.wiki/i/To3N4Ab2EcaCGWHy0sEbm4yWGMZxjgbbDz7qCDTBTUNd0LNa42I2FqS2s7asQ7SxJH4w0n7JSDEC_buR1wH9AHUH8XdCURyYQj4CvUX_HMvCcPvjpHy4xw14Qq00VP3aJFx4haIgrdoSH7_42N7JYA.webp",
+        "name": "얼음 칼날을 찬 벨리오로스",
+        "nickname": "빙아룡[氷牙竜: 얼음 빙(氷), 어금니 아(牙), 용 룡(竜)]",
+        "type": "비룡종",
+        "speices": "특수 개체",
+        "series": "MHWI"
+      },
+      {
+        "id": 49,
+        "imgurl": "https://i.namu.wiki/i/vzDDHBe4Htm-7gbesryIfZBEseavT3vjT56hZEV76a8q2RVmHpzxLFdXRnmaP6mq5jDDhz3IjUfAbL24OFxO2lqWMiHm6zMlAWrEr3S82OU0xHo7OeCDvjBPDMON036wGcT3tYvrDZBeIymt_RVRNg.webp",
+        "name": "셀레기오스",
+        "nickname": "천인룡[千刃竜: 일천 천(千), 칼날 인(刃), 용 룡(竜)]",
+        "type": "비룡종",
+        "speices": "원종",
+        "series": "MH4G, MHX, MHXX, MHRSB"
+      },
+      {
+        "id": 50,
+        "imgurl": "https://i.namu.wiki/i/7nei4XSl3SiWAl1EcRWIrd1rKlgM00KY1BF20rhTX4XbAHvtibXmgJN8pSr0jc2E-9LGRlSqCeRiFmut8ULDKC7XHiIdNil85pC84f84463hBHccYHFPoOPtJQeWNeMsiLkfW0EpaDSBTwILNIcc6g.webp",
+        "name": "아캄토름",
+        "nickname": "패룡[覇竜: 으뜸 패(覇), 용 룡(轟)]",
+        "type": "비룡종",
+        "speices": "원종",
+        "series": "MHP2, MHP2G, MHP3, MH4, MH4G, MHX, MHXX"
+      },
+      {
+        "id": 51,
+        "imgurl": "https://i.namu.wiki/i/7905hEEbfZzEAWDZoph4bMVt3yRLc_vh1eHt5y5djh1oe8sK3Wlx_lBE2OlpXeODaksvU6S1bnUE_TIapkoCscNYNk4LafJb9Ijl1MG-f_GOs3Hu6P8FH7oKrmQmAg8wxRoPol-LYiy1nAX0_cpcdg.webp",
+        "name": "에스피나스",
+        "nickname": "극룡[棘茶竜: 가시 극(棘), 용 룡(竜)]",
+        "type": "비룡종",
+        "speices": "원종",
+        "series": "MHRSB"
+      },
+      {
+        "id": 52,
+        "imgurl": "https://i.namu.wiki/i/W9VCsko5INbauT52BepjwhHucna1CDEYxHHlV2WYBSBEjkYP5AXyhCX1uQfKGEeZk6eYyyuMU0YiIhIfiqvRGJkku666VLigfe1-BM_y6IzN6oNzi0pU6Hxn6bvH8dCyqCHfePK_GHbUfAWYxH0laA.webp",
+        "name": "에스피나스 아종",
+        "nickname": "극다룡[棘茶竜: 가시 극(棘), 차 다(茶), 용 룡(竜)]",
+        "type": "비룡종",
+        "speices": "아종",
+        "series": "MHRSB"
+      },
+      {
+        "id": 53,
+        "imgurl": "https://i.namu.wiki/i/dKF5NLMTiC5H5cFo_m2IoYTP6qEeHN2UPI6l9z8PHSknVBgOW1sdrVbj2w7sMv52BLIR87iq3UxUIm-E5dM-1UaIRQSEKOHd_ZB9EtB4BfijPwWibvAmRrpKkizkLXJ8k7dBrUUW2BsU1WZnARGvDQ.webp",
+        "name": "우캄루바스",
+        "nickname": "붕룡[崩竜: 무너질 붕(崩), 용 룡(竜)]",
+        "type": "비룡종",
+        "speices": "원종",
+        "series": "MHP2G, MHP3, MH4G, MHX, MHXX"
+      },
+      {
+        "id": 54,
+        "imgurl": "https://i.namu.wiki/i/zYeOl8gKsxc5S5MdGMikrt5jv8RUpxGATWyVRreEsaNLqJdaC-vJz7b8IZ878HXzpX0Sy3ww8LkDUAfX7dFQoq-I1kDR3Rrmf_xkksBSO3kstRMaoHFq8AO2vBsx0YNN_-qHzxrI4NkQSJqwQaJoIQ.webp",
+        "name": "티가렉스",
+        "nickname": "굉룡[轟竜: 울릴 굉(轟), 용 룡(轟)]",
+        "type": "비룡종",
+        "speices": "원종",
+        "series": "MHP2, MHP2G, MHP3, MH4, MH4G, MHX, MHXX, MHWI, MHR, MHRSB"
+      },
+      {
+        "id": 55,
+        "imgurl": "https://i.namu.wiki/i/PQt0gxpPkiBpk3Y-fwBqmS_Ge8MVRjC5frIY643H7w_ttnbPPXd2MEu2UHaHeqkt7AH66N2WT4RoYm4Ad-tk9YRDY_aYpsGsIICP6vEAkhNs2n0ur7_8FWWZ6HPxFTIqbjAlWhX7cvrj25rzhAmhpg.webp",
+        "name": "티가렉스 아종",
+        "nickname": "흑굉룡[黑轟竜: 검을 흑(黑), 울릴 굉(轟), 용 룡(竜)]",
+        "type": "비룡종",
+        "speices": "아종",
+        "series": "MHP3, MH4, MH4G, MHWI"
+      },
+      {
+        "id": 56,
+        "imgurl": "https://i.namu.wiki/i/9MwF5VUZM0Qmu16LAkDsCpK9MmGj81qt26Ag-VlUSEObzeZxoyqpzMnfSjy0KK_AmvlMZ-wQ-3lGrKO9l63CnIx-d9BTwYtUPvcGifhE_fqtCnI3vajrWvhstBzeKoatOPGDtZ1n8Qkm_LeUmGP87w.webp",
+        "name": "티가렉스 희소종",
+        "nickname": "대굉룡[大轟竜: 클 대(大), 울릴 굉(轟), 용 룡(竜)]",
+        "type": "비룡종",
+        "speices": "희소종",
+        "series": "MH4, MH4G"
+      },
+      {
+        "id": 57,
+        "imgurl": "https://i.namu.wiki/i/8SyljSEYgOdXT0CUxJ7FuMLkyCc5gsuFlSDN4YqeAAPlN66QAsUDj0VZk6meU8zH4RrJ0l4mgfLDsmO75h0uQVm596fUAvMWfYE2QFS0gbq_VYuST3ZIJeKLsSstqNYXeIbk9Hz-ya8PVCoeQ74fKA.webp",
+        "name": "황구조 티가렉스",
+        "nickname": "황구조[荒鉤爪: 거칠 황(荒), 갈고리 구(鉤), 손톱 조(爪)]",
+        "type": "비룡종",
+        "speices": "이명 특수개체",
+        "series": "MHX, MHXX"
+      },
+      {
+        "id": 58,
+        "imgurl": "https://i.namu.wiki/i/8QZAewDVvNtNkYQoTi6KPoNhFEmqYu5_GXBBNZJ2WNrDdiv9Z1-LsUY-LEtAOHxzyOlX1dCnChWJFkRmg3P8FFkewwvyaQ0EGfBMRD_sNs7zFkwLzlE_tmIYkW87jb-3qkwPO6_UiyxQDYXYU5ZOHA.webp",
+        "name": "파오우르무",
+        "nickname": "부공룡[浮空竜: 뜰 부(浮), 빌 공(空), 용 룡(竜)]",
+        "type": "비룡종",
+        "speices": "원종",
+        "series": "MHW, MHWI"
+      },
+      {
+        "id": 59,
+        "imgurl": "https://i.namu.wiki/i/sxCdsjMjKMSh5Mu7wUBzHK0Vh5uqHNF89VIQtm4L9bBYZjSXajyXFJk9hJORKc1o5vEBVYSnGy9lwEjUJkEW3IXD6lc1A2BE9_zxUeQ4OyUE-GHsx4TDk93m-z9xFx3bMOaSad4tJcs8u2x8YsE_Hw.webp",
+        "name": "파오우르무 아종",
+        "nickname": "부면룡[浮眠竜: 뜰 부(浮), 잘 면(眠), 용 룡(竜)]",
+        "type": "비룡종",
+        "speices": "아종",
+        "series": "MHWI"
+      },
+      {
+        "id": 60,
+        "imgurl": "https://i.namu.wiki/i/k1jNuotFZfdGKBvykpk3pV5Xr6CIK66y-0Sivp0L6qjy2sN4HWzZn1yyupqsTbp_ynW2VxXGT2Mhw9_78lyYQN8rQqmTezb02XOm3vIchEwZ4HP9Y1D9k7sMl1iNvMlGO-aB3qRCNkAptx5VScK-lg.webp",
+        "name": "푸루푸루",
+        "nickname": "기괴룡[奇怪竜: 기이할 기(奇), 괴이할 괴(怪), 용 룡(竜)]",
+        "type": "비룡종",
+        "speices": "원종",
+        "series": "MH, MHG, MHP, MH2, MHP2, MHP2G, MH4, MH4G, MHX, MHXX, MHRise, MHRSB"
+      },
+      {
+        "id": 61,
+        "imgurl": "https://i.namu.wiki/i/BhEOO8YLzAhoTob9Hp5jIEXnGpYayHdYH6uTmB_HX3VCIhmc5pXIXNffoHDV2SXX_OA4rNNvD54JP1wy904vf2r7SrrrlGCZEwFigUQvRFScNCmYb44EV8hoqPccWG3JzSsXgFavz9qtfFxvZU_DBg.webp",
+        "name": "푸루푸루 아종",
+        "nickname": "적괴룡[赤怪竜: 붉을 적(赤), 괴이할 괴(怪), 용 룡(竜)] / 염괴룡",
+        "type": "비룡종",
+        "speices": "아종",
+        "series": "MHG, MHP, MH2, MHP2, MHP2G, MH4, MH4G"
+      },
+      {
+        "id": 62,
+        "imgurl": "https://i.namu.wiki/i/Qm9d5GyhGZ2kot0BVj0EVj8CbVlniv8sbKAcbZGVHtFYSABJ0jIyKJOiBJ7Mm2pm1lfdLjL4w_j5cX_s83shIXhXqsE70FEi8CSwzpjJL7VW8kPRek9UWLu0wiL4fJJZ6KNm3j28bH43UqDrQSjD_Q.webp",
+        "name": "가라라아자라",
+        "nickname": "교사룡[絞蛇竜: 목맬 교(絞), 뱀 사(蛇), 용 룡(竜)]",
+        "type": "사룡종",
+        "speices": "원종",
+        "series": "MH4, MH4G, MHX, MHXX"
+      },
+      {
+        "id": 63,
+        "imgurl": "https://i.namu.wiki/i/Mu5AMbUWoQA37ZmfCkK4ofZBmZ363UnhnZZ3kIBlzWdyOoCptwHk3vZ8BnSmw2uGQihLqsl2rc4L-4IIXuO9WnTqJkYbS_JriW81N8PkIVi4Sy92xZ733H1DPT-KCG5zXuf1Z6RgjvqPsCDiLDBHvA.webp",
+        "name": "가라라아자라 아종",
+        "nickname": "수사룡[絞蛇竜: 물 수(水), 뱀 사(蛇), 용 룡(竜)]",
+        "type": "사룡종",
+        "speices": "아종",
+        "series": "MH4G"
+      },
+      {
+        "id": 64,
+        "imgurl": "https://i.namu.wiki/i/Vt2pkQcVd-ycBA9VPktQ8R4SQJq_rx1CfIiZm7_yOqua9SV9omUilPr35sCL1FEZ9wcZ35qAdeFiYREtBAttWgtkAKRcEVnw__9mF7_ATq3q_XvjA0s77RFV6gglE4ppywwp8V-scfCViiqguLK3TA.webp",
+        "name": "도볼베르크",
+        "nickname": "미추룡[尾槌竜: 꼬리 미(尾), 망치 추(槌), 용 룡(竜)]",
+        "type": "수룡종",
+        "speices": "원종",
+        "series": "MHP3, MH3G, MHX, MHXX"
+      },
+      {
+        "id": 65,
+        "imgurl": "https://i.namu.wiki/i/9zrfsMV1upwpZ0PjnsMV7S8iFIfrjBsQpkw81XFtCqrSKBlWpP5yDsT3_C-RJ9MiQL39UWNWclbtT_Crl9daKboCLemGSXPUeW0p5V9TWQRByfN1_FDWtvNbb4QvUZJWnv-tppIj3NvxHZHwSFcr5w.webp",
+        "name": "도볼베르크 아종",
+        "nickname": "미부룡[尾斧竜: 꼬리 미(尾), 도끼 부(斧), 용 룡(竜)]",
+        "type": "수룡종",
+        "speices": "아종",
+        "series": "MH3G"
+      },
+      {
+        "id": 66,
+        "imgurl": "https://i.namu.wiki/i/8y2kPBCUr8f6XGmAGQglc_zVZkSDYLLU7EICNU_jdwk14vREM0J5Vjoa4_ODZ1Hv6TekQbSc6AUoH3N3k7p2NUhU5Lz20DFq8_cOfDF_2XsQOQdrnkgiiNyxB2w-IjSHPq1ilRqvsJWIo9Ey07WAxg.webp",
+        "name": "디노발드",
+        "nickname": "참룡[斬竜: 벨 참(斬), 용 룡(竜)]",
+        "type": "수룡종",
+        "speices": "원종",
+        "series": "MHX, MHXX, MHWI"
+      },
+      {
+        "id": 67,
+        "imgurl": "https://i.namu.wiki/i/__4WmYIK3pmkc_k0zECDS_6kYb71FDPDZOGaT_YyGt5UH4J6UxCeTkISDwcSltFkWIzKNJ-omNb_snek-zjSnF7lvSKWnsO2QVy1k5blms6Qf8wPjFov-grr57sUIfm7paVC6G2jzllyYRBga91t6Q.webp",
+        "name": "디노발드 아종",
+        "nickname": "류참룡[硫斬竜: 유황 류(硫), 벨 참(斬), 용 룡(竜)]",
+        "type": "수룡종",
+        "speices": "아종",
+        "series": "MHWI"
+      },
+      {
+        "id": 68,
+        "imgurl": "https://i.namu.wiki/i/V0KhBiAZgZPQkHCR954hthso46WYpUShfi16l0abd9TueQiWni3BfgLxAmkhblfYkJsinG0XbzGyzYFLWlN-Zls7niRASCYkpR3TYVJ3oF5FmN9ow5L3tS6bEgkDe5fDEuhLNIV_v3d7k1U4tDLVdA.webp",
+        "name": "신멸인 디노발드",
+        "nickname": "신멸인[燼滅刃: 불탄 끝 신(燼), 멸할 멸(滅), 칼날 인(刃)]",
+        "type": "수룡종",
+        "speices": "이명 특수개체",
+        "series": "MHX, MHXX"
+      },
+      {
+        "id": 69,
+        "imgurl": "https://i.namu.wiki/i/I0_CNHVuABpEWgIWogpFO1lHJv-RVM4YrUBFLPSheI_R2rHRrMiXIRKMCIttzFx3G5FwNEK-YD2uiEVAZPQhrjNJkNlrITJnzkVBsJ6aWAxr2dCudNXhp4sk4yK7Eg8jEvSk8tgOLZRTtzu-UZYR1A.webp",
+        "name": "라도발킨",
+        "nickname": "골추룡[骨鎚竜: 뼈 골(骨), 쇠망치 추(鎚), 용 룡(竜)]",
+        "type": "수룡종",
+        "speices": "원종",
+        "series": "MHW, MHWI"
+      },
+      {
+        "id": 70,
+        "imgurl": "https://i.namu.wiki/i/PSXInhKsLLboCzy1cms8ItZwJwhp5cWlCcKzoIgbYx-ubB6m3BPl1NuwqkAia-1Jh1mPl62V4IBtpwQC80KBxjyQEZt1_AYGQyhJpnvJx8Z7EBvUyJIgvKO9OuqrDyFhufQTfEnFqqecZtz3zopovg.webp",
+        "name": "버프바로",
+        "nickname": "맹우룡[猛牛竜: 사나울 맹(猛), 소 우(牛), 용 룡(竜)]",
+        "type": "수룡종",
+        "speices": "원종",
+        "series": "MHWI"
+      },
+      {
+        "id": 71,
+        "imgurl": "https://i.namu.wiki/i/hTmfuD4_Jhw019VdyaGVa2B707QlcV1n_dlrb8RfZkYnaHEa0Ckr7woAvt3hBSGEMmlL1kBt5IUr_g5nRXbwS91LxoQZqnYsFh5uHs2OYnENnAg3EfWWKLqLN2KG-8E-JFtDMZl1emX3mtm76PW6lQ.webp",
+        "name": "볼보로스",
+        "nickname": "토사룡[土沙竜: 흙 토(土), 모래 사(沙), 용 룡(竜)]",
+        "type": "수룡종",
+        "speices": "원종",
+        "series": "MH3, MHP3, MH3G, MHXX, MHW, MHWI, MHRise, MHRSB"
+      },
+      {
+        "id": 72,
+        "imgurl": "https://i.namu.wiki/i/TaabwkFGGyJuNJUGPHWTOpakSgFMcCIC819Lo9fLsPQsSh2wn-rQ9pkva7QS4Egyn2oW0xYoAEOKeD4IJrJk4mpg3ttcdAvnisfI_BuUDFyyst9ALtFe6C07dfvEItjiM1JBumkqjtuHbm3lr_FdIw.webp",
+        "name": "볼보로스 아종",
+        "nickname": "빙쇄룡[氷砕竜: 얼음 빙(氷), 부술 쇄(砕), 용 룡(竜)]",
+        "type": "수룡종",
+        "speices": "아종",
+        "series": "MHP3, MH3G"
+      },
+      {
+        "id": 73,
+        "imgurl": "https://i.namu.wiki/i/tY5FTc6s8Dh2j0l-gcHc1JtlMQRlpjnB4wUGMiiZhn5XxZHULm_KqrZM2Ja0_3x4pqtmq6WNuhcC2u6yVU0yLUSyY0DB9ctenN70bUqvArEg_Op3PcUbm4GQArMSb4vqHshqEHa-y2-wMnD69kULmQ.webp",
+        "name": "브라키디오스",
+        "nickname": "쇄룡[砕竜: 부술 쇄(砕), 용 룡(竜)]",
+        "type": "수룡종",
+        "speices": "원종",
+        "series": "MH3G, MH4, MH4G, MHX, MHXX, MHWI"
+      },
+      {
+        "id": 74,
+        "imgurl": "https://i.namu.wiki/i/RQWj-ZpFRacLjf3-y7Z1FRys5p2YoPc-FosZ6Bq0HNWuiru85f5NKrIv5TcNsVstL7yzdq-yJLC5VKhn2_cNNziH-_DSqFmS7lC99127h-dfDqvc71XAGT7K46K53L7HPIMb-utkcpYHexGF_QETlg.webp",
+        "name": "사납게 터지는 브라키디오스",
+        "nickname": "쇄룡[砕竜: 부술 쇄(砕), 용 룡(竜)]",
+        "type": "수룡종",
+        "speices": "특수 개체",
+        "series": "MH4G, MHXX, MHWI"
+      },
+      {
+        "id": 75,
+        "imgurl": "https://i.namu.wiki/i/CdBsbi81FJrLrLtJI1ivfE31bJcmrkZq_ZqSRHqcYgy9HyNppO4khmr2PhZQrHWtVgAAvKfmwPSHcX0uRbFkdNHYCc0Ufxqy8frCaZnOIAAzAzk6RnrB4XiqtQ13p-_w1Ue7Qp9BEnpAl5KydS-BRg.webp",
+        "name": "안쟈나프",
+        "nickname": "만악룡[蛮顎竜: 오랑캐 만(蛮), 턱 악(顎), 용 룡(竜)]",
+        "type": "수룡종",
+        "speices": "원종",
+        "series": "MHW, MHWI, MHRise, MHRSB"
+      },
+      {
+        "id": 76,
+        "imgurl": "https://i.namu.wiki/i/LmxryBV-_jbU4WlEBfaDdJly042byDHBidp96cQLPEuYvlbkSpdIwIimCVeSTzug011dGp_i4VGJbcY5KlE-8rF9QNNSYT8teK7JC23j2gZ457QjxpLoZjYxNRwEMeCdHb44B9rXE2AHQ1aVwgHRbw.webp",
+        "name": "안쟈나프 아종",
+        "nickname": "뇌악룡[雷顎竜: 우레 뇌(雷), 턱 악(顎), 용 룡(竜)]",
+        "type": "수룡종",
+        "speices": "아종",
+        "series": "MHWI"
+      },
+      {
+        "id": 77,
+        "imgurl": "https://i.namu.wiki/i/Feu6tC9DCxCOd-8YdbPp4Af_FX7SIHvlae1w38iCioR-uKl-NyZXS0it_9H08DseZKSx8Eowbi2naW32CxHGJTmWxHUk-PGUtDPxdkZJVbpXEmSbd4OnFv7di_yx33_zF2JvG1R6F3f8U4KJNkEHEg.webp",
+        "name": "우라간킨",
+        "nickname": "폭추룡[爆鎚竜: 터질 폭(爆), 쇠망치 추(鎚), 용 룡(竜)]",
+        "type": "수룡종",
+        "speices": "원종",
+        "series": "MH3, MHP3, MH3G, MHX, MHXX, MHW, MHWI"
+      },
+      {
+        "id": 78,
+        "imgurl": "https://i.namu.wiki/i/vkWBIkx-KKADVCua0j5K1WQgNdCqqFZ204cxy9-5FBBUwxsCUYRQnK59qpcTzFj_i0qlVRGUPKD5R0474NuxwzdJcIgfVR_UYxVebNE2RQx-PLHRyGXVJI2gR9NSCrC1otlmBe_djn6BgsjxGJ6gsg.webp",
+        "name": "우라간킨 아종",
+        "nickname": "강추룡[鋼鎚竜: 강철 강(爆), 쇠망치 추(鎚), 용 룡(竜)]",
+        "type": "수룡종",
+        "speices": "아종",
+        "series": "MHP3, MH3G"
+      },
+      {
+        "id": 79,
+        "imgurl": "https://i.namu.wiki/i/1tZ9BbnmoCM1TAZD8soEKOfFzo_5ihmnLCENeOzsE1Ycq7DD-8BjqfSnj0Flw6RtfvsvCyworbxU1DfXT0iZXkEITWqB8AqnQKdGwAoQa_9z9rAQYZqrFcvo1GU5dFMu_F-PPwrQFiMPoAc2gMI8yQ.webp",
+        "name": "보전 우라간킨",
+        "nickname": "보전[宝纏: 보배 보(宝), 얽을 전(纏)]",
+        "type": "수룡종",
+        "speices": "이명 특수개체",
+        "series": "MHX, MHXX"
+      },
+      {
+        "id": 80,
+        "imgurl": "https://i.namu.wiki/i/z_9DRfEhPx88HryzOmw7WBemMw_O8KYEDb7R084XqSCjNdP3s5jt1B0a_JotHFmkZe3BopsJ49QRi44lP7ha_b8ug9b9qASFRXa1yRfqtbcwmlFQLIVQneS-RJmRNO9yjEOy-6RHJNdpAd1pYAG3bw.webp",
+        "name": "이블조",
+        "nickname": "공폭룡[恐暴竜: 두려울 공(恐), 사나울 폭(暴), 용 룡(竜)]",
+        "type": "수룡종",
+        "speices": "원종",
+        "series": "MH3, MHP3, MH3G, MH4, MH4G, MHX, MHXX, MHW, MHWI"
+      },
+      {
+        "id": 81,
+        "imgurl": "https://i.namu.wiki/i/YlNZoeZlKimSbbHMmP-Qdpk3e6_iHNyzQA6ipYlH33K_6eDsURzle7OjOT6cBvNG2TlCSawP9U5veGI8qRMErzY6j0qOmH6wDcWTIvAwGR300dl80b3nvG1MbzpWNH6VHTdrfJ_I4ipY1X1tmU1OVw.webp",
+        "name": "미친 이블조",
+        "nickname": "공폭룡[恐暴竜: 두려울 공(恐), 사나울 폭(暴), 용 룡(竜)]",
+        "type": "수룡종",
+        "speices": "특수 개체",
+        "series": "MH3G, MH4, MH4G, MHX, MHXX, MHWI"
+      },
+
+      {
+        "id": 82,
+        "imgurl": "https://i.namu.wiki/i/xYGNSDFopFiIFi5EBn3EeBl1EcHH-mHgg9TIJqYl8E3KCXIr8U2fJ4PP6GR0gL-vvTMkS7HfxUAU4Nt8jvVrVr44DqueTTpGYjN8robp66S4ef9YVnVPCPDLY0XP5l0fPeBpHGeRv2kt3pBy8XpnNQ.webp",
+        "name": "도도가마루",
+        "nickname": "암적룡[岩賊竜: 바위 암(岩), 도둑 적(賊), 용 룡(竜)]",
+        "type": "아룡종",
+        "speices": "원종",
+        "series": "MHW, MHWI"
+      },
+      {
+        "id": 83,
+        "imgurl": "https://i.namu.wiki/i/mSIMvdnmyQ3SdeZJzGCjtIj98MClaSoMMTnN2RBynDiLJbbjaXnjkY5Il4tllh2T0SZOyyAsIe0uFSooSqG47y4DBoQdF1mai-Az4S7v9O52Eie7X_RFZNZJ-dBvBEfoTBMP9m2uo8by31MMzZopmw.webp",
+        "name": "도스기르오스",
+        "nickname": "비적룡[痺賊竜: 저릴 비(痺), 도둑 적(賊), 용 룡(竜)]",
+        "type": "아룡종",
+        "speices": "원종",
+        "series": "MHW, MHWI"
+      },
+      {
+        "id": 84,
+        "imgurl": "https://i.namu.wiki/i/bdxP9dziS_etQRWjcmgJ0TQ8nZHZ7oVQnD0t5x-vOtOhxYpPttYd3eqZOBrfTpR9daIs1MKlJ_-JifeCBymkB_fwNPH1MRVvA9Rn7lqc8bdcYqQn3hfmS7dPszetf_BzW_q71BVdDzxn9UNZI0Efww.webp",
+        "name": "도스쟈그라스",
+        "nickname": "적룡[賊竜: 도둑 적(賊), 용 룡(竜)]",
+        "type": "아룡종",
+        "speices": "원종",
+        "series": "MHW, MHWI"
+      },
+      {
+        "id": 85,
+        "imgurl": "https://i.namu.wiki/i/iRawAKA_VeQl32OfODMgVF8ybGW_K48F37iLx_z8lIuYP77Bkf8I88DOLPaTKJ4pndy1BmzXWpLjIGYQESnFk0xTRBNMk9PTE4RRyL5Lm4uWeOek4XISoyXTIk3VFS3yjK9aFkBpUMzTvJYh3ZvaQQ.webp",
+        "name": "루나가론",
+        "nickname": "빙랑룡[氷狼竜: 얼음 빙(氷), 늑대 랑(狼), 용 룡(竜)]",
+        "type": "아룡종",
+        "speices": "원종",
+        "series": "MHRSB"
+      },
+      {
+        "id": 86,
+        "imgurl": "https://i.namu.wiki/i/wZjj8YJmIY18EU0AnewgWaNB-khP-foHc6FLgBwhjRGyoTC_hoh1M8a6ClU7DKngDlqFLoi_1sWSOTHXTbVzX7zr7a1nz4vkbI6MTo_Wtv5njPLaKrrUqi44ETjkMMreSZ7CqbNZC5VLXDPnp46G3g.webp",
+        "name": "마가이마가도",
+        "nickname": "원호룡[怨虎竜: 원한 원(怨), 범 호(虎), 용 룡(竜)]",
+        "type": "아룡종",
+        "speices": "원종",
+        "series": "MHRise, MHRSB"
+      },
+      {
+        "id": 87,
+        "imgurl": "https://i.namu.wiki/i/CUrDjtZW5bwc_VuLs4BAXgZ7z6mWp7NFte3_e0UBL2MPqOmw1Ng_Z-r6yHPfYdq5-qIVzfoq553Wq_YgEC-77fzYZ-2RH-D8zEI0ddGoACbI8w3sqdz-Y5SZRZZIJIfWN1VgY6xAXz5myB8Vd02cfg.webp",
+        "name": "원망 서린 마가이마가도",
+        "nickname": "원호룡[怨虎竜: 원한 원(怨), 범 호(虎), 용 룡(竜)]",
+        "type": "아룡종",
+        "speices": "특수 개체",
+        "series": "MHRSB"
+      },
+      {
+        "id": 88,
+        "imgurl": "https://i.namu.wiki/i/4oEyFMkmpnrrrZ5DWXyhXjDbl79owZt4CzHMRrxEFOLihfB0fFu4-JigiNPNpI-2DtpmddZglppZadxojQXLpRQTR-MNaBCDrf5DowRMbF_eGP9rJXZYzpHBe2F-1ZxaELeH99PfgNMh2iPJOKUBlw.webp",
+        "name": "오도가론",
+        "nickname": "참조룡[惨爪竜: 참혹할 참(惨), 손톱 조(爪), 용 룡(竜)]",
+        "type": "아룡종",
+        "speices": "원종",
+        "series": "MHW, MHWI"
+      },
+      {
+        "id": 89,
+        "imgurl": "https://i.namu.wiki/i/UceOrGk-fzdTaELBwRsV0dqx1990gFFCJu4xxOFMgGXolHaOXTjnPrsqKMMmVmVFWJlnw9cQ8Yyk1EM7IanJdR2o4gcxjotn03SsIqXZYMitH7CgOjzF1ScWZuqEL6hfGm235vF-m2Bkbrc_pzm4Ng.webp",
+        "name": "오도가론 아종",
+        "nickname": "흉조룡[兇爪竜: 흉악할 흉(兇), 손톱 조(爪), 용 룡(竜)]",
+        "type": "아룡종",
+        "speices": "아종",
+        "series": "MHWI"
+      },
+      {
+        "id": 90,
+        "imgurl": "https://i.namu.wiki/i/5ypP9gEqGMS3tp043bMxccov5oEjE_6foEd8huJ9Pu-sOGboj3q2z0Hb0-aXQ_vnWCWjaqg2a_TiCj2QQrEq_eUZchk8I2qw7I0wfDlC4d53bcLbzJjTj117ItWvJhUX3leKTj100Ob0aoP157noDA.webp",
+        "name": "진오우거",
+        "nickname": "뇌랑룡[雷狼竜: 우레 뇌(雷), 늑대 랑(狼), 용 룡(竜)]",
+        "type": "아룡종",
+        "speices": "원종",
+        "series": "MHP3, MH3G, MH4, MH4G, MHX, MHXX, MHWI, MHRise, MHRSB"
+      },
+      {
+        "id": 91,
+        "imgurl": "https://i.namu.wiki/i/yURVCayuCq_xE4sxK4ViLqNlK_xf9aHHbb3tAij8rMMlTxho3ijKS1szndrUAY9DVYkCyj8907qp4mJ9xGARyEbe1fQLVPui9u2hSixMvJXlnAfqts6_bQ82Fl4wX1Y0MEWeqRBJwXO19h1KYA74YQ.webp",
+        "name": "진오우거 아종",
+        "nickname": "옥랑룡[獄狼竜: 감옥 옥(獄), 늑대 랑(狼), 용 룡(竜)]",
+        "type": "아룡종",
+        "speices": "아종",
+        "series": "MH3G, MH4, MH4G, MHWI"
+      },
+      {
+        "id": 92,
+        "imgurl": "https://i.namu.wiki/i/phCOX-MRI-sZzhxnwX5BwBUhry6W6cZpzNvfCm0wziA75vF95sNkZQ0seOwL4spKg2TIXRZbp9izMkOyNkU4kqEyc-XszjfHoXnZfang_2A3Rgqc56QK8EXFsPq3YGXSaFqGRFcbAUZ4DTO9tP5jZA.webp",
+        "name": "금뢰공 진오우거",
+        "nickname": "금뢰공[金雷公: 금 금(金), 우레 뇌(雷), 공평할 공(公)]",
+        "type": "아룡종",
+        "speices": "이명 특수개체",
+        "series": "MHX, MHXX"
+      },
+      {
+        "id": 93,
+        "imgurl": "https://i.namu.wiki/i/kJnVFtn5yB0IqUBMvHPqmZJktXgf0aZA-ZS29HkmI_M9a4t-VmYU73Up-8IR6_4MqJJztMiS7UG8tDgv1XmJxeo297D6-CrYEYi1rbAbT20ODFyKwqGnNL1Tjf-5XvYizqd_zWqtf1aaosq4UkGa-w.webp",
+        "name": "주인 진오우거",
+        "nickname": "뇌랑룡[雷狼竜: 우레 뇌(雷), 늑대 랑(狼), 용 룡(竜)]",
+        "type": "아룡종",
+        "speices": "주인",
+        "series": "MHRise"
+      },
+      {
+        "id": 94,
+        "imgurl": "https://i.namu.wiki/i/cW713Jae6TH5QLmOBOZLMxynh38rNCjVLW8pqmP6Vn_D46WkLCqsc1X8VgUmdQEN3KMzylanwm3vwiCf95w6JzoQE4DH4ZvYofb8sULK43GgZ3QAm9Q77CpV2JVrPWiOnLK11Qby3o0t-mp503ho0w.webp",
+        "name": "토비카가치",
+        "nickname": "비뢰룡[飛雷竜: 날 비(飛), 우레 뢰(雷), 용 룡(竜)]",
+        "type": "아룡종",
+        "speices": "원종",
+        "series": "MHW, MHWI, MHRise, MHRSB"
+      },
+      {
+        "id": 95,
+        "imgurl": "https://i.namu.wiki/i/TPUSgw5yJIRGIgCYFBDKYw9CzTXLOSDTF2c0AxM5CLnaj4TANi_FgdKZIyvYt1IqYZJfF8oJzHsGiwrsp8cqLNnlu8yF-7aimZwl185eMnb8IIdstX6i4LeDOCZ7FAA7H4Qfvw7_YD1CaBbcmKmbRA.webp",
+        "name": "토비카가치 아종",
+        "nickname": "비독룡[飛毒竜: 날 비(飛), 독 독(毒), 용 룡(竜)]",
+        "type": "아룡종",
+        "speices": "아종",
+        "series": "MHWI"
+      },
+      {
+        "id": 96,
+        "imgurl": "https://i.namu.wiki/i/fI-g4msSbn_vfrfJ_piRBsDBTF2ZdhI3zBHX5vaWEBdmQ-9OzYkPA5woe1BWF0IlSvu4WmSUyykvDxgaIN20j0OvbPTs474lip4mPc2zlMT8DDjxclhDXNLJgNC9WuoL_88mMBx3WK0UjU53saeiIA.webp",
+        "name": "가란고르무",
+        "nickname": "강전수[剛纏獣: 굳셀 강(剛), 얽을 전(纏), 짐승 수(獣)]",
+        "type": "아수종",
+        "speices": "원종",
+        "series": "MHRSB"
+      },
+      {
+        "id": 97,
+        "imgurl": "https://i.namu.wiki/i/O6UExbA_q01aw6jvCbAF1jMXf7hdoxJmPK8WVT7AQv_sixXVsODcVAX-JhKlLW1hROu0zD_Vzsa5czTLm-deqt_D4QAmiWoty_8lw3mr70dOjQ5toiVIzG5gcj69TNoX4jR-TlgJoZhRnBz_ACqmcQ.webp",
+        "name": "가무토",
+        "nickname": "거수[巨獣: 클 거(巨), 짐승 수(獣)]",
+        "type": "아수종",
+        "speices": "원종",
+        "series": "MHX, MHXX"
+      },
+      {
+        "id": 98,
+        "imgurl": "https://i.namu.wiki/i/KjLaG6WsLRYQ_e23oOyYWXMYALeZWNiXYVvFvtPFnY2RYrfQs7yVtrTQ_plVq4GtkvqjZD4PwK86dmuZATBUXU6mfQr03aKLz7qHe8n8KOeeAnXT-yHYtsFGNLDU92doRIx9mXkS-skK8c-YO1EeXg.webp",
+        "name": "은령 가무토",
+        "nickname": "은령[銀嶺: 은 은(銀), 고개 령(嶺)]",
+        "type": "아수종",
+        "speices": "이명 특수개체",
+        "series": "MHXX"
+      },
+      {
+        "id": 99,
+        "imgurl": "https://i.namu.wiki/i/3ONLtHTpV6zeqdw2YJGHBL1NjIe0606HlypyznYGER0OH4YRE_VXaEkbzP7xFqbXkJeUjNrL-76zMc_miaJHls53_1UTwtljF8m0HKmHIWFKS7NDI9rETO4xh0FtsQEHpJj-bsvANz80UNhyfhNtoQ.webp",
+        "name": "고샤하기",
+        "nickname": "설귀수[雪鬼獣: 눈 설(雪), 귀신 귀(鬼), 짐승 수(獣)]",
+        "type": "아수종",
+        "speices": "원종",
+        "series": "MHRise, MHRSB"
+      },
+      {
+        "id": 100,
+        "imgurl": "https://i.namu.wiki/i/MXPINg95ECh92CvEBF11x1Y0FmcjLycNAK-ZKxRT4igBvYpIqhCdMWUb4jHcQcpxyk4DOx8-ezEXb6B9zUCHWTbqYiXsuaC4Q-wazc1G7wePvsHJXT56I-QRIcpdf9cgJ8nxzb0-toUZqE3wgJq5Gw.webp",
+        "name": "도도블랑고",
+        "nickname": "설사자[雪獅子: 눈 설(雪), 사자 사(獅), 아들 자(子)] / 눈사자",
+        "type": "아수종",
+        "speices": "원종",
+        "series": "MH2, MHP2, MHP2G, MHX, MHXX"
+      },
+      {
+        "id": 101,
+        "imgurl": "https://i.namu.wiki/i/1qbCeR4G7-dI4XBIo2LRszMmWTg1AodDYPej3M6S__PamN1rbhu6Gm5fBTdtXDfKRrt6x9uf_UsHN4jh0RmYVp-nf6QnsO3c9hLc5BjLRlS8Jpl3lbZ8ZxlEPmMYMtBwxLx0HoGr5M5pP5a24tfsuA.webp",
+        "name": "도도블랑고 아종",
+        "nickname": "사사자[砂獅子: 모래 사(砂), 사자 사(獅), 아들 자(子)]",
+        "type": "아수종",
+        "speices": "아종",
+        "series": "MHP2G"
+      },
+      {
+        "id": 102,
+        "imgurl": "https://i.namu.wiki/i/beZL8oOiXnkAHOArXSyy_CPIneL-8QgdIk1Gw_9NnOE4rmpl4iaomwmHWJxKK1vX5JbwXBucUMTksrcY-q7HPl8vULbOTPMKPLAgGTXBZAEW_PV8EwPDq2whiRruOjigojPGnU3WNEgTbWbihcF8nA.webp",
+        "name": "도스팽고",
+        "nickname": "대저[大猪: 클 대(大), 돼지 저(猪)]",
+        "type": "아수종",
+        "speices": "원종",
+        "series": "MH2, MHP2, MHP2G, MHP3, MHX, MHXX"
+      },
+      {
+        "id": 103,
+        "imgurl": "https://i.namu.wiki/i/dAtF1G5JVKCkHTu7o4wXnkOqlD8gwMzV3VJGv6299SNb36Q1s8_44Nm9XIkhQrW8DwZOs4Mh-13zlG6215swKwFpnxLBxkUnSksi_qjfyhp1rTSuwBj7diomDKRoM-Nnk9uxXEUA-Yipl1BDSggE3w.webp",
+        "name": "라잔",
+        "nickname": "금사자[金獅子: 금 금(金), 사자 사(獅), 아들 자(子)]",
+        "type": "아수종",
+        "speices": "원종",
+        "series": "MH2, MHP2, MHP2G, MH4, MH4G, MHX, MHXX, MHWI, MHR, MHRSB"
+      },
+      {
+        "id": 104,
+        "imgurl": "https://i.namu.wiki/i/pyKVf2QNdCvC55EfGjWlqqBaEWptpOnOAHwaN7MW9iJ-6XLltUX9EDZ_Czg_-oWES7E71wK447KSQTaG6nnZos89eOKtqvKTnRIg-0rwBPS_6YPMP9-RLYp3qOw6-KFPYTy35vPJ4XYeK_KDh_W9jQ.webp",
+        "name": "격앙 라잔",
+        "nickname": "금사자[金獅子: 금 금(金), 사자 사(獅), 아들 자(子)]",
+        "type": "아수종",
+        "speices": "특수 개체",
+        "series": "MHP2G, MH4, MH4G, MHX, MHXX, MHWI, MHRSB"
+      },
+      {
+        "id": 105,
+        "imgurl": "https://i.namu.wiki/i/cKES-0b47-NETbL2UhUWglIs_nYIhjsvbyRJMlMpbjmVR8IBQ8jKj6Lc7-OD4nHAoEl0pfL4Ds5rf1CAv62RCK2uwA6du0fLx34l_IKgd8hj2RYgKdca6xUEb2DegWI1usfDt48jiiz4XZ7nd67EaQ.webp",
+        "name": "랑그로토라",
+        "nickname": "적갑수[赤甲獣: 붉을 적(赤), 갑옷 갑(甲), 짐승 수(獣)]",
+        "type": "아수종",
+        "speices": "원종",
+        "series": "MHP3, MH3G, MHX, MHXX, MHRise, MHRSB"
+      },
+      {
+        "id": 106,
+        "imgurl": "https://i.namu.wiki/i/PZXIfV3GwAl6DuZ1u6lVUp9VhmeBWdoI45epLxMkx_SkQv1ik73jKZiWkqVqByc6yONzQNdo0HYiROs8TbkKdssjpUI2l-lDw8BRVk2ptFPIc8ykGRrFZJt-ZU3WDjyaJeoypjq4jGxkRVj2nHqYAg.webp",
+        "name": "바바콩가",
+        "nickname": "도모수[桃毛獣: 복숭아 도(桃), 털 모(毛), 짐승 수(獣)]",
+        "type": "아수종",
+        "speices": "원종",
+        "series": "MH2, MHP2, MHP2G, MH4, MH4G, MHXX"
+      },
+      {
+        "id": 107,
+        "imgurl": "https://i.namu.wiki/i/6icXxTVJOGypjWG4mPNuwKjPpcHjZd1h0D2N1IbBIcmAr2_dwN_z9Dy18NhOY7Wmr4Nv1_OpQPOo-EJXY2c9RZhFdaqKf1x9KsliVMcpwZ6gwFLN_vDLjIPmOppy0UOirrMygLKTqfpm4p8OddbqCA.webp",
+        "name": "바바콩가 아종",
+        "nickname": "녹모수[綠毛獸: 푸를 녹(綠), 털 모(毛), 짐승 수(獣)]",
+        "type": "아수종",
+        "speices": "아종",
+        "series": "MHP2G, MH4, MH4G"
+      },
+      {
+        "id": 108,
+        "imgurl": "https://i.namu.wiki/i/_RbN_-d9JuvFt1tRdrWGvONIQ3D6GlAObx9y9ynB0P6b8adECqToY1LspTpZGq1P6mb8zF5Jd1BsuZYHrZQfxpHTpsdn_yyAuHTSRMEQMvOYdOLpfb8p9MVM2YIZ5r2pVPATo3mAgnKbmci4r-N1rg.webp",
+        "name": "비슈텐고",
+        "nickname": "천구수[天狗獣: 하늘 천(天), 개 구(狗), 짐승 수(獣)]",
+        "type": "아수종",
+        "speices": "원종",
+        "series": "MHRise, MHRSB"
+      },
+      {
+        "id": 109,
+        "imgurl": "https://i.namu.wiki/i/trAWgVro03L-Mdwn5Kd6aypc9S4ryp0mxd9EJWI9fcE88LUhtOjobIAataCaHmdKurA5jz7aMzts3g70emc7bPYeMoHrY3MnEpWCv0rGVgXwcnPWVmhxwMvxKXhvzVngD8-2wzk9HtB7xpELJpC5vA.webp",
+        "name": "비슈텐고 아종",
+        "nickname": "비천구수[緋天狗獣: 비단 비(緋), 하늘 천(天), 개 구(狗), 짐승 수(獣)]",
+        "type": "아수종",
+        "speices": "아종",
+        "series": "MHRSB"
+      },
+      {
+        "id": 110,
+        "imgurl": "https://i.namu.wiki/i/8di8swe7HWhCqWMAMbktmg8_NO1PqF6ffkpcBgDZUK3eKxZnKBIjgKmVZkaeJF0J_8nb6Ad0nWMqHMYGQY0M9wrJERvkhGeieMbWK9BCcm4_xxYubSGP625vc4sNbFGOp1nsw2ay3iHrTw9j9kty5w.webp",
+        "name": "아오아시라",
+        "nickname": "청웅수[青熊獣: 푸를 청(青), 곰 웅(熊), 짐승 수(獣)]",
+        "type": "아수종",
+        "speices": "원종",
+        "series": "MHP3, MH3G, MHX, MHXX, MHR, MHRSB"
+      },
+      {
+        "id": 111,
+        "imgurl": "https://i.namu.wiki/i/hYSzooK21NszeExJOg33CdtOh-9ZQaVTqQPjE4KNqBBZwK_SlNexeBt95IevTrwNA1Qme1PaAshC689rtkEIrGxxegK2vNvY7MMAHiS4BOkhqp0I8kf98LaTwpKB_Ja6SkBxiCCx3qnNaN_8ibJsQA.webp",
+        "name": "홍두 아오아시라",
+        "nickname": "홍두[紅兜: 붉을 홍(紅), 투구 두(兜)]",
+        "type": "아수종",
+        "speices": "이명 특수개체",
+        "series": "MHX, MHXX"
+      },
+      {
+        "id": 112,
+        "imgurl": "https://i.namu.wiki/i/g58ZSUMZvZsYeQdLiDGKKrglI-uEkaIP2JTLNcxbhobiY0sQKhIcURkiPa3O9HCUoCSLDwnyrOGE9bJdUU76NAloZSicaNJmXpOpAo-8Bm39oP6Cexbw09f5Bi16bbdvG9duuX8HjTCoBds6tDWlAA.webp",
+        "name": "주인 아오아시라",
+        "nickname": "청웅수[青熊獣: 푸를 청(青), 곰 웅(熊), 용 룡(竜)]",
+        "type": "아수종",
+        "speices": "주인",
+        "series": "MHRise"
+      },
+      {
+        "id": 113,
+        "imgurl": "https://i.namu.wiki/i/Ww2Jx5TM7OQT-yDKOK4t_l0Mhrs_xJCEOUWHns5HMTnRl4ziwkvz6glITKCUAfEUXEnobVlXd9W9dP1WnXA5MXP7oO8A28NpznesK_3p9vfwglBtWJtymiyCsluJOXRli87D130RKfmbGwfbGhBnjg.webp",
+        "name": "울크스스",
+        "nickname": "백토수[白兎獣: 흰 백(白), 토끼 토(兎), 짐승 수(獣)]",
+        "type": "아수종",
+        "speices": "이명 특수개체",
+        "series": "MHP3, MH3G, MH4, MH4G, MHX, MHXX, MHRise, MHRSB"
+      },
+      {
+        "id": 114,
+        "imgurl": "https://i.namu.wiki/i/LJMBjPNtqten-J9_GjXVKpAiU2-wqiIc1Gpz_ZpUnsQctKHmqwiqJCfWCZBFY1Y12O8OHlFxGyKQjxWEgUyFhMjW-ldgqQmSHRcIYGCNDL2NVlPTXXq4JYFb5rqDpsWR7WeM68vRLYCi6khkVZZsfg.webp",
+        "name": "대설주 울크스스 이명 특수개체",
+        "nickname": "대설주[大雪主: 클 대(大), 눈 설(雪), 주인 주(主)]",
+        "type": "아수종",
+        "speices": "이명 특수개체",
+        "series": "MHX, MHXX"
+      },
+      {
+        "id": 115,
+        "imgurl": "https://i.namu.wiki/i/BymMj5VXZ5Skd9UlCAVSKg4syTefHff-IJy24ubL8pgZ6oYyVX9dvqU1s2cArODu1gfCcCLN3s04srtx6jlc21UyrKl26I0rMlenn-znsk54n_PQtAtnUZ9gqywzDODJ751iJBwjKFY1-gu6WoG9tg.webp",
+        "name": "케차와차",
+        "nickname": "기원호[奇猿狐: 기이할 기(奇), 원숭이 원(猿), 여우 호(狐)]",
+        "type": "아수종",
+        "speices": "원종",
+        "series": "MH4, MH4G, MHX, MHXX"
+      },
+      {
+        "id": 116,
+        "imgurl": "https://i.namu.wiki/i/3ZSidc1sLsTVdcZvErYjQpL40L8z7lqoJ6AqbmAoH0BPV214RVcvqFaj__jFoKCZ40gIYN84Jgk3PIahQ9t_xri2vUdDgMMLh3KsAecOZodLc88_W2ypUYmHB4hPnZ8FjFpAs9b6eiKbYw478_MkxQ.webp",
+        "name": "케차와차 아종",
+        "nickname": "백원호[白猿狐: 흰 백(白), 원숭이 원(猿), 여우 호(狐)]",
+        "type": "아수종",
+        "speices": "아종",
+        "series": "MH4G"
+      },
+      {
+        "id": 117,
+        "imgurl": "https://i.namu.wiki/i/xuKJ9BR6gHT8hStTt734wfscC1kOHmFcF3xcZL7ml9SWfjV72Daug6EaaREcoTIMxWPf9MoRZVMKjRH2aF7b2S_bzMPeQ3ZynThLgPOBjCvvlGOjhdSRrf7anfCg5swwjcH0f3eFgnxxNIAM_d44jg.webp",
+        "name": "요츠미와두",
+        "nickname": "하동와[河童蛙: 강 하(河), 개구쟁이 동(童), 개구리 와(蛙)]",
+        "type": "양서종",
+        "speices": "원종",
+        "series": "MH4, MH4G, MHX, MHXX"
+      },
+      {
+        "id": 118,
+        "imgurl": "https://i.namu.wiki/i/FbowmB76PyqnNAZMY9S5fTc_ZwBcjb9FL8uES6bnhzQyZY2GUIOiFAF5j3zLLf_GlFl6kPur2BdfAhQeyT8dEvO0tak_D4PP43_KC9O5N7w1KrwEVGMSdHWjjAMmHCfKRv9xWet6_eq20NdVmH479w.webp",
+        "name": "자보아자길",
+        "nickname": "괴상어[化け鮫]",
+        "type": "양서종",
+        "speices": "원종",
+        "series": "MH4, MH4G, MHX, MHXX"
+      },
+      {
+        "id": 119,
+        "imgurl": "https://i.namu.wiki/i/W_EaMXiB-J3uK2Ib7--DmSl_d54lc1UxFa4ECPTBQKvjSDMBLs7QhWRH37QUf8X4cVvYoUi-Z5xA6SdC95PHkO11pN-8OTZxY--WQRFAj8RdeOJnTk78zxq9xcAWz3qF0M90Cbl6n3xp2k7dfUb5ng.webp",
+        "name": "자보아자길 아종",
+        "nickname": "호교[虎鮫: 범 호(虎), 상어 교(鮫)] / 호상어",
+        "type": "양서종",
+        "speices": "아종",
+        "series": "MH4G"
+      },
+      {
+        "id": 120,
+        "imgurl": "https://i.namu.wiki/i/mxPOoP21RJ3lQueEdftQLdCgcUj36Zvmpuaj6-2Eo8Mk9PhJdA6Ki20wfQiCLbaHfpYbBJqCsPp5DHVtzI1OFaD3fjIGPR2hRAaA8dPJZFnwOLsQLjISseo3rz9TJOTutDIkmns6pKooApYa_T2WUw.webp",
+        "name": "테츠카브라",
+        "nickname": "귀와[鬼蛙: 귀신 귀(鬼), 개구리 와(蛙)]",
+        "type": "양서종",
+        "speices": "원종",
+        "series": "MH4, MH4G, MHX, MHXX"
+      },
+      {
+        "id": 121,
+        "imgurl": "https://i.namu.wiki/i/eGcqIn9ZJUoXJNOhn_atxN0IPSv3rDbKmHJsFrqka6FqeYLR1JmrfI6o-VNLjnCVTp-W-C0JgNLediO1wSwbywAcuyCbwMW_drdkOekgIyanhdl6xOW4Qf18e8oWA8dWgVhLyOCQtee8eBaS4ZrWJA.webp",
+        "name": "테츠카브라 아종",
+        "nickname": "황귀와[荒鬼蛙: 거칠 황(荒), 귀신 귀(鬼), 개구리 와(蛙)]",
+        "type": "양서종",
+        "speices": "아종",
+        "series": "MH4G"
+      },
+      {
+        "id": 122,
+        "imgurl": "https://i.namu.wiki/i/35nO0gmlD0VM-ia66s84VrRJQr9ez-Yz53JwFBsaiZQQaf3w-W_U_k_N_VjTJ6spglHfxr_hmf3lbWXZR8pT41VAXp9Bf9yjvi7AMxTN4tlUFpHH78EoCyoOVPD8dugo9qaCzH0rZ29DD3E3kacOsA.webp",
+        "name": "암천 테츠카브라",
+        "nickname": "암천[岩穿: 바위 암(岩), 뚫을 천(穿)]",
+        "type": "양서종",
+        "speices": "이명 특수개체",
+        "series": "MHX, MHXX"
+      },
+      {
+        "id": 123,
+        "imgurl": "https://i.namu.wiki/i/PY9-b2SGbeTvn8Bape9wOuOb-ToghZN3aahMPDc3fJo-3dy8IqfuiUFfN42cfXS68t85CKmcUgXVd0xK5O9leirVj3_alZa7lBCrrIcnyd26IdUbO_TpM15Fgr62md5ZttI1AwZkqeOcESLrPiEstA.webp",
+        "name": "가노토토스",
+        "nickname": "수룡[水竜: 물 수(水), 용 룡(竜)]",
+        "type": "어룡종",
+        "speices": "원종",
+        "series": "MH, MHG, MHP, MH2, MHP2, MHP2G, MH3G, MH4, MH4G, MHX, MHXX"
+      },
+      {
+        "id": 124,
+        "imgurl": "https://i.namu.wiki/i/xV64dBzxK6T-B5v5Ccu5o6KFiB1AQkyFr0nnYpFbpXonkvQsxDnqmdtAz3S1GzLrc3AkDY9NCj99VToS42IXK7XHEV5IygvJWdNnxGyLLo7eKMNkcPWDmEFlNa3JX5kba0_7TR_cE9d_4b1b85s84w.webp",
+        "name": "가노토토스 아종",
+        "nickname": "취수룡[翠水竜: 푸를 취(翠), 물 수(水), 용 룡(竜)]",
+        "type": "어룡종",
+        "speices": "아종",
+        "series": "MHG, MH2, MHP2, MHP2G, MH3G, MH4G"
+      },
+      {
+        "id": 125,
+        "imgurl": "https://i.namu.wiki/i/9YpQbU-DTRLlUkMz28AUjxxvrdxajVEGA1K32akdO0ziIX-YLH1fkl_kYX9s4Egs_RdMbUaqjL8b4UHKDlZw9JpI2I7hFBvKC1NJ8m3J_XasyzX6tsFRtcVaGkyPjFNe_gnXCEdPt8JXKKvSX2YfKQ.webp",
+        "name": "도스가레오스",
+        "nickname": "사룡[沙竜: 모래 사(沙), 용 룡(竜)] / 사토룡",
+        "type": "어룡종",
+        "speices": "원종",
+        "series": "MH, MHG, MHP, MH2, MHP2, MHP2G, MH4G, MHX, MHXX"
+      },
+      {
+        "id": 126,
+        "imgurl": "https://i.namu.wiki/i/OGw_-tPiH2JJ4zjElB2WhgkP98ob5CKwi4sqylKJK_dYlkh9-bBX5A6wXJqMGkC7Dz-pmnYG5iCvrjAgYPlIrsOUppKBoKtLVSC11setYvI4E9qw8SYD6MCkoR4OyFtVu-246OxsQQo4xGIU8RmXBw.webp",
+        "name": "볼가노스",
+        "nickname": "용암룡[溶岩竜: 녹을 용(溶), 바위 암(岩), 용 룡(竜)]",
+        "type": "어룡종",
+        "speices": "원종",
+        "series": "MHP2G, MHX, MHXX, MHW, MHWI"
+      },
+      {
+        "id": 127,
+        "imgurl": "https://i.namu.wiki/i/idvsKPclnk2AycPyHFx35hXo0YMA0OkkVzHYggZCTacpl6zUYUl8qDtPBtN4ctRanFncJH8T5p2_vpeknDm3_SInUzcxhS7jiwKS2TSzWJpdg3TUbgJtyWiHn6Xo6iZUqDPTLH2GrJlyHSa4XFrk6Q.webp",
+        "name": "브란토도스",
+        "nickname": "동어룡[凍魚竜: 얼 동(凍), 물고기 어(魚), 용 룡(竜)]",
+        "type": "어룡종",
+        "speices": "원종",
+        "series": "MHWI"
+      },
+      {
+        "id": 128,
+        "imgurl": "https://i.namu.wiki/i/O896nNuHhQTETO0J2LQz-pCkLSzylCx2JLsvW8_XujY5THr1q3SiI0mrE7kPKnH4CVPF25V3JUGZtWqualSqB7kuRRVHDozsnk2R8NxijXqBjs12OE3colaK8ahZohlffVyzBLAiaJs5KqFvr0EU4g.webp",
+        "name": "쥬라토도스",
+        "nickname": "이어룡[泥魚竜: 진흙 이(泥), 물고기 어(魚), 용 룡(竜)]",
+        "type": "어룡종",
+        "speices": "원종",
+        "series": "MHW, MHWI, MHRise, MHRSB"
+      },
+      {
+        "id": 129,
+        "imgurl": "https://i.namu.wiki/i/Wtq_CKG1CMXSNbbwH-gA42kG23dKv8pUxe9djW_N1RjUWhqIT-QVgKPYVKd4213b0NH-5Mjb1GW2-qaXTNOoVJaup3eCHSqV-VZKnE9cbXNzfdwI-EZTpfz7iiEH499IxDASJQU0MBRSSDPVATkmaA.webp",
+        "name": "게리오스",
+        "nickname": "독괴조[毒怪鳥: 독 독(毒), 괴이할 괴(怪), 새 조(鳥)]",
+        "type": "조룡종",
+        "speices": "원종",
+        "series": "MH, MHG, MHP, MH2, MHP2, MHP2G, MH4, MH4G, MHX, MHXX"
+      },
+      {
+        "id": 130,
+        "imgurl": "https://i.namu.wiki/i/L7mJcnhZb6lQqZA2nS6KoGIfi0RPWgQDh9d74KNJ_CSdgIF_tdepXx1ItipS8jgZPaPrMyQHHoD43aVVWFuowhkVirLYJeL6ci7KLOmGRTHMeaOojx4gd63tTvnZurzD0pnR15K0QP1lv_fgmAbrmg.webp",
+        "name": "게리오스 아종",
+        "nickname": "자독조[紫毒鳥: 자줏빛 자(紫), 독 독(毒), 새 조(鳥)]",
+        "type": "조룡종",
+        "speices": "아종",
+        "series": "MHG, MHP, MH2, MHP2, MHP2G, MH4, MH4G"
+      },
+      {
+        "id": 131,
+        "imgurl": "https://i.namu.wiki/i/8RSyNtAwODeZhiGU38G9EM-9I6Gh5Wa42P0JmvsJuqsYuK9QhsShO5SC9DQQmE9zleLdzBBx2Wq4S8qeWs1QCxYyvZ3ypI4E5MI49f0EWA5g7ieFUL1ZWTABNzYGWQGa6PKzGq2AQbMJSV8XspZ-sA.webp",
+        "name": "도스게네포스",
+        "nickname": "없음",
+        "type": "조룡종",
+        "speices": "원종",
+        "series": "MH, MHG, MHP, MH2, MHP2, MHP2G, MH4, MH4G, MHX, MHXX"
+      },
+      {
+        "id": 132,
+        "imgurl": "https://i.namu.wiki/i/R1ntC1FQuhZhh_5k22xgYLWiT8xb9x58k3QMc5IOIVKrEtmORdvVTlhhqqL5uIGE2UQat4VC2-GPhPK4wE_qTqbCg_32GbvoIK5nd4sr9T7ke6hxuf4-WEoh44zyH9Ymq2OQ8o4E2hXi5JYai_0MEQ.webp",
+        "name": "도스기아노스",
+        "nickname": "없음",
+        "type": "조룡종",
+        "speices": "원종",
+        "series": "MHP2, MHP2G, MHXX"
+      },
+      {
+        "id": 133,
+        "imgurl": "https://i.namu.wiki/i/3aBhsUtaA8fCj4yZefMDNnwM8eLkLgWyQsSUaCGgWUGtteZgniVrKvmrGIM7TQRsVVKi9rdZRAF6RXWV0DQ_mqsXiAdWH7LoMlZ2lyoCrznFpf3p_soMEpPmW5ofLqbiuV7PI3vcHnuw__1X90Fx4w.webp",
+        "name": "도스람포스",
+        "nickname": "없음",
+        "type": "조룡종",
+        "speices": "원종",
+        "series": "MH, MHG, MHP, MH2, MHP2, MHP2G, MH4, MH4G, MHX, MHXX"
+      },
+      {
+        "id": 134,
+        "imgurl": "https://i.namu.wiki/i/irgNRyYWhkh7Dq4aqIsGvKsrp3oqPLhonEaLW0nAZ_TV31i9bjcLUniRLbZc8bfm6z7zcGQLS63xtSH4lEEyOnUxp-atsrQklz-ivGsvuYnQ9cN0l-3ijU9QmQJYm484yBaD43--diABnGXg5D1OoA.webp",
+        "name": "도스마카오",
+        "nickname": "도구룡[跳狗竜: 뛸 도(跳), 개 구(狗), 용 룡(竜)]",
+        "type": "조룡종",
+        "speices": "원종",
+        "series": "MHX, MHXX"
+      },
+      {
+        "id": 135,
+        "imgurl": "https://i.namu.wiki/i/RVfBSvAdOFry7c-7x6JwQDh8QHFeWheNYD_HaTALHw8xu3BMwKAGWjCWAghuXxVCgweOYOrnL4ztDLgUhKGZdC7_cfixHmycPwC6BBsn2XmfSixAdbnTcMWbYV_5ruuLpB1_UKLITmlHzdY-0aytAg.webp",
+        "name": "도스바기",
+        "nickname": "면구룡[眠狗竜: 잘 면(眠), 개 구(狗), 용 룡(竜)]",
+        "type": "조룡종",
+        "speices": "원종",
+        "series": "MH3, MHP3, MH3G, MHRise, MHRSB"
+      },
+      {
+        "id": 136,
+        "imgurl": "https://i.namu.wiki/i/1REU_G3b0WH2zIOjiBofU316RFzReJPzufBIQj6Qvj-xs5Rs4bjD3rcUIrY8N7D30vPIHHEwnTtYDU4XNqad2Qh2S30IV5Dn2IFD6AP9dujf8zI5zJbQ11EZH2wTY01-W0g--IkAiQDkwSIJri7Wyg.webp",
+        "name": "도스이오스",
+        "nickname": "없음",
+        "type": "조룡종",
+        "speices": "원종",
+        "series": "MH, MHG, MHP, MH2, MHP2, MHP2G, MH4, MH4G, MHX, MHXX"
+      },
+      {
+        "id": 137,
+        "imgurl": "https://i.namu.wiki/i/O8t3YCD1nwoF9H7sQXnWgOw_JmE2VT6shcpYdV97VcP0SdqKj1p4KbOGeEDzhAA9fzg3bUUt6o-TL1Qyu2LxfyyiymqJrzcvNmLvLnlWjuW29_cYLY7_SNtg_6DnWJEac6eWfRTQd8EMWm21S8PpCw.webp",
+        "name": "도스재기",
+        "nickname": "구룡[狗竜: 개 구(狗), 용 룡(竜)]",
+        "type": "조룡종",
+        "speices": "원종",
+        "series": "MH3, MHP3, MH3G, MH4, MH4G"
+      },
+      {
+        "id": 138,
+        "imgurl": "https://i.namu.wiki/i/Ndf0Y7BcosQIxxLhW87u1SCZNjuXF5PNXZ3LR5h-BXpJi8bLcxT6rKY6Fzw9Z49CltVml30MS-kaC5y1PkEB33eVFjH1wpXfadmFgQkXl3h3a3mLuUH8X0Uo7PjjaYc30nh0TlXSgBEnsm_GkevbfQ.webp",
+        "name": "도스프로기",
+        "nickname": "독구룡[毒狗竜: 독 독(毒), 개 구(狗), 용 룡(竜)]",
+        "type": "조룡종",
+        "speices": "원종",
+        "series": "MHP3, MH3G, MHRise, MHRSB"
+      },
+      {
+        "id": 139,
+        "imgurl": "https://i.namu.wiki/i/VlqVW19oHGsLZNrH-OvrlefZ8vS2ouaISVJrQlCE0nzWgyr-BPQp9pcN7mLoy6PQlt5duO8CVFQRwKlAydVK6k0rqSGesE2D6FSicPE7RSX64INXFwoGCJVzgAg-3llxP09AmAGiizlKknYHO-V9IQ.webp",
+        "name": "아케노시름",
+        "nickname": "산조[傘鳥: 우산 산(傘), 새 조(鳥)]",
+        "type": "조룡종",
+        "speices": "원종",
+        "series": "MHRise, MHRSB"
+      },
+      {
+        "id": 140,
+        "imgurl": "https://i.namu.wiki/i/iNMf3K62HyNksSGF19_xhqIKvfLq1d7sZ64yaZm5KgMVvT1Xxvn1tJ7ngYVfzeldaMd9I5pmdQhCryF5CRttDAovp_a3NhEn8ph3pXI54UrsA-WGLwWnYHyqUWG_U2PNVAz1JM4GqucfBnQW0JY5iw.webp",
+        "name": "얀가루루가",
+        "nickname": "흑랑조[黒狼鳥: 검을 흑(黒), 늑대 랑(狼), 새 조(鳥)]",
+        "type": "조룡종",
+        "speices": "원종",
+        "series": "MHP, MH2, MHP2, MHP2G, MH4, MH4G, MHX, MHXX, MHWI"
+      },
+      {
+        "id": 141,
+        "imgurl": "https://i.namu.wiki/i/2FERFnm4jwGx_WyC7-yzNclGWLGNiCItx8LPBKjTmFuYMn7fHQOaYjMRm-b02RRp9CJEuzbQNDZZJd9vLSOiv5NwkT7p5YfeWpEptANJqjlC8nRjR8rzHEeMp0C5uK4wR_v_Mf2wuGeoc_TXR5xYGA.webp",
+        "name": "상처 입은 얀가루루가",
+        "nickname": "흑랑조[黒狼鳥: 검을 흑(黒), 늑대 랑(狼), 새 조(鳥)]",
+        "type": "조룡종",
+        "speices": "특수 개체",
+        "series": "MHP2G, MHWI"
+      },
+      {
+        "id": 142,
+        "imgurl": "https://i.namu.wiki/i/Q7zEIKUto1cWhmt0NtLTNG_m0d3KaGmroD2oYx1OD3TXDJXbMLdRO2VIAaNqghgHxuRuVWQG7AlqZ4vgkeSlkXnWmdU67md8vuGSc-WXxwUxJCu7fBpuUc2VfBBtQewpvxDfE7vori_K_Vww2ZRt4g.webp",
+        "name": "척안 얀가루루가",
+        "nickname": "척안[隻眼: 외짝 척(隻), 눈 안(眼)]",
+        "type": "조룡종",
+        "speices": "이명 특수개체",
+        "series": "MHX, MHXX"
+      },
+      {
+        "id": 143,
+        "imgurl": "https://i.namu.wiki/i/wgk13WbuTWQz6ROZ3zMZRI_g61_-g_M5vQF7Wzv4HWJQ9rsKmgIB6mChDhiXJsNk12czb9rUyMTZxr6p_Q-AMgj06TDvUXGKBlRiSh_ecfzteFHm4-eXHOyC-WNjxiHZIndEPSnj3gUg4VWCY9WEUQ.webp",
+        "name": "얀쿡크",
+        "nickname": "괴조[怪鳥: 괴이할 괴(怪), 새 조(鳥)]",
+        "type": "조룡종",
+        "speices": "원종",
+        "series": "MH, MHG, MHP, MH2, MHP2, MHP2G, MH4, MH4G, MHX, MHXX"
+      },
+      {
+        "id": 144,
+        "imgurl": "https://i.namu.wiki/i/CoIwh0PKBv-KU10abrrsZ2glaCf81QM60f74Jw2dO923PQddPLslaCFFGcRyDOCo05hugKWeHAhrZcnUwgWSHoimXfjHyOT_-VXUaP8un1TsSRvEPjfXXJDXAk4xCmXcOygDJA84CeBWiEZ1_GoFmg.webp",
+        "name": "얀쿡크 아종",
+        "nickname": "청괴조[青怪鳥: 푸를 청(青), 괴이할 괴(怪), 새 조(鳥)]",
+        "type": "조룡종",
+        "speices": "아종",
+        "series": "MHG, MHP, MH2, MHP2, MHP2G, MH4, MH4G"
+      },
+      {
+        "id": 145,
+        "imgurl": "https://i.namu.wiki/i/Qqsra43v1vNh8wE0mc-pt6mjzJvO8xMh5l6a_o9bA2dnrOZKF51uYh7KrOSQSqPlGs3YV_wiX-4zJ2WpSPrgVVthTrR98ZuN_zoUH9XREzX4M4wec-V8FIsaBunorLKdFuAB124dPWxGu22E-uEf7g.webp",
+        "name": "오사이즈치",
+        "nickname": "겸유룡[鎌鼬竜: 낫 겸(鎌), 족제비 유(鼬), 용 룡(竜)]",
+        "type": "조룡종",
+        "speices": "원종",
+        "series": "MHRise, MHRSB"
+      },
+      {
+        "id": 146,
+        "imgurl": "https://i.namu.wiki/i/yAv8lawOiYt038LCxHcWTXqlj8GnOLpzHS8nhISYWdnvaPx_vbQFtjxixVLoZAOH6TNNj62DB2H4uf00qR0iEbraj1mdG-TTiV5Inp9lJUaOmKxbBIVUYDyCot2YUSPyhFpwsLfnsJy2gLvAxborWA.webp",
+        "name": "치치야크",
+        "nickname": "현조[眩鳥: 어지러울 현(眩), 새 조(鳥)]",
+        "type": "조룡종",
+        "speices": "원종",
+        "series": "MHW, MHWI"
+      },
+      {
+        "id": 147,
+        "imgurl": "https://i.namu.wiki/i/qXMeClgPp2RJNYCMJ5vrbwFImneFv8GZAzRkVftu5pUmCAfCa2j6wMiHli1IsGPj3o6cEN_IP50bCiy1G9Qc1dVn5NiflYOP-TdOG1K-pfAuiA8S51Bx3al_f7NYBeQ3G6KqwB0GY62ZNW7OscnV2g.webp",
+        "name": "쿠루루야크",
+        "nickname": "소조[掻鳥: 긁을 소(掻), 새 조(鳥)]",
+        "type": "조룡종",
+        "speices": "원종",
+        "series": "MHW, MHWI, MHRise, MHRSB"
+      },
+      {
+        "id": 148,
+        "imgurl": "https://i.namu.wiki/i/nYsr4Bvz8hiknKH81JYLFWxDw-ykCVVqnp0NRY5IVGsvSEM2wUohZrW1kAm8rATgSCPKEBo7-ICY31sinCY4RwQrly2UH1YcyY3ISkIA9CR3ooOKZeNu0t7arB7aC5C2gKP7PtRB1baVlpMQ-kil6g.webp",
+        "name": "쿠르페코",
+        "nickname": "채조[彩鳥: 채색 채(彩), 새 조(鳥)]",
+        "type": "조룡종",
+        "speices": "원종",
+        "series": "MH3, MHP3, MH3G"
+      },
+      {
+        "id": 149,
+        "imgurl": "https://i.namu.wiki/i/j1WsfcHPqVHssKQsxPyGK9n13jnPFtaWPKOh0mTlWoaIP-qe6-4FHyy2ZpmA25piICBHh4PWMw4Nwc02Fv7iBYIiC1G3nv8KpSB5QmOLa_WI5D8KNfm2zGoABobER7PRNM7GXkaDawET0eZP_l1JrA.webp",
+        "name": "쿠르페코 아종",
+        "nickname": "홍채조[紅彩鳥: 붉을 홍(紅), 채색 채(彩), 새 조(鳥)]",
+        "type": "조룡종",
+        "speices": "아종",
+        "series": "MHP3, MH3G"
+      },
+      {
+        "id": 150,
+        "imgurl": "https://i.namu.wiki/i/DqUpbCkJvtI3rifsrF-G72tHK__6TkMqyn-5ByMozL_cp-uzkhVElAHk2ZYZWE4Slgv6uvRVOQS24yzTWpFzWPRrpbAUFFk0Ye7VqfImYW4bgr4BfXL8RIz8LlxekJ1dC42M8z99xmp_fNJr39JkMA.webp",
+        "name": "푸케푸케",
+        "nickname": "독요조[毒妖鳥: 독 독(毒), 요사할 요(妖), 새 조(鳥)]",
+        "type": "조룡종",
+        "speices": "원종",
+        "series": "MHW, MHWI, MHRise, MHRSB"
+      },
+      {
+        "id": 151,
+        "imgurl": "https://i.namu.wiki/i/3BMz2G-ox6knvzmKzSvdRjI2gyx380VsfUTT1vx4EH0cRNqP1uT3jzeJJHy1dFMFpZsLpspBrpcL1LNVAgRNVroYcHTzC2TeKOPxpQf_-9yqEmujf_8bVQpAJK0mqbtm4aZGegaQsOOLrIyiAnu6IA.webp",
+        "name": "푸케푸케 아종",
+        "nickname": "수요조[水妖鳥: 물 수(水), 요사할 요(妖), 새 조(鳥)]",
+        "type": "조룡종",
+        "speices": "아종",
+        "series": "MHWI"
+      },
+      {
+        "id": 152,
+        "imgurl": "https://i.namu.wiki/i/CXcCyioQ0P7njLbjy251W6udKMgafdapamKQ5yqHqDKrbElIfkqG_EEU1w7vIImP3yVVGMfYl-LW8qFwCnab0Wv4ak1w48FamM_SWSZueTsRndh7eVrNJ7Ags4BHk-6OTfonq4VnbeFrgxrUfRgJPQ.webp",
+        "name": "호로로호루루",
+        "nickname": "야조[夜鳥: 밤 야(夜), 새 조(鳥)]",
+        "type": "조룡종",
+        "speices": "원종",
+        "series": "MHX, MHXX"
+      },
+      {
+        "id": 153,
+        "imgurl": "https://i.namu.wiki/i/2SwKS9wKBIDm1-vwbK3cYKfa2bCeWFoP0yCar-P-T8-v5Ir3ad3pnayQDIbvVsZH8QmCcpTlatvnvfRwRsBhp_r4ckNA2BUrUz8y_jKYi-s2Q5LuEGm_8o5iGjg-9jsJ1AFIqibMqw5PJH2Ps6qU0w.webp",
+        "name": "농은 호로로호루루",
+        "nickname": "농은[朧隠: 흐릿할 농(朧), 숨을 은(隠)]",
+        "type": "조룡종",
+        "speices": "이명 특수개체",
+        "series": "MHXX"
+      },
+      {
+        "id": 154,
+        "imgurl": "https://i.namu.wiki/i/Mk4eQ_VJzTN_1Shz8kMWw0zUeV8duAO53OAT5D9ezHzTZB0UVWErvi03zQ4yQ8M7j78tQVqTusomcuHBQKyRVsUrWUCeMtUh1f1RywDVUp6VuULjGhtwkpJz97fh9CrSI0QWOD1MQ99xYA_yMnuTzQ.webp",
+        "name": "히프노크",
+        "nickname": "면조[眠鳥:  잘 면(眠), 새 조(鳥)]",
+        "type": "조룡종",
+        "speices": "원종",
+        "series": "MHP2G"
+      },
+      {
+        "id": 155,
+        "imgurl": "https://i.namu.wiki/i/aOkAPFERiBIOTbdgRIo9fm_rfq-HnYYuiFSPRjGmMKgRzR9cTWdVn78dGIzTyASsSU1mTm63cYnR7yrQ6qzz1rXZkjWWN8ZGkUXnkulhhtACYT5_1FU6Rukaa-wBHJaT3H-6IX0uU4gMKyaOaIrOfQ.webp",
+        "name": "라기아크루스",
+        "nickname": "해룡[海竜: 바다 해(海), 용 룡(竜)]",
+        "type": "해룡종",
+        "speices": "원종",
+        "series": "MH3, MH3G, MHX, MHXX"
+      },
+      {
+        "id": 156,
+        "imgurl": "https://i.namu.wiki/i/zrecq071CMnmllgrifW1S0nYV0IOxnPQ_6dmDShyQcpL_U_dwTyiDm1pFxq3okE6HyhfbM0IUR_2lfMDckp3_5QQkaGoWIRoFDQ_p8YxfWbjWC-DrLkmk-nws9PgwW-O-1byqYVCIjNM-WlyEfbCHw.webp",
+        "name": "라기아크루스 아종",
+        "nickname": "백해룡[白海竜: 흰 백(白), 바다 해(海), 용 룡(竜)]",
+        "type": "해룡종",
+        "speices": "아종",
+        "series": "MH3G"
+      },
+      {
+        "id": 157,
+        "imgurl": "https://i.namu.wiki/i/bSLldowMVJk-pBIBMDNelOM4DCI0YvN2WZbFpSuS97RTWFA4T77o0Mmd_CdKRmzCwC9AyzkesGFbyRqeePKjS_o-6nKxb31xxCFkmF2m5fkasbTQ4PYyA6qRrGV3rIyL1oEyGmgGRB7eZMokBHJXjQ.webp",
+        "name": "라기아크루스 희소종",
+        "nickname": "명해룡[冥海竜: 어두울 명(冥), 바다 해(海), 용 룡(竜)]",
+        "type": "해룡종",
+        "speices": "희소종",
+        "series": "MH3G"
+      },
+      {
+        "id": 158,
+        "imgurl": "https://i.namu.wiki/i/EdUIE2zZs1wXbigR0FlTnMOskvvXw-bygpmbTaYVeCrLTHmr_HUhuIx11Hh9MEyK6eoCLZqwTezpKUdV74n2gno8c1nrTfyZTrhn1XQIFNfmf7jv9Jh7mxKJn4DuInq-2MfOqpct5F58WKSfS0_Q4A.webp",
+        "name": "로아루드로스",
+        "nickname": "수수[水獣: 물 수(水), 짐승 수(獣)] / 수괴수",
+        "type": "해룡종",
+        "speices": "원종",
+        "series": "MH3, MHP3, MH3G, MHX, MHXX, MHRise, MHRSB"
+      },
+      {
+        "id": 159,
+        "imgurl": "https://i.namu.wiki/i/H7Y-miSvELuxlf8DkEMfqKhAp7ZIznPluUUM6JUgLfgSvLYxAvc32gjbD5sWIb9fZON8CBGjwfKo_iJ41KYK0Xzlg2EWvRQ1yi-baq-i119_o7S-uUm_fUKO0tz65sR1B4bdhgsLwxUIo8QMaefSeg.webp",
+        "name": "로아루드로스 아종",
+        "nickname": "자수수[紫水獣: 자줏빛 자(紫), 물 수(水), 짐승 수(獣)] / 자수괴수",
+        "type": "해룡종",
+        "speices": "아종",
+        "series": "MH3, MHP3, MH3G, MHX, MHXX, MHRise, MHRSB"
+      },
+      {
+        "id": 160,
+        "imgurl": "https://i.namu.wiki/i/cOtKokBuKz1jCMMDg12fJaoHy-Qw8Qnew_gb8bkG7bC_V7xlFyrUd_yuq8SaoL5xqbk1YIBcpyX4wMc3cuLPU6bh09I7NnaBPJU5WsiXwDPuKaCjFNs3Q17Rtr3gmHCR5yzWZ9nXbX1WxC9XF_OozQ.webp",
+        "name": "아그나코트르",
+        "nickname": "염과룡([炎戈竜: 불꽃 염(炎), 창 과(戈), 용 룡(竜)]",
+        "type": "해룡종",
+        "speices": "원종",
+        "series": "MH3, MHP3, MH3G, MHX, MHXX"
+      },
+      {
+        "id": 161,
+        "imgurl": "https://i.namu.wiki/i/p4wspV02-eHbAX5qsBvkA40FmAJrZYljIWp4TtgjPK0SDP_y5_xN3Af950jkGaBdwjMh8cPo4apftcwaCsIsdc0ZMlNp46UID_Oa5c8oGDRQZDPUPohHqP6gHdCit3GkqhgO399HlJRK2xKNKyvWMQ.webp",
+        "name": "아그나코트르 아종",
+        "nickname": "동과룡[凍戈竜: 얼 동(凍), 창 과(戈), 용 룡(竜)]",
+        "type": "해룡종",
+        "speices": "아종",
+        "series": "MHP3, MH3G"
+      },
+      {
+        "id": 162,
+        "imgurl": "https://i.namu.wiki/i/m-QTr6lnF0K8fQUi3UIXdt22JqXgI1L8Nz62cEJA7aKY5AK5ErCoFjN0pQkWelshlLvswcEDRiF7dhaNIm9r8AWb2VKIRiayrSFuEoY07qybV5ku9dBGyaPkXtdgxZtB550HqmiWospmxvBnx87Tig.webp",
+        "name": "오로미도로",
+        "nickname": "이옹룡[泥翁竜: 진흙 이(泥), 늙은이 옹(翁), 용 룡(竜)]",
+        "type": "해룡종",
+        "speices": "원종",
+        "series": "MHRise, MHRSB"
+      },
+      {
+        "id": 163,
+        "imgurl": "https://i.namu.wiki/i/aI2qGdBz-OytaFrLgyFLMomSdHv1NA8ywhmUfkMl9H0oUGGO9OXVXpcuPenrqJaVml4P51B1DUUUTWtcxxUHAxZsQb9dH3Dy5N2ZXkhQ9UB5XjLY_RdOhLADgPbRP3grPBqXQoXrzXr6WXLI1rkwOA.webp",
+        "name": "오로미도로 아종",
+        "nickname": "용옹룡[溶翁竜: 녹을 용(溶), 늙은이 옹(翁), 용 룡(竜)]",
+        "type": "해룡종",
+        "speices": "아종",
+        "series": "MHRSB"
+      },
+      {
+        "id": 164,
+        "imgurl": "https://i.namu.wiki/i/7B6-WlJNvQsherVj6-A919-d6nTFPRXaGvIkuCCe-DXDsrMylMm6neApE0eEO6Dw-Ejw7TfHv0Uf-iX3yxlFYvOBo7pHjuzaDNvo676WcXPSzFxUV_-0de78hBL64b39OSN4YJNx0Gdh3hyKlVrOsQ.webp",
+        "name": "이소네미쿠니",
+        "nickname": "인어룡[人魚竜: 사람 인(人), 물고기 어(魚), 용 룡(竜)]",
+        "type": "해룡종",
+        "speices": "원종",
+        "series": "MHRise, MHRSB"
+      },
+      {
+        "id": 165,
+        "imgurl": "https://i.namu.wiki/i/fQWip_4-erVsluxG0ruhtZHh56bY5cnFXKrGevvI8T4yUMsuxpfB1f42Ayqqf2pzQTkM3fhnfj2KX4zVPtFcpudrRhkGQNQBRLjIGA3d_GD7dmkcFnnKhqM7LeMuetyHdEddUHZkU2900guhUDGRGw.webp",
+        "name": "이소네미쿠니 아종",
+        "nickname": "빙인어룡[氷人魚竜: 얼음 빙(氷), 사람 인(人), 물고기 어(魚), 용 룡(竜)]",
+        "type": "해룡종",
+        "speices": "아종",
+        "series": "MHRSB"
+      },
+      {
+        "id": 166,
+        "imgurl": "https://i.namu.wiki/i/la5mqBZGf7Z5KIO0QACFzmeMvCs_6S09dFq057fC7AW0x98SfSFzPU1o8Bwpk4vM9DLnFZeFGpGbmtzh7hgCOTRGBRnDabTc-qqZcDQnH3xzVsdIOt57tZFGd2_bipbu5YSlOVWd82s03FVUSrAN1w.webp",
+        "name": "차나가블",
+        "nickname": "등어룡[灯魚竜: 등 등(灯), 물고기 어(魚), 용 룡(竜)]",
+        "type": "해룡종",
+        "speices": "원종",
+        "series": "MH3, MH3G"
+      },
+      {
+        "id": 167,
+        "imgurl": "https://i.namu.wiki/i/cIVixrcJCWlwjfPmVWW4y2K9itI_CM_h0C-iX8tAnDVCEhnNuIRRZ5h2gy1qzf2R7NJ1WuWi2CcG_oLk8Tpxl-jFeyZ0kJqx4Q-91uNsF2ZwpPHBj3-hFS4i0U-fE-ijxyUsxTBnmgaS1C9in7Xc0Q.webp",
+        "name": "타마미츠네",
+        "nickname": "포호룡[泡狐竜: 거품 포(泡), 여우 호(狐), 용 룡(竜)]",
+        "type": "해룡종",
+        "speices": "원종",
+        "series": "MHX, MHXX, MHRise, MHRSB"
+      },
+      {
+        "id": 168,
+        "imgurl": "https://i.namu.wiki/i/6lDNgiyQ2nImi6dUrd9AUqWZWjvBoNUZXkqfztHLrSxIrmEtp0NGw9e-qpA6Q7gFyxuUtlNV8_q5uLSs3_LcQFpgOmnF-a8h1R3vTvY_bd1l4-KrVXCtLuEx6pRp7nDRO7yVnUtSh_-1HQgkfhc0GA.webp",
+        "name": "타마미츠네 희소종",
+        "nickname": "염호룡[焔狐竜: 불꽃 염(焔), 여우 호(狐), 용 룡(竜)]",
+        "type": "해룡종",
+        "speices": "희소종",
+        "series": "MHRSB"
+      },
+      {
+        "id": 169,
+        "imgurl": "https://i.namu.wiki/i/ttSe6L4mho4wwJuW6zhgZ6g_OQRQKOcZDz2pp9S2nDiJ9trKYnWlUYT7e43A1Dze6hjmteilqizwsBPFxw436tyP1eISAPkBsgpCczUytUJeHWNsR-vBx340SzoxyTHtXa_wBBBhiprXX-r9Ssq3sg.webp",
+        "name": "천안 타마미츠네",
+        "nickname": "천안[天眼: 하늘 천(天), 눈 안(眼)]",
+        "type": "해룡종",
+        "speices": "이명 특수개체",
+        "series": "MHXX"
+      },
+      {
+        "id": 170,
+        "imgurl": "https://i.namu.wiki/i/yYiBspTojmv95ShiovZFcjVaHflCBrjpj50jgYAQEnVhPCIrZrqMNUmeFgVqYvHPbfsrikI7kqxH7EGCEQcOvsstTJN1gc7iyCm9zr9o6Q-G1OdCRRLt34-IDHWRsGaJh_9SXw5fl0QV1WwgwtdnAw.webp",
+        "name": "주인 타마미츠네",
+        "nickname": "포호룡[泡狐竜: 거품 포(泡), 여우 호(狐), 용 룡(竜)]",
+        "type": "해룡종",
+        "speices": "주인",
+        "series": "MHRise"
+      },
+      {
+        "id": 171,
+        "imgurl": "https://i.namu.wiki/i/ekvVkOC7VaEcky-qpaw2WuGDR40MzVTRZUe7dpcOGQohbC6deEAx7Pqg_6C-JhozO0CEK3_3OOECOEMuzNGi_Cf_0ZlX62LEMxH-I9HysxZpo1DwKKWC0kXV2sec4gWFp5UIaBkX0PP_tw8A6XjOXg.webp",
+        "name": "하플보카",
+        "nickname": "잠구룡[潜口竜: 잠길 잠(潜), 입 구(口), 용 룡(竜)]",
+        "type": "해룡종",
+        "speices": "원종",
+        "series": "MHP3, MH3G, MHX, MHXX"
+      },
+      {
+        "id": 172,
+        "imgurl": "https://i.namu.wiki/i/JmRuXztECEXS6rh_4d563yXleEMMexhB82SOam1j3JX4ki5tVYsWfp6YNW4AUo8uhYta5pd1VxvGXLq0jAvPKLM4R2ej393Z1-qXMLxQTEmm36p4HUpCCIDOjJQ43NzN0x9-1YEvkdJq9uUcqeRE-Q.webp",
+        "name": "네르스큐라",
+        "nickname": "영지주[影蜘蛛: 그림자 영(影), 거미 지(蜘), 거미 주(蛛)]",
+        "type": "협각종",
+        "speices": "원종",
+        "series": "MH4, MH4G, MHXX"
+      },
+      {
+        "id": 173,
+        "imgurl": "https://i.namu.wiki/i/_UrV4eIjE5tWYkF221drmB-Tx7UtJR_HZYojxILnrOS-k08cT4qVsulOfpSQZJ4Mo9qnGqrB_rtpZc4sG3tNLuUlx3WZ3tkKvNw4vV0MUEd91JdUSk7blYPhl3Js3x6pmK2Yd33nql-iSWVBkgBtlw.webp",
+        "name": "네르스큐라 아종",
+        "nickname": "해지주[骸蜘蛛: 뼈 해(骸), 거미 지(蜘), 거미 주(蛛)]",
+        "type": "협각종",
+        "speices": "아종",
+        "series": "MH4G"
+      },
+      {
+        "id": 174,
+        "imgurl": "https://i.namu.wiki/i/yg-MUopbErESv2FENYx1E3DzEES-SUxYLfk2uSlNR8o2iZJgoFd4S45ZvWiADEfAHS4XsxY2PoDzZcq3fRkbTyEwq8PazG-OPBMMxKVky8Due73VnMh7XMyKzLlCKTsnBvqhGyqPhA-hwDdvbyY9vA.webp",
+        "name": "야츠카다키",
+        "nickname": "비지주[妃蜘蛛: 왕비 비(妃), 거미 지(蜘), 거미 주(蛛)]",
+        "type": "협각종",
+        "series": "MHRise, MHRSB"
+      },
+      {
+        "id": 175,
+        "imgurl": "https://i.namu.wiki/i/ROGeGfuQvMj8WeKfErKfxAQX1dNYqBMjv_E3L3I0Br0YUsExzMmdyM4a428RuU8fUkRNbZmxCDijlOXcKeWYJ0AI14xyLu3uD019UC8q19cVY3fdqxgNE_wc7VnOlf-d1YUhTnm1_CdLft8vh0yQ9A.webp",
+        "name": "야츠카다키 아종",
+        "nickname": "치비지주[熾妃蜘蛛: 성할 치(熾), 왕비 비(妃), 거미 지(蜘), 거미 주(蛛)]",
+        "type": "협각종",
+        "speices": "아종",
+        "series": "MHRSB"
+      },
+      {
+        "id": 176,
+        "imgurl": "https://i.namu.wiki/i/O4UWAeMqzcVMl3RwzLVl3WU8Xzq--qCRa9ke_j93gSN8hDntVt2K37LDjmHBM1xH9uM9VL6VxoFRAZ8bxk2spYWDrxKK3QpD2tbwZqkZzwQsm2llYmZxzwyPyeD3gQ_e-5sV4rGIBM3HNAxzuwUzrg.webp",
+        "name": "가이아델름",
+        "nickname": "명연룡[冥淵龍: 어두울 명(冥), 못 연(淵), 용 룡(龍)]",
+        "type": "고룡종",
+        "speices": "원종",
+        "series": "MHRSB"
+      },
+      {
+        "id": 177,
+        "imgurl": "https://i.namu.wiki/i/-ZqFt_KV0MVQkpNa_9DsgquxYssTfvXvuhl8MnRFdrMP1wc5Q3dC-SSREq4lsNNVaLveeuahULNwVhe1zY-eOCJ0ZLxFT9lnw7Rmu1-f7mFvfmFOoByxfWvC85hDpmIJN0LZyzAEtp-R7gDzWtuF3A.webp",
+        "name": "고그마지오스",
+        "nickname": "거극룡[巨戟龍: 클 거(巨), 창 극(戟), 용 룡(龍)]",
+        "type": "고룡종",
+        "series": "MH4G"
+      },
+      {
+        "id": 178,
+        "imgurl": "https://i.namu.wiki/i/6imgZFLp6iYfKOilaXVj1ZrDcHAtaIXdZqEP3FB-AVHKa9OGEh9EGRu7dBF2iwLxPCG7C7v0RDxXqB7LF0JmCTqdDNP9XBd9E6EUnr-zOh6WstYDP86YMrlwpKTW8tVRoImnRlI3XnLh_WcxN44x2w.webp",
+        "name": "그란 밀라오스",
+        "nickname": "연흑룡[煉黒龍: 달굴 련(煉), 검을 흑(黒), 용 룡(龍)]",
+        "type": "고룡종",
+        "speices": "원종",
+        "series": "MH3G"
+      },
+      {
+        "id": 179,
+        "imgurl": "https://i.namu.wiki/i/0IsL8wWeuJ-IZSZ1_7HP4SVbFOclGqEkxWXKVbssZ16GkUdXqFgZ8bxusEbJbqytJJaIyetw8FTyAsreX6wRIf3_lUBrRvlhEhJdar8swt23d5QfSMZKhJEyfmbX40sl9Un0fBN3w80qu_PPmgQD_w.webp",
+        "name": "나나-테스카토리",
+        "nickname": "염비룡[炎妃龍: 불꽃 염(炎), 왕비 비(妃), 용 룡(龍)]",
+        "type": "고룡종",
+        "speices": "원종",
+        "series": "MH2, MHP2, MHP2G, MHW, MHWI"
+      },
+      {
+        "id": 180,
+        "imgurl": "https://i.namu.wiki/i/sOhw7IhZ_X9ZFm0nNV5BzdNAyTG5cdiKwtujn3UzYARVC09_jBbOQwKQq6L861SwzESnD5ixXCD2gr2mcrBTqS-I8PZSZTujXLov1w0_Sp_WkP_yZXVRxbFrJAplWtBrkjaIS2IV-e1IwHU4kyOpDQ.webp",
+        "name": "나루하타타히메",
+        "nickname": "뇌신룡[雷神龍: 우레 뢰(雷), 신 신(神), 용 룡(龍)]",
+        "type": "고룡종",
+        "speices": "원종",
+        "series": "MHRise"
+      },
+      {
+        "id": 181,
+        "imgurl": "https://i.namu.wiki/i/butQQkpEY8U5OqQIn-wP8aoOGkXvHK_QluZITii10wyNkLkAhqFK8jwVKQgkWLbDQvnbn6aNYMD9-ePFJqwhNtB3-gm8DfFrLnIA38TE0Xi2ak55G7ciBnQ3DYu1zRjwcNAhjb2ERkscmxyrdNjC3A.webp",
+        "name": "백룡 연원 나루하타타히메",
+        "nickname": "뇌신룡[雷神龍: 우레 뢰(雷), 신 신(神), 용 룡(龍)]",
+        "type": "고룡종",
+        "speices": "특수 개체",
+        "series": "MHRise, MHRSB"
+      },
+      {
+        "id": 182,
+        "imgurl": "https://i.namu.wiki/i/zAiPiPFmxAbv44Ly0BLP3As2r-Dex8aLrHDhuZy4r67VIOT5zzQzOdpdYvAcFm5c9hsi1ll8Bzmj7CBg7ZEIAl6glzis-4jmlREIa_oVeC0NqAJyDsOYPEmiNwuEB3edURYME6wIAeR50MgtUdpCNQ.webp",
+        "name": "나발데우스",
+        "nickname": "대해룡[大海龍: 클 대(大), 바다 해(海), 용 룡(竜)]",
+        "type": "고룡종",
+        "speices": "원종",
+        "series": "MH3, MHP3, MH3G"
+      },
+      {
+        "id": 183,
+        "imgurl": "https://i.namu.wiki/i/Y3Yv09rqVL1QaQvLL1LUdAT3xmCA0APYfdh-J37yfGts4hC6uI9NV5kWelSBl8v7awckfOoafvJNZGd9y8zfNzbaS0MZPPq7wGnG2NdCUilOdaSZO2PrBPHx0nEsywE-0LpDKVM-nndgk0YGysVyrg.webp",
+        "name": "나발데우스 아종",
+        "nickname": "황해룡[皇海龍: 임금 황(皇), 바다 해(海), 용 룡(龍)]",
+        "type": "고룡종",
+        "speices": "아종",
+        "series": "MH3G"
+      },
+      {
+        "id": 184,
+        "imgurl": "https://i.namu.wiki/i/UkkKrl0Ec8-8Z_6UXpGrmZDpQqsAISY1PHmpwteUx0MsvYRCBWFXJqzAVmhcK0E69LQB5LBBrSKkZ8LXxj5UOkUVzoMxSX3RJfBIBWtY8ome5PQ4NISq8vhhTKQ1LEXENgf9hF893CFAIU0R11SIsw.webp",
+        "name": "네로미에르",
+        "nickname": "명룡[溟龍: 바다 명(溟), 용 룡(龍)]",
+        "type": "고룡종",
+        "speices": "원종",
+        "series": "MHWI"
+      },
+      {
+        "id": 185,
+        "imgurl": "https://i.namu.wiki/i/QGd0AA39PGj1EtJ-LYhCnYYqMqTTQ4yaquiBkh--j9_4JMCDYbsZTC7CbOtyqkc5zwo8vLVj5oKMcDbecwwc3bztTI8TjuOoBr3aNq2U_I3nZ-vWc2HRzJTRajC1K0dXQZQfgWkdm9RFdHPRbJUt3w.webp",
+        "name": "네르기간테",
+        "nickname": "멸진룡[滅尽龍: 멸할 멸(滅), 다할 진(尽), 용 룡(龍)]",
+        "type": "고룡종",
+        "speices": "원종",
+        "series": "MHW, MHWI"
+      },
+      {
+        "id": 186,
+        "imgurl": "https://i.namu.wiki/i/xuKfSC-NOo__g8Zwp8Z68gwKcQn9ZEFCwU2ojSPtjAvxGA9BISyt4Tybk5TJ2w9_jDFZxOXA5OI2Gacgr1Oowy8o9-_yQfyHPwX4IPBQzlj_IysNcDRmLPmcnulG2zhFyuf04BpMh85GRqxZMIlfaA.webp",
+        "name": "모두를 멸하는 네르기간테",
+        "nickname": "멸진룡[滅尽龍: 멸할 멸(滅), 다할 진(尽), 용 룡(龍)]",
+        "type": "고룡종",
+        "speices": "특수 개체",
+        "series": "MHWI"
+      },
+      {
+        "id": 187,
+        "imgurl": "https://i.namu.wiki/i/kw8Y2vSYjZXK_AEZJr60p0xDxTRTi4VblXJZXMssKARu0ZiJW0XuLytNXtarjb8S1h0c52LpXdbNXz02hu4OTXTI8yJK1T4Hf__CLv527WzJzE-iJIlezWZ2h5GLXUNVzB-LlpbU6luQRX38AdDxrw.webp",
+        "name": "다라 아마듈라",
+        "nickname": "사왕룡[蛇王龍: 뱀 사(蛇), 임금 왕(王), 용 룡(龍)]",
+        "type": "고룡종",
+        "speices": "원종",
+        "series": "MH4, MH4G"
+      },
+      {
+        "id": 188,
+        "imgurl": "https://i.namu.wiki/i/FxqzIscQqPEth7Ct93jN_s5-5pVZwJJJfsvw78sziI8NJW1lP31gKhMYGJwKK5vwYVvsuB0a6Abex2RqFDBn-QJ99euVmQyXTs2hb4xcT8bBq1rpF5njlXrwmIznH41NBI8KCsGIsmuy83BpjMO0ow.webp",
+        "name": "다라 아마듈라 아종",
+        "nickname": "사제룡[蛇帝龍: 뱀 사(蛇), 임금 제(帝), 용 룡(龍)] / 사황룡",
+        "type": "고룡종",
+        "speices": "아종",
+        "series": "MH4G"
+      },
+      {
+        "id": 189,
+        "imgurl": "https://i.namu.wiki/i/PnBkhd1MmikPSqK-SmM_g_QWlr5nx8lwihvmsuLBJHQqAy1u1NeFGWLs7cAhaKWnj_bt9h-91-j-s8HMQQvT0iwUvOQrvMaUkY9f5q2Hd2UyekwYHlC3KukxCXj78Y_3Z63pjCAnAMe_bVLpHi0Smg.webp",
+        "name": "다렌 모란",
+        "nickname": "호산룡[豪山龍: 호탕할 호(豪), 뫼 산(山), 용 룡(龍)]",
+        "type": "고룡종",
+        "speices": "원종",
+        "series": "MH4, MH4G"
+      },
+      {
+        "id": 190,
+        "imgurl": "https://i.namu.wiki/i/3fxsgKRkC1KT0fKwn7lPSBv-dNKs-bFj3QQEbzzv7ed-npGh0eY2D1BEVtLcUD9Sza9W6vJ7OaFHJ-DY1eXJPbl2eV-35mhNOEnwe7Vwlt_gxnyd-6L9_QjWjPWBxV8N-77hrUu4X4U1kqWHQSAEBA.webp",
+        "name": "라오샨룽",
+        "nickname": "노산룡[老山龍: 늙을 노(老), 뫼 산(山), 용 룡(龍)]",
+        "type": "고룡종",
+        "speices": "원종",
+        "series": "MH, MHG, MHP, MH2, MHP2, MHP2G, MHXX"
+      },
+      {
+        "id": 191,
+        "imgurl": "https://i.namu.wiki/i/WsFxkiKOdfjybeaOQ_8_ov_xATEjIXuNttMw6X283LhxMrAUrmInJxGgRXTAKjTEn0EEYxBTHg2h4VHQ0behdYDy0MfXzS1s1BnD2yqGpFVGxiEto_XBdpUA5wvl_EA-68CJYi6vv-tGx1uW03aqfg.webp",
+        "name": "라오샨룽 아종",
+        "nickname": "암산룡[岩山龍: 바위 암(岩), 뫼 산(山), 용 룡(龍)]",
+        "type": "고룡종",
+        "speices": "아종",
+        "series": "MHG, MHP, MH2, MHP2, MHP2G"
+      },
+      {
+        "id": 192,
+        "imgurl": "https://i.namu.wiki/i/qmMkIri8IJzM1_Vrok90Q09_8q7uzzoi-dAy-FjeYF2liC4sYG4goTqyAwbSX2q52zYjuy63zckFfDe1IDaHmnYNc4mfWmtu6IxqfZElWtuLftsTx51uhsOp49mf4irbGrUbT5LQx4O822UZR23mFQ.webp",
+        "name": "맘-타로트",
+        "nickname": "난휘룡[爛輝龍: 빛날 난(爛), 빛날 휘(輝), 용 룡(龍)]",
+        "type": "고룡종",
+        "speices": "원종",
+        "series": "MHW, MHWI"
+      },
+      {
+        "id": 193,
+        "imgurl": "https://i.namu.wiki/i/kJv1E5T-bofXS5YbjazA6Kkpq9RYu2inbm03wkzN10cdbXkw_KwWWi7XnxtAGFLTuz4XcIlC_YLpFLSqDVbin94arpmdURXLQxArSUB3zpeTfTCirZlwGw0JSxSmEEKuPFhoennLY0RbvkFmTQgnMg.webp",
+        "name": "멜-제나",
+        "nickname": "작은룡[爵銀龍: 벼슬 작(爵), 은빛 은(銀), 용 룡(龍)] / 은작룡",
+        "type": "고룡종",
+        "speices": "원종",
+        "series": "MHRSB"
+      },
+      {
+        "id": 194,
+        "imgurl": "https://i.namu.wiki/i/rI09MCXlvE-6ESrY1eVWEtHYNCRPw-78LakiSHHuImPfXYcw1oZ0iBCTSLxb3cJm7ZXPGc29x41A8TIVnk4vY53GqosZNZ2xl6eU0wFMXjlTbmwaOXmu2DkTD8jt-8r9fhNIHX6WhULZH2GPscxMMA.webp",
+        "name": "원초를 새기는 멜-제나",
+        "nickname": "작은룡[爵銀龍: 벼슬 작(爵), 은빛 은(銀), 용 룡(龍)] / 은작룡",
+        "type": "고룡종",
+        "speices": "특수 개체",
+        "series": "MHRSB"
+      },
+      {
+        "id": 195,
+        "imgurl": "https://i.namu.wiki/i/LznTNy8i2_JtU4Txlb0Oa-9ATD0_2KBMWZxYQKqm92kr-_mDJVtHNEI6INQ9F4XdTFWOFZXSPibxuxcjWMtEtMCXLa2T0K3qeMJxu2egnk-3BIqTIkzeA2JPMwwImFWLkEhMzuW_PBEjkczjb2i6xQ.webp",
+        "name": "무페토-지바",
+        "nickname": "적룡[赤龍: 붉을 적(赤), 용 룡(龍)] / 명적룡",
+        "type": "고룡종",
+        "speices": "원종",
+        "series": "MHWI"
+      },
+      {
+        "id": 196,
+        "imgurl": "https://i.namu.wiki/i/1UYjf5NsKVrCPmIkyxdaU9-NlMLkpfzYGLWf-Eivw7SryJRXe9vWSp_LtxPuV9DwfGJxdWtQY2vmnVkm-XcY-Q7aOW0jOwBI8OzvE_jPAg_SmUqRd1Llz-hY3zgHMgZ3BM-AoDkb2DNC3n7zAFLCMw.webp",
+        "name": "밀라보레아스",
+        "nickname": "흑룡[黑龍: 검을 흑(黑), 용 룡(龍)]",
+        "type": "고룡종",
+        "speices": "원종",
+        "series": "MH, MHG, MHP, MH2, MHP2, MHP2G, MH4, MH4G, MHXX, MHWI"
+      },
+      {
+        "id": 197,
+        "imgurl": "https://i.namu.wiki/i/GbvnpU3b2-jdD1P2L0NWC2puHVF00Oo8X6P0JsWu5mYyWKF95z4NQ7S8kvtiU3ZCAAIoUcZICMM3xnGD49vMyMnzJPYgv8UJ8i07FEE2IYNoBKusKs-B_OXmmassnprMArZRZhRDCqgNWvnxQUl2Og.webp",
+        "name": "홍룡 밀라보레아스",
+        "nickname": "홍룡[紅龍: 붉을 홍(紅), 용 룡(龍)]",
+        "type": "고룡종",
+        "speices": "아종",
+        "series": "MHG, MHP, MH2, MHP2, MHP2G, MH4, MH4G, MHXX"
+      },
+      {
+        "id": 198,
+        "imgurl": "https://i.namu.wiki/i/VAc0i3Rw8VIqSS3f_VEU4A8b56ADMaTQu6dilVfbJlSiHVKI6vEsvnrs12JDScJ6SwWxzs4wx2SsKCOikW3Zzou8QkeAJoV7sJQbfrjQEGEcOwmFvndFFDFkkI9QtQmp6qIKviP3R_zVJUQFGOeW5Q.webp",
+        "name": "선조룡 밀라보레아스",
+        "nickname": "조룡[祖龍: 할아비 조(祖), 용 룡(龍)] / 선조룡",
+        "type": "고룡종",
+        "speices": "태초의 존재",
+        "series": "MH2, MHP2, MHP2G, MH4G, MHXX"
+      },
+      {
+        "id": 199,
+        "imgurl": "https://i.namu.wiki/i/gHDdJrZ7s3p0jUn1m8BM3qB1arnyIIy4VxlnDZh9D91uhSV0KEy2QzXH_kJ2j2hsrqc_ddYLcu6lGyd-TrlUZ-vZUhPk84xLhotH10HoXMMumVouGPwJWLg3ahvSkryEO7qsPd2jxVfKl0EBXSCIEg.webp",
+        "name": "발파루크",
+        "nickname": "천혜룡[天彗龍: 하늘 천(天), 살별 혜(彗), 용 룡(龍)]",
+        "type": "고룡종",
+        "speices": "원종",
+        "series": "MHXX"
+      },
+      {
+        "id": 200,
+        "imgurl": "https://i.namu.wiki/i/4TkbfqlWlk4Oz8J584fie8XJtMSyBtkdCLQFQFSoMKT37sLnaoOah9ZcV_FQDER5yOk7skOwVQUHbtG-rw0JBU5S6OmnVpTx6qy-s8x45pl44mvT--LNUcayMM41QWCa1zUiADP9kynKgho_mdEFmQ.webp",
+        "name": "영묘한 광채의 발파루크",
+        "nickname": "천혜룡[天彗龍: 하늘 천(天), 살별 혜(彗), 용 룡(龍)]",
+        "type": "고룡종",
+        "speices": "특수 개체",
+        "series": "MHRise, MHRSB"
+      },
+      {
+        "id": 201,
+        "imgurl": "https://i.namu.wiki/i/dQtqId3E5hUxJw8IoW1EYqJH4eGcs3TjLj5GEWxchiO2TW7syLkZnQtxz9Rw85s1Bv1abL0xT6xvpacPsmmawuRkjJBhWge12K4BPlqmR-_4g9vH8PsTKYt-H9ndYNnfC6F7c8ZIHnpSmqkpWEsBFQ.webp",
+        "name": "괴이 극복 발파루크",
+        "nickname": "천혜룡[天彗龍: 하늘 천(天), 살별 혜(彗), 용 룡(龍)]",
+        "type": "고룡종",
+        "speices": "괴이 극복",
+        "series": "MHRSB"
+      },
+      {
+        "id": 202,
+        "imgurl": "https://i.namu.wiki/i/D4AlgGXjGd4IIGEwnNjOg5cnGONgGP2iaODEPcO7_2aAGg6KCbd8ZBNXIO5YBQhT25kSF0_EOb3gnZ5CCoxbD7mO-5YdlkA2ss1QjhT_dJS70-TVLxoRBLzQ-jTj2Ib8JMBNhpu2QLaSbXUgp3rM7Q.webp",
+        "name": "발하자크",
+        "nickname": "시투룡[屍套龍: 주검 시(屍), 덮개 투(套), 용 룡(龍)]",
+        "type": "고룡종",
+        "speices": "원종",
+        "series": "MHW, MHWI"
+      },
+      {
+        "id": 203,
+        "imgurl": "https://i.namu.wiki/i/hazcnC6rFrATx34tgLOqFPqY3o6qTxOVwr0SO5ikWrRsTHD2C4AudCg9QDV4uxzGnhmJu-QbWetUWYv_ulr16PFll6O4wA9k91e3FFcwpQwgbHUg03EsuGXv9Rb36DG-4kZhs31ADEmcsYb2Ug-fVw.webp",
+        "name": "죽음을 두른 발하자크",
+        "nickname": "시투룡[屍套龍: 주검 시(屍), 덮개 투(套), 용 룡(龍)]",
+        "type": "고룡종",
+        "speices": "특수 개체",
+        "series": "MHWI"
+      },
+      {
+        "id": 204,
+        "imgurl": "https://i.namu.wiki/i/E3voSoxaZWmixJtanThfkbj21sAOrsWRXQqcBvMGnGrg7XP1oK7u_swxAgT8iz8mqcl9C-Ud1805QOBpVenuFZHCQ8RRDR2qEB6hItDC4Pl5LV8P_rzuuH96wDdKtgUwfzSbuXPb-mpzQ7W9yPJDKQ.webp",
+        "name": "샤가르마가라",
+        "nickname": "천회룡[天廻龍: 하늘 천(天), 돌 회(廻), 용 룡(龍)]",
+        "type": "고룡종",
+        "speices": "원종",
+        "series": "MH4, MH4G, MHX, MHXX, MHRSB"
+      },
+      {
+        "id": 205,
+        "imgurl": "https://i.namu.wiki/i/40it0G4WRXA1WciCRPPT1E-7qwoTQlUJBsoWi-qAhBBrnITkQ7QDOAmKrhXUfamrCjC4f78jyN82OeqxnPMI3cLRSDcDj2gUigBaNrtuGzaGV15Ht00PRKTsbQcPQdSM7KneLbcyhAws2H7OblqJOA.webp",
+        "name": "괴이 극복 샤가르마가라",
+        "nickname": "천회룡[天廻龍: 하늘 천(天), 돌 회(廻), 용 룡(龍)]",
+        "type": "고룡종",
+        "speices": "괴이 극복",
+        "series": "MHRSB"
+      },
+      {
+        "id": 206,
+        "imgurl": "https://i.namu.wiki/i/jyjRBvIySMzJNuPgfMrhjdm6hGBFnaPthFZrVOYqu8oBsvsx13TelOczVxYl-EjPLRQw09rRqTgND3x8kqal7Qe1n4QwIRD6OaZFazAxXktnL6-DoV35YGYESHms7Y8yHFig9Mw52VM5dzyH4mh98Q.webp",
+        "name": "아마츠마가츠치",
+        "nickname": "남룡[嵐龍: 남기 남(風), 용 룡(龍)] / 폭풍룡",
+        "type": "고룡종",
+        "speices": "원종",
+        "series": "MHP3, MHX, MHXX, MHRSB"
+      },
+      {
+        "id": 207,
+        "imgurl": "https://i.namu.wiki/i/NI5nlmi6QEHLuh-omXA-1P2vCGgXwu4xwvjx7pRJMvc57ALsAWwpyDuuWRdp-Km9fW3Xu3uisHJYiezlo12qOBo59EC8ZKl10rD4wzTzQGE62Q2hcaCb_uSubDTYLw-0n7UI8AmWkrZsGW2eg_a5vA.webp",
+        "name": "안-이슈왈다",
+        "nickname": "지제룡[地啼龍: 땅 지(地), 울 제(啼), 용 룡(龍)]",
+        "type": "고룡종",
+        "speices": "원종",
+        "series": "MHWI"
+      },
+      {
+        "id": 208,
+        "imgurl": "https://i.namu.wiki/i/LkIoGiD9JCWoG0xKte4WHbQ9rWCnzitSXvQoGtuwsZ2G4LZ7Uy3UWeT0kiwsqlP7-himp-llfN4kB7XVG_geDLvlrwW7qbcsDLacT4xhzDbAWfMDZPMki51VeIIBz9vL6EoE16-EHnYzLxTZhyXXyg.webp",
+        "name": "알바트리온",
+        "nickname": "황흑룡[煌黒龍: 빛날 황(煌), 검을 흑(黒), 용 룡(竜)]",
+        "type": "고룡종",
+        "speices": "원종",
+        "series": "MH3, MHP3, MH3G, MHX, MHXX, MHWI"
+      },
+      {
+        "id": 209,
+        "imgurl": "https://i.namu.wiki/i/pTQCm_3bC75yJBZ7zitkFbs6ie0PYsy1CeeRM-eHUYil-KbGOFrcjdN6YMB3xiDCLNSdciLKK62aHz1SFcfyv2LR3q2jP9q__sBTwm4vdljzBGwxqcWSL35lz4cnSQRMGYwh9fCPLPv1NnQylmklIw.webp",
+        "name": "야마츠카미",
+        "nickname": "부악룡[浮岳龍: 뜰 부(浮), 큰산 악(岳), 용 룡(龍)] / 비악룡",
+        "type": "고룡종",
+        "speices": "원종",
+        "series": "MH2, MHP2G"
+      },
+      {
+        "id": 210,
+        "imgurl": "https://i.namu.wiki/i/D-XIfigZNqVrPjRkzp-Cym2RV5EgzpNi30OEhO3CkQ8lDMmsczBIU11anbmTVRL3O4h1h2EW3H3iaEnGbB1OemBx2oOz8VaET9a1mkyQOgKpmgfme6TmmSCCo9psFFRRz-vBElsnND_g9-j7yPfYYA.webp",
+        "name": "오나즈치",
+        "nickname": "하룡[霞龍: 노을/무지개 하(霞), 용 룡(龍)]",
+        "type": "고룡종",
+        "speices": "원종",
+        "series": "MH2, MHP2, MHP2G, MH4G, MHX, MHXX, MHRise, MHRSB"
+      },
+      {
+        "id": 211,
+        "imgurl": "https://i.namu.wiki/i/0T5UUBSh4f_9GjxXUfq9RVOOCMA3FC1Ef-YQqowcf9iSTYCgK0QwUcZ3Br7-6nXi5F_2Sc3WYzHt-EztwRJJrhjhwWS2rNtwbZviO2Q6TsMhYwCFT6qZZOuqqztmpeAYJ_aGfVuDO3MeyQelGvcD_Q.webp",
+        "name": "괴이 극복 오나즈치",
+        "nickname": "하룡[霞龍: 노을/무지개 하(霞), 용 룡(龍)]",
+        "type": "고룡종",
+        "speices": "괴이 극복",
+        "series": "MHRSB"
+      },
+      {
+        "id": 212,
+        "imgurl": "https://i.namu.wiki/i/Nm1I9f2kZFWoaNMu7yMDEWh8xUuqbMYMsUSP1O352pKdWsTWWhgDFMah6uw-032kU41njowjm7OB30q-1Kbvu1F9FKyr2bhZyvlj39pxG6yShiQ7-u6r9U_bA4gZu4EDoRw0FadVEytbbdiIBTViOg.webp",
+        "name": "오스트가로아",
+        "nickname": "해룡[骸龍: 뼈 해(骸), 용 룡(龍)]",
+        "type": "고룡종",
+        "speices": "원종",
+        "series": "MHX, MHXX"
+      },
+      {
+        "id": 213,
+        "imgurl": "https://i.namu.wiki/i/pNgyfD54guXZZCgMyph4ZVpnqnsniiX169MiDCR3vnOjzquTXaCanEb1dcA303D1C7YaNmuCoaGTV9eMRVRD9Ik0dRIFQEADlcTnbZoMlgiT0f-csrJzumr2j25pgfx9-wZAwt9YxA8OkkSTffoTJg.webp",
+        "name": "이베르카나",
+        "nickname": "빙룡[冰龍: 얼음 빙(冰), 용 룡(龍)]",
+        "type": "고룡종",
+        "speices": "원종",
+        "series": "MHWI, MHRSB"
+      },
+      {
+        "id": 214,
+        "imgurl": "https://i.namu.wiki/i/C48ljy7OejCltPOw5H4p8YD6Oc48lXZ10BQtPXfmRNyLWbnigz9h9aPJATWo_NomXQMAz6ALpzZ13VB3PGqD6fsT08SPrvgVksr3ipJfYpeVUSshrDVQ-4DK9KMCVeVR-UazqfRXGQ5oNOgQwPxTkA.webp",
+        "name": "이부시마키히코",
+        "nickname": "풍신룡[風神龍: 바람 풍(風), 신 신(神), 용 룡(龍)]",
+        "type": "고룡종",
+        "speices": "원종",
+        "series": "MHRise, MHRSB"
+      },
+      {
+        "id": 215,
+        "imgurl": "https://i.namu.wiki/i/j5BSDhBFF9KTQjn5ool-cuSJmUEa6k0Mn7Gh-cKYbv_ZP1BdguNlDZkuZSHW3X5qnGd7bLpFknI2w5S92qmI-RQQR8gHNRgamXISQmAlb7qMSmejOaOB8_DfCm4SWs5-RlHzaztm0Vp6VWqJ8ULDFQ.webp",
+        "name": "제노-지바",
+        "nickname": "명등룡[冥灯龍: 저승 명(冥), 등불 등(灯), 용 룡(龍)]",
+        "type": "고룡종",
+        "speices": "원종",
+        "series": "MHW, MHWI"
+      },
+      {
+        "id": 216,
+        "imgurl": "https://i.namu.wiki/i/EAhyz_tCeC-eElqk_ctnWSRPn0SWJC92lJwbRvwPv43Ib87YvYaQVa19obHu2J73s6yWD2SqPgQ83WbULGo8GEFSFFeJf1Q1AgBYxrBo8eA3pP9WfAmMaP255CeNtNfMFNrAe_pYsxiZ0eZdV8TJLQ.webp",
+        "name": "조라-마그다라오스",
+        "nickname": "용산룡[熔山龍: 녹일 용(熔), 뫼 산(山), 용 룡(龍)]",
+        "type": "고룡종",
+        "speices": "원종",
+        "series": "MHW"
+      },
+      {
+        "id": 217,
+        "imgurl": "https://i.namu.wiki/i/4rY_qApT87seTxhtw7-E9l9L0dC7FdDewv5Vl5mS9i0LCTp0_T0mq3VNBOtPsXCpCvnSluOO48hYMng-823yYc7Rc0_ji5wzXwHYx95d0EyBNvd8GNxv-9gS9JcBKgiHICnTZHFLv31ES53uQRge5A.webp",
+        "name": "지엔 모란",
+        "nickname": "봉산룡[峯山龍: 봉우리 봉(峯), 뫼 산(山), 용 룡(竜)]",
+        "type": "고룡종",
+        "speices": "원종",
+        "series": "MH3, MHP3, MH3G"
+      },
+      {
+        "id": 218,
+        "imgurl": "https://i.namu.wiki/i/Ndv5DQO-TUGR7eHo69SKIEzeI96Jf9twy9P6Lfy32NhnKQ3kA0jr5oUUg-BGXGKzR3Li8xkYC0Cn6SSk1ZpvU96uxJWMYSuEMoorKUYpZR5FBD8NETHstslyp-1BwUykjotU4_1X4D-GIVTz-yZpHQ.webp",
+        "name": "지엔 모란 아종",
+        "nickname": "영산룡[霊山龍: 신령 령(峯), 뫼 산(山), 용 룡(龍)]",
+        "type": "고룡종",
+        "speices": "아종",
+        "series": "MH3G"
+      },
+      {
+        "id": 219,
+        "imgurl": "https://i.namu.wiki/i/KizMZh3t8EYT0CULlr2N25Kc2aVG-3yancV-Qys5o_WOEPNf3HKMqBnmu-JhY2Cwnxm4mZNsXSxSOnPty3Zt-p3CvfmRidifPOMGBYCFfOXc57rFe0KZ3tS9AZdW59zV1okxTSRIV_Lu_4esZk4k-Q.webp",
+        "name": "크샬다오라",
+        "nickname": "강룡[鋼龍: 강철 강(鋼), 용 룡(龍)] / 풍상룡[風翔龍: 바람 풍(風), 날 상(翔), 용 룡(龍)]",
+        "type": "고룡종",
+        "speices": "원종",
+        "series": "MH2, MHP2, MHP2G, MH4, MH4G, MHX, MHXX, MHW, MHWI, MHRise, MHRSB"
+      },
+      {
+        "id": 220,
+        "imgurl": "https://i.namu.wiki/i/pDqYv88MZ4VCW06r5cmU4NRBBbJoh3-MjogK2Y6x0dsP3JO0G0T_XjqIfrD_i3iip7eyMaTZnx6qH_hubxeRB1B6xGmDF4H2h8-vHCx3UXahpqGjjwBc-S_ruQHpZfLkIaOD09R91V2qKcR8EkYvfA.webp",
+        "name": "녹슨 크샬다오라",
+        "nickname": "창강룡[錆鋼龍: 녹 창(錆), 강철 강(鋼), 용 룡(龍)]",
+        "type": "고룡종",
+        "speices": "특수 개체",
+        "series": "MH2, MHP2, MHP2G, MH4G"
+      },
+      {
+        "id": 221,
+        "imgurl": "https://i.namu.wiki/i/p5pUk0aASMOjlLZzzxq3ZKGc_VooV2LL156u_ecrWzGaNVqRniEEkRt8pOyYGxMGZ_hU5JJh4undW6DulBx7upURK5HrwajDlY-b_TeEZQT2Hh1OsPHBnWjmvUgzoFVlFFB8P7JJJcGTpjIinYObBA.webp",
+        "name": "괴이 극복 크샬다오라",
+        "nickname": "강룡[鋼龍: 강철 강(鋼), 용 룡(龍)]",
+        "type": "고룡종",
+        "speices": "괴이 극복",
+        "series": "MHRSB"
+      },
+      {
+        "id": 222,
+        "imgurl": "https://i.namu.wiki/i/Lc-U7cUENdglP9tmjdxd2ePei5ZLdScXa_18KW6m6nvLzQjgN-uwmTlneXpNdEd_TVRGJ5h9_BeHrL9fbSylnTuwqYNm56qTJ5crfTmIRKhzL3SjYq3tgXmRGUKKch_kjWXaK9rR3bNpX9TMiZrtjA.webp",
+        "name": "키린",
+        "nickname": "환수[幻獣: 헛보일 환(幻), 짐승 수(獣)]",
+        "type": "고룡종",
+        "speices": "원종",
+        "series": "MH, MHG, MHP, MH2, MHP2, MHP2G, MH4, MH4G, MHX, MHXX, MHW, MHWI"
+      },
+      {
+        "id": 223,
+        "imgurl": "https://i.namu.wiki/i/jloRpby4z2uZ7qhS8qrB-hpkRzrcj6UUC9Q1Lbe28apNjv_w6gWsvZ4GmWsAkXl6ZddbQfiTauJHXFqBkzvdcSN__MkpOPF6Mtbp8Y7JcuI_bEpSPeu1hNS0g1QMDLTnAtVwsAaaX3XagN6B47ttkQ.webp",
+        "name": "키린 아종",
+        "nickname": "환수[幻獣: 헛보일 환(幻), 짐승 수(獣)]",
+        "type": "고룡종",
+        "speices": "아종",
+        "series": "MH4, MH4G"
+      },
+      {
+        "id": 224,
+        "imgurl": "https://i.namu.wiki/i/fzKnA-YASJMUmVhPeLP0LPvR72qwAfFkdZssiejsoJDNPkeCuT-P0NSnQCLrKwTDrnO3vOWzSgkXcjehuMeG__L-tx3SiVrFVHkUjrCWbjX-BM9BjwDFXiS7lCj94hQmGyD9UswiKMWF4NEo4mkPwA.webp",
+        "name": "테오-테스카토르",
+        "nickname": "염왕룡[炎王龍: 불꽃 염(炎), 임금 왕(王), 용 룡(龍)]",
+        "type": "고룡종",
+        "speices": "원종",
+        "series": "MH2, MHP2, MHP2G, MH4, MH4G, MHX, MHXX, MHW, MHWI, MHRise, MHRSB"
+      },
+      {
+        "id": 225,
+        "imgurl": "https://i.namu.wiki/i/QA6cv5cr5zPCyCY5AJmMqXJ1ogVU9qbC11J-nHq-bxJkBBsNIOV814kSSb6jb9tmKlwKyvf99WldF2bvGLtaUeKb2724AFSFh_rMvcrj4EihFbi1GR1J4JbCc7qj6GD_AIRMOkNZrbjm9p-cdTTZxw.webp",
+        "name": "괴이 극복 테오-테스카토르",
+        "nickname": "염왕룡[炎王龍: 불꽃 염(炎), 임금 왕(王), 용 룡(龍)]",
+        "type": "고룡종",
+        "speices": "괴이 극복",
+        "series": "MHRSB"
+      },
+      {
+        "id": 226,
+        "imgurl": "https://i.namu.wiki/i/gg-tXQGe8sZO_VvwpGktJLs6s7jRZDUIpUuzvl7z_e6kWJd8uTdkFgkxfKLHAuYWFRjEvanbAW2xsQ73zT9yZMb8qJrODTVatbpOtGpiIsSn5Ecy4fPAEQRvU6a3b8Qja5Nl9DU76W5D6sDiKT_1sA.webp",
+        "name": "고어-마가라",
+        "nickname": "흑식룡[黒蝕竜: 검을 흑(黒), 좀먹을 식(蝕), 용 룡(竜)]",
+        "type": "???",
+        "speices": "원종",
+        "series": "MH4, MH4G, MHX, MHXX, MHRSB"
+      },
+      {
+        "id": 227,
+        "imgurl": "https://i.namu.wiki/i/iCesytaCgazOCTByNXC1E0tc7xhGFDJMUw2jSAZj4LJTl8z_ETqv-139seL0Ysoxzy8d_P9pJXEnN_ghtocllf_5osdrgXwXidwqLGbp-IiJW5Kc8TiIwYOlbNmmaRYKCH7TurbUwGTMMj61DvyZoQ.webp",
+        "name": "혼돈에 신음하는 고어-마가라",
+        "nickname": "흑식룡[黒蝕竜: 검을 흑(黒), 좀먹을 식(蝕), 용 룡(竜)]",
+        "type": "???",
+        "speices": "특수 개체",
+        "series": "MH4G, MHXX, MHRSB"
+      }
+    ]
+  }
+]

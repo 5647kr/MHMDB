@@ -2057,5 +2057,163 @@
         "series": "MH4G, MHXX, MHRSB"
       }
     ]
+  },
+  {
+    "typeList": [
+      {
+        "id": 1,
+        "type": "갑각종"
+      },
+      {
+        "id": 2,
+        "type": "갑충종"
+      },
+      {
+        "id": 3,
+        "type": "비룡종"
+      },
+      {
+        "id": 4,
+        "type": "사룡종"
+      },
+      {
+        "id": 5,
+        "type": "수룡종"
+      },
+      {
+        "id": 6,
+        "type": "아수종"
+      },
+      {
+        "id": 7,
+        "type": "아룡종"
+      },
+      {
+        "id": 8,
+        "type": "양서종"
+      },
+      {
+        "id": 8,
+        "type": "어룡종"
+      },
+      {
+        "id": 9,
+        "type": "조룡종"
+      },
+      {
+        "id": 10,
+        "type": "해룡종"
+      },
+      {
+        "id": 11,
+        "type": "협각종"
+      },
+      {
+        "id": 12,
+        "type": "고룡종"
+      },
+      {
+        "id": 13,
+        "type": "???"
+      }
+    ]
+  },
+  {
+    "workList" : [
+      {
+        "id": 1,
+        "work": "All"
+      },
+      {
+        "id": 2,
+        "work": "MH",
+        "full-name": "Monster Hunter"
+      },
+      {
+        "id": 3,
+        "work": "MHG",
+        "full-name": "Monster Hunter G"
+      },
+      {
+        "id": 3,
+        "work": "MHP",
+        "full-name": "Monster Hunter Portable"
+      },
+      {
+        "id": 4,
+        "work": "MHP",
+        "full-name": "Monster Hunter Portable"
+      },
+      {
+        "id": 5,
+        "work": "MH2",
+        "full-name": "Monster Hunter Dos"
+      },
+      {
+        "id": 6,
+        "work": "MHP2",
+        "full-name": "Monster Hunter Portable 2"
+      },
+      {
+        "id": 7,
+        "work": "MHP2G",
+        "full-name": "Monster Hunter Portable 2G"
+      },
+      {
+        "id": 8,
+        "work": "MH3",
+        "full-name": "Monster Hunter Tri"
+      },
+      {
+        "id": 9,
+        "work": "MH3G",
+        "full-name": "Monster Hunter Tri G"
+      },
+      {
+        "id": 10,
+        "work": "MHP3",
+        "full-name": "Monster Hunter Portable 3rd"
+      },
+      {
+        "id": 11,
+        "work": "MH4",
+        "full-name": "Monster Hunter 4"
+      },
+      {
+        "id": 12,
+        "work": "MH4G",
+        "full-name": "Monster Hunter 4G"
+      },
+      {
+        "id": 13,
+        "work": "MHX",
+        "full-name": "Monster Hunter Cross"
+      },
+      {
+        "id": 14,
+        "work": "MHXX",
+        "full-name": "Monster Hunter Double Cross"
+      },
+      {
+        "id": 15,
+        "work": "MHW",
+        "full-name": "Monster Hunter World"
+      },
+      {
+        "id": 16,
+        "work": "MHWI",
+        "full-name": "Monster Hunter World IceBorne"
+      },
+      {
+        "id": 17,
+        "work": "MHRise",
+        "full-name": "Monster Hunter Rise"
+      },
+      {
+        "id": 18,
+        "work": "MHRSB",
+        "full-name": "Monster Hunter Rise: SunBreak"
+      }
+    ]
   }
 ]

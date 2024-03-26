@@ -3,11 +3,7 @@ html {
   font-size: 10px;
 }
 
-body,
-h1, h2
-ul,
-li,
-p {
+body, h1, h2, h3, h4, h5, h6, ul, li, p, strong, cite {
   margin: 0;
   padding: 0;
 }
@@ -16,7 +12,6 @@ li {
 }
 
 header {
-  box-shadow: inset 0 0 10px black;
   padding: 26px 0;
 }
 header h1 {
@@ -24,25 +19,23 @@ header h1 {
   text-align: center;
   font-weight: normal;
 }
+header strong {
+  font-size: 2rem;
+  color: red;
+  display: block;
+  padding-left: 20px;
+}
 
 main .list-wrap {
-  box-shadow: inset 0 0 10px red;
   display: flex;
-  justify-content: space-between;
-  padding: 50px;
+  justify-content: space-around;
 }
 .list-wrap .type-list,
 .list-wrap .work-list {
-  width: 700px;
   display: flex;
   flex-wrap: wrap;
-  gap: 1.25rem;
-}
-.list-wrap .type-list {
-  box-shadow: inset 0 0 10px orange;
-}
-.list-wrap .work-list {
-  box-shadow: inset 0 0 10px yellow;
+  flex-basis: 600px;
+  gap: 20px;
 }
 
 main .list-wrap button {
@@ -52,38 +45,40 @@ main .list-wrap button {
   background: #fff;
   border: 0;
   border-radius: 32px;
-  box-shadow: 0 4px 4px #000;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+main .list-wrap button:hover {
+  cursor: pointer;
 }
 
 main .monster-wrap {
-  box-shadow: inset 0 0 10px green;
-  padding: 0 40px 40px;
+  margin-top: 20px;
+  padding: 20px;
 }
 
 .monster-wrap .monster-list {
-  box-shadow: inset 0 0 10px blue;
   display: flex;
   flex-wrap: wrap;
-  gap: 2.8rem;
-  padding: 0;
+  gap: 15px;
 }
 
 .monster-list .monster-card {
-  width: 200px;
-  box-shadow: 0 4px 4px #000;
-  border-radius: 5px;
+  width: 360px;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  border-radius: 10px;
   position: relative;
+  overflow: hidden;
 }
 
 .monster-card img {
-  width: 200px;
-  aspect-ratio: 200 / 180;
+  width: 360px;
+  aspect-ratio: 360 / 340;
   vertical-align: top;
   overflow: hidden;
 }
 
 .monster-card strong {
-  font-size: 1.6rem;
+  font-size: 1.8rem;
   text-align: center;
   display: block;
 }
@@ -99,4 +94,10 @@ main .monster-wrap {
   padding: 20px;
   box-sizing: border-box;
   font-size: 1rem;
+}
+
+footer {
+  padding: 20px;
+  text-align: right;
+  font-size: 1.8rem;
 }

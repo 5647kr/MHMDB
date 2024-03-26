@@ -1,18 +1,5 @@
 [
   {
-    "smallMonster": [
-      {
-        "id": 1,
-        "imgurl": "https://i.namu.wiki/i/Di1K538E6-W6tFsOcf9gv1lrc5nzszSM0DJHd2gTePo3PXQBU_ri4GABsOYjt3QAq3x-qnq0Tq0YzH8_Vnt17ryq7nxMX7sZ3MuNxkdC5ijUqSxB4eQ_BaiZO2bGPVPH0uR5FjPd5nmzzAoTffXg9Q.webp",
-        "name": "아이루",
-        "nickname": "",
-        "category": "",
-        "type": "",
-        "series": ""
-      }
-    ]
-  },
-  {
     "bigMonster": [
       {
         "id": 1,
@@ -1035,7 +1022,7 @@
       {
         "id": 114,
         "imgurl": "https://i.namu.wiki/i/LJMBjPNtqten-J9_GjXVKpAiU2-wqiIc1Gpz_ZpUnsQctKHmqwiqJCfWCZBFY1Y12O8OHlFxGyKQjxWEgUyFhMjW-ldgqQmSHRcIYGCNDL2NVlPTXXq4JYFb5rqDpsWR7WeM68vRLYCi6khkVZZsfg.webp",
-        "name": "대설주 울크스스 이명 특수개체",
+        "name": "대설주 울크스스",
         "nickname": "대설주[大雪主: 클 대(大), 눈 설(雪), 주인 주(主)]",
         "type": "아수종",
         "speices": "이명 특수개체",

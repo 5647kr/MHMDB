@@ -3,7 +3,19 @@ html {
   font-size: 10px;
 }
 
-body, h1, h2, h3, h4, h5, h6, ul, li, p, strong, cite {
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+ul,
+li,
+p,
+strong,
+cite,
+input {
   margin: 0;
   padding: 0;
 }
@@ -27,29 +39,29 @@ header strong {
 }
 
 main .list-wrap {
+  padding: 0 20px;
   display: flex;
   justify-content: space-around;
 }
-.list-wrap .type-list,
-.list-wrap .work-list {
-  display: flex;
-  flex-wrap: wrap;
-  flex-basis: 600px;
-  gap: 20px;
+main .list-wrap .type-list,
+main .list-wrap .work-list {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  width: fit-content;
+  gap: 10px;
 }
 
-main .list-wrap button {
-  width: 100px;
-  font-size: 1.8rem;
-  padding: 4px 0;
-  background: #fff;
-  border: 0;
-  border-radius: 32px;
-  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+main .list-wrap label {
+  font-size: 2rem;
+  vertical-align: baseline;
+  margin: 5px;
 }
-main .list-wrap button:hover {
-  cursor: pointer;
+
+main .list-wrap label abbr {
+  text-decoration: none;
 }
+
+
 
 main .monster-wrap {
   margin-top: 20px;
@@ -58,6 +70,7 @@ main .monster-wrap {
 
 .monster-wrap .monster-list {
   display: flex;
+  justify-content: flex-start;
   flex-wrap: wrap;
   gap: 15px;
 }
@@ -67,14 +80,12 @@ main .monster-wrap {
   box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
   border-radius: 10px;
   position: relative;
-  overflow: hidden;
 }
 
 .monster-card img {
   width: 360px;
   aspect-ratio: 360 / 340;
   vertical-align: top;
-  overflow: hidden;
 }
 
 .monster-card strong {
@@ -83,8 +94,9 @@ main .monster-wrap {
   display: block;
 }
 
-.monster-card .detail {
+.monster-card::after {
   position: absolute;
+  display: block;
   top: 0;
   left: 0;
   width: 100%;
@@ -95,9 +107,35 @@ main .monster-wrap {
   box-sizing: border-box;
   font-size: 1rem;
 }
+.monster-card .detail {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.5);
+  color: #fff;
+  padding: 20px;
+  box-sizing: border-box;
+  font-size: 1.6rem;
+  line-height: 4rem;
+  overflow: auto;
+  border-radius: 10px;
+}
 
 footer {
   padding: 20px;
   text-align: right;
   font-size: 1.8rem;
+}
+
+.a11y-hidden {
+  clip: rect(1px, 1px, 1px, 1px);
+  clip-path: inset(50%);
+  width: 1px;
+  height: 1px;
+  margin: -1px;
+  overflow: hidden;
+  padding: 0;
+  position: absolute;
 }

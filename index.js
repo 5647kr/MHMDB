@@ -71,6 +71,7 @@ function Data(array) {
 
     typeCheckBox.id = type.type;
     typeCheckBox.checked = true;
+    typeCheckBox.disabled = true;
 
     checkBoxLabel.textContent = type.type;
     checkBoxLabel.htmlFor = type.type;
@@ -89,6 +90,7 @@ function Data(array) {
 
     seriesCheckBox.id = series.work;
     seriesCheckBox.checked = true;
+    seriesCheckBox.disabled = true;
 
     checkBoxLabel.htmlFor = series.work;
 

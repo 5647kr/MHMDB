@@ -138,7 +138,7 @@
       },
       {
         "id": 16,
-        "imgurl": "./img/비룡종/기기네블라.webp",
+        "imgurl": "./img/비룡종/기기네블라.png",
         "name": "기기네블라",
         "nickname": "독괴룡[毒怪竜: 독 독(毒), 기괴할 괴(怪), 용 룡(竜)]",
         "type": "비룡종",
@@ -2118,92 +2118,87 @@
       {
         "id": 2,
         "work": "MH",
-        "full-name": "Monster Hunter"
+        "fullName": "Monster Hunter"
       },
       {
         "id": 3,
         "work": "MHG",
-        "full-name": "Monster Hunter G"
+        "fullName": "Monster Hunter G"
       },
       {
         "id": 3,
         "work": "MHP",
-        "full-name": "Monster Hunter Portable"
+        "fullName": "Monster Hunter Portable"
       },
       {
         "id": 4,
-        "work": "MHP",
-        "full-name": "Monster Hunter Portable"
+        "work": "MH2",
+        "fullName": "Monster Hunter Dos"
       },
       {
         "id": 5,
-        "work": "MH2",
-        "full-name": "Monster Hunter Dos"
+        "work": "MHP2",
+        "fullName": "Monster Hunter Portable 2"
       },
       {
         "id": 6,
-        "work": "MHP2",
-        "full-name": "Monster Hunter Portable 2"
+        "work": "MHP2G",
+        "fullName": "Monster Hunter Portable 2G"
       },
       {
         "id": 7,
-        "work": "MHP2G",
-        "full-name": "Monster Hunter Portable 2G"
+        "work": "MH3",
+        "fullName": "Monster Hunter Tri"
       },
       {
         "id": 8,
-        "work": "MH3",
-        "full-name": "Monster Hunter Tri"
+        "work": "MH3G",
+        "fullName": "Monster Hunter Tri G"
       },
       {
         "id": 9,
-        "work": "MH3G",
-        "full-name": "Monster Hunter Tri G"
+        "work": "MHP3",
+        "fullName": "Monster Hunter Portable 3rd"
       },
       {
         "id": 10,
-        "work": "MHP3",
-        "full-name": "Monster Hunter Portable 3rd"
+        "work": "MH4",
+        "fullName": "Monster Hunter 4"
       },
       {
         "id": 11,
-        "work": "MH4",
-        "full-name": "Monster Hunter 4"
+        "work": "MH4G",
+        "fullName": "Monster Hunter 4G"
       },
       {
         "id": 12,
-        "work": "MH4G",
-        "full-name": "Monster Hunter 4G"
+        "work": "MHX",
+        "fullName": "Monster Hunter Cross"
       },
       {
         "id": 13,
-        "work": "MHX",
-        "full-name": "Monster Hunter Cross"
+        "work": "MHXX",
+        "fullName": "Monster Hunter Double Cross"
       },
       {
         "id": 14,
-        "work": "MHXX",
-        "full-name": "Monster Hunter Double Cross"
+        "work": "MHW",
+        "fullName": "Monster Hunter World"
       },
       {
         "id": 15,
-        "work": "MHW",
-        "full-name": "Monster Hunter World"
+        "work": "MHWI",
+        "fullName": "Monster Hunter World IceBorne"
       },
       {
         "id": 16,
-        "work": "MHWI",
-        "full-name": "Monster Hunter World IceBorne"
+        "work": "MHRise",
+        "fullName": "Monster Hunter Rise"
       },
       {
         "id": 17,
-        "work": "MHRise",
-        "full-name": "Monster Hunter Rise"
-      },
-      {
-        "id": 18,
         "work": "MHRSB",
-        "full-name": "Monster Hunter Rise: SunBreak"
+        "fullName": "Monster Hunter Rise: SunBreak"
       }
     ]
   }

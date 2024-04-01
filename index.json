@@ -8,7 +8,17 @@
         "nickname": "순해[盾蟹: 방패 순(盾), 게 해(蟹)] / 방패게",
         "type": "갑각종",
         "speices": "원종",
-        "series": "MH2, MHP2, MHP2G, MH4G, MHX, MHXX, MHRSB"
+        "series": "MH2, MHP2, MHP2G, MH4G, MHX, MHXX, MHRSB",
+        "seriesId": "d, e, f, k, l, m, q",
+        "seriesBool": [
+          {"id": "d", "value": true},
+          {"id": "e", "value": true},
+          {"id": "f", "value": true},
+          {"id": "k", "value": true},
+          {"id": "l", "value": true},
+          {"id": "m", "value": true},
+          {"id": "q", "value": true}
+        ]
       },
       {
         "id": 2,
@@ -17,7 +27,12 @@
         "nickname": "자순해[紫盾蟹: 자줏빛 자(紫), 방패 순(盾), 게 해(蟹)] / 보라방패게",
         "type": "갑각종",
         "speices": "아종",
-        "series": "MHP2G, MH4G"
+        "series": "MHP2G, MH4G",
+        "seriesId": "f, k",
+        "seriesBool": [
+          {"id": "f", "value": true},
+          {"id": "k", "value": true}
+        ]
       },
       {
         "id": 3,
@@ -26,7 +41,12 @@
         "nickname": "모쇄[矛砕: 창 모(矛), 부술 쇄(砕)]",
         "type": "갑각종",
         "speices": "이명 특수개체",
-        "series": "MHX, MHXX"
+        "series": "MHX, MHXX",
+        "seriesId": "l, m",
+        "seriesBool": [
+          {"id": "l", "value": true},
+          {"id": "m", "value": true}
+        ]
       },
       {
         "id": 4,
@@ -35,7 +55,16 @@
         "nickname": "겸해[鎌蟹: 낫 겸(鎌), 게 해(蟹)] / 낫게",
         "type": "갑각종",
         "speices": "원종",
-        "series": "MH2, MHP2, MHP2G, MHX, MHXX, MHRSB"
+        "series": "MH2, MHP2, MHP2G, MHX, MHXX, MHRSB",
+        "seriesId": "d, e, f, l, m, q",
+        "seriesBool": [
+          {"id": "d", "value": true},
+          {"id": "e", "value": true},
+          {"id": "f", "value": true},
+          {"id": "l", "value": true},
+          {"id": "m", "value": true},
+          {"id": "q", "value": true}
+        ]
       },
       {
         "id": 5,
@@ -44,7 +73,11 @@
         "nickname": "겸해[鎌蟹: 낫 겸(鎌), 게 해(蟹)] / 낫게",
         "type": "갑각종",
         "speices": "아종",
-        "series": "MHP2G"
+        "series": "MHP2G",
+        "seriesId": "f",
+        "seriesBool": [
+          {"id": "f", "value": true}
+        ]
       },
       {
         "id": 6,
@@ -53,7 +86,11 @@
         "nickname": "개열[鎧裂: 갑옷 개(鎧), 찢어질 렬(裂)]",
         "type": "갑각종",
         "speices": "이명 특수개체",
-        "series": "MHXX"
+        "series": "MHXX",
+        "seriesId": "m",
+        "seriesBool": [
+          {"id": "m", "value": true}
+        ]
       },
       {
         "id": 7,
@@ -62,7 +99,13 @@
         "nickname": "채해[砦蟹: 목책 채(砦), 게 해(蟹)] / 성채게",
         "type": "갑각종",
         "speices": "원종",
-        "series": "MH2, MHP2, MHP2G"
+        "series": "MH2, MHP2, MHP2G",
+        "seriesId": "d, e, f",
+        "seriesBool": [
+          {"id": "d", "value": true},
+          {"id": "e", "value": true},
+          {"id": "f", "value": true}
+        ]
       },
       {
         "id": 8,
@@ -71,7 +114,14 @@
         "nickname": "중갑충[重甲虫: 무거울 중(重), 갑옷 갑(甲), 벌레 충(虫)]",
         "type": "갑충종",
         "speices": "원종",
-        "series": "MH4, MH4G, MHX, MHXX"
+        "series": "MH4, MH4G, MHX, MHXX",
+        "seriesId": "j, k, l, m",
+        "seriesBool": [
+          {"id": "j", "value": true},
+          {"id": "k", "value": true},
+          {"id": "l", "value": true},
+          {"id": "m", "value": true}
+        ]
       },
       {
         "id": 9,
@@ -80,7 +130,11 @@
         "nickname": "포갑충[砲甲虫: 돌 쇠뇌 포(砲), 갑옷 갑(甲), 벌레 충(虫)]",
         "type": "갑충종",
         "speices": "아종",
-        "series": "MH4G"
+        "series": "MH4G",
+        "seriesId": "k",
+        "seriesBool": [
+          {"id": "k", "value": true}
+        ]
       },
       {
         "id": 10,
@@ -89,7 +143,14 @@
         "nickname": "철갑충[徹甲虫: 뚫을 철(徹), 갑옷 갑(甲), 벌레 충(虫)]",
         "type": "갑충종",
         "speices": "원종",
-        "series": "MH4, MH4G, MHX, MHXX"
+        "series": "MH4, MH4G, MHX, MHXX",
+        "seriesId": "j, k, l, m",
+        "seriesBool": [
+          {"id": "j", "value": true},
+          {"id": "k", "value": true},
+          {"id": "l", "value": true},
+          {"id": "m", "value": true}
+        ]
       },
       {
         "id": 11,
@@ -98,7 +159,11 @@
         "nickname": "부갑충[斧甲虫: 도끼 부(斧), 갑옷 갑(甲), 벌레 충(虫)]",
         "type": "갑충종",
         "speices": "아종",
-        "series": "MH4G"
+        "series": "MH4G",
+        "seriesId": "k",
+        "seriesBool": [
+          {"id": "k", "value": true}
+        ]
       },
       {
         "id": 12,
@@ -107,7 +172,11 @@
         "nickname": "각당랑[閣蟷螂: 누각 각(閣), 버마재비 당(螳), 사마귀 랑(螂)]",
         "type": "갑충종",
         "speices": "원종",
-        "series": "MHXX"
+        "series": "MHXX",
+        "seriesId": "m",
+        "seriesBool": [
+          {"id": "m", "value": true}
+        ]
       },
       {
         "id": 13,
@@ -116,7 +185,11 @@
         "nickname": "여왕충[女王虫: 여자 녀(女), 왕 왕(王), 벌레 충(虫)]",
         "type": "갑충종",
         "speices": "원종",
-        "series": "MHP2G"
+        "series": "MHP2G",
+        "seriesId": "f",
+        "seriesBool": [
+          {"id": "f", "value": true}
+        ]
       },
       {
         "id": 14,
@@ -125,7 +198,19 @@
         "nickname": "개룡[鎧竜: 갑옷 개(鎧), 용 룡(竜)]",
         "type": "비룡종",
         "speices": "원종",
-        "series": "MH, MHG, MHP, MH2, MHP2, MHP2G, MH4, MH4G, MHXX"
+        "series": "MH, MHG, MHP, MH2, MHP2, MHP2G, MH4, MH4G, MHXX",
+        "seriesId": "a, b, c, d, e, f, j, k, m",
+        "seriesBool": [
+          {"id": "a", "value": true},
+          {"id": "b", "value": true},
+          {"id": "c", "value": true},
+          {"id": "d", "value": true},
+          {"id": "e", "value": true},
+          {"id": "f", "value": true},
+          {"id": "j", "value": true},
+          {"id": "k", "value": true},
+          {"id": "m", "value": true}
+        ]
       },
       {
         "id": 15,
@@ -134,7 +219,17 @@
         "nickname": "흑개룡[黒鎧竜: 검을 흑(黒), 갑옷 개(鎧), 용 룡(竜)]",
         "type": "비룡종",
         "speices": "아종",
-        "series": "MHG, MHP, MH2, MHP2, MHP2G, MH4, MH4G"
+        "series": "MHG, MHP, MH2, MHP2, MHP2G, MH4, MH4G",
+        "seriesId": "b, c, d, e, f, j, k",
+        "seriesBool": [
+          {"id": "b", "value": true},
+          {"id": "c", "value": true},
+          {"id": "d", "value": true},
+          {"id": "e", "value": true},
+          {"id": "f", "value": true},
+          {"id": "j", "value": true},
+          {"id": "k", "value": true}
+        ]
       },
       {
         "id": 16,
@@ -143,7 +238,13 @@
         "nickname": "독괴룡[毒怪竜: 독 독(毒), 기괴할 괴(怪), 용 룡(竜)]",
         "type": "비룡종",
         "speices": "원종",
-        "series": "MH3, MHP3, MH3G"
+        "series": "MH3, MH3G, MHP3",
+        "seriesId": "g, h, i",
+        "seriesBool": [
+          {"id": "g", "value": true},
+          {"id": "h", "value": true},
+          {"id": "i", "value": true}
+        ]
       },
       {
         "id": 17,
@@ -152,7 +253,12 @@
         "nickname": "전괴룡[電怪竜: 번개 전(電), 기괴할 괴(怪), 용 룡(竜)]",
         "type": "비룡종",
         "speices": "아종",
-        "series": "MHP3, MH3G"
+        "series": "MH3G, MHP3",
+        "seriesId": "h, i",
+        "seriesBool": [
+          {"id": "h", "value": true},
+          {"id": "i", "value": true}
+        ]
       },
       {
         "id": 18,
@@ -161,7 +267,18 @@
         "nickname": "신룡[迅竜: 빠를 신(迅), 용 룡(竜)]",
         "type": "비룡종",
         "speices": "원종",
-        "series": "MHP2G, MHP3, MH3G, MHX, MHXX, MHWI, MHRise, MHRSB"
+        "series": "MHP2G, MH3G, MHP3, MHX, MHXX, MHWI, MHRise, MHRSB",
+        "seriesId": "f, h, i, l, m, o, p, q",
+        "seriesBool": [
+          {"id": "f", "value": true},
+          {"id": "h", "value": true},
+          {"id": "i", "value": true},
+          {"id": "l", "value": true},
+          {"id": "m", "value": true},
+          {"id": "o", "value": true},
+          {"id": "p", "value": true},
+          {"id": "q", "value": true}
+        ]
       },
       {
         "id": 19,
@@ -170,7 +287,12 @@
         "nickname": "녹신룡[綠迅竜: 푸를 녹(綠), 빠를 신(迅), 용 룡(竜)]",
         "type": "비룡종",
         "speices": "아종",
-        "series": "MHP3, MH3G"
+        "series": "MH3G, MHP3",
+        "seriesId": "h, i",
+        "seriesBool": [
+          {"id": "h", "value": true},
+          {"id": "i", "value": true}
+        ]
       },
       {
         "id": 20,
@@ -179,7 +301,12 @@
         "nickname": "월신룡[月迅竜: 달 월(月), 빠를 신(迅), 용 룡(竜)]",
         "type": "비룡종",
         "speices": "희소종",
-        "series": "MH3G, MHRSB"
+        "series": "MH3G, MHRSB",
+        "seriesId": "h, q",
+        "seriesBool": [
+          {"id": "h", "value": true},
+          {"id": "q", "value": true}
+        ]
       },
       {
         "id": 21,
@@ -188,7 +315,12 @@
         "nickname": "백질풍[白疾風: 흰 백(白), 병 질(疾), 바람 풍(風)]",
         "type": "비룡종",
         "speices": "이명 특수개체",
-        "series": "MHX, MHXX"
+        "series": "MHX, MHXX",
+        "seriesId": "l, m",
+        "seriesBool": [
+          {"id": "l", "value": true},
+          {"id": "m", "value": true}
+        ]
       },
       {
         "id": 22,
@@ -197,7 +329,25 @@
         "nickname": "각룡[角竜: 뿔 각(角), 용 룡(竜)]",
         "type": "비룡종",
         "speices": "원종",
-        "series": "MH, MHG, MHP, MH2, MHP2, MHP2G, MH3, MHP3, MH3G, MH4G, MHXX, MHW, MHWI, MHRise, MHRSB"
+        "series": "MH, MHG, MHP, MH2, MHP2, MHP2G, MH3, MH3G, MHP3, MH4G, MHXX, MHW, MHWI, MHRise, MHRSB",
+        "seriesId": "a, b, c, d, e, f, g, h, i, k, m, n, o, p, q",
+        "seriesBool": [
+          {"id": "a", "value": true},
+          {"id": "b", "value": true},
+          {"id": "c", "value": true},
+          {"id": "d", "value": true},
+          {"id": "e", "value": true},
+          {"id": "f", "value": true},
+          {"id": "g", "value": true},
+          {"id": "h", "value": true},
+          {"id": "i", "value": true},
+          {"id": "k", "value": true},
+          {"id": "m", "value": true},
+          {"id": "n", "value": true},
+          {"id": "o", "value": true},
+          {"id": "p", "value": true},
+          {"id": "q", "value": true}
+        ]
       },
       {
         "id": 23,
@@ -206,7 +356,20 @@
         "nickname": "흑각룡[黒角竜: 검을 흑(黒), 뿔 각(角), 용 룡(竜)]",
         "type": "비룡종",
         "speices": "아종",
-        "series": "MHG, MHP, MH2, MHP2, MHP2G, MHP3, MH3G, MH4G, MHW, MHWI"
+        "series": "MHG, MHP, MH2, MHP2, MHP2G, MH3G, MHP3, MH4G, MHW, MHWI",
+        "seriesId": "b, c, d, e, f, h, i, k, n, o",
+        "seriesBool": [
+          {"id": "b", "value": true},
+          {"id": "c", "value": true},
+          {"id": "d", "value": true},
+          {"id": "e", "value": true},
+          {"id": "f", "value": true},
+          {"id": "h", "value": true},
+          {"id": "i", "value": true},
+          {"id": "k", "value": true},
+          {"id": "n", "value": true},
+          {"id": "o", "value": true}
+        ]
       },
       {
         "id": 24,
@@ -215,7 +378,11 @@
         "nickname": "오마[鏖魔: 오살할 오(鏖), 마귀 마(魔)]",
         "type": "비룡종",
         "speices": "이명 특수개체",
-        "series": "MHXX"
+        "series": "MHXX",
+        "seriesId": "m",
+        "seriesBool": [
+          {"id": "m", "value": true}
+        ]
       },
       {
         "id": 25,
@@ -224,7 +391,11 @@
         "nickname": "각룡[角竜: 뿔 각(角), 용 룡(竜)]",
         "type": "비룡종",
         "speices": "주인",
-        "series": "MHRise"
+        "series": "MHRise",
+        "seriesId": "p",
+        "seriesBool": [
+          {"id": "p", "value": true}
+        ]
       },
       {
         "id": 26,
@@ -233,7 +404,13 @@
         "nickname": "전룡[電竜: 번개 전(電), 용 룡(竜)]",
         "type": "비룡종",
         "speices": "원종",
-        "series": "MHX, MHXX, MHRSB"
+        "series": "MHX, MHXX, MHRSB",
+        "seriesId": "l, m, q",
+        "seriesBool": [
+          {"id": "l", "value": true},
+          {"id": "m", "value": true},
+          {"id": "q", "value": true}
+        ]
       },
       {
         "id": 27,
@@ -242,7 +419,11 @@
         "nickname": "청전주[青電主: 푸를 청(青), 전기 전(電), 주인 주(主)]",
         "type": "비룡종",
         "speices": "이명 특수개체",
-        "series": "MHXX"
+        "series": "MHXX",
+        "seriesId": "m",
+        "seriesBool": [
+          {"id": "m", "value": true}
+        ]
       },
       {
         "id": 28,
@@ -251,7 +432,12 @@
         "nickname": "풍표룡[風漂竜: 바람 풍(風), 떠돌 표(漂), 용 룡(竜)]",
         "type": "비룡종",
         "speices": "원종",
-        "series": "MHW, MHWI"
+        "series": "MHW, MHWI",
+        "seriesId": "n, o",
+        "seriesBool": [
+          {"id": "n", "value": true},
+          {"id": "o", "value": true}
+        ]
       },
       {
         "id": 29,
@@ -260,7 +446,11 @@
         "nickname": "풍표룡[風漂竜: 바람 풍(風), 떠돌 표(漂), 용 룡(竜)]",
         "type": "비룡종",
         "speices": "특수 개체",
-        "series": "MHWI"
+        "series": "MHWI",
+        "seriesId": "o",
+        "seriesBool": [
+          {"id": "o", "value": true}
+        ]
       },
       {
         "id": 30,
@@ -269,7 +459,27 @@
         "nickname": "화룡[火竜: 불 화(火) 용 룡(竜)] / 웅화룡[雄火竜: 수컷 웅(雄), 불 화(火), 용 룡(竜)]",
         "type": "비룡종",
         "speices": "원종",
-        "series": "MH, MHG, MHP, MH2, MHP2, MHP2G, MH3, MH3G, MHP3, MH4, MH4G, MHX, MHXX, MHW, MHWI, MHRise, MHRSB"
+        "series": "MH, MHG, MHP, MH2, MHP2, MHP2G, MH3, MH3G, MHP3, MH4, MH4G, MHX, MHXX, MHW, MHWI, MHRise, MHRSB",
+        "seriesId": "a, b, c, d, e, f, g, h, i, j, k, l, m, n, o, p, q",
+        "seriesBool": [
+          {"id": "a", "value": true},
+          {"id": "b", "value": true},
+          {"id": "c", "value": true},
+          {"id": "d", "value": true},
+          {"id": "e", "value": true},
+          {"id": "f", "value": true},
+          {"id": "g", "value": true},
+          {"id": "h", "value": true},
+          {"id": "i", "value": true},
+          {"id": "j", "value": true},
+          {"id": "k", "value": true},
+          {"id": "l", "value": true},
+          {"id": "m", "value": true},
+          {"id": "n", "value": true},
+          {"id": "o", "value": true},
+          {"id": "p", "value": true},
+          {"id": "q", "value": true}
+        ]
       },
       {
         "id": 31,
@@ -278,7 +488,20 @@
         "nickname": "창화룡[蒼火竜: 푸를 창(火), 불 화(火), 용 룡(竜)]",
         "type": "비룡종",
         "speices": "아종",
-        "series": "MHG, MHP, MH2, MHP2, MHP2G, MH3G, MH4, MH4G, MHW, MHWI"
+        "series": "MHG, MHP, MH2, MHP2, MHP2G, MH3G, MH4, MH4G, MHW, MHWI",
+        "seriesId": "b, c, d, e, f, h, j, k, n, o",
+        "seriesBool": [
+          {"id": "b", "value": true},
+          {"id": "c", "value": true},
+          {"id": "d", "value": true},
+          {"id": "e", "value": true},
+          {"id": "f", "value": true},
+          {"id": "h", "value": true},
+          {"id": "j", "value": true},
+          {"id": "k", "value": true},
+          {"id": "n", "value": true},
+          {"id": "o", "value": true}
+        ]
       },
       {
         "id": 32,
@@ -287,7 +510,22 @@
         "nickname": "은화룡[銀火竜: 은 은(銀), 불 화(火), 용 룡(竜)]",
         "type": "비룡종",
         "speices": "희소종",
-        "series": "MHG, MHP, MH2, MHP2, MHP2G, MHP3, MH3G, MH4, MH4G, MHX, MHXX, MHWI"
+        "series": "MHG, MHP, MH2, MHP2, MHP2G, MH3G, MHP3, MH4, MH4G, MHX, MHXX, MHWI",
+        "seriesId": "b, c, d, e, f, h, i, j, k, l, m, o",
+        "seriesBool": [
+          {"id": "b", "value": true},
+          {"id": "c", "value": true},
+          {"id": "d", "value": true},
+          {"id": "e", "value": true},
+          {"id": "f", "value": true},
+          {"id": "h", "value": true},
+          {"id": "i", "value": true},
+          {"id": "j", "value": true},
+          {"id": "k", "value": true},
+          {"id": "l", "value": true},
+          {"id": "m", "value": true},
+          {"id": "o", "value": true}
+        ]
       },
       {
         "id": 33,
@@ -296,7 +534,12 @@
         "nickname": "흑염왕[黒炎王: 검을 흑(黒), 불꽃 염(炎), 임금 왕(王)]",
         "type": "비룡종",
         "speices": "이명 특수개체",
-        "series": "MHX, MHXX"
+        "series": "MHX, MHXX",
+        "seriesId": "l, m",
+        "seriesBool": [
+          {"id": "l", "value": true},
+          {"id": "m", "value": true}
+        ]
       },
       {
         "id": 34,
@@ -305,7 +548,11 @@
         "nickname": "화룡[火竜: 불 화(火), 용 룡(竜)]",
         "type": "비룡종",
         "speices": "주인",
-        "series": "MHRise"
+        "series": "MHRise",
+        "seriesId": "p",
+        "seriesBool": [
+          {"id": "p", "value": true}
+        ]
       },
       {
         "id": 35,
@@ -314,7 +561,27 @@
         "nickname": "자화룡[雌火竜: 암컷 자(雌), 불 화(火), 용 룡(竜)]",
         "type": "비룡종",
         "speices": "원종",
-        "series": "MH, MHG, MHP, MH2, MHP2, MHP2G, MH3, MH3G, MHP3, MH4, MH4G, MHX, MHXX, MHW, MHWI, MHRise, MHRSB"
+        "series": "MH, MHG, MHP, MH2, MHP2, MHP2G, MH3, MH3G, MHP3, MH4, MH4G, MHX, MHXX, MHW, MHWI, MHRise, MHRSB",
+        "seriesId": "a, b, c, d, e, f, g, h, i, j, k, l, m, n, o, p, q",
+        "seriesBool": [
+          {"id": "a", "value": true},
+          {"id": "b", "value": true},
+          {"id": "c", "value": true},
+          {"id": "d", "value": true},
+          {"id": "e", "value": true},
+          {"id": "f", "value": true},
+          {"id": "g", "value": true},
+          {"id": "h", "value": true},
+          {"id": "i", "value": true},
+          {"id": "j", "value": true},
+          {"id": "k", "value": true},
+          {"id": "l", "value": true},
+          {"id": "m", "value": true},
+          {"id": "n", "value": true},
+          {"id": "o", "value": true},
+          {"id": "p", "value": true},
+          {"id": "q", "value": true}
+        ]
       },
       {
         "id": 36,
@@ -323,7 +590,20 @@
         "nickname": "앵화룡[桜火竜: 앵두나무 앵(桜), 불 화(火), 용 룡(竜)]",
         "type": "비룡종",
         "speices": "아종",
-        "series": "MHG, MHP, MH2, MHP2, MHP2G, MH3G, MH4, MH4G, MHW, MHWI"
+        "series": "MHG, MHP, MH2, MHP2, MHP2G, MH3G, MH4, MH4G, MHW, MHWI",
+        "seriesId": "b, c, d, e, f, h, j, k, n, o",
+        "seriesBool": [
+          {"id": "b", "value": true},
+          {"id": "c", "value": true},
+          {"id": "d", "value": true},
+          {"id": "e", "value": true},
+          {"id": "f", "value": true},
+          {"id": "h", "value": true},
+          {"id": "j", "value": true},
+          {"id": "k", "value": true},
+          {"id": "n", "value": true},
+          {"id": "o", "value": true}
+        ]
       },
       {
         "id": 37,
@@ -332,7 +612,23 @@
         "nickname": "금화룡[金火竜: 금 금(金), 불 화(火), 용 룡(竜)]",
         "type": "비룡종",
         "speices": "희소종",
-        "series": "MHG, MHP, MH2, MHP2, MHP2G, MHP3, MH3G, MH4, MH4G, MHX, MHXX, MHWI, MHRSB"
+        "series": "MHG, MHP, MH2, MHP2, MHP2G, MH3G, MHP3, MH4, MH4G, MHX, MHXX, MHWI, MHRSB",
+        "seriesId": "b, c, d, e, f, h, i, j, k, l, m, o, q",
+        "seriesBool": [
+          {"id": "b", "value": true},
+          {"id": "c", "value": true},
+          {"id": "d", "value": true},
+          {"id": "e", "value": true},
+          {"id": "f", "value": true},
+          {"id": "h", "value": true},
+          {"id": "i", "value": true},
+          {"id": "j", "value": true},
+          {"id": "k", "value": true},
+          {"id": "l", "value": true},
+          {"id": "m", "value": true},
+          {"id": "o", "value": true},
+          {"id": "q", "value": true}
+        ]
       },
       {
         "id": 38,
@@ -341,7 +637,12 @@
         "nickname": "자독희[紫毒姫: 자줏빛 자(紫), 독 독(毒), 여자 희(姫)]",
         "type": "비룡종",
         "speices": "이명 특수개체",
-        "series": "MHX, MHXX"
+        "series": "MHX, MHXX",
+        "seriesId": "l, m",
+        "seriesBool": [
+          {"id": "l", "value": true},
+          {"id": "m", "value": true}
+        ]
       },
       {
         "id": 39,
@@ -350,7 +651,11 @@
         "nickname": "자화룡[雌火竜: 불 화(火), 암컷 자(雌), 용 룡(竜)]",
         "type": "비룡종",
         "speices": "주인",
-        "series": "MHRise"
+        "series": "MHRise",
+        "seriesId": "p",
+        "seriesBool": [
+          {"id": "p", "value": true}
+        ]
       },
       {
         "id": 40,
@@ -359,7 +664,17 @@
         "nickname": "일각룡[一角竜: 하나 일(一), 뿔 각(角), 용 룡(竜)]",
         "type": "비룡종",
         "speices": "원종",
-        "series": "MH, MHG, MHP, MH2, MHP2, MHP2G, MH4G"
+        "series": "MH, MHG, MHP, MH2, MHP2, MHP2G, MH4G",
+        "seriesId": "a, b, c, d, e, f, k",
+        "seriesBool": [
+          {"id": "a", "value": true},
+          {"id": "b", "value": true},
+          {"id": "c", "value": true},
+          {"id": "d", "value": true},
+          {"id": "e", "value": true},
+          {"id": "f", "value": true},
+          {"id": "k", "value": true}
+        ]
       },
       {
         "id": 41,
@@ -368,7 +683,16 @@
         "nickname": "백일각룡[白一角竜: 흰 백(一), 하나 일(一), 뿔 각(角), 용 룡(竜)]",
         "type": "비룡종",
         "speices": "아종",
-        "series": "MHG, MHP, MH2, MHP2, MHP2G, MH4G"
+        "series": "MHG, MHP, MH2, MHP2, MHP2G, MH4G",
+        "seriesId": "b, c, d, e, f, k",
+        "seriesBool": [
+          {"id": "b", "value": true},
+          {"id": "c", "value": true},
+          {"id": "d", "value": true},
+          {"id": "e", "value": true},
+          {"id": "f", "value": true},
+          {"id": "k", "value": true}
+        ]
       },
       {
         "id": 42,
@@ -377,7 +701,21 @@
         "nickname": "암룡[岩竜: 바위 암(岩), 용 룡(竜)]",
         "type": "비룡종",
         "speices": "원종",
-        "series": "MH, MHG, MHP, MH2, MHP2, MHP2G, MH4, MH4G, MHXX, MHRise, MHRSB"
+        "series": "MH, MHG, MHP, MH2, MHP2, MHP2G, MH4, MH4G, MHXX, MHRise, MHRSB",
+        "seriesId": "a, b, c, d, e, f, j, k, m, p, q",
+        "seriesBool": [
+          {"id": "a", "value": true},
+          {"id": "b", "value": true},
+          {"id": "c", "value": true},
+          {"id": "d", "value": true},
+          {"id": "e", "value": true},
+          {"id": "f", "value": true},
+          {"id": "j", "value": true},
+          {"id": "k", "value": true},
+          {"id": "m", "value": true},
+          {"id": "p", "value": true},
+          {"id": "q", "value": true}
+        ]
       },
       {
         "id": 43,
@@ -386,7 +724,12 @@
         "nickname": "도암룡[桃岩竜: 복숭아 도(桃), 바위 암(岩), 용 룡(竜)]",
         "type": "비룡종",
         "speices": "원종",
-        "series": "MH4, MH4G"
+        "series": "MH4, MH4G",
+        "seriesId": "j, k",
+        "seriesBool": [
+          {"id": "j", "value": true},
+          {"id": "k", "value": true}
+        ]
       },
       {
         "id": 44,
@@ -395,7 +738,14 @@
         "nickname": "폭린룡[爆鱗竜: 불터질 폭(爆), 비늘 린(鱗), 용 룡(竜)]",
         "type": "비룡종",
         "speices": "원종",
-        "series": "MHW, MHWI, MHRise, MHRSB"
+        "series": "MHW, MHWI, MHRise, MHRSB",
+        "seriesId": "n, o, p, q",
+        "seriesBool": [
+          {"id": "n", "value": true},
+          {"id": "o", "value": true},
+          {"id": "p", "value": true},
+          {"id": "q", "value": true}
+        ]
       },
       {
         "id": 45,
@@ -404,7 +754,12 @@
         "nickname": "폭린룡[爆鱗竜: 불터질 폭(爆), 비늘 린(鱗), 용 룡(竜)]",
         "type": "비룡종",
         "speices": "특수 개체",
-        "series": "MHWI, MHRSB"
+        "series": "MHWI, MHRSB",
+        "seriesId": "o, q",
+        "seriesBool": [
+          {"id": "o", "value": true},
+          {"id": "q", "value": true}
+        ]
       },
       {
         "id": 46,
@@ -413,7 +768,17 @@
         "nickname": "빙아룡[氷牙竜: 얼음 빙(氷), 어금니 아(牙), 용 룡(竜)]",
         "type": "비룡종",
         "speices": "원종",
-        "series": "MH3, MHP3, MH3G, MHXX, MHWI, MHRise, MHRSB"
+        "series": "MH3, MH3G, MHP3, MHXX, MHWI, MHRise, MHRSB",
+        "seriesId": "g, h, i, m, o, p, q",
+        "seriesBool": [
+          {"id": "g", "value": true},
+          {"id": "h", "value": true},
+          {"id": "i", "value": true},
+          {"id": "m", "value": true},
+          {"id": "o", "value": true},
+          {"id": "p", "value": true},
+          {"id": "q", "value": true}
+        ]
       },
       {
         "id": 47,
@@ -422,7 +787,12 @@
         "nickname": "풍아룡[風牙竜: 바람 풍(風), 어금니 아(牙), 용 룡(竜)]",
         "type": "비룡종",
         "speices": "아종",
-        "series": "MHP3, MH3G"
+        "series": "MH3G, MHP3",
+        "seriesId": "h, i",
+        "seriesBool": [
+          {"id": "h", "value": true},
+          {"id": "i", "value": true}
+        ]
       },
       {
         "id": 48,
@@ -431,7 +801,11 @@
         "nickname": "빙아룡[氷牙竜: 얼음 빙(氷), 어금니 아(牙), 용 룡(竜)]",
         "type": "비룡종",
         "speices": "특수 개체",
-        "series": "MHWI"
+        "series": "MHWI",
+        "seriesId": "o",
+        "seriesBool": [
+          {"id": "o", "value": true}
+        ]
       },
       {
         "id": 49,
@@ -440,7 +814,14 @@
         "nickname": "천인룡[千刃竜: 일천 천(千), 칼날 인(刃), 용 룡(竜)]",
         "type": "비룡종",
         "speices": "원종",
-        "series": "MH4G, MHX, MHXX, MHRSB"
+        "series": "MH4G, MHX, MHXX, MHRSB",
+        "seriesId": "k, l, m, q",
+        "seriesBool": [
+          {"id": "k", "value": true},
+          {"id": "l", "value": true},
+          {"id": "m", "value": true},
+          {"id": "q", "value": true}
+        ]
       },
       {
         "id": 50,
@@ -449,7 +830,17 @@
         "nickname": "패룡[覇竜: 으뜸 패(覇), 용 룡(轟)]",
         "type": "비룡종",
         "speices": "원종",
-        "series": "MHP2, MHP2G, MHP3, MH4, MH4G, MHX, MHXX"
+        "series": "MHP2, MHP2G, MHP3, MH4, MH4G, MHX, MHXX",
+        "seriesId": "e, f, i, j, k, l, m",
+        "seriesBool": [
+          {"id": "e", "value": true},
+          {"id": "f", "value": true},
+          {"id": "i", "value": true},
+          {"id": "j", "value": true},
+          {"id": "k", "value": true},
+          {"id": "l", "value": true},
+          {"id": "m", "value": true}
+        ]
       },
       {
         "id": 51,
@@ -458,7 +849,11 @@
         "nickname": "극룡[棘茶竜: 가시 극(棘), 용 룡(竜)]",
         "type": "비룡종",
         "speices": "원종",
-        "series": "MHRSB"
+        "series": "MHRSB",
+        "seriesId": "q",
+        "seriesBool": [
+          {"id": "q", "value": true}
+        ]
       },
       {
         "id": 52,
@@ -467,7 +862,11 @@
         "nickname": "극다룡[棘茶竜: 가시 극(棘), 차 다(茶), 용 룡(竜)]",
         "type": "비룡종",
         "speices": "아종",
-        "series": "MHRSB"
+        "series": "MHRSB",
+        "seriesId": "q",
+        "seriesBool": [
+          {"id": "q", "value": true}
+        ]
       },
       {
         "id": 53,
@@ -476,7 +875,15 @@
         "nickname": "붕룡[崩竜: 무너질 붕(崩), 용 룡(竜)]",
         "type": "비룡종",
         "speices": "원종",
-        "series": "MHP2G, MHP3, MH4G, MHX, MHXX"
+        "series": "MHP2G, MHP3, MH4G, MHX, MHXX",
+        "seriesId": "f, i, k, l, m",
+        "seriesBool": [
+          {"id": "f", "value": true},
+          {"id": "i", "value": true},
+          {"id": "k", "value": true},
+          {"id": "l", "value": true},
+          {"id": "m", "value": true}
+        ]
       },
       {
         "id": 54,
@@ -485,7 +892,20 @@
         "nickname": "굉룡[轟竜: 울릴 굉(轟), 용 룡(轟)]",
         "type": "비룡종",
         "speices": "원종",
-        "series": "MHP2, MHP2G, MHP3, MH4, MH4G, MHX, MHXX, MHWI, MHR, MHRSB"
+        "series": "MHP2, MHP2G, MHP3, MH4, MH4G, MHX, MHXX, MHWI, MHR, MHRSB",
+        "seriesId": "e, f, i, j, k, l, m, o, p, q",
+        "seriesBool": [
+          {"id": "e", "value": true},
+          {"id": "f", "value": true},
+          {"id": "i", "value": true},
+          {"id": "j", "value": true},
+          {"id": "k", "value": true},
+          {"id": "l", "value": true},
+          {"id": "m", "value": true},
+          {"id": "o", "value": true},
+          {"id": "p", "value": true},
+          {"id": "q", "value": true}
+        ]
       },
       {
         "id": 55,
@@ -494,7 +914,14 @@
         "nickname": "흑굉룡[黑轟竜: 검을 흑(黑), 울릴 굉(轟), 용 룡(竜)]",
         "type": "비룡종",
         "speices": "아종",
-        "series": "MHP3, MH4, MH4G, MHWI"
+        "series": "MHP3, MH4, MH4G, MHWI",
+        "seriesId": "i, j, k, o",
+        "seriesBool": [
+          {"id": "i", "value": true},
+          {"id": "j", "value": true},
+          {"id": "k", "value": true},
+          {"id": "o", "value": true}
+        ]
       },
       {
         "id": 56,
@@ -503,7 +930,12 @@
         "nickname": "대굉룡[大轟竜: 클 대(大), 울릴 굉(轟), 용 룡(竜)]",
         "type": "비룡종",
         "speices": "희소종",
-        "series": "MH4, MH4G"
+        "series": "MH4, MH4G",
+        "seriesId": "j, k",
+        "seriesBool": [
+          {"id": "j", "value": true},
+          {"id": "k", "value": true}
+        ]
       },
       {
         "id": 57,
@@ -512,7 +944,12 @@
         "nickname": "황구조[荒鉤爪: 거칠 황(荒), 갈고리 구(鉤), 손톱 조(爪)]",
         "type": "비룡종",
         "speices": "이명 특수개체",
-        "series": "MHX, MHXX"
+        "series": "MHX, MHXX",
+        "seriesId": "l, m",
+        "seriesBool": [
+          {"id": "l", "value": true},
+          {"id": "m", "value": true}
+        ]
       },
       {
         "id": 58,
@@ -521,7 +958,12 @@
         "nickname": "부공룡[浮空竜: 뜰 부(浮), 빌 공(空), 용 룡(竜)]",
         "type": "비룡종",
         "speices": "원종",
-        "series": "MHW, MHWI"
+        "series": "MHW, MHWI",
+        "seriesId": "n, o",
+        "seriesBool": [
+          {"id": "n", "value": true},
+          {"id": "o", "value": true}
+        ]
       },
       {
         "id": 59,
@@ -530,7 +972,11 @@
         "nickname": "부면룡[浮眠竜: 뜰 부(浮), 잘 면(眠), 용 룡(竜)]",
         "type": "비룡종",
         "speices": "아종",
-        "series": "MHWI"
+        "series": "MHWI",
+        "seriesId": "o",
+        "seriesBool": [
+          {"id": "o", "value": true}
+        ]
       },
       {
         "id": 60,
@@ -539,7 +985,22 @@
         "nickname": "기괴룡[奇怪竜: 기이할 기(奇), 괴이할 괴(怪), 용 룡(竜)]",
         "type": "비룡종",
         "speices": "원종",
-        "series": "MH, MHG, MHP, MH2, MHP2, MHP2G, MH4, MH4G, MHX, MHXX, MHRise, MHRSB"
+        "series": "MH, MHG, MHP, MH2, MHP2, MHP2G, MH4, MH4G, MHX, MHXX, MHRise, MHRSB",
+        "seriesId": "a, b, c, d, e, f, j, k, l, m, p, q",
+        "seriesBool": [
+          {"id": "a", "value": true},
+          {"id": "b", "value": true},
+          {"id": "c", "value": true},
+          {"id": "d", "value": true},
+          {"id": "e", "value": true},
+          {"id": "f", "value": true},
+          {"id": "j", "value": true},
+          {"id": "k", "value": true},
+          {"id": "l", "value": true},
+          {"id": "m", "value": true},
+          {"id": "p", "value": true},
+          {"id": "q", "value": true}
+        ]
       },
       {
         "id": 61,
@@ -548,7 +1009,17 @@
         "nickname": "적괴룡[赤怪竜: 붉을 적(赤), 괴이할 괴(怪), 용 룡(竜)] / 염괴룡",
         "type": "비룡종",
         "speices": "아종",
-        "series": "MHG, MHP, MH2, MHP2, MHP2G, MH4, MH4G"
+        "series": "MHG, MHP, MH2, MHP2, MHP2G, MH4, MH4G",
+        "seriesId": "b, c, d, e, f, j, k",
+        "seriesBool": [
+          {"id": "b", "value": true},
+          {"id": "c", "value": true},
+          {"id": "d", "value": true},
+          {"id": "e", "value": true},
+          {"id": "f", "value": true},
+          {"id": "j", "value": true},
+          {"id": "k", "value": true}
+        ]
       },
       {
         "id": 62,
@@ -557,7 +1028,14 @@
         "nickname": "교사룡[絞蛇竜: 목맬 교(絞), 뱀 사(蛇), 용 룡(竜)]",
         "type": "사룡종",
         "speices": "원종",
-        "series": "MH4, MH4G, MHX, MHXX"
+        "series": "MH4, MH4G, MHX, MHXX",
+        "seriesId": "j, k, l, m",
+        "seriesBool": [
+          {"id": "j", "value": true},
+          {"id": "k", "value": true},
+          {"id": "l", "value": true},
+          {"id": "m", "value": true}
+        ]
       },
       {
         "id": 63,
@@ -566,7 +1044,11 @@
         "nickname": "수사룡[絞蛇竜: 물 수(水), 뱀 사(蛇), 용 룡(竜)]",
         "type": "사룡종",
         "speices": "아종",
-        "series": "MH4G"
+        "series": "MH4G",
+        "seriesId": "k",
+        "seriesBool": [
+          {"id": "k", "value": true}
+        ]
       },
       {
         "id": 64,
@@ -575,7 +1057,14 @@
         "nickname": "미추룡[尾槌竜: 꼬리 미(尾), 망치 추(槌), 용 룡(竜)]",
         "type": "수룡종",
         "speices": "원종",
-        "series": "MHP3, MH3G, MHX, MHXX"
+        "series": "MH3G, MHP3, MHX, MHXX",
+        "seriesId": "h, i, l, m",
+        "seriesBool": [
+          {"id": "h", "value": true},
+          {"id": "i", "value": true},
+          {"id": "l", "value": true},
+          {"id": "m", "value": true}
+        ]
       },
       {
         "id": 65,
@@ -584,7 +1073,11 @@
         "nickname": "미부룡[尾斧竜: 꼬리 미(尾), 도끼 부(斧), 용 룡(竜)]",
         "type": "수룡종",
         "speices": "아종",
-        "series": "MH3G"
+        "series": "MH3G",
+        "seriesId": "h",
+        "seriesBool": [
+          {"id": "h", "value": true}
+        ]
       },
       {
         "id": 66,
@@ -593,7 +1086,13 @@
         "nickname": "참룡[斬竜: 벨 참(斬), 용 룡(竜)]",
         "type": "수룡종",
         "speices": "원종",
-        "series": "MHX, MHXX, MHWI"
+        "series": "MHX, MHXX, MHWI",
+        "seriesId": "l, m, o",
+        "seriesBool": [
+          {"id": "l", "value": true},
+          {"id": "m", "value": true},
+          {"id": "o", "value": true}
+        ]
       },
       {
         "id": 67,
@@ -602,7 +1101,11 @@
         "nickname": "류참룡[硫斬竜: 유황 류(硫), 벨 참(斬), 용 룡(竜)]",
         "type": "수룡종",
         "speices": "아종",
-        "series": "MHWI"
+        "series": "MHWI",
+        "seriesId": "o",
+        "seriesBool": [
+          {"id": "o", "value": true}
+        ]
       },
       {
         "id": 68,
@@ -611,7 +1114,12 @@
         "nickname": "신멸인[燼滅刃: 불탄 끝 신(燼), 멸할 멸(滅), 칼날 인(刃)]",
         "type": "수룡종",
         "speices": "이명 특수개체",
-        "series": "MHX, MHXX"
+        "series": "MHX, MHXX",
+        "seriesId": "l, m",
+        "seriesBool": [
+          {"id": "l", "value": true},
+          {"id": "m", "value": true}
+        ]
       },
       {
         "id": 69,
@@ -620,7 +1128,12 @@
         "nickname": "골추룡[骨鎚竜: 뼈 골(骨), 쇠망치 추(鎚), 용 룡(竜)]",
         "type": "수룡종",
         "speices": "원종",
-        "series": "MHW, MHWI"
+        "series": "MHW, MHWI",
+        "seriesId": "n, o",
+        "seriesBool": [
+          {"id": "n", "value": true},
+          {"id": "o", "value": true}
+        ]
       },
       {
         "id": 70,
@@ -629,7 +1142,11 @@
         "nickname": "맹우룡[猛牛竜: 사나울 맹(猛), 소 우(牛), 용 룡(竜)]",
         "type": "수룡종",
         "speices": "원종",
-        "series": "MHWI"
+        "series": "MHWI",
+        "seriesId": "o",
+        "seriesBool": [
+          {"id": "o", "value": true}
+        ]
       },
       {
         "id": 71,
@@ -638,7 +1155,18 @@
         "nickname": "토사룡[土沙竜: 흙 토(土), 모래 사(沙), 용 룡(竜)]",
         "type": "수룡종",
         "speices": "원종",
-        "series": "MH3, MHP3, MH3G, MHXX, MHW, MHWI, MHRise, MHRSB"
+        "series": "MH3, MH3G, MHP3, MHXX, MHW, MHWI, MHRise, MHRSB",
+        "seriesId": "g, h, i, m, n, o, p, q",
+        "seriesBool": [
+          {"id": "g", "value": true},
+          {"id": "h", "value": true},
+          {"id": "i", "value": true},
+          {"id": "m", "value": true},
+          {"id": "n", "value": true},
+          {"id": "o", "value": true},
+          {"id": "p", "value": true},
+          {"id": "q", "value": true}
+        ]
       },
       {
         "id": 72,
@@ -647,7 +1175,12 @@
         "nickname": "빙쇄룡[氷砕竜: 얼음 빙(氷), 부술 쇄(砕), 용 룡(竜)]",
         "type": "수룡종",
         "speices": "아종",
-        "series": "MHP3, MH3G"
+        "series": "MH3G, MHP3",
+        "seriesId": "h, i",
+        "seriesBool": [
+          {"id": "h", "value": true},
+          {"id": "i", "value": true}
+        ]
       },
       {
         "id": 73,
@@ -656,7 +1189,16 @@
         "nickname": "쇄룡[砕竜: 부술 쇄(砕), 용 룡(竜)]",
         "type": "수룡종",
         "speices": "원종",
-        "series": "MH3G, MH4, MH4G, MHX, MHXX, MHWI"
+        "series": "MH3G, MH4, MH4G, MHX, MHXX, MHWI",
+        "seriesId": "h, j, k, l, m, o",
+        "seriesBool": [
+          {"id": "h", "value": true},
+          {"id": "j", "value": true},
+          {"id": "k", "value": true},
+          {"id": "l", "value": true},
+          {"id": "m", "value": true},
+          {"id": "o", "value": true}
+        ]
       },
       {
         "id": 74,
@@ -665,7 +1207,13 @@
         "nickname": "쇄룡[砕竜: 부술 쇄(砕), 용 룡(竜)]",
         "type": "수룡종",
         "speices": "특수 개체",
-        "series": "MH4G, MHXX, MHWI"
+        "series": "MH4G, MHXX, MHWI",
+        "seriesId": "k, m, o",
+        "seriesBool": [
+          {"id": "k", "value": true},
+          {"id": "m", "value": true},
+          {"id": "o", "value": true}
+        ]
       },
       {
         "id": 75,
@@ -674,7 +1222,14 @@
         "nickname": "만악룡[蛮顎竜: 오랑캐 만(蛮), 턱 악(顎), 용 룡(竜)]",
         "type": "수룡종",
         "speices": "원종",
-        "series": "MHW, MHWI, MHRise, MHRSB"
+        "series": "MHW, MHWI, MHRise, MHRSB",
+        "seriesId": "n, o, p, q",
+        "seriesBool": [
+          {"id": "n", "value": true},
+          {"id": "o", "value": true},
+          {"id": "p", "value": true},
+          {"id": "q", "value": true}
+        ]
       },
       {
         "id": 76,
@@ -683,7 +1238,11 @@
         "nickname": "뇌악룡[雷顎竜: 우레 뇌(雷), 턱 악(顎), 용 룡(竜)]",
         "type": "수룡종",
         "speices": "아종",
-        "series": "MHWI"
+        "series": "MHWI",
+        "seriesId": "o",
+        "seriesBool": [
+          {"id": "o", "value": true}
+        ]
       },
       {
         "id": 77,
@@ -692,7 +1251,17 @@
         "nickname": "폭추룡[爆鎚竜: 터질 폭(爆), 쇠망치 추(鎚), 용 룡(竜)]",
         "type": "수룡종",
         "speices": "원종",
-        "series": "MH3, MHP3, MH3G, MHX, MHXX, MHW, MHWI"
+        "series": "MH3, MH3G, MHP3, MHX, MHXX, MHW, MHWI",
+        "seriesId": "g, h, i, l, m, n, o",
+        "seriesBool": [
+          {"id": "g", "value": true},
+          {"id": "h", "value": true},
+          {"id": "i", "value": true},
+          {"id": "l", "value": true},
+          {"id": "m", "value": true},
+          {"id": "n", "value": true},
+          {"id": "o", "value": true}
+        ]
       },
       {
         "id": 78,
@@ -701,7 +1270,12 @@
         "nickname": "강추룡[鋼鎚竜: 강철 강(爆), 쇠망치 추(鎚), 용 룡(竜)]",
         "type": "수룡종",
         "speices": "아종",
-        "series": "MHP3, MH3G"
+        "series": "MH3G, MHP3",
+        "seriesId": "h, i",
+        "seriesBool": [
+          {"id": "h", "value": true},
+          {"id": "i", "value": true}
+        ]
       },
       {
         "id": 79,
@@ -710,7 +1284,12 @@
         "nickname": "보전[宝纏: 보배 보(宝), 얽을 전(纏)]",
         "type": "수룡종",
         "speices": "이명 특수개체",
-        "series": "MHX, MHXX"
+        "series": "MHX, MHXX",
+        "seriesId": "l, m",
+        "seriesBool": [
+          {"id": "l", "value": true},
+          {"id": "m", "value": true}
+        ]
       },
       {
         "id": 80,
@@ -719,7 +1298,19 @@
         "nickname": "공폭룡[恐暴竜: 두려울 공(恐), 사나울 폭(暴), 용 룡(竜)]",
         "type": "수룡종",
         "speices": "원종",
-        "series": "MH3, MHP3, MH3G, MH4, MH4G, MHX, MHXX, MHW, MHWI"
+        "series": "MH3, MH3G, MHP3, MH4, MH4G, MHX, MHXX, MHW, MHWI",
+        "seriesId": "g, h, i, j, k, l, m, n, o",
+        "seriesBool": [
+          {"id": "g", "value": true},
+          {"id": "h", "value": true},
+          {"id": "i", "value": true},
+          {"id": "j", "value": true},
+          {"id": "k", "value": true},
+          {"id": "l", "value": true},
+          {"id": "m", "value": true},
+          {"id": "n", "value": true},
+          {"id": "o", "value": true}
+        ]
       },
       {
         "id": 81,
@@ -728,9 +1319,17 @@
         "nickname": "공폭룡[恐暴竜: 두려울 공(恐), 사나울 폭(暴), 용 룡(竜)]",
         "type": "수룡종",
         "speices": "특수 개체",
-        "series": "MH3G, MH4, MH4G, MHX, MHXX, MHWI"
+        "series": "MH3G, MH4, MH4G, MHX, MHXX, MHWI",
+        "seriesId": "h, j, k, l, m, o",
+        "seriesBool": [
+          {"id": "h", "value": true},
+          {"id": "j", "value": true},
+          {"id": "k", "value": true},
+          {"id": "l", "value": true},
+          {"id": "m", "value": true},
+          {"id": "o", "value": true}
+        ]
       },
-
       {
         "id": 82,
         "imgurl": "./img/아룡종/도도가마루.webp",
@@ -738,7 +1337,12 @@
         "nickname": "암적룡[岩賊竜: 바위 암(岩), 도둑 적(賊), 용 룡(竜)]",
         "type": "아룡종",
         "speices": "원종",
-        "series": "MHW, MHWI"
+        "series": "MHW, MHWI",
+        "seriesId": "n, o",
+        "seriesBool": [
+          {"id": "n", "value": true},
+          {"id": "o", "value": true}
+        ]
       },
       {
         "id": 83,
@@ -747,7 +1351,12 @@
         "nickname": "비적룡[痺賊竜: 저릴 비(痺), 도둑 적(賊), 용 룡(竜)]",
         "type": "아룡종",
         "speices": "원종",
-        "series": "MHW, MHWI"
+        "series": "MHW, MHWI",
+        "seriesId": "n, o",
+        "seriesBool": [
+          {"id": "n", "value": true},
+          {"id": "o", "value": true}
+        ]
       },
       {
         "id": 84,
@@ -756,7 +1365,12 @@
         "nickname": "적룡[賊竜: 도둑 적(賊), 용 룡(竜)]",
         "type": "아룡종",
         "speices": "원종",
-        "series": "MHW, MHWI"
+        "series": "MHW, MHWI",
+        "seriesId": "n, o",
+        "seriesBool": [
+          {"id": "n", "value": true},
+          {"id": "o", "value": true}
+        ]
       },
       {
         "id": 85,
@@ -765,7 +1379,11 @@
         "nickname": "빙랑룡[氷狼竜: 얼음 빙(氷), 늑대 랑(狼), 용 룡(竜)]",
         "type": "아룡종",
         "speices": "원종",
-        "series": "MHRSB"
+        "series": "MHRSB",
+        "seriesId": "q",
+        "seriesBool": [
+          {"id": "q", "value": true}
+        ]
       },
       {
         "id": 86,
@@ -774,7 +1392,12 @@
         "nickname": "원호룡[怨虎竜: 원한 원(怨), 범 호(虎), 용 룡(竜)]",
         "type": "아룡종",
         "speices": "원종",
-        "series": "MHRise, MHRSB"
+        "series": "MHRise, MHRSB",
+        "seriesId": "p, q",
+        "seriesBool": [
+          {"id": "p", "value": true},
+          {"id": "q", "value": true}
+        ]
       },
       {
         "id": 87,
@@ -783,7 +1406,11 @@
         "nickname": "원호룡[怨虎竜: 원한 원(怨), 범 호(虎), 용 룡(竜)]",
         "type": "아룡종",
         "speices": "특수 개체",
-        "series": "MHRSB"
+        "series": "MHRSB",
+        "seriesId": "q",
+        "seriesBool": [
+          {"id": "q", "value": true}
+        ]
       },
       {
         "id": 88,
@@ -792,7 +1419,12 @@
         "nickname": "참조룡[惨爪竜: 참혹할 참(惨), 손톱 조(爪), 용 룡(竜)]",
         "type": "아룡종",
         "speices": "원종",
-        "series": "MHW, MHWI"
+        "series": "MHW, MHWI",
+        "seriesId": "n, o",
+        "seriesBool": [
+          {"id": "n", "value": true},
+          {"id": "o", "value": true}
+        ]
       },
       {
         "id": 89,
@@ -801,7 +1433,11 @@
         "nickname": "흉조룡[兇爪竜: 흉악할 흉(兇), 손톱 조(爪), 용 룡(竜)]",
         "type": "아룡종",
         "speices": "아종",
-        "series": "MHWI"
+        "series": "MHWI",
+        "seriesId": "o",
+        "seriesBool": [
+          {"id": "o", "value": true}
+        ]
       },
       {
         "id": 90,
@@ -810,7 +1446,19 @@
         "nickname": "뇌랑룡[雷狼竜: 우레 뇌(雷), 늑대 랑(狼), 용 룡(竜)]",
         "type": "아룡종",
         "speices": "원종",
-        "series": "MHP3, MH3G, MH4, MH4G, MHX, MHXX, MHWI, MHRise, MHRSB"
+        "series": "MH3G, MHP3, MH4, MH4G, MHX, MHXX, MHWI, MHRise, MHRSB",
+        "seriesId": "h, i, j, k, l, m, o, p, q",
+        "seriesBool": [
+          {"id": "h", "value": true},
+          {"id": "i", "value": true},
+          {"id": "j", "value": true},
+          {"id": "k", "value": true},
+          {"id": "l", "value": true},
+          {"id": "m", "value": true},
+          {"id": "o", "value": true},
+          {"id": "p", "value": true},
+          {"id": "q", "value": true}
+        ]
       },
       {
         "id": 91,
@@ -819,7 +1467,14 @@
         "nickname": "옥랑룡[獄狼竜: 감옥 옥(獄), 늑대 랑(狼), 용 룡(竜)]",
         "type": "아룡종",
         "speices": "아종",
-        "series": "MH3G, MH4, MH4G, MHWI"
+        "series": "MH3G, MH4, MH4G, MHWI",
+        "seriesId": "h, j, k, o",
+        "seriesBool": [
+          {"id": "h", "value": true},
+          {"id": "j", "value": true},
+          {"id": "k", "value": true},
+          {"id": "o", "value": true}
+        ]
       },
       {
         "id": 92,
@@ -828,7 +1483,12 @@
         "nickname": "금뢰공[金雷公: 금 금(金), 우레 뇌(雷), 공평할 공(公)]",
         "type": "아룡종",
         "speices": "이명 특수개체",
-        "series": "MHX, MHXX"
+        "series": "MHX, MHXX",
+        "seriesId": "l, m",
+        "seriesBool": [
+          {"id": "l", "value": true},
+          {"id": "m", "value": true}
+        ]
       },
       {
         "id": 93,
@@ -837,7 +1497,11 @@
         "nickname": "뇌랑룡[雷狼竜: 우레 뇌(雷), 늑대 랑(狼), 용 룡(竜)]",
         "type": "아룡종",
         "speices": "주인",
-        "series": "MHRise"
+        "series": "MHRise",
+        "seriesId": "p",
+        "seriesBool": [
+          {"id": "p", "value": true}
+        ]
       },
       {
         "id": 94,
@@ -846,7 +1510,14 @@
         "nickname": "비뢰룡[飛雷竜: 날 비(飛), 우레 뢰(雷), 용 룡(竜)]",
         "type": "아룡종",
         "speices": "원종",
-        "series": "MHW, MHWI, MHRise, MHRSB"
+        "series": "MHW, MHWI, MHRise, MHRSB",
+        "seriesId": "n, o, p, q",
+        "seriesBool": [
+          {"id": "n", "value": true},
+          {"id": "o", "value": true},
+          {"id": "p", "value": true},
+          {"id": "q", "value": true}
+        ]
       },
       {
         "id": 95,
@@ -855,7 +1526,11 @@
         "nickname": "비독룡[飛毒竜: 날 비(飛), 독 독(毒), 용 룡(竜)]",
         "type": "아룡종",
         "speices": "아종",
-        "series": "MHWI"
+        "series": "MHWI",
+        "seriesId": "o",
+        "seriesBool": [
+          {"id": "o", "value": true}
+        ]
       },
       {
         "id": 96,
@@ -864,7 +1539,11 @@
         "nickname": "강전수[剛纏獣: 굳셀 강(剛), 얽을 전(纏), 짐승 수(獣)]",
         "type": "아수종",
         "speices": "원종",
-        "series": "MHRSB"
+        "series": "MHRSB",
+        "seriesId": "q",
+        "seriesBool": [
+          {"id": "q", "value": true}
+        ]
       },
       {
         "id": 97,
@@ -873,7 +1552,12 @@
         "nickname": "거수[巨獣: 클 거(巨), 짐승 수(獣)]",
         "type": "아수종",
         "speices": "원종",
-        "series": "MHX, MHXX"
+        "series": "MHX, MHXX",
+        "seriesId": "l, m",
+        "seriesBool": [
+          {"id": "l", "value": true},
+          {"id": "m", "value": true}
+        ]
       },
       {
         "id": 98,
@@ -882,7 +1566,11 @@
         "nickname": "은령[銀嶺: 은 은(銀), 고개 령(嶺)]",
         "type": "아수종",
         "speices": "이명 특수개체",
-        "series": "MHXX"
+        "series": "MHXX",
+        "seriesId": "m",
+        "seriesBool": [
+          {"id": "m", "value": true}
+        ]
       },
       {
         "id": 99,
@@ -891,7 +1579,12 @@
         "nickname": "설귀수[雪鬼獣: 눈 설(雪), 귀신 귀(鬼), 짐승 수(獣)]",
         "type": "아수종",
         "speices": "원종",
-        "series": "MHRise, MHRSB"
+        "series": "MHRise, MHRSB",
+        "seriesId": "p, q",
+        "seriesBool": [
+          {"id": "p", "value": true},
+          {"id": "q", "value": true}
+        ]
       },
       {
         "id": 100,
@@ -900,7 +1593,15 @@
         "nickname": "설사자[雪獅子: 눈 설(雪), 사자 사(獅), 아들 자(子)] / 눈사자",
         "type": "아수종",
         "speices": "원종",
-        "series": "MH2, MHP2, MHP2G, MHX, MHXX"
+        "series": "MH2, MHP2, MHP2G, MHX, MHXX",
+        "seriesId": "d, e, f, l, m",
+        "seriesBool": [
+          {"id": "d", "value": true},
+          {"id": "e", "value": true},
+          {"id": "f", "value": true},
+          {"id": "l", "value": true},
+          {"id": "m", "value": true}
+        ]
       },
       {
         "id": 101,
@@ -909,7 +1610,11 @@
         "nickname": "사사자[砂獅子: 모래 사(砂), 사자 사(獅), 아들 자(子)]",
         "type": "아수종",
         "speices": "아종",
-        "series": "MHP2G"
+        "series": "MHP2G",
+        "seriesId": "f",
+        "seriesBool": [
+          {"id": "f", "value": true}
+        ]
       },
       {
         "id": 102,
@@ -918,7 +1623,16 @@
         "nickname": "대저[大猪: 클 대(大), 돼지 저(猪)]",
         "type": "아수종",
         "speices": "원종",
-        "series": "MH2, MHP2, MHP2G, MHP3, MHX, MHXX"
+        "series": "MH2, MHP2, MHP2G, MHP3, MHX, MHXX",
+        "seriesId": "d, e, f, i, l, m",
+        "seriesBool": [
+          {"id": "d", "value": true},
+          {"id": "e", "value": true},
+          {"id": "f", "value": true},
+          {"id": "i", "value": true},
+          {"id": "l", "value": true},
+          {"id": "m", "value": true}
+        ]
       },
       {
         "id": 103,
@@ -927,7 +1641,20 @@
         "nickname": "금사자[金獅子: 금 금(金), 사자 사(獅), 아들 자(子)]",
         "type": "아수종",
         "speices": "원종",
-        "series": "MH2, MHP2, MHP2G, MH4, MH4G, MHX, MHXX, MHWI, MHR, MHRSB"
+        "series": "MH2, MHP2, MHP2G, MH4, MH4G, MHX, MHXX, MHWI, MHR, MHRSB",
+        "seriesId": "d, e, f, j, k, l, m, o, p, q",
+        "seriesBool": [
+          {"id": "d", "value": true},
+          {"id": "e", "value": true},
+          {"id": "f", "value": true},
+          {"id": "j", "value": true},
+          {"id": "k", "value": true},
+          {"id": "l", "value": true},
+          {"id": "m", "value": true},
+          {"id": "o", "value": true},
+          {"id": "p", "value": true},
+          {"id": "q", "value": true}
+        ]
       },
       {
         "id": 104,
@@ -936,7 +1663,17 @@
         "nickname": "금사자[金獅子: 금 금(金), 사자 사(獅), 아들 자(子)]",
         "type": "아수종",
         "speices": "특수 개체",
-        "series": "MHP2G, MH4, MH4G, MHX, MHXX, MHWI, MHRSB"
+        "series": "MHP2G, MH4, MH4G, MHX, MHXX, MHWI, MHRSB",
+        "seriesId": "f, j, k, l, m, o, q",
+        "seriesBool": [
+          {"id": "f", "value": true},
+          {"id": "j", "value": true},
+          {"id": "k", "value": true},
+          {"id": "l", "value": true},
+          {"id": "m", "value": true},
+          {"id": "o", "value": true},
+          {"id": "q", "value": true}
+        ]
       },
       {
         "id": 105,
@@ -945,7 +1682,16 @@
         "nickname": "적갑수[赤甲獣: 붉을 적(赤), 갑옷 갑(甲), 짐승 수(獣)]",
         "type": "아수종",
         "speices": "원종",
-        "series": "MHP3, MH3G, MHX, MHXX, MHRise, MHRSB"
+        "series": "MH3G, MHP3, MHX, MHXX, MHRise, MHRSB",
+        "seriesId": "h, i, l, m, p, q",
+        "seriesBool": [
+          {"id": "h", "value": true},
+          {"id": "i", "value": true},
+          {"id": "l", "value": true},
+          {"id": "m", "value": true},
+          {"id": "p", "value": true},
+          {"id": "q", "value": true}
+        ]
       },
       {
         "id": 106,
@@ -954,7 +1700,16 @@
         "nickname": "도모수[桃毛獣: 복숭아 도(桃), 털 모(毛), 짐승 수(獣)]",
         "type": "아수종",
         "speices": "원종",
-        "series": "MH2, MHP2, MHP2G, MH4, MH4G, MHXX"
+        "series": "MH2, MHP2, MHP2G, MH4, MH4G, MHXX",
+        "seriesId": "d, e, f, j, k, m",
+        "seriesBool": [
+          {"id": "d", "value": true},
+          {"id": "e", "value": true},
+          {"id": "f", "value": true},
+          {"id": "j", "value": true},
+          {"id": "k", "value": true},
+          {"id": "m", "value": true}
+        ]
       },
       {
         "id": 107,
@@ -963,7 +1718,13 @@
         "nickname": "녹모수[綠毛獸: 푸를 녹(綠), 털 모(毛), 짐승 수(獣)]",
         "type": "아수종",
         "speices": "아종",
-        "series": "MHP2G, MH4, MH4G"
+        "series": "MHP2G, MH4, MH4G",
+        "seriesId": "f, j, k",
+        "seriesBool": [
+          {"id": "f", "value": true},
+          {"id": "j", "value": true},
+          {"id": "k", "value": true}
+        ]
       },
       {
         "id": 108,
@@ -972,7 +1733,12 @@
         "nickname": "천구수[天狗獣: 하늘 천(天), 개 구(狗), 짐승 수(獣)]",
         "type": "아수종",
         "speices": "원종",
-        "series": "MHRise, MHRSB"
+        "series": "MHRise, MHRSB",
+        "seriesId": "p, q",
+        "seriesBool": [
+          {"id": "p", "value": true},
+          {"id": "q", "value": true}
+        ]
       },
       {
         "id": 109,
@@ -981,7 +1747,11 @@
         "nickname": "비천구수[緋天狗獣: 비단 비(緋), 하늘 천(天), 개 구(狗), 짐승 수(獣)]",
         "type": "아수종",
         "speices": "아종",
-        "series": "MHRSB"
+        "series": "MHRSB",
+        "seriesId": "q",
+        "seriesBool": [
+          {"id": "q", "value": true}
+        ]
       },
       {
         "id": 110,
@@ -990,7 +1760,16 @@
         "nickname": "청웅수[青熊獣: 푸를 청(青), 곰 웅(熊), 짐승 수(獣)]",
         "type": "아수종",
         "speices": "원종",
-        "series": "MHP3, MH3G, MHX, MHXX, MHR, MHRSB"
+        "series": "MH3G, MHP3, MHX, MHXX, MHR, MHRSB",
+        "seriesId": "h, i, l, m, p, q",
+        "seriesBool": [
+          {"id": "h", "value": true},
+          {"id": "i", "value": true},
+          {"id": "l", "value": true},
+          {"id": "m", "value": true},
+          {"id": "p", "value": true},
+          {"id": "q", "value": true}
+        ]
       },
       {
         "id": 111,
@@ -999,7 +1778,12 @@
         "nickname": "홍두[紅兜: 붉을 홍(紅), 투구 두(兜)]",
         "type": "아수종",
         "speices": "이명 특수개체",
-        "series": "MHX, MHXX"
+        "series": "MHX, MHXX",
+        "seriesId": "l, m",
+        "seriesBool": [
+          {"id": "l", "value": true},
+          {"id": "m", "value": true}
+        ]
       },
       {
         "id": 112,
@@ -1008,7 +1792,11 @@
         "nickname": "청웅수[青熊獣: 푸를 청(青), 곰 웅(熊), 용 룡(竜)]",
         "type": "아수종",
         "speices": "주인",
-        "series": "MHRise"
+        "series": "MHRise",
+        "seriesId": "p",
+        "seriesBool": [
+          {"id": "p", "value": true}
+        ]
       },
       {
         "id": 113,
@@ -1017,7 +1805,18 @@
         "nickname": "백토수[白兎獣: 흰 백(白), 토끼 토(兎), 짐승 수(獣)]",
         "type": "아수종",
         "speices": "이명 특수개체",
-        "series": "MHP3, MH3G, MH4, MH4G, MHX, MHXX, MHRise, MHRSB"
+        "series": "MH3G, MHP3, MH4, MH4G, MHX, MHXX, MHRise, MHRSB",
+        "seriesId": "h, i, j, k, l, m, p, q",
+        "seriesBool": [
+          {"id": "h", "value": true},
+          {"id": "i", "value": true},
+          {"id": "j", "value": true},
+          {"id": "k", "value": true},
+          {"id": "l", "value": true},
+          {"id": "m", "value": true},
+          {"id": "p", "value": true},
+          {"id": "q", "value": true}
+        ]
       },
       {
         "id": 114,
@@ -1026,7 +1825,12 @@
         "nickname": "대설주[大雪主: 클 대(大), 눈 설(雪), 주인 주(主)]",
         "type": "아수종",
         "speices": "이명 특수개체",
-        "series": "MHX, MHXX"
+        "series": "MHX, MHXX",
+        "seriesId": "l, m",
+        "seriesBool": [
+          {"id": "l", "value": true},
+          {"id": "m", "value": true}
+        ]
       },
       {
         "id": 115,
@@ -1035,7 +1839,14 @@
         "nickname": "기원호[奇猿狐: 기이할 기(奇), 원숭이 원(猿), 여우 호(狐)]",
         "type": "아수종",
         "speices": "원종",
-        "series": "MH4, MH4G, MHX, MHXX"
+        "series": "MH4, MH4G, MHX, MHXX",
+        "seriesId": "j, k, l, m",
+        "seriesBool": [
+          {"id": "j", "value": true},
+          {"id": "k", "value": true},
+          {"id": "l", "value": true},
+          {"id": "m", "value": true}
+        ]
       },
       {
         "id": 116,
@@ -1044,7 +1855,11 @@
         "nickname": "백원호[白猿狐: 흰 백(白), 원숭이 원(猿), 여우 호(狐)]",
         "type": "아수종",
         "speices": "아종",
-        "series": "MH4G"
+        "series": "MH4G",
+        "seriesId": "k",
+        "seriesBool": [
+          {"id": "k", "value": true}
+        ]
       },
       {
         "id": 117,
@@ -1053,7 +1868,14 @@
         "nickname": "하동와[河童蛙: 강 하(河), 개구쟁이 동(童), 개구리 와(蛙)]",
         "type": "양서종",
         "speices": "원종",
-        "series": "MH4, MH4G, MHX, MHXX"
+        "series": "MH4, MH4G, MHX, MHXX",
+        "seriesId": "j, k, l, m",
+        "seriesBool": [
+          {"id": "j", "value": true},
+          {"id": "k", "value": true},
+          {"id": "l", "value": true},
+          {"id": "m", "value": true}
+        ]
       },
       {
         "id": 118,
@@ -1062,7 +1884,14 @@
         "nickname": "괴상어[化け鮫]",
         "type": "양서종",
         "speices": "원종",
-        "series": "MH4, MH4G, MHX, MHXX"
+        "series": "MH4, MH4G, MHX, MHXX",
+        "seriesId": "j, k, l, m",
+        "seriesBool": [
+          {"id": "j", "value": true},
+          {"id": "k", "value": true},
+          {"id": "l", "value": true},
+          {"id": "m", "value": true}
+        ]
       },
       {
         "id": 119,
@@ -1071,7 +1900,11 @@
         "nickname": "호교[虎鮫: 범 호(虎), 상어 교(鮫)] / 호상어",
         "type": "양서종",
         "speices": "아종",
-        "series": "MH4G"
+        "series": "MH4G",
+        "seriesId": "k",
+        "seriesBool": [
+          {"id": "k", "value": true}
+        ]
       },
       {
         "id": 120,
@@ -1080,7 +1913,14 @@
         "nickname": "귀와[鬼蛙: 귀신 귀(鬼), 개구리 와(蛙)]",
         "type": "양서종",
         "speices": "원종",
-        "series": "MH4, MH4G, MHX, MHXX"
+        "series": "MH4, MH4G, MHX, MHXX",
+        "seriesId": "j, k, l, m",
+        "seriesBool": [
+          {"id": "j", "value": true},
+          {"id": "k", "value": true},
+          {"id": "l", "value": true},
+          {"id": "m", "value": true}
+        ]
       },
       {
         "id": 121,
@@ -1089,7 +1929,11 @@
         "nickname": "황귀와[荒鬼蛙: 거칠 황(荒), 귀신 귀(鬼), 개구리 와(蛙)]",
         "type": "양서종",
         "speices": "아종",
-        "series": "MH4G"
+        "series": "MH4G",
+        "seriesId": "k",
+        "seriesBool": [
+          {"id": "k", "value": true}
+        ]
       },
       {
         "id": 122,
@@ -1098,7 +1942,12 @@
         "nickname": "암천[岩穿: 바위 암(岩), 뚫을 천(穿)]",
         "type": "양서종",
         "speices": "이명 특수개체",
-        "series": "MHX, MHXX"
+        "series": "MHX, MHXX",
+        "seriesId": "l, m",
+        "seriesBool": [
+          {"id": "l", "value": true},
+          {"id": "m", "value": true}
+        ]
       },
       {
         "id": 123,
@@ -1107,7 +1956,21 @@
         "nickname": "수룡[水竜: 물 수(水), 용 룡(竜)]",
         "type": "어룡종",
         "speices": "원종",
-        "series": "MH, MHG, MHP, MH2, MHP2, MHP2G, MH3G, MH4, MH4G, MHX, MHXX"
+        "series": "MH, MHG, MHP, MH2, MHP2, MHP2G, MH3G, MH4, MH4G, MHX, MHXX",
+        "seriesId": "a, b, c, d, e, f, h, j, k, l, m",
+        "seriesBool": [
+          {"id": "a", "value": true},
+          {"id": "b", "value": true},
+          {"id": "c", "value": true},
+          {"id": "d", "value": true},
+          {"id": "e", "value": true},
+          {"id": "f", "value": true},
+          {"id": "h", "value": true},
+          {"id": "j", "value": true},
+          {"id": "k", "value": true},
+          {"id": "l", "value": true},
+          {"id": "m", "value": true}
+        ]
       },
       {
         "id": 124,
@@ -1116,7 +1979,16 @@
         "nickname": "취수룡[翠水竜: 푸를 취(翠), 물 수(水), 용 룡(竜)]",
         "type": "어룡종",
         "speices": "아종",
-        "series": "MHG, MH2, MHP2, MHP2G, MH3G, MH4G"
+        "series": "MHG, MH2, MHP2, MHP2G, MH3G, MH4G",
+        "seriesId": "b, d, e, f, h, k",
+        "seriesBool": [
+          {"id": "b", "value": true},
+          {"id": "d", "value": true},
+          {"id": "e", "value": true},
+          {"id": "f", "value": true},
+          {"id": "h", "value": true},
+          {"id": "k", "value": true}
+        ]
       },
       {
         "id": 125,
@@ -1125,7 +1997,19 @@
         "nickname": "사룡[沙竜: 모래 사(沙), 용 룡(竜)] / 사토룡",
         "type": "어룡종",
         "speices": "원종",
-        "series": "MH, MHG, MHP, MH2, MHP2, MHP2G, MH4G, MHX, MHXX"
+        "series": "MH, MHG, MHP, MH2, MHP2, MHP2G, MH4G, MHX, MHXX",
+        "seriesId": "a, b, c, d, e, f, k, l, m",
+        "seriesBool": [
+          {"id": "a", "value": true},
+          {"id": "b", "value": true},
+          {"id": "c", "value": true},
+          {"id": "d", "value": true},
+          {"id": "e", "value": true},
+          {"id": "f", "value": true},
+          {"id": "k", "value": true},
+          {"id": "l", "value": true},
+          {"id": "m", "value": true}
+        ]
       },
       {
         "id": 126,
@@ -1134,7 +2018,15 @@
         "nickname": "용암룡[溶岩竜: 녹을 용(溶), 바위 암(岩), 용 룡(竜)]",
         "type": "어룡종",
         "speices": "원종",
-        "series": "MHP2G, MHX, MHXX, MHW, MHWI"
+        "series": "MHP2G, MHX, MHXX, MHW, MHWI",
+        "seriesId": "f, l, m, n, o",
+        "seriesBool": [
+          {"id": "f", "value": true},
+          {"id": "l", "value": true},
+          {"id": "m", "value": true},
+          {"id": "n", "value": true},
+          {"id": "o", "value": true}
+        ]
       },
       {
         "id": 127,
@@ -1143,7 +2035,11 @@
         "nickname": "동어룡[凍魚竜: 얼 동(凍), 물고기 어(魚), 용 룡(竜)]",
         "type": "어룡종",
         "speices": "원종",
-        "series": "MHWI"
+        "series": "MHWI",
+        "seriesId": "o",
+        "seriesBool": [
+          {"id": "o", "value": true}
+        ]
       },
       {
         "id": 128,
@@ -1152,7 +2048,14 @@
         "nickname": "이어룡[泥魚竜: 진흙 이(泥), 물고기 어(魚), 용 룡(竜)]",
         "type": "어룡종",
         "speices": "원종",
-        "series": "MHW, MHWI, MHRise, MHRSB"
+        "series": "MHW, MHWI, MHRise, MHRSB",
+        "seriesId": "n, o, p, q",
+        "seriesBool": [
+          {"id": "n", "value": true},
+          {"id": "o", "value": true},
+          {"id": "p", "value": true},
+          {"id": "q", "value": true}
+        ]
       },
       {
         "id": 129,
@@ -1161,7 +2064,20 @@
         "nickname": "독괴조[毒怪鳥: 독 독(毒), 괴이할 괴(怪), 새 조(鳥)]",
         "type": "조룡종",
         "speices": "원종",
-        "series": "MH, MHG, MHP, MH2, MHP2, MHP2G, MH4, MH4G, MHX, MHXX"
+        "series": "MH, MHG, MHP, MH2, MHP2, MHP2G, MH4, MH4G, MHX, MHXX",
+        "seriesId": "a, b, c, d, e, f, j, k, l, m",
+        "seriesBool": [
+          {"id": "a", "value": true},
+          {"id": "b", "value": true},
+          {"id": "c", "value": true},
+          {"id": "d", "value": true},
+          {"id": "e", "value": true},
+          {"id": "f", "value": true},
+          {"id": "j", "value": true},
+          {"id": "k", "value": true},
+          {"id": "l", "value": true},
+          {"id": "m", "value": true}
+        ]
       },
       {
         "id": 130,
@@ -1170,7 +2086,17 @@
         "nickname": "자독조[紫毒鳥: 자줏빛 자(紫), 독 독(毒), 새 조(鳥)]",
         "type": "조룡종",
         "speices": "아종",
-        "series": "MHG, MHP, MH2, MHP2, MHP2G, MH4, MH4G"
+        "series": "MHG, MHP, MH2, MHP2, MHP2G, MH4, MH4G",
+        "seriesId": "b, c, d, e, f, j, k",
+        "seriesBool": [
+          {"id": "b", "value": true},
+          {"id": "c", "value": true},
+          {"id": "d", "value": true},
+          {"id": "e", "value": true},
+          {"id": "f", "value": true},
+          {"id": "j", "value": true},
+          {"id": "k", "value": true}
+        ]
       },
       {
         "id": 131,
@@ -1179,7 +2105,20 @@
         "nickname": "없음",
         "type": "조룡종",
         "speices": "원종",
-        "series": "MH, MHG, MHP, MH2, MHP2, MHP2G, MH4, MH4G, MHX, MHXX"
+        "series": "MH, MHG, MHP, MH2, MHP2, MHP2G, MH4, MH4G, MHX, MHXX",
+        "seriesId": "a, b, c, d, e, f, j, k, l, m",
+        "seriesBool": [
+          {"id": "a", "value": true},
+          {"id": "b", "value": true},
+          {"id": "c", "value": true},
+          {"id": "d", "value": true},
+          {"id": "e", "value": true},
+          {"id": "f", "value": true},
+          {"id": "j", "value": true},
+          {"id": "k", "value": true},
+          {"id": "l", "value": true},
+          {"id": "m", "value": true}
+        ]
       },
       {
         "id": 132,
@@ -1188,7 +2127,13 @@
         "nickname": "없음",
         "type": "조룡종",
         "speices": "원종",
-        "series": "MHP2, MHP2G, MHXX"
+        "series": "MHP2, MHP2G, MHXX",
+        "seriesId": "e, f, m",
+        "seriesBool": [
+          {"id": "e", "value": true},
+          {"id": "f", "value": true},
+          {"id": "m", "value": true}
+        ]
       },
       {
         "id": 133,
@@ -1197,7 +2142,20 @@
         "nickname": "없음",
         "type": "조룡종",
         "speices": "원종",
-        "series": "MH, MHG, MHP, MH2, MHP2, MHP2G, MH4, MH4G, MHX, MHXX"
+        "series": "MH, MHG, MHP, MH2, MHP2, MHP2G, MH4, MH4G, MHX, MHXX",
+        "seriesId": "a, b, c, d, e, f, j, k, l, m",
+        "seriesBool": [
+          {"id": "a", "value": true},
+          {"id": "b", "value": true},
+          {"id": "c", "value": true},
+          {"id": "d", "value": true},
+          {"id": "e", "value": true},
+          {"id": "f", "value": true},
+          {"id": "j", "value": true},
+          {"id": "k", "value": true},
+          {"id": "l", "value": true},
+          {"id": "m", "value": true}
+        ]
       },
       {
         "id": 134,
@@ -1206,7 +2164,12 @@
         "nickname": "도구룡[跳狗竜: 뛸 도(跳), 개 구(狗), 용 룡(竜)]",
         "type": "조룡종",
         "speices": "원종",
-        "series": "MHX, MHXX"
+        "series": "MHX, MHXX",
+        "seriesId": "l, m",
+        "seriesBool": [
+          {"id": "l", "value": true},
+          {"id": "m", "value": true}
+        ]
       },
       {
         "id": 135,
@@ -1215,7 +2178,15 @@
         "nickname": "면구룡[眠狗竜: 잘 면(眠), 개 구(狗), 용 룡(竜)]",
         "type": "조룡종",
         "speices": "원종",
-        "series": "MH3, MHP3, MH3G, MHRise, MHRSB"
+        "series": "MH3, MH3G, MHP3, MHRise, MHRSB",
+        "seriesId": "g, h, i, p, q",
+        "seriesBool": [
+          {"id": "g", "value": true},
+          {"id": "h", "value": true},
+          {"id": "i", "value": true},
+          {"id": "p", "value": true},
+          {"id": "q", "value": true}
+        ]
       },
       {
         "id": 136,
@@ -1224,7 +2195,20 @@
         "nickname": "없음",
         "type": "조룡종",
         "speices": "원종",
-        "series": "MH, MHG, MHP, MH2, MHP2, MHP2G, MH4, MH4G, MHX, MHXX"
+        "series": "MH, MHG, MHP, MH2, MHP2, MHP2G, MH4, MH4G, MHX, MHXX",
+        "seriesId": "a, b, c, d, e, f, j, k, l, m",
+        "seriesBool": [
+          {"id": "a", "value": true},
+          {"id": "b", "value": true},
+          {"id": "c", "value": true},
+          {"id": "d", "value": true},
+          {"id": "e", "value": true},
+          {"id": "f", "value": true},
+          {"id": "j", "value": true},
+          {"id": "k", "value": true},
+          {"id": "l", "value": true},
+          {"id": "m", "value": true}
+        ]
       },
       {
         "id": 137,
@@ -1233,7 +2217,15 @@
         "nickname": "구룡[狗竜: 개 구(狗), 용 룡(竜)]",
         "type": "조룡종",
         "speices": "원종",
-        "series": "MH3, MHP3, MH3G, MH4, MH4G"
+        "series": "MH3, MH3G, MHP3, MH4, MH4G",
+        "seriesId": "g, h, i, j, k",
+        "seriesBool": [
+          {"id": "g", "value": true},
+          {"id": "h", "value": true},
+          {"id": "i", "value": true},
+          {"id": "j", "value": true},
+          {"id": "k", "value": true}
+        ]
       },
       {
         "id": 138,
@@ -1242,7 +2234,14 @@
         "nickname": "독구룡[毒狗竜: 독 독(毒), 개 구(狗), 용 룡(竜)]",
         "type": "조룡종",
         "speices": "원종",
-        "series": "MHP3, MH3G, MHRise, MHRSB"
+        "series": "MH3G, MHP3, MHRise, MHRSB",
+        "seriesId": "h, i, p, q",
+        "seriesBool": [
+          {"id": "h", "value": true},
+          {"id": "i", "value": true},
+          {"id": "p", "value": true},
+          {"id": "q", "value": true}
+        ]
       },
       {
         "id": 139,
@@ -1251,7 +2250,12 @@
         "nickname": "산조[傘鳥: 우산 산(傘), 새 조(鳥)]",
         "type": "조룡종",
         "speices": "원종",
-        "series": "MHRise, MHRSB"
+        "series": "MHRise, MHRSB",
+        "seriesId": "p, q",
+        "seriesBool": [
+          {"id": "p", "value": true},
+          {"id": "q", "value": true}
+        ]
       },
       {
         "id": 140,
@@ -1260,7 +2264,19 @@
         "nickname": "흑랑조[黒狼鳥: 검을 흑(黒), 늑대 랑(狼), 새 조(鳥)]",
         "type": "조룡종",
         "speices": "원종",
-        "series": "MHP, MH2, MHP2, MHP2G, MH4, MH4G, MHX, MHXX, MHWI"
+        "series": "MHP, MH2, MHP2, MHP2G, MH4, MH4G, MHX, MHXX, MHWI",
+        "seriesId": "c, d, e, f, j, k, l, m, o",
+        "seriesBool": [
+          {"id": "c", "value": true},
+          {"id": "d", "value": true},
+          {"id": "e", "value": true},
+          {"id": "f", "value": true},
+          {"id": "j", "value": true},
+          {"id": "k", "value": true},
+          {"id": "l", "value": true},
+          {"id": "m", "value": true},
+          {"id": "o", "value": true}
+        ]
       },
       {
         "id": 141,
@@ -1269,7 +2285,12 @@
         "nickname": "흑랑조[黒狼鳥: 검을 흑(黒), 늑대 랑(狼), 새 조(鳥)]",
         "type": "조룡종",
         "speices": "특수 개체",
-        "series": "MHP2G, MHWI"
+        "series": "MHP2G, MHWI",
+        "seriesId": "f, o",
+        "seriesBool": [
+          {"id": "f", "value": true},
+          {"id": "o", "value": true}
+        ]
       },
       {
         "id": 142,
@@ -1278,7 +2299,12 @@
         "nickname": "척안[隻眼: 외짝 척(隻), 눈 안(眼)]",
         "type": "조룡종",
         "speices": "이명 특수개체",
-        "series": "MHX, MHXX"
+        "series": "MHX, MHXX",
+        "seriesId": "l, m",
+        "seriesBool": [
+          {"id": "l", "value": true},
+          {"id": "m", "value": true}
+        ]
       },
       {
         "id": 143,
@@ -1287,7 +2313,20 @@
         "nickname": "괴조[怪鳥: 괴이할 괴(怪), 새 조(鳥)]",
         "type": "조룡종",
         "speices": "원종",
-        "series": "MH, MHG, MHP, MH2, MHP2, MHP2G, MH4, MH4G, MHX, MHXX"
+        "series": "MH, MHG, MHP, MH2, MHP2, MHP2G, MH4, MH4G, MHX, MHXX",
+        "seriesId": "a, b, c, d, e, f, j, k, l, m",
+        "seriesBool": [
+          {"id": "a", "value": true},
+          {"id": "b", "value": true},
+          {"id": "c", "value": true},
+          {"id": "d", "value": true},
+          {"id": "e", "value": true},
+          {"id": "f", "value": true},
+          {"id": "j", "value": true},
+          {"id": "k", "value": true},
+          {"id": "l", "value": true},
+          {"id": "m", "value": true}
+        ]
       },
       {
         "id": 144,
@@ -1296,7 +2335,17 @@
         "nickname": "청괴조[青怪鳥: 푸를 청(青), 괴이할 괴(怪), 새 조(鳥)]",
         "type": "조룡종",
         "speices": "아종",
-        "series": "MHG, MHP, MH2, MHP2, MHP2G, MH4, MH4G"
+        "series": "MHG, MHP, MH2, MHP2, MHP2G, MH4, MH4G",
+        "seriesId": "b, c, d, e, f, j, k",
+        "seriesBool": [
+          {"id": "b", "value": true},
+          {"id": "c", "value": true},
+          {"id": "d", "value": true},
+          {"id": "e", "value": true},
+          {"id": "f", "value": true},
+          {"id": "j", "value": true},
+          {"id": "k", "value": true}
+        ]
       },
       {
         "id": 145,
@@ -1305,7 +2354,12 @@
         "nickname": "겸유룡[鎌鼬竜: 낫 겸(鎌), 족제비 유(鼬), 용 룡(竜)]",
         "type": "조룡종",
         "speices": "원종",
-        "series": "MHRise, MHRSB"
+        "series": "MHRise, MHRSB",
+        "seriesId": "p, q",
+        "seriesBool": [
+          {"id": "p", "value": true},
+          {"id": "q", "value": true}
+        ]
       },
       {
         "id": 146,
@@ -1314,7 +2368,12 @@
         "nickname": "현조[眩鳥: 어지러울 현(眩), 새 조(鳥)]",
         "type": "조룡종",
         "speices": "원종",
-        "series": "MHW, MHWI"
+        "series": "MHW, MHWI",
+        "seriesId": "n, o",
+        "seriesBool": [
+          {"id": "n", "value": true},
+          {"id": "o", "value": true}
+        ]
       },
       {
         "id": 147,
@@ -1323,7 +2382,14 @@
         "nickname": "소조[掻鳥: 긁을 소(掻), 새 조(鳥)]",
         "type": "조룡종",
         "speices": "원종",
-        "series": "MHW, MHWI, MHRise, MHRSB"
+        "series": "MHW, MHWI, MHRise, MHRSB",
+        "seriesId": "n, o, p, q",
+        "seriesBool": [
+          {"id": "n", "value": true},
+          {"id": "o", "value": true},
+          {"id": "p", "value": true},
+          {"id": "q", "value": true}
+        ]
       },
       {
         "id": 148,
@@ -1332,7 +2398,13 @@
         "nickname": "채조[彩鳥: 채색 채(彩), 새 조(鳥)]",
         "type": "조룡종",
         "speices": "원종",
-        "series": "MH3, MHP3, MH3G"
+        "series": "MH3, MH3G, MHP3",
+        "seriesId": "g, h, i",
+        "seriesBool": [
+          {"id": "g", "value": true},
+          {"id": "h", "value": true},
+          {"id": "i", "value": true}
+        ]
       },
       {
         "id": 149,
@@ -1341,7 +2413,12 @@
         "nickname": "홍채조[紅彩鳥: 붉을 홍(紅), 채색 채(彩), 새 조(鳥)]",
         "type": "조룡종",
         "speices": "아종",
-        "series": "MHP3, MH3G"
+        "series": "MH3G, MHP3",
+        "seriesId": "h, i",
+        "seriesBool": [
+          {"id": "h", "value": true},
+          {"id": "i", "value": true}
+        ]
       },
       {
         "id": 150,
@@ -1350,7 +2427,14 @@
         "nickname": "독요조[毒妖鳥: 독 독(毒), 요사할 요(妖), 새 조(鳥)]",
         "type": "조룡종",
         "speices": "원종",
-        "series": "MHW, MHWI, MHRise, MHRSB"
+        "series": "MHW, MHWI, MHRise, MHRSB",
+        "seriesId": "n, o, p, q",
+        "seriesBool": [
+          {"id": "n", "value": true},
+          {"id": "o", "value": true},
+          {"id": "p", "value": true},
+          {"id": "q", "value": true}
+        ]
       },
       {
         "id": 151,
@@ -1359,7 +2443,11 @@
         "nickname": "수요조[水妖鳥: 물 수(水), 요사할 요(妖), 새 조(鳥)]",
         "type": "조룡종",
         "speices": "아종",
-        "series": "MHWI"
+        "series": "MHWI",
+        "seriesId": "o",
+        "seriesBool": [
+          {"id": "o", "value": true}
+        ]
       },
       {
         "id": 152,
@@ -1368,7 +2456,12 @@
         "nickname": "야조[夜鳥: 밤 야(夜), 새 조(鳥)]",
         "type": "조룡종",
         "speices": "원종",
-        "series": "MHX, MHXX"
+        "series": "MHX, MHXX",
+        "seriesId": "l, m",
+        "seriesBool": [
+          {"id": "l", "value": true},
+          {"id": "m", "value": true}
+        ]
       },
       {
         "id": 153,
@@ -1377,7 +2470,11 @@
         "nickname": "농은[朧隠: 흐릿할 농(朧), 숨을 은(隠)]",
         "type": "조룡종",
         "speices": "이명 특수개체",
-        "series": "MHXX"
+        "series": "MHXX",
+        "seriesId": "m",
+        "seriesBool": [
+          {"id": "m", "value": true}
+        ]
       },
       {
         "id": 154,
@@ -1386,7 +2483,11 @@
         "nickname": "면조[眠鳥:  잘 면(眠), 새 조(鳥)]",
         "type": "조룡종",
         "speices": "원종",
-        "series": "MHP2G"
+        "series": "MHP2G",
+        "seriesId": "f",
+        "seriesBool": [
+          {"id": "f", "value": true}
+        ]
       },
       {
         "id": 155,
@@ -1395,7 +2496,14 @@
         "nickname": "해룡[海竜: 바다 해(海), 용 룡(竜)]",
         "type": "해룡종",
         "speices": "원종",
-        "series": "MH3, MH3G, MHX, MHXX"
+        "series": "MH3, MH3G, MHX, MHXX",
+        "seriesId": "g, h, l, m",
+        "seriesBool": [
+          {"id": "g", "value": true},
+          {"id": "h", "value": true},
+          {"id": "l", "value": true},
+          {"id": "m", "value": true}
+        ]
       },
       {
         "id": 156,
@@ -1404,7 +2512,11 @@
         "nickname": "백해룡[白海竜: 흰 백(白), 바다 해(海), 용 룡(竜)]",
         "type": "해룡종",
         "speices": "아종",
-        "series": "MH3G"
+        "series": "MH3G",
+        "seriesId": "h",
+        "seriesBool": [
+          {"id": "h", "value": true}
+        ]
       },
       {
         "id": 157,
@@ -1413,7 +2525,11 @@
         "nickname": "명해룡[冥海竜: 어두울 명(冥), 바다 해(海), 용 룡(竜)]",
         "type": "해룡종",
         "speices": "희소종",
-        "series": "MH3G"
+        "series": "MH3G",
+        "seriesId": "h",
+        "seriesBool": [
+          {"id": "h", "value": true}
+        ]
       },
       {
         "id": 158,
@@ -1422,7 +2538,17 @@
         "nickname": "수수[水獣: 물 수(水), 짐승 수(獣)] / 수괴수",
         "type": "해룡종",
         "speices": "원종",
-        "series": "MH3, MHP3, MH3G, MHX, MHXX, MHRise, MHRSB"
+        "series": "MH3, MH3G, MHP3, MHX, MHXX, MHRise, MHRSB",
+        "seriesId": "g, h, i, l, m, p, q",
+        "seriesBool": [
+          {"id": "g", "value": true},
+          {"id": "h", "value": true},
+          {"id": "i", "value": true},
+          {"id": "l", "value": true},
+          {"id": "m", "value": true},
+          {"id": "p", "value": true},
+          {"id": "q", "value": true}
+        ]
       },
       {
         "id": 159,
@@ -1431,7 +2557,12 @@
         "nickname": "자수수[紫水獣: 자줏빛 자(紫), 물 수(水), 짐승 수(獣)] / 자수괴수",
         "type": "해룡종",
         "speices": "아종",
-        "series": "MH3, MHP3, MH3G, MHX, MHXX, MHRise, MHRSB"
+        "series": "MH3G, MHP3",
+        "seriesId": "h, i",
+        "seriesBool": [
+          {"id": "h", "value": true},
+          {"id": "i", "value": true}
+        ]
       },
       {
         "id": 160,
@@ -1440,7 +2571,15 @@
         "nickname": "염과룡([炎戈竜: 불꽃 염(炎), 창 과(戈), 용 룡(竜)]",
         "type": "해룡종",
         "speices": "원종",
-        "series": "MH3, MHP3, MH3G, MHX, MHXX"
+        "series": "MH3, MH3G, MHP3, MHX, MHXX",
+        "seriesId": "g, h, i, l, m",
+        "seriesBool": [
+          {"id": "g", "value": true},
+          {"id": "h", "value": true},
+          {"id": "i", "value": true},
+          {"id": "l", "value": true},
+          {"id": "m", "value": true}
+        ]
       },
       {
         "id": 161,
@@ -1449,7 +2588,12 @@
         "nickname": "동과룡[凍戈竜: 얼 동(凍), 창 과(戈), 용 룡(竜)]",
         "type": "해룡종",
         "speices": "아종",
-        "series": "MHP3, MH3G"
+        "series": "MH3G, MHP3",
+        "seriesId": "h, i",
+        "seriesBool": [
+          {"id": "h", "value": true},
+          {"id": "i", "value": true}
+        ]
       },
       {
         "id": 162,
@@ -1458,7 +2602,12 @@
         "nickname": "이옹룡[泥翁竜: 진흙 이(泥), 늙은이 옹(翁), 용 룡(竜)]",
         "type": "해룡종",
         "speices": "원종",
-        "series": "MHRise, MHRSB"
+        "series": "MHRise, MHRSB",
+        "seriesId": "p, q",
+        "seriesBool": [
+          {"id": "p", "value": true},
+          {"id": "q", "value": true}
+        ]
       },
       {
         "id": 163,
@@ -1467,7 +2616,11 @@
         "nickname": "용옹룡[溶翁竜: 녹을 용(溶), 늙은이 옹(翁), 용 룡(竜)]",
         "type": "해룡종",
         "speices": "아종",
-        "series": "MHRSB"
+        "series": "MHRSB",
+        "seriesId": "q",
+        "seriesBool": [
+          {"id": "q", "value": true}
+        ]
       },
       {
         "id": 164,
@@ -1476,7 +2629,12 @@
         "nickname": "인어룡[人魚竜: 사람 인(人), 물고기 어(魚), 용 룡(竜)]",
         "type": "해룡종",
         "speices": "원종",
-        "series": "MHRise, MHRSB"
+        "series": "MHRise, MHRSB",
+        "seriesId": "p, q",
+        "seriesBool": [
+          {"id": "p", "value": true},
+          {"id": "q", "value": true}
+        ]
       },
       {
         "id": 165,
@@ -1485,7 +2643,11 @@
         "nickname": "빙인어룡[氷人魚竜: 얼음 빙(氷), 사람 인(人), 물고기 어(魚), 용 룡(竜)]",
         "type": "해룡종",
         "speices": "아종",
-        "series": "MHRSB"
+        "series": "MHRSB",
+        "seriesId": "q",
+        "seriesBool": [
+          {"id": "q", "value": true}
+        ]
       },
       {
         "id": 166,
@@ -1494,7 +2656,12 @@
         "nickname": "등어룡[灯魚竜: 등 등(灯), 물고기 어(魚), 용 룡(竜)]",
         "type": "해룡종",
         "speices": "원종",
-        "series": "MH3, MH3G"
+        "series": "MH3, MH3G",
+        "seriesId": "g, h",
+        "seriesBool": [
+          {"id": "g", "value": true},
+          {"id": "h", "value": true}
+        ]
       },
       {
         "id": 167,
@@ -1503,7 +2670,14 @@
         "nickname": "포호룡[泡狐竜: 거품 포(泡), 여우 호(狐), 용 룡(竜)]",
         "type": "해룡종",
         "speices": "원종",
-        "series": "MHX, MHXX, MHRise, MHRSB"
+        "series": "MHX, MHXX, MHRise, MHRSB",
+        "seriesId": "l, m, p, q",
+        "seriesBool": [
+          {"id": "l", "value": true},
+          {"id": "m", "value": true},
+          {"id": "p", "value": true},
+          {"id": "q", "value": true}
+        ]
       },
       {
         "id": 168,
@@ -1512,7 +2686,11 @@
         "nickname": "염호룡[焔狐竜: 불꽃 염(焔), 여우 호(狐), 용 룡(竜)]",
         "type": "해룡종",
         "speices": "희소종",
-        "series": "MHRSB"
+        "series": "MHRSB",
+        "seriesId": "q",
+        "seriesBool": [
+          {"id": "q", "value": true}
+        ]
       },
       {
         "id": 169,
@@ -1521,7 +2699,11 @@
         "nickname": "천안[天眼: 하늘 천(天), 눈 안(眼)]",
         "type": "해룡종",
         "speices": "이명 특수개체",
-        "series": "MHXX"
+        "series": "MHXX",
+        "seriesId": "m",
+        "seriesBool": [
+          {"id": "m", "value": true}
+        ]
       },
       {
         "id": 170,
@@ -1530,7 +2712,11 @@
         "nickname": "포호룡[泡狐竜: 거품 포(泡), 여우 호(狐), 용 룡(竜)]",
         "type": "해룡종",
         "speices": "주인",
-        "series": "MHRise"
+        "series": "MHRise",
+        "seriesId": "p",
+        "seriesBool": [
+          {"id": "p", "value": true}
+        ]
       },
       {
         "id": 171,
@@ -1539,7 +2725,14 @@
         "nickname": "잠구룡[潜口竜: 잠길 잠(潜), 입 구(口), 용 룡(竜)]",
         "type": "해룡종",
         "speices": "원종",
-        "series": "MHP3, MH3G, MHX, MHXX"
+        "series": "MH3G, MHP3, MHX, MHXX",
+        "seriesId": "h, i, l, m",
+        "seriesBool": [
+          {"id": "h", "value": true},
+          {"id": "i", "value": true},
+          {"id": "l", "value": true},
+          {"id": "m", "value": true}
+        ]
       },
       {
         "id": 172,
@@ -1548,7 +2741,13 @@
         "nickname": "영지주[影蜘蛛: 그림자 영(影), 거미 지(蜘), 거미 주(蛛)]",
         "type": "협각종",
         "speices": "원종",
-        "series": "MH4, MH4G, MHXX"
+        "series": "MH4, MH4G, MHXX",
+        "seriesId": "j, k, m",
+        "seriesBool": [
+          {"id": "j", "value": true},
+          {"id": "k", "value": true},
+          {"id": "m", "value": true}
+        ]
       },
       {
         "id": 173,
@@ -1557,7 +2756,11 @@
         "nickname": "해지주[骸蜘蛛: 뼈 해(骸), 거미 지(蜘), 거미 주(蛛)]",
         "type": "협각종",
         "speices": "아종",
-        "series": "MH4G"
+        "series": "MH4G",
+        "seriesId": "k",
+        "seriesBool": [
+          {"id": "k", "value": true}
+        ]
       },
       {
         "id": 174,
@@ -1566,7 +2769,12 @@
         "nickname": "비지주[妃蜘蛛: 왕비 비(妃), 거미 지(蜘), 거미 주(蛛)]",
         "type": "협각종",
         "speices": "원종",
-        "series": "MHRise, MHRSB"
+        "series": "MHRise, MHRSB",
+        "seriesId": "p, q",
+        "seriesBool": [
+          {"id": "p", "value": true},
+          {"id": "q", "value": true}
+        ]
       },
       {
         "id": 175,
@@ -1575,7 +2783,11 @@
         "nickname": "치비지주[熾妃蜘蛛: 성할 치(熾), 왕비 비(妃), 거미 지(蜘), 거미 주(蛛)]",
         "type": "협각종",
         "speices": "아종",
-        "series": "MHRSB"
+        "series": "MHRSB",
+        "seriesId": "q",
+        "seriesBool": [
+          {"id": "q", "value": true}
+        ]
       },
       {
         "id": 176,
@@ -1584,7 +2796,11 @@
         "nickname": "명연룡[冥淵龍: 어두울 명(冥), 못 연(淵), 용 룡(龍)]",
         "type": "고룡종",
         "speices": "원종",
-        "series": "MHRSB"
+        "series": "MHRSB",
+        "seriesId": "q",
+        "seriesBool": [
+          {"id": "q", "value": true}
+        ]
       },
       {
         "id": 177,
@@ -1593,7 +2809,11 @@
         "nickname": "거극룡[巨戟龍: 클 거(巨), 창 극(戟), 용 룡(龍)]",
         "type": "고룡종",
         "speices": "원종",
-        "series": "MH4G"
+        "series": "MH4G",
+        "seriesId": "k",
+        "seriesBool": [
+          {"id": "k", "value": true}
+        ]
       },
       {
         "id": 178,
@@ -1602,7 +2822,11 @@
         "nickname": "연흑룡[煉黒龍: 달굴 련(煉), 검을 흑(黒), 용 룡(龍)]",
         "type": "고룡종",
         "speices": "원종",
-        "series": "MH3G"
+        "series": "MH3G",
+        "seriesId": "h",
+        "seriesBool": [
+          {"id": "h", "value": true}
+        ]
       },
       {
         "id": 179,
@@ -1611,7 +2835,15 @@
         "nickname": "염비룡[炎妃龍: 불꽃 염(炎), 왕비 비(妃), 용 룡(龍)]",
         "type": "고룡종",
         "speices": "원종",
-        "series": "MH2, MHP2, MHP2G, MHW, MHWI"
+        "series": "MH2, MHP2, MHP2G, MHW, MHWI",
+        "seriesId": "d, e, f, n, o",
+        "seriesBool": [
+          {"id": "d", "value": true},
+          {"id": "e", "value": true},
+          {"id": "f", "value": true},
+          {"id": "n", "value": true},
+          {"id": "o", "value": true}
+        ]
       },
       {
         "id": 180,
@@ -1620,7 +2852,11 @@
         "nickname": "뇌신룡[雷神龍: 우레 뢰(雷), 신 신(神), 용 룡(龍)]",
         "type": "고룡종",
         "speices": "원종",
-        "series": "MHRise"
+        "series": "MHRise",
+        "seriesId": "p",
+        "seriesBool": [
+          {"id": "p", "value": true}
+        ]
       },
       {
         "id": 181,
@@ -1629,7 +2865,12 @@
         "nickname": "뇌신룡[雷神龍: 우레 뢰(雷), 신 신(神), 용 룡(龍)]",
         "type": "고룡종",
         "speices": "특수 개체",
-        "series": "MHRise, MHRSB"
+        "series": "MHRise, MHRSB",
+        "seriesId": "p, q",
+        "seriesBool": [
+          {"id": "p", "value": true},
+          {"id": "q", "value": true}
+        ]
       },
       {
         "id": 182,
@@ -1638,7 +2879,13 @@
         "nickname": "대해룡[大海龍: 클 대(大), 바다 해(海), 용 룡(竜)]",
         "type": "고룡종",
         "speices": "원종",
-        "series": "MH3, MHP3, MH3G"
+        "series": "MH3, MH3G, MHP3",
+        "seriesId": "g, h, i",
+        "seriesBool": [
+          {"id": "g", "value": true},
+          {"id": "h", "value": true},
+          {"id": "i", "value": true}
+        ]
       },
       {
         "id": 183,
@@ -1647,7 +2894,11 @@
         "nickname": "황해룡[皇海龍: 임금 황(皇), 바다 해(海), 용 룡(龍)]",
         "type": "고룡종",
         "speices": "아종",
-        "series": "MH3G"
+        "series": "MH3G",
+        "seriesId": "h",
+        "seriesBool": [
+          {"id": "h", "value": true}
+        ]
       },
       {
         "id": 184,
@@ -1656,7 +2907,11 @@
         "nickname": "명룡[溟龍: 바다 명(溟), 용 룡(龍)]",
         "type": "고룡종",
         "speices": "원종",
-        "series": "MHWI"
+        "series": "MHWI",
+        "seriesId": "o",
+        "seriesBool": [
+          {"id": "o", "value": true}
+        ]
       },
       {
         "id": 185,
@@ -1665,7 +2920,12 @@
         "nickname": "멸진룡[滅尽龍: 멸할 멸(滅), 다할 진(尽), 용 룡(龍)]",
         "type": "고룡종",
         "speices": "원종",
-        "series": "MHW, MHWI"
+        "series": "MHW, MHWI",
+        "seriesId": "n, o",
+        "seriesBool": [
+          {"id": "n", "value": true},
+          {"id": "o", "value": true}
+        ]
       },
       {
         "id": 186,
@@ -1674,7 +2934,11 @@
         "nickname": "멸진룡[滅尽龍: 멸할 멸(滅), 다할 진(尽), 용 룡(龍)]",
         "type": "고룡종",
         "speices": "특수 개체",
-        "series": "MHWI"
+        "series": "MHWI",
+        "seriesId": "o",
+        "seriesBool": [
+          {"id": "o", "value": true}
+        ]
       },
       {
         "id": 187,
@@ -1683,7 +2947,12 @@
         "nickname": "사왕룡[蛇王龍: 뱀 사(蛇), 임금 왕(王), 용 룡(龍)]",
         "type": "고룡종",
         "speices": "원종",
-        "series": "MH4, MH4G"
+        "series": "MH4, MH4G",
+        "seriesId": "j, k",
+        "seriesBool": [
+          {"id": "j", "value": true},
+          {"id": "k", "value": true}
+        ]
       },
       {
         "id": 188,
@@ -1692,7 +2961,11 @@
         "nickname": "사제룡[蛇帝龍: 뱀 사(蛇), 임금 제(帝), 용 룡(龍)] / 사황룡",
         "type": "고룡종",
         "speices": "아종",
-        "series": "MH4G"
+        "series": "MH4G",
+        "seriesId": "k",
+        "seriesBool": [
+          {"id": "k", "value": true}
+        ]
       },
       {
         "id": 189,
@@ -1701,7 +2974,12 @@
         "nickname": "호산룡[豪山龍: 호탕할 호(豪), 뫼 산(山), 용 룡(龍)]",
         "type": "고룡종",
         "speices": "원종",
-        "series": "MH4, MH4G"
+        "series": "MH4, MH4G",
+        "seriesId": "j, k",
+        "seriesBool": [
+          {"id": "j", "value": true},
+          {"id": "k", "value": true}
+        ]
       },
       {
         "id": 190,
@@ -1710,7 +2988,17 @@
         "nickname": "노산룡[老山龍: 늙을 노(老), 뫼 산(山), 용 룡(龍)]",
         "type": "고룡종",
         "speices": "원종",
-        "series": "MH, MHG, MHP, MH2, MHP2, MHP2G, MHXX"
+        "series": "MH, MHG, MHP, MH2, MHP2, MHP2G, MHXX",
+        "seriesId": "a, b, c, d, e, f, m",
+        "seriesBool": [
+          {"id": "a", "value": true},
+          {"id": "b", "value": true},
+          {"id": "c", "value": true},
+          {"id": "d", "value": true},
+          {"id": "e", "value": true},
+          {"id": "f", "value": true},
+          {"id": "m", "value": true}
+        ]
       },
       {
         "id": 191,
@@ -1719,7 +3007,15 @@
         "nickname": "암산룡[岩山龍: 바위 암(岩), 뫼 산(山), 용 룡(龍)]",
         "type": "고룡종",
         "speices": "아종",
-        "series": "MHG, MHP, MH2, MHP2, MHP2G"
+        "series": "MHG, MHP, MH2, MHP2, MHP2G",
+        "seriesId": "b, c, d, e, f",
+        "seriesBool": [
+          {"id": "b", "value": true},
+          {"id": "c", "value": true},
+          {"id": "d", "value": true},
+          {"id": "e", "value": true},
+          {"id": "f", "value": true}
+        ]
       },
       {
         "id": 192,
@@ -1728,7 +3024,12 @@
         "nickname": "난휘룡[爛輝龍: 빛날 난(爛), 빛날 휘(輝), 용 룡(龍)]",
         "type": "고룡종",
         "speices": "원종",
-        "series": "MHW, MHWI"
+        "series": "MHW, MHWI",
+        "seriesId": "n, o",
+        "seriesBool": [
+          {"id": "n", "value": true},
+          {"id": "o", "value": true}
+        ]
       },
       {
         "id": 193,
@@ -1737,7 +3038,11 @@
         "nickname": "작은룡[爵銀龍: 벼슬 작(爵), 은빛 은(銀), 용 룡(龍)] / 은작룡",
         "type": "고룡종",
         "speices": "원종",
-        "series": "MHRSB"
+        "series": "MHRSB",
+        "seriesId": "q",
+        "seriesBool": [
+          {"id": "q", "value": true}
+        ]
       },
       {
         "id": 194,
@@ -1746,7 +3051,11 @@
         "nickname": "작은룡[爵銀龍: 벼슬 작(爵), 은빛 은(銀), 용 룡(龍)] / 은작룡",
         "type": "고룡종",
         "speices": "특수 개체",
-        "series": "MHRSB"
+        "series": "MHRSB",
+        "seriesId": "q",
+        "seriesBool": [
+          {"id": "q", "value": true}
+        ]
       },
       {
         "id": 195,
@@ -1755,7 +3064,11 @@
         "nickname": "적룡[赤龍: 붉을 적(赤), 용 룡(龍)] / 명적룡",
         "type": "고룡종",
         "speices": "원종",
-        "series": "MHWI"
+        "series": "MHWI",
+        "seriesId": "o",
+        "seriesBool": [
+          {"id": "o", "value": true}
+        ]
       },
       {
         "id": 196,
@@ -1764,7 +3077,20 @@
         "nickname": "흑룡[黑龍: 검을 흑(黑), 용 룡(龍)]",
         "type": "고룡종",
         "speices": "원종",
-        "series": "MH, MHG, MHP, MH2, MHP2, MHP2G, MH4, MH4G, MHXX, MHWI"
+        "series": "MH, MHG, MHP, MH2, MHP2, MHP2G, MH4, MH4G, MHXX, MHWI",
+        "seriesId": "a, b, c, d, e, f, j, k, m, o",
+        "seriesBool": [
+          {"id": "a", "value": true},
+          {"id": "b", "value": true},
+          {"id": "c", "value": true},
+          {"id": "d", "value": true},
+          {"id": "e", "value": true},
+          {"id": "f", "value": true},
+          {"id": "j", "value": true},
+          {"id": "k", "value": true},
+          {"id": "m", "value": true},
+          {"id": "o", "value": true}
+        ]
       },
       {
         "id": 197,
@@ -1773,7 +3099,18 @@
         "nickname": "홍룡[紅龍: 붉을 홍(紅), 용 룡(龍)]",
         "type": "고룡종",
         "speices": "아종",
-        "series": "MHG, MHP, MH2, MHP2, MHP2G, MH4, MH4G, MHXX"
+        "series": "MHG, MHP, MH2, MHP2, MHP2G, MH4, MH4G, MHXX",
+        "seriesId": "b, c, d, e, f, j, k, m",
+        "seriesBool": [
+          {"id": "b", "value": true},
+          {"id": "c", "value": true},
+          {"id": "d", "value": true},
+          {"id": "e", "value": true},
+          {"id": "f", "value": true},
+          {"id": "j", "value": true},
+          {"id": "k", "value": true},
+          {"id": "m", "value": true}
+        ]
       },
       {
         "id": 198,
@@ -1782,7 +3119,15 @@
         "nickname": "조룡[祖龍: 할아비 조(祖), 용 룡(龍)] / 선조룡",
         "type": "고룡종",
         "speices": "태초의 존재",
-        "series": "MH2, MHP2, MHP2G, MH4G, MHXX"
+        "series": "MH2, MHP2, MHP2G, MH4G, MHXX",
+        "seriesId": "d, e, f, k, m",
+        "seriesBool": [
+          {"id": "d", "value": true},
+          {"id": "e", "value": true},
+          {"id": "f", "value": true},
+          {"id": "k", "value": true},
+          {"id": "m", "value": true}
+        ]
       },
       {
         "id": 199,
@@ -1791,7 +3136,11 @@
         "nickname": "천혜룡[天彗龍: 하늘 천(天), 살별 혜(彗), 용 룡(龍)]",
         "type": "고룡종",
         "speices": "원종",
-        "series": "MHXX"
+        "series": "MHXX",
+        "seriesId": "m",
+        "seriesBool": [
+          {"id": "m", "value": true}
+        ]
       },
       {
         "id": 200,
@@ -1800,7 +3149,12 @@
         "nickname": "천혜룡[天彗龍: 하늘 천(天), 살별 혜(彗), 용 룡(龍)]",
         "type": "고룡종",
         "speices": "특수 개체",
-        "series": "MHRise, MHRSB"
+        "series": "MHRise, MHRSB",
+        "seriesId": "p, q",
+        "seriesBool": [
+          {"id": "p", "value": true},
+          {"id": "q", "value": true}
+        ]
       },
       {
         "id": 201,
@@ -1809,7 +3163,11 @@
         "nickname": "천혜룡[天彗龍: 하늘 천(天), 살별 혜(彗), 용 룡(龍)]",
         "type": "고룡종",
         "speices": "괴이 극복",
-        "series": "MHRSB"
+        "series": "MHRSB",
+        "seriesId": "q",
+        "seriesBool": [
+          {"id": "q", "value": true}
+        ]
       },
       {
         "id": 202,
@@ -1818,7 +3176,12 @@
         "nickname": "시투룡[屍套龍: 주검 시(屍), 덮개 투(套), 용 룡(龍)]",
         "type": "고룡종",
         "speices": "원종",
-        "series": "MHW, MHWI"
+        "series": "MHW, MHWI",
+        "seriesId": "n, o",
+        "seriesBool": [
+          {"id": "n", "value": true},
+          {"id": "o", "value": true}
+        ]
       },
       {
         "id": 203,
@@ -1827,7 +3190,11 @@
         "nickname": "시투룡[屍套龍: 주검 시(屍), 덮개 투(套), 용 룡(龍)]",
         "type": "고룡종",
         "speices": "특수 개체",
-        "series": "MHWI"
+        "series": "MHWI",
+        "seriesId": "o",
+        "seriesBool": [
+          {"id": "o", "value": true}
+        ]
       },
       {
         "id": 204,
@@ -1836,7 +3203,15 @@
         "nickname": "천회룡[天廻龍: 하늘 천(天), 돌 회(廻), 용 룡(龍)]",
         "type": "고룡종",
         "speices": "원종",
-        "series": "MH4, MH4G, MHX, MHXX, MHRSB"
+        "series": "MH4, MH4G, MHX, MHXX, MHRSB",
+        "seriesId": "j, k, l, m, q",
+        "seriesBool": [
+          {"id": "j", "value": true},
+          {"id": "k", "value": true},
+          {"id": "l", "value": true},
+          {"id": "m", "value": true},
+          {"id": "q", "value": true}
+        ]
       },
       {
         "id": 205,
@@ -1845,7 +3220,11 @@
         "nickname": "천회룡[天廻龍: 하늘 천(天), 돌 회(廻), 용 룡(龍)]",
         "type": "고룡종",
         "speices": "괴이 극복",
-        "series": "MHRSB"
+        "series": "MHRSB",
+        "seriesId": "q",
+        "seriesBool": [
+          {"id": "q", "value": true}
+        ]
       },
       {
         "id": 206,
@@ -1854,7 +3233,14 @@
         "nickname": "남룡[嵐龍: 남기 남(風), 용 룡(龍)] / 폭풍룡",
         "type": "고룡종",
         "speices": "원종",
-        "series": "MHP3, MHX, MHXX, MHRSB"
+        "series": "MHP3, MHX, MHXX, MHRSB",
+        "seriesId": "i, l, m, q",
+        "seriesBool": [
+          {"id": "i", "value": true},
+          {"id": "l", "value": true},
+          {"id": "m", "value": true},
+          {"id": "q", "value": true}
+        ]
       },
       {
         "id": 207,
@@ -1863,7 +3249,11 @@
         "nickname": "지제룡[地啼龍: 땅 지(地), 울 제(啼), 용 룡(龍)]",
         "type": "고룡종",
         "speices": "원종",
-        "series": "MHWI"
+        "series": "MHWI",
+        "seriesId": "o",
+        "seriesBool": [
+          {"id": "o", "value": true}
+        ]
       },
       {
         "id": 208,
@@ -1872,7 +3262,16 @@
         "nickname": "황흑룡[煌黒龍: 빛날 황(煌), 검을 흑(黒), 용 룡(竜)]",
         "type": "고룡종",
         "speices": "원종",
-        "series": "MH3, MHP3, MH3G, MHX, MHXX, MHWI"
+        "series": "MH3, MH3G, MHP3, MHX, MHXX, MHWI",
+        "seriesId": "g, h, i, l, m, o",
+        "seriesBool": [
+          {"id": "g", "value": true},
+          {"id": "h", "value": true},
+          {"id": "i", "value": true},
+          {"id": "l", "value": true},
+          {"id": "m", "value": true},
+          {"id": "o", "value": true}
+        ]
       },
       {
         "id": 209,
@@ -1881,7 +3280,12 @@
         "nickname": "부악룡[浮岳龍: 뜰 부(浮), 큰산 악(岳), 용 룡(龍)] / 비악룡",
         "type": "고룡종",
         "speices": "원종",
-        "series": "MH2, MHP2G"
+        "series": "MH2, MHP2G",
+        "seriesId": "d, f",
+        "seriesBool": [
+          {"id": "d", "value": true},
+          {"id": "f", "value": true}
+        ]
       },
       {
         "id": 210,
@@ -1890,7 +3294,18 @@
         "nickname": "하룡[霞龍: 노을/무지개 하(霞), 용 룡(龍)]",
         "type": "고룡종",
         "speices": "원종",
-        "series": "MH2, MHP2, MHP2G, MH4G, MHX, MHXX, MHRise, MHRSB"
+        "series": "MH2, MHP2, MHP2G, MH4G, MHX, MHXX, MHRise, MHRSB",
+        "seriesId": "d, e, f, k, l, m, p, q",
+        "seriesBool": [
+          {"id": "d", "value": true},
+          {"id": "e", "value": true},
+          {"id": "f", "value": true},
+          {"id": "k", "value": true},
+          {"id": "l", "value": true},
+          {"id": "m", "value": true},
+          {"id": "p", "value": true},
+          {"id": "q", "value": true}
+        ]
       },
       {
         "id": 211,
@@ -1899,7 +3314,11 @@
         "nickname": "하룡[霞龍: 노을/무지개 하(霞), 용 룡(龍)]",
         "type": "고룡종",
         "speices": "괴이 극복",
-        "series": "MHRSB"
+        "series": "MHRSB",
+        "seriesId": "q",
+        "seriesBool": [
+          {"id": "q", "value": true}
+        ]
       },
       {
         "id": 212,
@@ -1908,7 +3327,12 @@
         "nickname": "해룡[骸龍: 뼈 해(骸), 용 룡(龍)]",
         "type": "고룡종",
         "speices": "원종",
-        "series": "MHX, MHXX"
+        "series": "MHX, MHXX",
+        "seriesId": "l, m",
+        "seriesBool": [
+          {"id": "l", "value": true},
+          {"id": "m", "value": true}
+        ]
       },
       {
         "id": 213,
@@ -1917,7 +3341,12 @@
         "nickname": "빙룡[冰龍: 얼음 빙(冰), 용 룡(龍)]",
         "type": "고룡종",
         "speices": "원종",
-        "series": "MHWI, MHRSB"
+        "series": "MHWI, MHRSB",
+        "seriesId": "o, q",
+        "seriesBool": [
+          {"id": "o", "value": true},
+          {"id": "q", "value": true}
+        ]
       },
       {
         "id": 214,
@@ -1926,7 +3355,12 @@
         "nickname": "풍신룡[風神龍: 바람 풍(風), 신 신(神), 용 룡(龍)]",
         "type": "고룡종",
         "speices": "원종",
-        "series": "MHRise, MHRSB"
+        "series": "MHRise, MHRSB",
+        "seriesId": "p, q",
+        "seriesBool": [
+          {"id": "p", "value": true},
+          {"id": "q", "value": true}
+        ]
       },
       {
         "id": 215,
@@ -1935,7 +3369,12 @@
         "nickname": "명등룡[冥灯龍: 저승 명(冥), 등불 등(灯), 용 룡(龍)]",
         "type": "고룡종",
         "speices": "원종",
-        "series": "MHW, MHWI"
+        "series": "MHW, MHWI",
+        "seriesId": "n, o",
+        "seriesBool": [
+          {"id": "n", "value": true},
+          {"id": "o", "value": true}
+        ]
       },
       {
         "id": 216,
@@ -1944,7 +3383,11 @@
         "nickname": "용산룡[熔山龍: 녹일 용(熔), 뫼 산(山), 용 룡(龍)]",
         "type": "고룡종",
         "speices": "원종",
-        "series": "MHW"
+        "series": "MHW",
+        "seriesId": "n",
+        "seriesBool": [
+          {"id": "n", "value": true}
+        ]
       },
       {
         "id": 217,
@@ -1953,7 +3396,13 @@
         "nickname": "봉산룡[峯山龍: 봉우리 봉(峯), 뫼 산(山), 용 룡(竜)]",
         "type": "고룡종",
         "speices": "원종",
-        "series": "MH3, MHP3, MH3G"
+        "series": "MH3, MH3G, MHP3",
+        "seriesId": "g, h, i",
+        "seriesBool": [
+          {"id": "g", "value": true},
+          {"id": "h", "value": true},
+          {"id": "i", "value": true}
+        ]
       },
       {
         "id": 218,
@@ -1962,7 +3411,11 @@
         "nickname": "영산룡[霊山龍: 신령 령(峯), 뫼 산(山), 용 룡(龍)]",
         "type": "고룡종",
         "speices": "아종",
-        "series": "MH3G"
+        "series": "MH3G",
+        "seriesId": "h",
+        "seriesBool": [
+          {"id": "h", "value": true}
+        ]
       },
       {
         "id": 219,
@@ -1971,7 +3424,21 @@
         "nickname": "강룡[鋼龍: 강철 강(鋼), 용 룡(龍)] / 풍상룡[風翔龍: 바람 풍(風), 날 상(翔), 용 룡(龍)]",
         "type": "고룡종",
         "speices": "원종",
-        "series": "MH2, MHP2, MHP2G, MH4, MH4G, MHX, MHXX, MHW, MHWI, MHRise, MHRSB"
+        "series": "MH2, MHP2, MHP2G, MH4, MH4G, MHX, MHXX, MHW, MHWI, MHRise, MHRSB",
+        "seriesId": "d, e, f, j, k, l, m, n, o, p, q",
+        "seriesBool": [
+          {"id": "d", "value": true},
+          {"id": "e", "value": true},
+          {"id": "f", "value": true},
+          {"id": "j", "value": true},
+          {"id": "k", "value": true},
+          {"id": "l", "value": true},
+          {"id": "m", "value": true},
+          {"id": "n", "value": true},
+          {"id": "o", "value": true},
+          {"id": "p", "value": true},
+          {"id": "q", "value": true}
+        ]
       },
       {
         "id": 220,
@@ -1980,7 +3447,14 @@
         "nickname": "창강룡[錆鋼龍: 녹 창(錆), 강철 강(鋼), 용 룡(龍)]",
         "type": "고룡종",
         "speices": "특수 개체",
-        "series": "MH2, MHP2, MHP2G, MH4G"
+        "series": "MH2, MHP2, MHP2G, MH4G",
+        "seriesId": "d, e, f, k",
+        "seriesBool": [
+          {"id": "d", "value": true},
+          {"id": "e", "value": true},
+          {"id": "f", "value": true},
+          {"id": "k", "value": true}
+        ]
       },
       {
         "id": 221,
@@ -1989,7 +3463,11 @@
         "nickname": "강룡[鋼龍: 강철 강(鋼), 용 룡(龍)]",
         "type": "고룡종",
         "speices": "괴이 극복",
-        "series": "MHRSB"
+        "series": "MHRSB",
+        "seriesId": "q",
+        "seriesBool": [
+          {"id": "q", "value": true}
+        ]
       },
       {
         "id": 222,
@@ -1998,7 +3476,22 @@
         "nickname": "환수[幻獣: 헛보일 환(幻), 짐승 수(獣)]",
         "type": "고룡종",
         "speices": "원종",
-        "series": "MH, MHG, MHP, MH2, MHP2, MHP2G, MH4, MH4G, MHX, MHXX, MHW, MHWI"
+        "series": "MH, MHG, MHP, MH2, MHP2, MHP2G, MH4, MH4G, MHX, MHXX, MHW, MHWI",
+        "seriesId": "a, b, c, d, e, f, j, k, l, m, n, o",
+        "seriesBool": [
+          {"id": "a", "value": true},
+          {"id": "b", "value": true},
+          {"id": "c", "value": true},
+          {"id": "d", "value": true},
+          {"id": "e", "value": true},
+          {"id": "f", "value": true},
+          {"id": "j", "value": true},
+          {"id": "k", "value": true},
+          {"id": "l", "value": true},
+          {"id": "m", "value": true},
+          {"id": "n", "value": true},
+          {"id": "o", "value": true}
+        ]
       },
       {
         "id": 223,
@@ -2007,7 +3500,12 @@
         "nickname": "환수[幻獣: 헛보일 환(幻), 짐승 수(獣)]",
         "type": "고룡종",
         "speices": "아종",
-        "series": "MH4, MH4G"
+        "series": "MH4, MH4G",
+        "seriesId": "j, k",
+        "seriesBool": [
+          {"id": "j", "value": true},
+          {"id": "k", "value": true}
+        ]
       },
       {
         "id": 224,
@@ -2016,7 +3514,21 @@
         "nickname": "염왕룡[炎王龍: 불꽃 염(炎), 임금 왕(王), 용 룡(龍)]",
         "type": "고룡종",
         "speices": "원종",
-        "series": "MH2, MHP2, MHP2G, MH4, MH4G, MHX, MHXX, MHW, MHWI, MHRise, MHRSB"
+        "series": "MH2, MHP2, MHP2G, MH4, MH4G, MHX, MHXX, MHW, MHWI, MHRise, MHRSB",
+        "seriesId": "d, e, f, j, k, l, m, n, o, p, q",
+        "seriesBool": [
+          {"id": "d", "value": true},
+          {"id": "e", "value": true},
+          {"id": "f", "value": true},
+          {"id": "j", "value": true},
+          {"id": "k", "value": true},
+          {"id": "l", "value": true},
+          {"id": "m", "value": true},
+          {"id": "n", "value": true},
+          {"id": "o", "value": true},
+          {"id": "p", "value": true},
+          {"id": "q", "value": true}
+        ]
       },
       {
         "id": 225,
@@ -2025,7 +3537,11 @@
         "nickname": "염왕룡[炎王龍: 불꽃 염(炎), 임금 왕(王), 용 룡(龍)]",
         "type": "고룡종",
         "speices": "괴이 극복",
-        "series": "MHRSB"
+        "series": "MHRSB",
+        "seriesId": "q",
+        "seriesBool": [
+          {"id": "q", "value": true}
+        ]
       },
       {
         "id": 226,
@@ -2034,7 +3550,15 @@
         "nickname": "흑식룡[黒蝕竜: 검을 흑(黒), 좀먹을 식(蝕), 용 룡(竜)]",
         "type": "???",
         "speices": "원종",
-        "series": "MH4, MH4G, MHX, MHXX, MHRSB"
+        "series": "MH4, MH4G, MHX, MHXX, MHRSB",
+        "seriesId": "j, k, l, m, q",
+        "seriesBool": [
+          {"id": "j", "value": true},
+          {"id": "k", "value": true},
+          {"id": "l", "value": true},
+          {"id": "m", "value": true},
+          {"id": "q", "value": true}
+        ]
       },
       {
         "id": 227,
@@ -2043,7 +3567,13 @@
         "nickname": "흑식룡[黒蝕竜: 검을 흑(黒), 좀먹을 식(蝕), 용 룡(竜)]",
         "type": "???",
         "speices": "특수 개체",
-        "series": "MH4G, MHXX, MHRSB"
+        "series": "MH4G, MHXX, MHRSB",
+        "seriesId": "k, m, q",
+        "seriesBool": [
+          {"id": "k", "value": true},
+          {"id": "m", "value": true},
+          {"id": "q", "value": true}
+        ]
       }
     ]
   },
@@ -2051,27 +3581,27 @@
     "typeList": [
       {
         "id": 1,
-        "type": "All"
-      }, 
-      {
-        "id": 2,
         "type": "갑각종"
       },
       {
-        "id": 3,
+        "id": 2,
         "type": "갑충종"
       },
       {
-        "id": 4,
+        "id": 3,
         "type": "비룡종"
       },
       {
-        "id": 5,
+        "id": 4,
         "type": "사룡종"
       },
       {
-        "id": 6,
+        "id": 5,
         "type": "수룡종"
+      },
+      {
+        "id": 6,
+        "type": "아룡종"
       },
       {
         "id": 7,
@@ -2079,126 +3609,118 @@
       },
       {
         "id": 8,
-        "type": "아룡종"
-      },
-      {
-        "id": 9,
         "type": "양서종"
       },
       {
-        "id": 10,
+        "id": 9,
         "type": "어룡종"
       },
       {
-        "id": 11,
+        "id": 10,
         "type": "조룡종"
       },
       {
-        "id": 12,
+        "id": 11,
         "type": "해룡종"
       },
       {
-        "id": 13,
+        "id": 12,
         "type": "협각종"
       },
       {
-        "id": 14,
+        "id": 13,
         "type": "고룡종"
       },
       {
-        "id": 15,
+        "id": 14,
         "type": "???"
       }
     ]
   },
   {
-    "workList" : [
+    "workList": [
       {
-        "id": 1,
-        "work": "All"
-      },
-      {
-        "id": 2,
+        "id": "a",
         "work": "MH",
         "fullName": "Monster Hunter"
       },
       {
-        "id": 3,
+        "id": "b",
         "work": "MHG",
         "fullName": "Monster Hunter G"
       },
       {
-        "id": 3,
+        "id": "c",
         "work": "MHP",
         "fullName": "Monster Hunter Portable"
       },
       {
-        "id": 4,
+        "id": "d",
         "work": "MH2",
         "fullName": "Monster Hunter Dos"
       },
       {
-        "id": 5,
+        "id": "e",
         "work": "MHP2",
         "fullName": "Monster Hunter Portable 2"
       },
       {
-        "id": 6,
+        "id": "f",
         "work": "MHP2G",
         "fullName": "Monster Hunter Portable 2G"
       },
       {
-        "id": 7,
+        "id": "g",
         "work": "MH3",
         "fullName": "Monster Hunter Tri"
       },
       {
-        "id": 8,
+        "id": "h",
         "work": "MH3G",
         "fullName": "Monster Hunter Tri G"
       },
       {
-        "id": 9,
+        "id": "i",
         "work": "MHP3",
         "fullName": "Monster Hunter Portable 3rd"
       },
       {
-        "id": 10,
+        "id": "j",
         "work": "MH4",
         "fullName": "Monster Hunter 4"
       },
       {
-        "id": 11,
+        "id": "k",
         "work": "MH4G",
         "fullName": "Monster Hunter 4G"
       },
       {
-        "id": 12,
+        "id": "l",
         "work": "MHX",
         "fullName": "Monster Hunter Cross"
       },
       {
-        "id": 13,
+        "id": "m",
         "work": "MHXX",
         "fullName": "Monster Hunter Double Cross"
       },
       {
-        "id": 14,
+        "id": "n",
         "work": "MHW",
         "fullName": "Monster Hunter World"
       },
       {
-        "id": 15,
+        "id": "o",
         "work": "MHWI",
         "fullName": "Monster Hunter World IceBorne"
       },
       {
-        "id": 16,
+        "id": "p",
         "work": "MHRise",
         "fullName": "Monster Hunter Rise"
       },
       {
-        "id": 17,
+        "id": "q",
         "work": "MHRSB",
         "fullName": "Monster Hunter Rise: SunBreak"
       }

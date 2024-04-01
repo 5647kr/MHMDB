@@ -1,3 +1,4 @@
+document.addEventListener("DOMContentLoaded", () => {
 fetch("./index.json")
   .then((response) => {
     return response.json();
@@ -64,6 +65,11 @@ function Data(array) {
     });
   });
 
+  const cardList = document.querySelectorAll(".monster-list li");
+  cardList.forEach((cards) => {
+    cards.style.display = "none"
+  })
+
   // type checkbox 생성
   typeData.forEach((type) => {
     const typeItem = createLi();
@@ -105,7 +111,6 @@ function Data(array) {
   const typeCheck = document.querySelectorAll(".type-list input");
 
   typeCheck.forEach((checkbox) => {
-    checkbox.checked = true;
     checkbox.addEventListener("click", (e) => {
       const cardType = document.querySelectorAll(
         ".monster-list li .monster-card #type"
@@ -184,10 +189,10 @@ function Data(array) {
       });
       typeCheck.forEach((checkbox) => {
         checkbox.disabled = false;
-        checkbox.checked = true;
+        checkbox.checked = false;
       });
       card.forEach((cardLi) => {
-        cardLi.style.display = "block";
+        cardLi.style.display = "none";
       });
     }
   });
@@ -207,3 +212,4 @@ function Data(array) {
     }
   });
 }
+})

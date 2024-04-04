@@ -9,16 +9,7 @@
         "type": "갑각종",
         "speices": "원종",
         "series": "MH2, MHP2, MHP2G, MH4G, MHX, MHXX, MHRSB",
-        "seriesId": "d, e, f, k, l, m, q",
-        "seriesBool": [
-          {"id": "d", "value": true},
-          {"id": "e", "value": true},
-          {"id": "f", "value": true},
-          {"id": "k", "value": true},
-          {"id": "l", "value": true},
-          {"id": "m", "value": true},
-          {"id": "q", "value": true}
-        ]
+        "seriesId": "d, e, f, k, l, m, q"
       },
       {
         "id": 2,
@@ -28,11 +19,7 @@
         "type": "갑각종",
         "speices": "아종",
         "series": "MHP2G, MH4G",
-        "seriesId": "f, k",
-        "seriesBool": [
-          {"id": "f", "value": true},
-          {"id": "k", "value": true}
-        ]
+        "seriesId": "f, k"
       },
       {
         "id": 3,
@@ -42,11 +29,7 @@
         "type": "갑각종",
         "speices": "이명 특수개체",
         "series": "MHX, MHXX",
-        "seriesId": "l, m",
-        "seriesBool": [
-          {"id": "l", "value": true},
-          {"id": "m", "value": true}
-        ]
+        "seriesId": "l, m"
       },
       {
         "id": 4,
@@ -56,15 +39,7 @@
         "type": "갑각종",
         "speices": "원종",
         "series": "MH2, MHP2, MHP2G, MHX, MHXX, MHRSB",
-        "seriesId": "d, e, f, l, m, q",
-        "seriesBool": [
-          {"id": "d", "value": true},
-          {"id": "e", "value": true},
-          {"id": "f", "value": true},
-          {"id": "l", "value": true},
-          {"id": "m", "value": true},
-          {"id": "q", "value": true}
-        ]
+        "seriesId": "d, e, f, l, m, q"
       },
       {
         "id": 5,
@@ -74,10 +49,7 @@
         "type": "갑각종",
         "speices": "아종",
         "series": "MHP2G",
-        "seriesId": "f",
-        "seriesBool": [
-          {"id": "f", "value": true}
-        ]
+        "seriesId": "f"
       },
       {
         "id": 6,
@@ -87,10 +59,7 @@
         "type": "갑각종",
         "speices": "이명 특수개체",
         "series": "MHXX",
-        "seriesId": "m",
-        "seriesBool": [
-          {"id": "m", "value": true}
-        ]
+        "seriesId": "m"
       },
       {
         "id": 7,
@@ -100,12 +69,7 @@
         "type": "갑각종",
         "speices": "원종",
         "series": "MH2, MHP2, MHP2G",
-        "seriesId": "d, e, f",
-        "seriesBool": [
-          {"id": "d", "value": true},
-          {"id": "e", "value": true},
-          {"id": "f", "value": true}
-        ]
+        "seriesId": "d, e, f"
       },
       {
         "id": 8,
@@ -115,13 +79,7 @@
         "type": "갑충종",
         "speices": "원종",
         "series": "MH4, MH4G, MHX, MHXX",
-        "seriesId": "j, k, l, m",
-        "seriesBool": [
-          {"id": "j", "value": true},
-          {"id": "k", "value": true},
-          {"id": "l", "value": true},
-          {"id": "m", "value": true}
-        ]
+        "seriesId": "j, k, l, m"
       },
       {
         "id": 9,
@@ -131,10 +89,7 @@
         "type": "갑충종",
         "speices": "아종",
         "series": "MH4G",
-        "seriesId": "k",
-        "seriesBool": [
-          {"id": "k", "value": true}
-        ]
+        "seriesId": "k"
       },
       {
         "id": 10,
@@ -144,13 +99,7 @@
         "type": "갑충종",
         "speices": "원종",
         "series": "MH4, MH4G, MHX, MHXX",
-        "seriesId": "j, k, l, m",
-        "seriesBool": [
-          {"id": "j", "value": true},
-          {"id": "k", "value": true},
-          {"id": "l", "value": true},
-          {"id": "m", "value": true}
-        ]
+        "seriesId": "j, k, l, m"
       },
       {
         "id": 11,
@@ -160,10 +109,7 @@
         "type": "갑충종",
         "speices": "아종",
         "series": "MH4G",
-        "seriesId": "k",
-        "seriesBool": [
-          {"id": "k", "value": true}
-        ]
+        "seriesId": "k"
       },
       {
         "id": 12,
@@ -173,10 +119,7 @@
         "type": "갑충종",
         "speices": "원종",
         "series": "MHXX",
-        "seriesId": "m",
-        "seriesBool": [
-          {"id": "m", "value": true}
-        ]
+        "seriesId": "m"
       },
       {
         "id": 13,
@@ -186,10 +129,7 @@
         "type": "갑충종",
         "speices": "원종",
         "series": "MHP2G",
-        "seriesId": "f",
-        "seriesBool": [
-          {"id": "f", "value": true}
-        ]
+        "seriesId": "f"
       },
       {
         "id": 14,
@@ -199,18 +139,7 @@
         "type": "비룡종",
         "speices": "원종",
         "series": "MH, MHG, MHP, MH2, MHP2, MHP2G, MH4, MH4G, MHXX",
-        "seriesId": "a, b, c, d, e, f, j, k, m",
-        "seriesBool": [
-          {"id": "a", "value": true},
-          {"id": "b", "value": true},
-          {"id": "c", "value": true},
-          {"id": "d", "value": true},
-          {"id": "e", "value": true},
-          {"id": "f", "value": true},
-          {"id": "j", "value": true},
-          {"id": "k", "value": true},
-          {"id": "m", "value": true}
-        ]
+        "seriesId": "a, b, c, d, e, f, j, k, m"
       },
       {
         "id": 15,
@@ -220,16 +149,7 @@
         "type": "비룡종",
         "speices": "아종",
         "series": "MHG, MHP, MH2, MHP2, MHP2G, MH4, MH4G",
-        "seriesId": "b, c, d, e, f, j, k",
-        "seriesBool": [
-          {"id": "b", "value": true},
-          {"id": "c", "value": true},
-          {"id": "d", "value": true},
-          {"id": "e", "value": true},
-          {"id": "f", "value": true},
-          {"id": "j", "value": true},
-          {"id": "k", "value": true}
-        ]
+        "seriesId": "b, c, d, e, f, j, k"
       },
       {
         "id": 16,
@@ -239,12 +159,7 @@
         "type": "비룡종",
         "speices": "원종",
         "series": "MH3, MH3G, MHP3",
-        "seriesId": "g, h, i",
-        "seriesBool": [
-          {"id": "g", "value": true},
-          {"id": "h", "value": true},
-          {"id": "i", "value": true}
-        ]
+        "seriesId": "g, h, i"
       },
       {
         "id": 17,
@@ -254,11 +169,7 @@
         "type": "비룡종",
         "speices": "아종",
         "series": "MH3G, MHP3",
-        "seriesId": "h, i",
-        "seriesBool": [
-          {"id": "h", "value": true},
-          {"id": "i", "value": true}
-        ]
+        "seriesId": "h, i"
       },
       {
         "id": 18,
@@ -268,17 +179,7 @@
         "type": "비룡종",
         "speices": "원종",
         "series": "MHP2G, MH3G, MHP3, MHX, MHXX, MHWI, MHRise, MHRSB",
-        "seriesId": "f, h, i, l, m, o, p, q",
-        "seriesBool": [
-          {"id": "f", "value": true},
-          {"id": "h", "value": true},
-          {"id": "i", "value": true},
-          {"id": "l", "value": true},
-          {"id": "m", "value": true},
-          {"id": "o", "value": true},
-          {"id": "p", "value": true},
-          {"id": "q", "value": true}
-        ]
+        "seriesId": "f, h, i, l, m, o, p, q"
       },
       {
         "id": 19,
@@ -288,11 +189,7 @@
         "type": "비룡종",
         "speices": "아종",
         "series": "MH3G, MHP3",
-        "seriesId": "h, i",
-        "seriesBool": [
-          {"id": "h", "value": true},
-          {"id": "i", "value": true}
-        ]
+        "seriesId": "h, i"
       },
       {
         "id": 20,
@@ -302,11 +199,7 @@
         "type": "비룡종",
         "speices": "희소종",
         "series": "MH3G, MHRSB",
-        "seriesId": "h, q",
-        "seriesBool": [
-          {"id": "h", "value": true},
-          {"id": "q", "value": true}
-        ]
+        "seriesId": "h, q"
       },
       {
         "id": 21,
@@ -316,11 +209,7 @@
         "type": "비룡종",
         "speices": "이명 특수개체",
         "series": "MHX, MHXX",
-        "seriesId": "l, m",
-        "seriesBool": [
-          {"id": "l", "value": true},
-          {"id": "m", "value": true}
-        ]
+        "seriesId": "l, m"
       },
       {
         "id": 22,
@@ -330,24 +219,7 @@
         "type": "비룡종",
         "speices": "원종",
         "series": "MH, MHG, MHP, MH2, MHP2, MHP2G, MH3, MH3G, MHP3, MH4G, MHXX, MHW, MHWI, MHRise, MHRSB",
-        "seriesId": "a, b, c, d, e, f, g, h, i, k, m, n, o, p, q",
-        "seriesBool": [
-          {"id": "a", "value": true},
-          {"id": "b", "value": true},
-          {"id": "c", "value": true},
-          {"id": "d", "value": true},
-          {"id": "e", "value": true},
-          {"id": "f", "value": true},
-          {"id": "g", "value": true},
-          {"id": "h", "value": true},
-          {"id": "i", "value": true},
-          {"id": "k", "value": true},
-          {"id": "m", "value": true},
-          {"id": "n", "value": true},
-          {"id": "o", "value": true},
-          {"id": "p", "value": true},
-          {"id": "q", "value": true}
-        ]
+        "seriesId": "a, b, c, d, e, f, g, h, i, k, m, n, o, p, q"
       },
       {
         "id": 23,
@@ -357,19 +229,7 @@
         "type": "비룡종",
         "speices": "아종",
         "series": "MHG, MHP, MH2, MHP2, MHP2G, MH3G, MHP3, MH4G, MHW, MHWI",
-        "seriesId": "b, c, d, e, f, h, i, k, n, o",
-        "seriesBool": [
-          {"id": "b", "value": true},
-          {"id": "c", "value": true},
-          {"id": "d", "value": true},
-          {"id": "e", "value": true},
-          {"id": "f", "value": true},
-          {"id": "h", "value": true},
-          {"id": "i", "value": true},
-          {"id": "k", "value": true},
-          {"id": "n", "value": true},
-          {"id": "o", "value": true}
-        ]
+        "seriesId": "b, c, d, e, f, h, i, k, n, o"
       },
       {
         "id": 24,
@@ -379,10 +239,7 @@
         "type": "비룡종",
         "speices": "이명 특수개체",
         "series": "MHXX",
-        "seriesId": "m",
-        "seriesBool": [
-          {"id": "m", "value": true}
-        ]
+        "seriesId": "m"
       },
       {
         "id": 25,
@@ -392,10 +249,7 @@
         "type": "비룡종",
         "speices": "주인",
         "series": "MHRise",
-        "seriesId": "p",
-        "seriesBool": [
-          {"id": "p", "value": true}
-        ]
+        "seriesId": "p"
       },
       {
         "id": 26,
@@ -405,12 +259,7 @@
         "type": "비룡종",
         "speices": "원종",
         "series": "MHX, MHXX, MHRSB",
-        "seriesId": "l, m, q",
-        "seriesBool": [
-          {"id": "l", "value": true},
-          {"id": "m", "value": true},
-          {"id": "q", "value": true}
-        ]
+        "seriesId": "l, m, q"
       },
       {
         "id": 27,
@@ -420,10 +269,7 @@
         "type": "비룡종",
         "speices": "이명 특수개체",
         "series": "MHXX",
-        "seriesId": "m",
-        "seriesBool": [
-          {"id": "m", "value": true}
-        ]
+        "seriesId": "m"
       },
       {
         "id": 28,
@@ -433,11 +279,7 @@
         "type": "비룡종",
         "speices": "원종",
         "series": "MHW, MHWI",
-        "seriesId": "n, o",
-        "seriesBool": [
-          {"id": "n", "value": true},
-          {"id": "o", "value": true}
-        ]
+        "seriesId": "n, o"
       },
       {
         "id": 29,
@@ -447,10 +289,7 @@
         "type": "비룡종",
         "speices": "특수 개체",
         "series": "MHWI",
-        "seriesId": "o",
-        "seriesBool": [
-          {"id": "o", "value": true}
-        ]
+        "seriesId": "o"
       },
       {
         "id": 30,
@@ -460,26 +299,7 @@
         "type": "비룡종",
         "speices": "원종",
         "series": "MH, MHG, MHP, MH2, MHP2, MHP2G, MH3, MH3G, MHP3, MH4, MH4G, MHX, MHXX, MHW, MHWI, MHRise, MHRSB",
-        "seriesId": "a, b, c, d, e, f, g, h, i, j, k, l, m, n, o, p, q",
-        "seriesBool": [
-          {"id": "a", "value": true},
-          {"id": "b", "value": true},
-          {"id": "c", "value": true},
-          {"id": "d", "value": true},
-          {"id": "e", "value": true},
-          {"id": "f", "value": true},
-          {"id": "g", "value": true},
-          {"id": "h", "value": true},
-          {"id": "i", "value": true},
-          {"id": "j", "value": true},
-          {"id": "k", "value": true},
-          {"id": "l", "value": true},
-          {"id": "m", "value": true},
-          {"id": "n", "value": true},
-          {"id": "o", "value": true},
-          {"id": "p", "value": true},
-          {"id": "q", "value": true}
-        ]
+        "seriesId": "a, b, c, d, e, f, g, h, i, j, k, l, m, n, o, p, q"
       },
       {
         "id": 31,
@@ -489,19 +309,7 @@
         "type": "비룡종",
         "speices": "아종",
         "series": "MHG, MHP, MH2, MHP2, MHP2G, MH3G, MH4, MH4G, MHW, MHWI",
-        "seriesId": "b, c, d, e, f, h, j, k, n, o",
-        "seriesBool": [
-          {"id": "b", "value": true},
-          {"id": "c", "value": true},
-          {"id": "d", "value": true},
-          {"id": "e", "value": true},
-          {"id": "f", "value": true},
-          {"id": "h", "value": true},
-          {"id": "j", "value": true},
-          {"id": "k", "value": true},
-          {"id": "n", "value": true},
-          {"id": "o", "value": true}
-        ]
+        "seriesId": "b, c, d, e, f, h, j, k, n, o"
       },
       {
         "id": 32,
@@ -511,21 +319,7 @@
         "type": "비룡종",
         "speices": "희소종",
         "series": "MHG, MHP, MH2, MHP2, MHP2G, MH3G, MHP3, MH4, MH4G, MHX, MHXX, MHWI",
-        "seriesId": "b, c, d, e, f, h, i, j, k, l, m, o",
-        "seriesBool": [
-          {"id": "b", "value": true},
-          {"id": "c", "value": true},
-          {"id": "d", "value": true},
-          {"id": "e", "value": true},
-          {"id": "f", "value": true},
-          {"id": "h", "value": true},
-          {"id": "i", "value": true},
-          {"id": "j", "value": true},
-          {"id": "k", "value": true},
-          {"id": "l", "value": true},
-          {"id": "m", "value": true},
-          {"id": "o", "value": true}
-        ]
+        "seriesId": "b, c, d, e, f, h, i, j, k, l, m, o"
       },
       {
         "id": 33,
@@ -535,11 +329,7 @@
         "type": "비룡종",
         "speices": "이명 특수개체",
         "series": "MHX, MHXX",
-        "seriesId": "l, m",
-        "seriesBool": [
-          {"id": "l", "value": true},
-          {"id": "m", "value": true}
-        ]
+        "seriesId": "l, m"
       },
       {
         "id": 34,
@@ -549,10 +339,7 @@
         "type": "비룡종",
         "speices": "주인",
         "series": "MHRise",
-        "seriesId": "p",
-        "seriesBool": [
-          {"id": "p", "value": true}
-        ]
+        "seriesId": "p"
       },
       {
         "id": 35,
@@ -562,26 +349,7 @@
         "type": "비룡종",
         "speices": "원종",
         "series": "MH, MHG, MHP, MH2, MHP2, MHP2G, MH3, MH3G, MHP3, MH4, MH4G, MHX, MHXX, MHW, MHWI, MHRise, MHRSB",
-        "seriesId": "a, b, c, d, e, f, g, h, i, j, k, l, m, n, o, p, q",
-        "seriesBool": [
-          {"id": "a", "value": true},
-          {"id": "b", "value": true},
-          {"id": "c", "value": true},
-          {"id": "d", "value": true},
-          {"id": "e", "value": true},
-          {"id": "f", "value": true},
-          {"id": "g", "value": true},
-          {"id": "h", "value": true},
-          {"id": "i", "value": true},
-          {"id": "j", "value": true},
-          {"id": "k", "value": true},
-          {"id": "l", "value": true},
-          {"id": "m", "value": true},
-          {"id": "n", "value": true},
-          {"id": "o", "value": true},
-          {"id": "p", "value": true},
-          {"id": "q", "value": true}
-        ]
+        "seriesId": "a, b, c, d, e, f, g, h, i, j, k, l, m, n, o, p, q"
       },
       {
         "id": 36,
@@ -591,19 +359,7 @@
         "type": "비룡종",
         "speices": "아종",
         "series": "MHG, MHP, MH2, MHP2, MHP2G, MH3G, MH4, MH4G, MHW, MHWI",
-        "seriesId": "b, c, d, e, f, h, j, k, n, o",
-        "seriesBool": [
-          {"id": "b", "value": true},
-          {"id": "c", "value": true},
-          {"id": "d", "value": true},
-          {"id": "e", "value": true},
-          {"id": "f", "value": true},
-          {"id": "h", "value": true},
-          {"id": "j", "value": true},
-          {"id": "k", "value": true},
-          {"id": "n", "value": true},
-          {"id": "o", "value": true}
-        ]
+        "seriesId": "b, c, d, e, f, h, j, k, n, o"
       },
       {
         "id": 37,
@@ -613,22 +369,7 @@
         "type": "비룡종",
         "speices": "희소종",
         "series": "MHG, MHP, MH2, MHP2, MHP2G, MH3G, MHP3, MH4, MH4G, MHX, MHXX, MHWI, MHRSB",
-        "seriesId": "b, c, d, e, f, h, i, j, k, l, m, o, q",
-        "seriesBool": [
-          {"id": "b", "value": true},
-          {"id": "c", "value": true},
-          {"id": "d", "value": true},
-          {"id": "e", "value": true},
-          {"id": "f", "value": true},
-          {"id": "h", "value": true},
-          {"id": "i", "value": true},
-          {"id": "j", "value": true},
-          {"id": "k", "value": true},
-          {"id": "l", "value": true},
-          {"id": "m", "value": true},
-          {"id": "o", "value": true},
-          {"id": "q", "value": true}
-        ]
+        "seriesId": "b, c, d, e, f, h, i, j, k, l, m, o, q"
       },
       {
         "id": 38,
@@ -638,11 +379,7 @@
         "type": "비룡종",
         "speices": "이명 특수개체",
         "series": "MHX, MHXX",
-        "seriesId": "l, m",
-        "seriesBool": [
-          {"id": "l", "value": true},
-          {"id": "m", "value": true}
-        ]
+        "seriesId": "l, m"
       },
       {
         "id": 39,
@@ -652,10 +389,7 @@
         "type": "비룡종",
         "speices": "주인",
         "series": "MHRise",
-        "seriesId": "p",
-        "seriesBool": [
-          {"id": "p", "value": true}
-        ]
+        "seriesId": "p"
       },
       {
         "id": 40,
@@ -665,16 +399,7 @@
         "type": "비룡종",
         "speices": "원종",
         "series": "MH, MHG, MHP, MH2, MHP2, MHP2G, MH4G",
-        "seriesId": "a, b, c, d, e, f, k",
-        "seriesBool": [
-          {"id": "a", "value": true},
-          {"id": "b", "value": true},
-          {"id": "c", "value": true},
-          {"id": "d", "value": true},
-          {"id": "e", "value": true},
-          {"id": "f", "value": true},
-          {"id": "k", "value": true}
-        ]
+        "seriesId": "a, b, c, d, e, f, k"
       },
       {
         "id": 41,
@@ -684,15 +409,7 @@
         "type": "비룡종",
         "speices": "아종",
         "series": "MHG, MHP, MH2, MHP2, MHP2G, MH4G",
-        "seriesId": "b, c, d, e, f, k",
-        "seriesBool": [
-          {"id": "b", "value": true},
-          {"id": "c", "value": true},
-          {"id": "d", "value": true},
-          {"id": "e", "value": true},
-          {"id": "f", "value": true},
-          {"id": "k", "value": true}
-        ]
+        "seriesId": "b, c, d, e, f, k"
       },
       {
         "id": 42,
@@ -702,20 +419,7 @@
         "type": "비룡종",
         "speices": "원종",
         "series": "MH, MHG, MHP, MH2, MHP2, MHP2G, MH4, MH4G, MHXX, MHRise, MHRSB",
-        "seriesId": "a, b, c, d, e, f, j, k, m, p, q",
-        "seriesBool": [
-          {"id": "a", "value": true},
-          {"id": "b", "value": true},
-          {"id": "c", "value": true},
-          {"id": "d", "value": true},
-          {"id": "e", "value": true},
-          {"id": "f", "value": true},
-          {"id": "j", "value": true},
-          {"id": "k", "value": true},
-          {"id": "m", "value": true},
-          {"id": "p", "value": true},
-          {"id": "q", "value": true}
-        ]
+        "seriesId": "a, b, c, d, e, f, j, k, m, p, q"
       },
       {
         "id": 43,
@@ -725,11 +429,7 @@
         "type": "비룡종",
         "speices": "원종",
         "series": "MH4, MH4G",
-        "seriesId": "j, k",
-        "seriesBool": [
-          {"id": "j", "value": true},
-          {"id": "k", "value": true}
-        ]
+        "seriesId": "j, k"
       },
       {
         "id": 44,
@@ -739,13 +439,7 @@
         "type": "비룡종",
         "speices": "원종",
         "series": "MHW, MHWI, MHRise, MHRSB",
-        "seriesId": "n, o, p, q",
-        "seriesBool": [
-          {"id": "n", "value": true},
-          {"id": "o", "value": true},
-          {"id": "p", "value": true},
-          {"id": "q", "value": true}
-        ]
+        "seriesId": "n, o, p, q"
       },
       {
         "id": 45,
@@ -755,11 +449,7 @@
         "type": "비룡종",
         "speices": "특수 개체",
         "series": "MHWI, MHRSB",
-        "seriesId": "o, q",
-        "seriesBool": [
-          {"id": "o", "value": true},
-          {"id": "q", "value": true}
-        ]
+        "seriesId": "o, q"
       },
       {
         "id": 46,
@@ -769,16 +459,7 @@
         "type": "비룡종",
         "speices": "원종",
         "series": "MH3, MH3G, MHP3, MHXX, MHWI, MHRise, MHRSB",
-        "seriesId": "g, h, i, m, o, p, q",
-        "seriesBool": [
-          {"id": "g", "value": true},
-          {"id": "h", "value": true},
-          {"id": "i", "value": true},
-          {"id": "m", "value": true},
-          {"id": "o", "value": true},
-          {"id": "p", "value": true},
-          {"id": "q", "value": true}
-        ]
+        "seriesId": "g, h, i, m, o, p, q"
       },
       {
         "id": 47,
@@ -788,11 +469,7 @@
         "type": "비룡종",
         "speices": "아종",
         "series": "MH3G, MHP3",
-        "seriesId": "h, i",
-        "seriesBool": [
-          {"id": "h", "value": true},
-          {"id": "i", "value": true}
-        ]
+        "seriesId": "h, i"
       },
       {
         "id": 48,
@@ -802,10 +479,7 @@
         "type": "비룡종",
         "speices": "특수 개체",
         "series": "MHWI",
-        "seriesId": "o",
-        "seriesBool": [
-          {"id": "o", "value": true}
-        ]
+        "seriesId": "o"
       },
       {
         "id": 49,
@@ -815,13 +489,7 @@
         "type": "비룡종",
         "speices": "원종",
         "series": "MH4G, MHX, MHXX, MHRSB",
-        "seriesId": "k, l, m, q",
-        "seriesBool": [
-          {"id": "k", "value": true},
-          {"id": "l", "value": true},
-          {"id": "m", "value": true},
-          {"id": "q", "value": true}
-        ]
+        "seriesId": "k, l, m, q"
       },
       {
         "id": 50,
@@ -831,16 +499,7 @@
         "type": "비룡종",
         "speices": "원종",
         "series": "MHP2, MHP2G, MHP3, MH4, MH4G, MHX, MHXX",
-        "seriesId": "e, f, i, j, k, l, m",
-        "seriesBool": [
-          {"id": "e", "value": true},
-          {"id": "f", "value": true},
-          {"id": "i", "value": true},
-          {"id": "j", "value": true},
-          {"id": "k", "value": true},
-          {"id": "l", "value": true},
-          {"id": "m", "value": true}
-        ]
+        "seriesId": "e, f, i, j, k, l, m"
       },
       {
         "id": 51,
@@ -850,10 +509,7 @@
         "type": "비룡종",
         "speices": "원종",
         "series": "MHRSB",
-        "seriesId": "q",
-        "seriesBool": [
-          {"id": "q", "value": true}
-        ]
+        "seriesId": "q"
       },
       {
         "id": 52,
@@ -863,10 +519,7 @@
         "type": "비룡종",
         "speices": "아종",
         "series": "MHRSB",
-        "seriesId": "q",
-        "seriesBool": [
-          {"id": "q", "value": true}
-        ]
+        "seriesId": "q"
       },
       {
         "id": 53,
@@ -876,14 +529,7 @@
         "type": "비룡종",
         "speices": "원종",
         "series": "MHP2G, MHP3, MH4G, MHX, MHXX",
-        "seriesId": "f, i, k, l, m",
-        "seriesBool": [
-          {"id": "f", "value": true},
-          {"id": "i", "value": true},
-          {"id": "k", "value": true},
-          {"id": "l", "value": true},
-          {"id": "m", "value": true}
-        ]
+        "seriesId": "f, i, k, l, m"
       },
       {
         "id": 54,
@@ -893,19 +539,7 @@
         "type": "비룡종",
         "speices": "원종",
         "series": "MHP2, MHP2G, MHP3, MH4, MH4G, MHX, MHXX, MHWI, MHRise, MHRSB",
-        "seriesId": "e, f, i, j, k, l, m, o, p, q",
-        "seriesBool": [
-          {"id": "e", "value": true},
-          {"id": "f", "value": true},
-          {"id": "i", "value": true},
-          {"id": "j", "value": true},
-          {"id": "k", "value": true},
-          {"id": "l", "value": true},
-          {"id": "m", "value": true},
-          {"id": "o", "value": true},
-          {"id": "p", "value": true},
-          {"id": "q", "value": true}
-        ]
+        "seriesId": "e, f, i, j, k, l, m, o, p, q"
       },
       {
         "id": 55,
@@ -915,13 +549,7 @@
         "type": "비룡종",
         "speices": "아종",
         "series": "MHP3, MH4, MH4G, MHWI",
-        "seriesId": "i, j, k, o",
-        "seriesBool": [
-          {"id": "i", "value": true},
-          {"id": "j", "value": true},
-          {"id": "k", "value": true},
-          {"id": "o", "value": true}
-        ]
+        "seriesId": "i, j, k, o"
       },
       {
         "id": 56,
@@ -931,11 +559,7 @@
         "type": "비룡종",
         "speices": "희소종",
         "series": "MH4, MH4G",
-        "seriesId": "j, k",
-        "seriesBool": [
-          {"id": "j", "value": true},
-          {"id": "k", "value": true}
-        ]
+        "seriesId": "j, k"
       },
       {
         "id": 57,
@@ -945,11 +569,7 @@
         "type": "비룡종",
         "speices": "이명 특수개체",
         "series": "MHX, MHXX",
-        "seriesId": "l, m",
-        "seriesBool": [
-          {"id": "l", "value": true},
-          {"id": "m", "value": true}
-        ]
+        "seriesId": "l, m"
       },
       {
         "id": 58,
@@ -959,11 +579,7 @@
         "type": "비룡종",
         "speices": "원종",
         "series": "MHW, MHWI",
-        "seriesId": "n, o",
-        "seriesBool": [
-          {"id": "n", "value": true},
-          {"id": "o", "value": true}
-        ]
+        "seriesId": "n, o"
       },
       {
         "id": 59,
@@ -973,10 +589,7 @@
         "type": "비룡종",
         "speices": "아종",
         "series": "MHWI",
-        "seriesId": "o",
-        "seriesBool": [
-          {"id": "o", "value": true}
-        ]
+        "seriesId": "o"
       },
       {
         "id": 60,
@@ -986,21 +599,7 @@
         "type": "비룡종",
         "speices": "원종",
         "series": "MH, MHG, MHP, MH2, MHP2, MHP2G, MH4, MH4G, MHX, MHXX, MHRise, MHRSB",
-        "seriesId": "a, b, c, d, e, f, j, k, l, m, p, q",
-        "seriesBool": [
-          {"id": "a", "value": true},
-          {"id": "b", "value": true},
-          {"id": "c", "value": true},
-          {"id": "d", "value": true},
-          {"id": "e", "value": true},
-          {"id": "f", "value": true},
-          {"id": "j", "value": true},
-          {"id": "k", "value": true},
-          {"id": "l", "value": true},
-          {"id": "m", "value": true},
-          {"id": "p", "value": true},
-          {"id": "q", "value": true}
-        ]
+        "seriesId": "a, b, c, d, e, f, j, k, l, m, p, q"
       },
       {
         "id": 61,
@@ -1010,16 +609,7 @@
         "type": "비룡종",
         "speices": "아종",
         "series": "MHG, MHP, MH2, MHP2, MHP2G, MH4, MH4G",
-        "seriesId": "b, c, d, e, f, j, k",
-        "seriesBool": [
-          {"id": "b", "value": true},
-          {"id": "c", "value": true},
-          {"id": "d", "value": true},
-          {"id": "e", "value": true},
-          {"id": "f", "value": true},
-          {"id": "j", "value": true},
-          {"id": "k", "value": true}
-        ]
+        "seriesId": "b, c, d, e, f, j, k"
       },
       {
         "id": 62,
@@ -1029,13 +619,7 @@
         "type": "사룡종",
         "speices": "원종",
         "series": "MH4, MH4G, MHX, MHXX",
-        "seriesId": "j, k, l, m",
-        "seriesBool": [
-          {"id": "j", "value": true},
-          {"id": "k", "value": true},
-          {"id": "l", "value": true},
-          {"id": "m", "value": true}
-        ]
+        "seriesId": "j, k, l, m"
       },
       {
         "id": 63,
@@ -1045,10 +629,7 @@
         "type": "사룡종",
         "speices": "아종",
         "series": "MH4G",
-        "seriesId": "k",
-        "seriesBool": [
-          {"id": "k", "value": true}
-        ]
+        "seriesId": "k"
       },
       {
         "id": 64,
@@ -1058,13 +639,7 @@
         "type": "수룡종",
         "speices": "원종",
         "series": "MH3G, MHP3, MHX, MHXX",
-        "seriesId": "h, i, l, m",
-        "seriesBool": [
-          {"id": "h", "value": true},
-          {"id": "i", "value": true},
-          {"id": "l", "value": true},
-          {"id": "m", "value": true}
-        ]
+        "seriesId": "h, i, l, m"
       },
       {
         "id": 65,
@@ -1074,10 +649,7 @@
         "type": "수룡종",
         "speices": "아종",
         "series": "MH3G",
-        "seriesId": "h",
-        "seriesBool": [
-          {"id": "h", "value": true}
-        ]
+        "seriesId": "h"
       },
       {
         "id": 66,
@@ -1087,12 +659,7 @@
         "type": "수룡종",
         "speices": "원종",
         "series": "MHX, MHXX, MHWI",
-        "seriesId": "l, m, o",
-        "seriesBool": [
-          {"id": "l", "value": true},
-          {"id": "m", "value": true},
-          {"id": "o", "value": true}
-        ]
+        "seriesId": "l, m, o"
       },
       {
         "id": 67,
@@ -1102,10 +669,7 @@
         "type": "수룡종",
         "speices": "아종",
         "series": "MHWI",
-        "seriesId": "o",
-        "seriesBool": [
-          {"id": "o", "value": true}
-        ]
+        "seriesId": "o"
       },
       {
         "id": 68,
@@ -1115,11 +679,7 @@
         "type": "수룡종",
         "speices": "이명 특수개체",
         "series": "MHX, MHXX",
-        "seriesId": "l, m",
-        "seriesBool": [
-          {"id": "l", "value": true},
-          {"id": "m", "value": true}
-        ]
+        "seriesId": "l, m"
       },
       {
         "id": 69,
@@ -1129,11 +689,7 @@
         "type": "수룡종",
         "speices": "원종",
         "series": "MHW, MHWI",
-        "seriesId": "n, o",
-        "seriesBool": [
-          {"id": "n", "value": true},
-          {"id": "o", "value": true}
-        ]
+        "seriesId": "n, o"
       },
       {
         "id": 70,
@@ -1143,10 +699,7 @@
         "type": "수룡종",
         "speices": "원종",
         "series": "MHWI",
-        "seriesId": "o",
-        "seriesBool": [
-          {"id": "o", "value": true}
-        ]
+        "seriesId": "o"
       },
       {
         "id": 71,
@@ -1156,17 +709,7 @@
         "type": "수룡종",
         "speices": "원종",
         "series": "MH3, MH3G, MHP3, MHXX, MHW, MHWI, MHRise, MHRSB",
-        "seriesId": "g, h, i, m, n, o, p, q",
-        "seriesBool": [
-          {"id": "g", "value": true},
-          {"id": "h", "value": true},
-          {"id": "i", "value": true},
-          {"id": "m", "value": true},
-          {"id": "n", "value": true},
-          {"id": "o", "value": true},
-          {"id": "p", "value": true},
-          {"id": "q", "value": true}
-        ]
+        "seriesId": "g, h, i, m, n, o, p, q"
       },
       {
         "id": 72,
@@ -1176,11 +719,7 @@
         "type": "수룡종",
         "speices": "아종",
         "series": "MH3G, MHP3",
-        "seriesId": "h, i",
-        "seriesBool": [
-          {"id": "h", "value": true},
-          {"id": "i", "value": true}
-        ]
+        "seriesId": "h, i"
       },
       {
         "id": 73,
@@ -1190,15 +729,7 @@
         "type": "수룡종",
         "speices": "원종",
         "series": "MH3G, MH4, MH4G, MHX, MHXX, MHWI",
-        "seriesId": "h, j, k, l, m, o",
-        "seriesBool": [
-          {"id": "h", "value": true},
-          {"id": "j", "value": true},
-          {"id": "k", "value": true},
-          {"id": "l", "value": true},
-          {"id": "m", "value": true},
-          {"id": "o", "value": true}
-        ]
+        "seriesId": "h, j, k, l, m, o"
       },
       {
         "id": 74,
@@ -1208,12 +739,7 @@
         "type": "수룡종",
         "speices": "특수 개체",
         "series": "MH4G, MHXX, MHWI",
-        "seriesId": "k, m, o",
-        "seriesBool": [
-          {"id": "k", "value": true},
-          {"id": "m", "value": true},
-          {"id": "o", "value": true}
-        ]
+        "seriesId": "k, m, o"
       },
       {
         "id": 75,
@@ -1223,13 +749,7 @@
         "type": "수룡종",
         "speices": "원종",
         "series": "MHW, MHWI, MHRise, MHRSB",
-        "seriesId": "n, o, p, q",
-        "seriesBool": [
-          {"id": "n", "value": true},
-          {"id": "o", "value": true},
-          {"id": "p", "value": true},
-          {"id": "q", "value": true}
-        ]
+        "seriesId": "n, o, p, q"
       },
       {
         "id": 76,
@@ -1239,10 +759,7 @@
         "type": "수룡종",
         "speices": "아종",
         "series": "MHWI",
-        "seriesId": "o",
-        "seriesBool": [
-          {"id": "o", "value": true}
-        ]
+        "seriesId": "o"
       },
       {
         "id": 77,
@@ -1252,16 +769,7 @@
         "type": "수룡종",
         "speices": "원종",
         "series": "MH3, MH3G, MHP3, MHX, MHXX, MHW, MHWI",
-        "seriesId": "g, h, i, l, m, n, o",
-        "seriesBool": [
-          {"id": "g", "value": true},
-          {"id": "h", "value": true},
-          {"id": "i", "value": true},
-          {"id": "l", "value": true},
-          {"id": "m", "value": true},
-          {"id": "n", "value": true},
-          {"id": "o", "value": true}
-        ]
+        "seriesId": "g, h, i, l, m, n, o"
       },
       {
         "id": 78,
@@ -1271,11 +779,7 @@
         "type": "수룡종",
         "speices": "아종",
         "series": "MH3G, MHP3",
-        "seriesId": "h, i",
-        "seriesBool": [
-          {"id": "h", "value": true},
-          {"id": "i", "value": true}
-        ]
+        "seriesId": "h, i"
       },
       {
         "id": 79,
@@ -1285,11 +789,7 @@
         "type": "수룡종",
         "speices": "이명 특수개체",
         "series": "MHX, MHXX",
-        "seriesId": "l, m",
-        "seriesBool": [
-          {"id": "l", "value": true},
-          {"id": "m", "value": true}
-        ]
+        "seriesId": "l, m"
       },
       {
         "id": 80,
@@ -1299,18 +799,7 @@
         "type": "수룡종",
         "speices": "원종",
         "series": "MH3, MH3G, MHP3, MH4, MH4G, MHX, MHXX, MHW, MHWI",
-        "seriesId": "g, h, i, j, k, l, m, n, o",
-        "seriesBool": [
-          {"id": "g", "value": true},
-          {"id": "h", "value": true},
-          {"id": "i", "value": true},
-          {"id": "j", "value": true},
-          {"id": "k", "value": true},
-          {"id": "l", "value": true},
-          {"id": "m", "value": true},
-          {"id": "n", "value": true},
-          {"id": "o", "value": true}
-        ]
+        "seriesId": "g, h, i, j, k, l, m, n, o"
       },
       {
         "id": 81,
@@ -1320,15 +809,7 @@
         "type": "수룡종",
         "speices": "특수 개체",
         "series": "MH3G, MH4, MH4G, MHX, MHXX, MHWI",
-        "seriesId": "h, j, k, l, m, o",
-        "seriesBool": [
-          {"id": "h", "value": true},
-          {"id": "j", "value": true},
-          {"id": "k", "value": true},
-          {"id": "l", "value": true},
-          {"id": "m", "value": true},
-          {"id": "o", "value": true}
-        ]
+        "seriesId": "h, j, k, l, m, o"
       },
       {
         "id": 82,
@@ -1338,11 +819,7 @@
         "type": "아룡종",
         "speices": "원종",
         "series": "MHW, MHWI",
-        "seriesId": "n, o",
-        "seriesBool": [
-          {"id": "n", "value": true},
-          {"id": "o", "value": true}
-        ]
+        "seriesId": "n, o"
       },
       {
         "id": 83,
@@ -1352,11 +829,7 @@
         "type": "아룡종",
         "speices": "원종",
         "series": "MHW, MHWI",
-        "seriesId": "n, o",
-        "seriesBool": [
-          {"id": "n", "value": true},
-          {"id": "o", "value": true}
-        ]
+        "seriesId": "n, o"
       },
       {
         "id": 84,
@@ -1366,11 +839,7 @@
         "type": "아룡종",
         "speices": "원종",
         "series": "MHW, MHWI",
-        "seriesId": "n, o",
-        "seriesBool": [
-          {"id": "n", "value": true},
-          {"id": "o", "value": true}
-        ]
+        "seriesId": "n, o"
       },
       {
         "id": 85,
@@ -1380,10 +849,7 @@
         "type": "아룡종",
         "speices": "원종",
         "series": "MHRSB",
-        "seriesId": "q",
-        "seriesBool": [
-          {"id": "q", "value": true}
-        ]
+        "seriesId": "q"
       },
       {
         "id": 86,
@@ -1393,11 +859,7 @@
         "type": "아룡종",
         "speices": "원종",
         "series": "MHRise, MHRSB",
-        "seriesId": "p, q",
-        "seriesBool": [
-          {"id": "p", "value": true},
-          {"id": "q", "value": true}
-        ]
+        "seriesId": "p, q"
       },
       {
         "id": 87,
@@ -1407,10 +869,7 @@
         "type": "아룡종",
         "speices": "특수 개체",
         "series": "MHRSB",
-        "seriesId": "q",
-        "seriesBool": [
-          {"id": "q", "value": true}
-        ]
+        "seriesId": "q"
       },
       {
         "id": 88,
@@ -1420,11 +879,7 @@
         "type": "아룡종",
         "speices": "원종",
         "series": "MHW, MHWI",
-        "seriesId": "n, o",
-        "seriesBool": [
-          {"id": "n", "value": true},
-          {"id": "o", "value": true}
-        ]
+        "seriesId": "n, o"
       },
       {
         "id": 89,
@@ -1434,10 +889,7 @@
         "type": "아룡종",
         "speices": "아종",
         "series": "MHWI",
-        "seriesId": "o",
-        "seriesBool": [
-          {"id": "o", "value": true}
-        ]
+        "seriesId": "o"
       },
       {
         "id": 90,
@@ -1447,18 +899,7 @@
         "type": "아룡종",
         "speices": "원종",
         "series": "MH3G, MHP3, MH4, MH4G, MHX, MHXX, MHWI, MHRise, MHRSB",
-        "seriesId": "h, i, j, k, l, m, o, p, q",
-        "seriesBool": [
-          {"id": "h", "value": true},
-          {"id": "i", "value": true},
-          {"id": "j", "value": true},
-          {"id": "k", "value": true},
-          {"id": "l", "value": true},
-          {"id": "m", "value": true},
-          {"id": "o", "value": true},
-          {"id": "p", "value": true},
-          {"id": "q", "value": true}
-        ]
+        "seriesId": "h, i, j, k, l, m, o, p, q"
       },
       {
         "id": 91,
@@ -1468,13 +909,7 @@
         "type": "아룡종",
         "speices": "아종",
         "series": "MH3G, MH4, MH4G, MHWI",
-        "seriesId": "h, j, k, o",
-        "seriesBool": [
-          {"id": "h", "value": true},
-          {"id": "j", "value": true},
-          {"id": "k", "value": true},
-          {"id": "o", "value": true}
-        ]
+        "seriesId": "h, j, k, o"
       },
       {
         "id": 92,
@@ -1484,11 +919,7 @@
         "type": "아룡종",
         "speices": "이명 특수개체",
         "series": "MHX, MHXX",
-        "seriesId": "l, m",
-        "seriesBool": [
-          {"id": "l", "value": true},
-          {"id": "m", "value": true}
-        ]
+        "seriesId": "l, m"
       },
       {
         "id": 93,
@@ -1498,10 +929,7 @@
         "type": "아룡종",
         "speices": "주인",
         "series": "MHRise",
-        "seriesId": "p",
-        "seriesBool": [
-          {"id": "p", "value": true}
-        ]
+        "seriesId": "p"
       },
       {
         "id": 94,
@@ -1511,13 +939,7 @@
         "type": "아룡종",
         "speices": "원종",
         "series": "MHW, MHWI, MHRise, MHRSB",
-        "seriesId": "n, o, p, q",
-        "seriesBool": [
-          {"id": "n", "value": true},
-          {"id": "o", "value": true},
-          {"id": "p", "value": true},
-          {"id": "q", "value": true}
-        ]
+        "seriesId": "n, o, p, q"
       },
       {
         "id": 95,
@@ -1527,10 +949,7 @@
         "type": "아룡종",
         "speices": "아종",
         "series": "MHWI",
-        "seriesId": "o",
-        "seriesBool": [
-          {"id": "o", "value": true}
-        ]
+        "seriesId": "o"
       },
       {
         "id": 96,
@@ -1540,10 +959,7 @@
         "type": "아수종",
         "speices": "원종",
         "series": "MHRSB",
-        "seriesId": "q",
-        "seriesBool": [
-          {"id": "q", "value": true}
-        ]
+        "seriesId": "q"
       },
       {
         "id": 97,
@@ -1553,11 +969,7 @@
         "type": "아수종",
         "speices": "원종",
         "series": "MHX, MHXX",
-        "seriesId": "l, m",
-        "seriesBool": [
-          {"id": "l", "value": true},
-          {"id": "m", "value": true}
-        ]
+        "seriesId": "l, m"
       },
       {
         "id": 98,
@@ -1567,10 +979,7 @@
         "type": "아수종",
         "speices": "이명 특수개체",
         "series": "MHXX",
-        "seriesId": "m",
-        "seriesBool": [
-          {"id": "m", "value": true}
-        ]
+        "seriesId": "m"
       },
       {
         "id": 99,
@@ -1580,11 +989,7 @@
         "type": "아수종",
         "speices": "원종",
         "series": "MHRise, MHRSB",
-        "seriesId": "p, q",
-        "seriesBool": [
-          {"id": "p", "value": true},
-          {"id": "q", "value": true}
-        ]
+        "seriesId": "p, q"
       },
       {
         "id": 100,
@@ -1594,14 +999,7 @@
         "type": "아수종",
         "speices": "원종",
         "series": "MH2, MHP2, MHP2G, MHX, MHXX",
-        "seriesId": "d, e, f, l, m",
-        "seriesBool": [
-          {"id": "d", "value": true},
-          {"id": "e", "value": true},
-          {"id": "f", "value": true},
-          {"id": "l", "value": true},
-          {"id": "m", "value": true}
-        ]
+        "seriesId": "d, e, f, l, m"
       },
       {
         "id": 101,
@@ -1611,10 +1009,7 @@
         "type": "아수종",
         "speices": "아종",
         "series": "MHP2G",
-        "seriesId": "f",
-        "seriesBool": [
-          {"id": "f", "value": true}
-        ]
+        "seriesId": "f"
       },
       {
         "id": 102,
@@ -1624,15 +1019,7 @@
         "type": "아수종",
         "speices": "원종",
         "series": "MH2, MHP2, MHP2G, MHP3, MHX, MHXX",
-        "seriesId": "d, e, f, i, l, m",
-        "seriesBool": [
-          {"id": "d", "value": true},
-          {"id": "e", "value": true},
-          {"id": "f", "value": true},
-          {"id": "i", "value": true},
-          {"id": "l", "value": true},
-          {"id": "m", "value": true}
-        ]
+        "seriesId": "d, e, f, i, l, m"
       },
       {
         "id": 103,
@@ -1642,19 +1029,7 @@
         "type": "아수종",
         "speices": "원종",
         "series": "MH2, MHP2, MHP2G, MH4, MH4G, MHX, MHXX, MHWI, MHRise, MHRSB",
-        "seriesId": "d, e, f, j, k, l, m, o, p, q",
-        "seriesBool": [
-          {"id": "d", "value": true},
-          {"id": "e", "value": true},
-          {"id": "f", "value": true},
-          {"id": "j", "value": true},
-          {"id": "k", "value": true},
-          {"id": "l", "value": true},
-          {"id": "m", "value": true},
-          {"id": "o", "value": true},
-          {"id": "p", "value": true},
-          {"id": "q", "value": true}
-        ]
+        "seriesId": "d, e, f, j, k, l, m, o, p, q"
       },
       {
         "id": 104,
@@ -1664,16 +1039,7 @@
         "type": "아수종",
         "speices": "특수 개체",
         "series": "MHP2G, MH4, MH4G, MHX, MHXX, MHWI, MHRSB",
-        "seriesId": "f, j, k, l, m, o, q",
-        "seriesBool": [
-          {"id": "f", "value": true},
-          {"id": "j", "value": true},
-          {"id": "k", "value": true},
-          {"id": "l", "value": true},
-          {"id": "m", "value": true},
-          {"id": "o", "value": true},
-          {"id": "q", "value": true}
-        ]
+        "seriesId": "f, j, k, l, m, o, q"
       },
       {
         "id": 105,
@@ -1683,15 +1049,7 @@
         "type": "아수종",
         "speices": "원종",
         "series": "MH3G, MHP3, MHX, MHXX, MHRise, MHRSB",
-        "seriesId": "h, i, l, m, p, q",
-        "seriesBool": [
-          {"id": "h", "value": true},
-          {"id": "i", "value": true},
-          {"id": "l", "value": true},
-          {"id": "m", "value": true},
-          {"id": "p", "value": true},
-          {"id": "q", "value": true}
-        ]
+        "seriesId": "h, i, l, m, p, q"
       },
       {
         "id": 106,
@@ -1701,15 +1059,7 @@
         "type": "아수종",
         "speices": "원종",
         "series": "MH2, MHP2, MHP2G, MH4, MH4G, MHXX",
-        "seriesId": "d, e, f, j, k, m",
-        "seriesBool": [
-          {"id": "d", "value": true},
-          {"id": "e", "value": true},
-          {"id": "f", "value": true},
-          {"id": "j", "value": true},
-          {"id": "k", "value": true},
-          {"id": "m", "value": true}
-        ]
+        "seriesId": "d, e, f, j, k, m"
       },
       {
         "id": 107,
@@ -1719,12 +1069,7 @@
         "type": "아수종",
         "speices": "아종",
         "series": "MHP2G, MH4, MH4G",
-        "seriesId": "f, j, k",
-        "seriesBool": [
-          {"id": "f", "value": true},
-          {"id": "j", "value": true},
-          {"id": "k", "value": true}
-        ]
+        "seriesId": "f, j, k"
       },
       {
         "id": 108,
@@ -1734,11 +1079,7 @@
         "type": "아수종",
         "speices": "원종",
         "series": "MHRise, MHRSB",
-        "seriesId": "p, q",
-        "seriesBool": [
-          {"id": "p", "value": true},
-          {"id": "q", "value": true}
-        ]
+        "seriesId": "p, q"
       },
       {
         "id": 109,
@@ -1748,10 +1089,7 @@
         "type": "아수종",
         "speices": "아종",
         "series": "MHRSB",
-        "seriesId": "q",
-        "seriesBool": [
-          {"id": "q", "value": true}
-        ]
+        "seriesId": "q"
       },
       {
         "id": 110,
@@ -1761,15 +1099,7 @@
         "type": "아수종",
         "speices": "원종",
         "series": "MH3G, MHP3, MHX, MHXX, MHRise, MHRSB",
-        "seriesId": "h, i, l, m, p, q",
-        "seriesBool": [
-          {"id": "h", "value": true},
-          {"id": "i", "value": true},
-          {"id": "l", "value": true},
-          {"id": "m", "value": true},
-          {"id": "p", "value": true},
-          {"id": "q", "value": true}
-        ]
+        "seriesId": "h, i, l, m, p, q"
       },
       {
         "id": 111,
@@ -1779,11 +1109,7 @@
         "type": "아수종",
         "speices": "이명 특수개체",
         "series": "MHX, MHXX",
-        "seriesId": "l, m",
-        "seriesBool": [
-          {"id": "l", "value": true},
-          {"id": "m", "value": true}
-        ]
+        "seriesId": "l, m"
       },
       {
         "id": 112,
@@ -1793,10 +1119,7 @@
         "type": "아수종",
         "speices": "주인",
         "series": "MHRise",
-        "seriesId": "p",
-        "seriesBool": [
-          {"id": "p", "value": true}
-        ]
+        "seriesId": "p"
       },
       {
         "id": 113,
@@ -1806,17 +1129,7 @@
         "type": "아수종",
         "speices": "이명 특수개체",
         "series": "MH3G, MHP3, MH4, MH4G, MHX, MHXX, MHRise, MHRSB",
-        "seriesId": "h, i, j, k, l, m, p, q",
-        "seriesBool": [
-          {"id": "h", "value": true},
-          {"id": "i", "value": true},
-          {"id": "j", "value": true},
-          {"id": "k", "value": true},
-          {"id": "l", "value": true},
-          {"id": "m", "value": true},
-          {"id": "p", "value": true},
-          {"id": "q", "value": true}
-        ]
+        "seriesId": "h, i, j, k, l, m, p, q"
       },
       {
         "id": 114,
@@ -1826,11 +1139,7 @@
         "type": "아수종",
         "speices": "이명 특수개체",
         "series": "MHX, MHXX",
-        "seriesId": "l, m",
-        "seriesBool": [
-          {"id": "l", "value": true},
-          {"id": "m", "value": true}
-        ]
+        "seriesId": "l, m"
       },
       {
         "id": 115,
@@ -1840,13 +1149,7 @@
         "type": "아수종",
         "speices": "원종",
         "series": "MH4, MH4G, MHX, MHXX",
-        "seriesId": "j, k, l, m",
-        "seriesBool": [
-          {"id": "j", "value": true},
-          {"id": "k", "value": true},
-          {"id": "l", "value": true},
-          {"id": "m", "value": true}
-        ]
+        "seriesId": "j, k, l, m"
       },
       {
         "id": 116,
@@ -1856,10 +1159,7 @@
         "type": "아수종",
         "speices": "아종",
         "series": "MH4G",
-        "seriesId": "k",
-        "seriesBool": [
-          {"id": "k", "value": true}
-        ]
+        "seriesId": "k"
       },
       {
         "id": 117,
@@ -1869,13 +1169,7 @@
         "type": "양서종",
         "speices": "원종",
         "series": "MH4, MH4G, MHX, MHXX",
-        "seriesId": "j, k, l, m",
-        "seriesBool": [
-          {"id": "j", "value": true},
-          {"id": "k", "value": true},
-          {"id": "l", "value": true},
-          {"id": "m", "value": true}
-        ]
+        "seriesId": "j, k, l, m"
       },
       {
         "id": 118,
@@ -1885,13 +1179,7 @@
         "type": "양서종",
         "speices": "원종",
         "series": "MH4, MH4G, MHX, MHXX",
-        "seriesId": "j, k, l, m",
-        "seriesBool": [
-          {"id": "j", "value": true},
-          {"id": "k", "value": true},
-          {"id": "l", "value": true},
-          {"id": "m", "value": true}
-        ]
+        "seriesId": "j, k, l, m"
       },
       {
         "id": 119,
@@ -1901,10 +1189,7 @@
         "type": "양서종",
         "speices": "아종",
         "series": "MH4G",
-        "seriesId": "k",
-        "seriesBool": [
-          {"id": "k", "value": true}
-        ]
+        "seriesId": "k"
       },
       {
         "id": 120,
@@ -1914,13 +1199,7 @@
         "type": "양서종",
         "speices": "원종",
         "series": "MH4, MH4G, MHX, MHXX",
-        "seriesId": "j, k, l, m",
-        "seriesBool": [
-          {"id": "j", "value": true},
-          {"id": "k", "value": true},
-          {"id": "l", "value": true},
-          {"id": "m", "value": true}
-        ]
+        "seriesId": "j, k, l, m"
       },
       {
         "id": 121,
@@ -1930,10 +1209,7 @@
         "type": "양서종",
         "speices": "아종",
         "series": "MH4G",
-        "seriesId": "k",
-        "seriesBool": [
-          {"id": "k", "value": true}
-        ]
+        "seriesId": "k"
       },
       {
         "id": 122,
@@ -1943,11 +1219,7 @@
         "type": "양서종",
         "speices": "이명 특수개체",
         "series": "MHX, MHXX",
-        "seriesId": "l, m",
-        "seriesBool": [
-          {"id": "l", "value": true},
-          {"id": "m", "value": true}
-        ]
+        "seriesId": "l, m"
       },
       {
         "id": 123,
@@ -1957,20 +1229,7 @@
         "type": "어룡종",
         "speices": "원종",
         "series": "MH, MHG, MHP, MH2, MHP2, MHP2G, MH3G, MH4, MH4G, MHX, MHXX",
-        "seriesId": "a, b, c, d, e, f, h, j, k, l, m",
-        "seriesBool": [
-          {"id": "a", "value": true},
-          {"id": "b", "value": true},
-          {"id": "c", "value": true},
-          {"id": "d", "value": true},
-          {"id": "e", "value": true},
-          {"id": "f", "value": true},
-          {"id": "h", "value": true},
-          {"id": "j", "value": true},
-          {"id": "k", "value": true},
-          {"id": "l", "value": true},
-          {"id": "m", "value": true}
-        ]
+        "seriesId": "a, b, c, d, e, f, h, j, k, l, m"
       },
       {
         "id": 124,
@@ -1980,15 +1239,7 @@
         "type": "어룡종",
         "speices": "아종",
         "series": "MHG, MH2, MHP2, MHP2G, MH3G, MH4G",
-        "seriesId": "b, d, e, f, h, k",
-        "seriesBool": [
-          {"id": "b", "value": true},
-          {"id": "d", "value": true},
-          {"id": "e", "value": true},
-          {"id": "f", "value": true},
-          {"id": "h", "value": true},
-          {"id": "k", "value": true}
-        ]
+        "seriesId": "b, d, e, f, h, k"
       },
       {
         "id": 125,
@@ -1998,18 +1249,7 @@
         "type": "어룡종",
         "speices": "원종",
         "series": "MH, MHG, MHP, MH2, MHP2, MHP2G, MH4G, MHX, MHXX",
-        "seriesId": "a, b, c, d, e, f, k, l, m",
-        "seriesBool": [
-          {"id": "a", "value": true},
-          {"id": "b", "value": true},
-          {"id": "c", "value": true},
-          {"id": "d", "value": true},
-          {"id": "e", "value": true},
-          {"id": "f", "value": true},
-          {"id": "k", "value": true},
-          {"id": "l", "value": true},
-          {"id": "m", "value": true}
-        ]
+        "seriesId": "a, b, c, d, e, f, k, l, m"
       },
       {
         "id": 126,
@@ -2019,14 +1259,7 @@
         "type": "어룡종",
         "speices": "원종",
         "series": "MHP2G, MHX, MHXX, MHW, MHWI",
-        "seriesId": "f, l, m, n, o",
-        "seriesBool": [
-          {"id": "f", "value": true},
-          {"id": "l", "value": true},
-          {"id": "m", "value": true},
-          {"id": "n", "value": true},
-          {"id": "o", "value": true}
-        ]
+        "seriesId": "f, l, m, n, o"
       },
       {
         "id": 127,
@@ -2036,10 +1269,7 @@
         "type": "어룡종",
         "speices": "원종",
         "series": "MHWI",
-        "seriesId": "o",
-        "seriesBool": [
-          {"id": "o", "value": true}
-        ]
+        "seriesId": "o"
       },
       {
         "id": 128,
@@ -2049,13 +1279,7 @@
         "type": "어룡종",
         "speices": "원종",
         "series": "MHW, MHWI, MHRise, MHRSB",
-        "seriesId": "n, o, p, q",
-        "seriesBool": [
-          {"id": "n", "value": true},
-          {"id": "o", "value": true},
-          {"id": "p", "value": true},
-          {"id": "q", "value": true}
-        ]
+        "seriesId": "n, o, p, q"
       },
       {
         "id": 129,
@@ -2065,19 +1289,7 @@
         "type": "조룡종",
         "speices": "원종",
         "series": "MH, MHG, MHP, MH2, MHP2, MHP2G, MH4, MH4G, MHX, MHXX",
-        "seriesId": "a, b, c, d, e, f, j, k, l, m",
-        "seriesBool": [
-          {"id": "a", "value": true},
-          {"id": "b", "value": true},
-          {"id": "c", "value": true},
-          {"id": "d", "value": true},
-          {"id": "e", "value": true},
-          {"id": "f", "value": true},
-          {"id": "j", "value": true},
-          {"id": "k", "value": true},
-          {"id": "l", "value": true},
-          {"id": "m", "value": true}
-        ]
+        "seriesId": "a, b, c, d, e, f, j, k, l, m"
       },
       {
         "id": 130,
@@ -2087,16 +1299,7 @@
         "type": "조룡종",
         "speices": "아종",
         "series": "MHG, MHP, MH2, MHP2, MHP2G, MH4, MH4G",
-        "seriesId": "b, c, d, e, f, j, k",
-        "seriesBool": [
-          {"id": "b", "value": true},
-          {"id": "c", "value": true},
-          {"id": "d", "value": true},
-          {"id": "e", "value": true},
-          {"id": "f", "value": true},
-          {"id": "j", "value": true},
-          {"id": "k", "value": true}
-        ]
+        "seriesId": "b, c, d, e, f, j, k"
       },
       {
         "id": 131,
@@ -2106,19 +1309,7 @@
         "type": "조룡종",
         "speices": "원종",
         "series": "MH, MHG, MHP, MH2, MHP2, MHP2G, MH4, MH4G, MHX, MHXX",
-        "seriesId": "a, b, c, d, e, f, j, k, l, m",
-        "seriesBool": [
-          {"id": "a", "value": true},
-          {"id": "b", "value": true},
-          {"id": "c", "value": true},
-          {"id": "d", "value": true},
-          {"id": "e", "value": true},
-          {"id": "f", "value": true},
-          {"id": "j", "value": true},
-          {"id": "k", "value": true},
-          {"id": "l", "value": true},
-          {"id": "m", "value": true}
-        ]
+        "seriesId": "a, b, c, d, e, f, j, k, l, m"
       },
       {
         "id": 132,
@@ -2128,12 +1319,7 @@
         "type": "조룡종",
         "speices": "원종",
         "series": "MHP2, MHP2G, MHXX",
-        "seriesId": "e, f, m",
-        "seriesBool": [
-          {"id": "e", "value": true},
-          {"id": "f", "value": true},
-          {"id": "m", "value": true}
-        ]
+        "seriesId": "e, f, m"
       },
       {
         "id": 133,
@@ -2143,19 +1329,7 @@
         "type": "조룡종",
         "speices": "원종",
         "series": "MH, MHG, MHP, MH2, MHP2, MHP2G, MH4, MH4G, MHX, MHXX",
-        "seriesId": "a, b, c, d, e, f, j, k, l, m",
-        "seriesBool": [
-          {"id": "a", "value": true},
-          {"id": "b", "value": true},
-          {"id": "c", "value": true},
-          {"id": "d", "value": true},
-          {"id": "e", "value": true},
-          {"id": "f", "value": true},
-          {"id": "j", "value": true},
-          {"id": "k", "value": true},
-          {"id": "l", "value": true},
-          {"id": "m", "value": true}
-        ]
+        "seriesId": "a, b, c, d, e, f, j, k, l, m"
       },
       {
         "id": 134,
@@ -2165,11 +1339,7 @@
         "type": "조룡종",
         "speices": "원종",
         "series": "MHX, MHXX",
-        "seriesId": "l, m",
-        "seriesBool": [
-          {"id": "l", "value": true},
-          {"id": "m", "value": true}
-        ]
+        "seriesId": "l, m"
       },
       {
         "id": 135,
@@ -2179,14 +1349,7 @@
         "type": "조룡종",
         "speices": "원종",
         "series": "MH3, MH3G, MHP3, MHRise, MHRSB",
-        "seriesId": "g, h, i, p, q",
-        "seriesBool": [
-          {"id": "g", "value": true},
-          {"id": "h", "value": true},
-          {"id": "i", "value": true},
-          {"id": "p", "value": true},
-          {"id": "q", "value": true}
-        ]
+        "seriesId": "g, h, i, p, q"
       },
       {
         "id": 136,
@@ -2196,19 +1359,7 @@
         "type": "조룡종",
         "speices": "원종",
         "series": "MH, MHG, MHP, MH2, MHP2, MHP2G, MH4, MH4G, MHX, MHXX",
-        "seriesId": "a, b, c, d, e, f, j, k, l, m",
-        "seriesBool": [
-          {"id": "a", "value": true},
-          {"id": "b", "value": true},
-          {"id": "c", "value": true},
-          {"id": "d", "value": true},
-          {"id": "e", "value": true},
-          {"id": "f", "value": true},
-          {"id": "j", "value": true},
-          {"id": "k", "value": true},
-          {"id": "l", "value": true},
-          {"id": "m", "value": true}
-        ]
+        "seriesId": "a, b, c, d, e, f, j, k, l, m"
       },
       {
         "id": 137,
@@ -2218,14 +1369,7 @@
         "type": "조룡종",
         "speices": "원종",
         "series": "MH3, MH3G, MHP3, MH4, MH4G",
-        "seriesId": "g, h, i, j, k",
-        "seriesBool": [
-          {"id": "g", "value": true},
-          {"id": "h", "value": true},
-          {"id": "i", "value": true},
-          {"id": "j", "value": true},
-          {"id": "k", "value": true}
-        ]
+        "seriesId": "g, h, i, j, k"
       },
       {
         "id": 138,
@@ -2235,13 +1379,7 @@
         "type": "조룡종",
         "speices": "원종",
         "series": "MH3G, MHP3, MHRise, MHRSB",
-        "seriesId": "h, i, p, q",
-        "seriesBool": [
-          {"id": "h", "value": true},
-          {"id": "i", "value": true},
-          {"id": "p", "value": true},
-          {"id": "q", "value": true}
-        ]
+        "seriesId": "h, i, p, q"
       },
       {
         "id": 139,
@@ -2251,11 +1389,7 @@
         "type": "조룡종",
         "speices": "원종",
         "series": "MHRise, MHRSB",
-        "seriesId": "p, q",
-        "seriesBool": [
-          {"id": "p", "value": true},
-          {"id": "q", "value": true}
-        ]
+        "seriesId": "p, q"
       },
       {
         "id": 140,
@@ -2265,18 +1399,7 @@
         "type": "조룡종",
         "speices": "원종",
         "series": "MHP, MH2, MHP2, MHP2G, MH4, MH4G, MHX, MHXX, MHWI",
-        "seriesId": "c, d, e, f, j, k, l, m, o",
-        "seriesBool": [
-          {"id": "c", "value": true},
-          {"id": "d", "value": true},
-          {"id": "e", "value": true},
-          {"id": "f", "value": true},
-          {"id": "j", "value": true},
-          {"id": "k", "value": true},
-          {"id": "l", "value": true},
-          {"id": "m", "value": true},
-          {"id": "o", "value": true}
-        ]
+        "seriesId": "c, d, e, f, j, k, l, m, o"
       },
       {
         "id": 141,
@@ -2286,11 +1409,7 @@
         "type": "조룡종",
         "speices": "특수 개체",
         "series": "MHP2G, MHWI",
-        "seriesId": "f, o",
-        "seriesBool": [
-          {"id": "f", "value": true},
-          {"id": "o", "value": true}
-        ]
+        "seriesId": "f, o"
       },
       {
         "id": 142,
@@ -2300,11 +1419,7 @@
         "type": "조룡종",
         "speices": "이명 특수개체",
         "series": "MHX, MHXX",
-        "seriesId": "l, m",
-        "seriesBool": [
-          {"id": "l", "value": true},
-          {"id": "m", "value": true}
-        ]
+        "seriesId": "l, m"
       },
       {
         "id": 143,
@@ -2314,19 +1429,7 @@
         "type": "조룡종",
         "speices": "원종",
         "series": "MH, MHG, MHP, MH2, MHP2, MHP2G, MH4, MH4G, MHX, MHXX",
-        "seriesId": "a, b, c, d, e, f, j, k, l, m",
-        "seriesBool": [
-          {"id": "a", "value": true},
-          {"id": "b", "value": true},
-          {"id": "c", "value": true},
-          {"id": "d", "value": true},
-          {"id": "e", "value": true},
-          {"id": "f", "value": true},
-          {"id": "j", "value": true},
-          {"id": "k", "value": true},
-          {"id": "l", "value": true},
-          {"id": "m", "value": true}
-        ]
+        "seriesId": "a, b, c, d, e, f, j, k, l, m"
       },
       {
         "id": 144,
@@ -2336,16 +1439,7 @@
         "type": "조룡종",
         "speices": "아종",
         "series": "MHG, MHP, MH2, MHP2, MHP2G, MH4, MH4G",
-        "seriesId": "b, c, d, e, f, j, k",
-        "seriesBool": [
-          {"id": "b", "value": true},
-          {"id": "c", "value": true},
-          {"id": "d", "value": true},
-          {"id": "e", "value": true},
-          {"id": "f", "value": true},
-          {"id": "j", "value": true},
-          {"id": "k", "value": true}
-        ]
+        "seriesId": "b, c, d, e, f, j, k"
       },
       {
         "id": 145,
@@ -2355,11 +1449,7 @@
         "type": "조룡종",
         "speices": "원종",
         "series": "MHRise, MHRSB",
-        "seriesId": "p, q",
-        "seriesBool": [
-          {"id": "p", "value": true},
-          {"id": "q", "value": true}
-        ]
+        "seriesId": "p, q"
       },
       {
         "id": 146,
@@ -2369,11 +1459,7 @@
         "type": "조룡종",
         "speices": "원종",
         "series": "MHW, MHWI",
-        "seriesId": "n, o",
-        "seriesBool": [
-          {"id": "n", "value": true},
-          {"id": "o", "value": true}
-        ]
+        "seriesId": "n, o"
       },
       {
         "id": 147,
@@ -2383,13 +1469,7 @@
         "type": "조룡종",
         "speices": "원종",
         "series": "MHW, MHWI, MHRise, MHRSB",
-        "seriesId": "n, o, p, q",
-        "seriesBool": [
-          {"id": "n", "value": true},
-          {"id": "o", "value": true},
-          {"id": "p", "value": true},
-          {"id": "q", "value": true}
-        ]
+        "seriesId": "n, o, p, q"
       },
       {
         "id": 148,
@@ -2399,12 +1479,7 @@
         "type": "조룡종",
         "speices": "원종",
         "series": "MH3, MH3G, MHP3",
-        "seriesId": "g, h, i",
-        "seriesBool": [
-          {"id": "g", "value": true},
-          {"id": "h", "value": true},
-          {"id": "i", "value": true}
-        ]
+        "seriesId": "g, h, i"
       },
       {
         "id": 149,
@@ -2414,11 +1489,7 @@
         "type": "조룡종",
         "speices": "아종",
         "series": "MH3G, MHP3",
-        "seriesId": "h, i",
-        "seriesBool": [
-          {"id": "h", "value": true},
-          {"id": "i", "value": true}
-        ]
+        "seriesId": "h, i"
       },
       {
         "id": 150,
@@ -2428,13 +1499,7 @@
         "type": "조룡종",
         "speices": "원종",
         "series": "MHW, MHWI, MHRise, MHRSB",
-        "seriesId": "n, o, p, q",
-        "seriesBool": [
-          {"id": "n", "value": true},
-          {"id": "o", "value": true},
-          {"id": "p", "value": true},
-          {"id": "q", "value": true}
-        ]
+        "seriesId": "n, o, p, q"
       },
       {
         "id": 151,
@@ -2444,10 +1509,7 @@
         "type": "조룡종",
         "speices": "아종",
         "series": "MHWI",
-        "seriesId": "o",
-        "seriesBool": [
-          {"id": "o", "value": true}
-        ]
+        "seriesId": "o"
       },
       {
         "id": 152,
@@ -2457,11 +1519,7 @@
         "type": "조룡종",
         "speices": "원종",
         "series": "MHX, MHXX",
-        "seriesId": "l, m",
-        "seriesBool": [
-          {"id": "l", "value": true},
-          {"id": "m", "value": true}
-        ]
+        "seriesId": "l, m"
       },
       {
         "id": 153,
@@ -2471,10 +1529,7 @@
         "type": "조룡종",
         "speices": "이명 특수개체",
         "series": "MHXX",
-        "seriesId": "m",
-        "seriesBool": [
-          {"id": "m", "value": true}
-        ]
+        "seriesId": "m"
       },
       {
         "id": 154,
@@ -2484,10 +1539,7 @@
         "type": "조룡종",
         "speices": "원종",
         "series": "MHP2G",
-        "seriesId": "f",
-        "seriesBool": [
-          {"id": "f", "value": true}
-        ]
+        "seriesId": "f"
       },
       {
         "id": 155,
@@ -2497,13 +1549,7 @@
         "type": "해룡종",
         "speices": "원종",
         "series": "MH3, MH3G, MHX, MHXX",
-        "seriesId": "g, h, l, m",
-        "seriesBool": [
-          {"id": "g", "value": true},
-          {"id": "h", "value": true},
-          {"id": "l", "value": true},
-          {"id": "m", "value": true}
-        ]
+        "seriesId": "g, h, l, m"
       },
       {
         "id": 156,
@@ -2513,10 +1559,7 @@
         "type": "해룡종",
         "speices": "아종",
         "series": "MH3G",
-        "seriesId": "h",
-        "seriesBool": [
-          {"id": "h", "value": true}
-        ]
+        "seriesId": "h"
       },
       {
         "id": 157,
@@ -2526,10 +1569,7 @@
         "type": "해룡종",
         "speices": "희소종",
         "series": "MH3G",
-        "seriesId": "h",
-        "seriesBool": [
-          {"id": "h", "value": true}
-        ]
+        "seriesId": "h"
       },
       {
         "id": 158,
@@ -2539,16 +1579,7 @@
         "type": "해룡종",
         "speices": "원종",
         "series": "MH3, MH3G, MHP3, MHX, MHXX, MHRise, MHRSB",
-        "seriesId": "g, h, i, l, m, p, q",
-        "seriesBool": [
-          {"id": "g", "value": true},
-          {"id": "h", "value": true},
-          {"id": "i", "value": true},
-          {"id": "l", "value": true},
-          {"id": "m", "value": true},
-          {"id": "p", "value": true},
-          {"id": "q", "value": true}
-        ]
+        "seriesId": "g, h, i, l, m, p, q"
       },
       {
         "id": 159,
@@ -2558,11 +1589,7 @@
         "type": "해룡종",
         "speices": "아종",
         "series": "MH3G, MHP3",
-        "seriesId": "h, i",
-        "seriesBool": [
-          {"id": "h", "value": true},
-          {"id": "i", "value": true}
-        ]
+        "seriesId": "h, i"
       },
       {
         "id": 160,
@@ -2572,14 +1599,7 @@
         "type": "해룡종",
         "speices": "원종",
         "series": "MH3, MH3G, MHP3, MHX, MHXX",
-        "seriesId": "g, h, i, l, m",
-        "seriesBool": [
-          {"id": "g", "value": true},
-          {"id": "h", "value": true},
-          {"id": "i", "value": true},
-          {"id": "l", "value": true},
-          {"id": "m", "value": true}
-        ]
+        "seriesId": "g, h, i, l, m"
       },
       {
         "id": 161,
@@ -2589,11 +1609,7 @@
         "type": "해룡종",
         "speices": "아종",
         "series": "MH3G, MHP3",
-        "seriesId": "h, i",
-        "seriesBool": [
-          {"id": "h", "value": true},
-          {"id": "i", "value": true}
-        ]
+        "seriesId": "h, i"
       },
       {
         "id": 162,
@@ -2603,11 +1619,7 @@
         "type": "해룡종",
         "speices": "원종",
         "series": "MHRise, MHRSB",
-        "seriesId": "p, q",
-        "seriesBool": [
-          {"id": "p", "value": true},
-          {"id": "q", "value": true}
-        ]
+        "seriesId": "p, q"
       },
       {
         "id": 163,
@@ -2617,10 +1629,7 @@
         "type": "해룡종",
         "speices": "아종",
         "series": "MHRSB",
-        "seriesId": "q",
-        "seriesBool": [
-          {"id": "q", "value": true}
-        ]
+        "seriesId": "q"
       },
       {
         "id": 164,
@@ -2630,11 +1639,7 @@
         "type": "해룡종",
         "speices": "원종",
         "series": "MHRise, MHRSB",
-        "seriesId": "p, q",
-        "seriesBool": [
-          {"id": "p", "value": true},
-          {"id": "q", "value": true}
-        ]
+        "seriesId": "p, q"
       },
       {
         "id": 165,
@@ -2644,10 +1649,7 @@
         "type": "해룡종",
         "speices": "아종",
         "series": "MHRSB",
-        "seriesId": "q",
-        "seriesBool": [
-          {"id": "q", "value": true}
-        ]
+        "seriesId": "q"
       },
       {
         "id": 166,
@@ -2657,11 +1659,7 @@
         "type": "해룡종",
         "speices": "원종",
         "series": "MH3, MH3G",
-        "seriesId": "g, h",
-        "seriesBool": [
-          {"id": "g", "value": true},
-          {"id": "h", "value": true}
-        ]
+        "seriesId": "g, h"
       },
       {
         "id": 167,
@@ -2671,13 +1669,7 @@
         "type": "해룡종",
         "speices": "원종",
         "series": "MHX, MHXX, MHRise, MHRSB",
-        "seriesId": "l, m, p, q",
-        "seriesBool": [
-          {"id": "l", "value": true},
-          {"id": "m", "value": true},
-          {"id": "p", "value": true},
-          {"id": "q", "value": true}
-        ]
+        "seriesId": "l, m, p, q"
       },
       {
         "id": 168,
@@ -2687,10 +1679,7 @@
         "type": "해룡종",
         "speices": "희소종",
         "series": "MHRSB",
-        "seriesId": "q",
-        "seriesBool": [
-          {"id": "q", "value": true}
-        ]
+        "seriesId": "q"
       },
       {
         "id": 169,
@@ -2700,10 +1689,7 @@
         "type": "해룡종",
         "speices": "이명 특수개체",
         "series": "MHXX",
-        "seriesId": "m",
-        "seriesBool": [
-          {"id": "m", "value": true}
-        ]
+        "seriesId": "m"
       },
       {
         "id": 170,
@@ -2713,10 +1699,7 @@
         "type": "해룡종",
         "speices": "주인",
         "series": "MHRise",
-        "seriesId": "p",
-        "seriesBool": [
-          {"id": "p", "value": true}
-        ]
+        "seriesId": "p"
       },
       {
         "id": 171,
@@ -2726,13 +1709,7 @@
         "type": "해룡종",
         "speices": "원종",
         "series": "MH3G, MHP3, MHX, MHXX",
-        "seriesId": "h, i, l, m",
-        "seriesBool": [
-          {"id": "h", "value": true},
-          {"id": "i", "value": true},
-          {"id": "l", "value": true},
-          {"id": "m", "value": true}
-        ]
+        "seriesId": "h, i, l, m"
       },
       {
         "id": 172,
@@ -2742,12 +1719,7 @@
         "type": "협각종",
         "speices": "원종",
         "series": "MH4, MH4G, MHXX",
-        "seriesId": "j, k, m",
-        "seriesBool": [
-          {"id": "j", "value": true},
-          {"id": "k", "value": true},
-          {"id": "m", "value": true}
-        ]
+        "seriesId": "j, k, m"
       },
       {
         "id": 173,
@@ -2757,10 +1729,7 @@
         "type": "협각종",
         "speices": "아종",
         "series": "MH4G",
-        "seriesId": "k",
-        "seriesBool": [
-          {"id": "k", "value": true}
-        ]
+        "seriesId": "k"
       },
       {
         "id": 174,
@@ -2770,11 +1739,7 @@
         "type": "협각종",
         "speices": "원종",
         "series": "MHRise, MHRSB",
-        "seriesId": "p, q",
-        "seriesBool": [
-          {"id": "p", "value": true},
-          {"id": "q", "value": true}
-        ]
+        "seriesId": "p, q"
       },
       {
         "id": 175,
@@ -2784,10 +1749,7 @@
         "type": "협각종",
         "speices": "아종",
         "series": "MHRSB",
-        "seriesId": "q",
-        "seriesBool": [
-          {"id": "q", "value": true}
-        ]
+        "seriesId": "q"
       },
       {
         "id": 176,
@@ -2797,10 +1759,7 @@
         "type": "고룡종",
         "speices": "원종",
         "series": "MHRSB",
-        "seriesId": "q",
-        "seriesBool": [
-          {"id": "q", "value": true}
-        ]
+        "seriesId": "q"
       },
       {
         "id": 177,
@@ -2810,770 +1769,507 @@
         "type": "고룡종",
         "speices": "원종",
         "series": "MH4G",
-        "seriesId": "k",
-        "seriesBool": [
-          {"id": "k", "value": true}
-        ]
+        "seriesId": "k"
       },
       {
         "id": 178,
+        "imgurl": "./img/물음표/고어마가라.webp",
+        "name": "고어-마가라",
+        "nickname": "흑식룡[黒蝕竜: 검을 흑(黒), 좀먹을 식(蝕), 용 룡(竜)]",
+        "type": "고룡종",
+        "speices": "원종",
+        "series": "MH4, MH4G, MHX, MHXX, MHRSB",
+        "seriesId": "j, k, l, m, q"
+      },
+      {
+        "id": 179,
+        "imgurl": "./img/물음표/혼돈 고어마가라.webp",
+        "name": "혼돈에 신음하는 고어-마가라",
+        "nickname": "흑식룡[黒蝕竜: 검을 흑(黒), 좀먹을 식(蝕), 용 룡(竜)]",
+        "type": "고룡종",
+        "speices": "특수 개체",
+        "series": "MH4G, MHXX, MHRSB",
+        "seriesId": "k, m, q"
+      },
+      {
+        "id": 180,
         "imgurl": "./img/고룡종/그란밀라오스.webp",
         "name": "그란 밀라오스",
         "nickname": "연흑룡[煉黒龍: 달굴 련(煉), 검을 흑(黒), 용 룡(龍)]",
         "type": "고룡종",
         "speices": "원종",
         "series": "MH3G",
-        "seriesId": "h",
-        "seriesBool": [
-          {"id": "h", "value": true}
-        ]
+        "seriesId": "h"
       },
       {
-        "id": 179,
+        "id": 181,
         "imgurl": "./img/고룡종/나나테스카토리.webp",
         "name": "나나-테스카토리",
         "nickname": "염비룡[炎妃龍: 불꽃 염(炎), 왕비 비(妃), 용 룡(龍)]",
         "type": "고룡종",
         "speices": "원종",
         "series": "MH2, MHP2, MHP2G, MHW, MHWI",
-        "seriesId": "d, e, f, n, o",
-        "seriesBool": [
-          {"id": "d", "value": true},
-          {"id": "e", "value": true},
-          {"id": "f", "value": true},
-          {"id": "n", "value": true},
-          {"id": "o", "value": true}
-        ]
+        "seriesId": "d, e, f, n, o"
       },
       {
-        "id": 180,
+        "id": 182,
         "imgurl": "./img/고룡종/나루하타타히메.webp",
         "name": "나루하타타히메",
         "nickname": "뇌신룡[雷神龍: 우레 뢰(雷), 신 신(神), 용 룡(龍)]",
         "type": "고룡종",
         "speices": "원종",
         "series": "MHRise",
-        "seriesId": "p",
-        "seriesBool": [
-          {"id": "p", "value": true}
-        ]
+        "seriesId": "p"
       },
       {
-        "id": 181,
+        "id": 183,
         "imgurl": "./img/고룡종/백룡 연원 나루하타타히메 특개.webp",
         "name": "백룡 연원 나루하타타히메",
         "nickname": "뇌신룡[雷神龍: 우레 뢰(雷), 신 신(神), 용 룡(龍)]",
         "type": "고룡종",
         "speices": "특수 개체",
         "series": "MHRise, MHRSB",
-        "seriesId": "p, q",
-        "seriesBool": [
-          {"id": "p", "value": true},
-          {"id": "q", "value": true}
-        ]
+        "seriesId": "p, q"
       },
       {
-        "id": 182,
+        "id": 184,
         "imgurl": "./img/고룡종/나발데우스.webp",
         "name": "나발데우스",
         "nickname": "대해룡[大海龍: 클 대(大), 바다 해(海), 용 룡(竜)]",
         "type": "고룡종",
         "speices": "원종",
         "series": "MH3, MH3G, MHP3",
-        "seriesId": "g, h, i",
-        "seriesBool": [
-          {"id": "g", "value": true},
-          {"id": "h", "value": true},
-          {"id": "i", "value": true}
-        ]
+        "seriesId": "g, h, i"
       },
       {
-        "id": 183,
+        "id": 185,
         "imgurl": "./img/고룡종/나발데우스 아종.webp",
         "name": "나발데우스 아종",
         "nickname": "황해룡[皇海龍: 임금 황(皇), 바다 해(海), 용 룡(龍)]",
         "type": "고룡종",
         "speices": "아종",
         "series": "MH3G",
-        "seriesId": "h",
-        "seriesBool": [
-          {"id": "h", "value": true}
-        ]
+        "seriesId": "h"
       },
       {
-        "id": 184,
+        "id": 186,
         "imgurl": "./img/고룡종/네로미에르.webp",
         "name": "네로미에르",
         "nickname": "명룡[溟龍: 바다 명(溟), 용 룡(龍)]",
         "type": "고룡종",
         "speices": "원종",
         "series": "MHWI",
-        "seriesId": "o",
-        "seriesBool": [
-          {"id": "o", "value": true}
-        ]
+        "seriesId": "o"
       },
       {
-        "id": 185,
+        "id": 187,
         "imgurl": "./img/고룡종/네르기간테.webp",
         "name": "네르기간테",
         "nickname": "멸진룡[滅尽龍: 멸할 멸(滅), 다할 진(尽), 용 룡(龍)]",
         "type": "고룡종",
         "speices": "원종",
         "series": "MHW, MHWI",
-        "seriesId": "n, o",
-        "seriesBool": [
-          {"id": "n", "value": true},
-          {"id": "o", "value": true}
-        ]
+        "seriesId": "n, o"
       },
       {
-        "id": 186,
+        "id": 188,
         "imgurl": "./img/고룡종/모멸 네르기간테 특개.webp",
         "name": "모두를 멸하는 네르기간테",
         "nickname": "멸진룡[滅尽龍: 멸할 멸(滅), 다할 진(尽), 용 룡(龍)]",
         "type": "고룡종",
         "speices": "특수 개체",
         "series": "MHWI",
-        "seriesId": "o",
-        "seriesBool": [
-          {"id": "o", "value": true}
-        ]
+        "seriesId": "o"
       },
       {
-        "id": 187,
+        "id": 189,
         "imgurl": "./img/고룡종/다라 아마듈라.webp",
         "name": "다라 아마듈라",
         "nickname": "사왕룡[蛇王龍: 뱀 사(蛇), 임금 왕(王), 용 룡(龍)]",
         "type": "고룡종",
         "speices": "원종",
         "series": "MH4, MH4G",
-        "seriesId": "j, k",
-        "seriesBool": [
-          {"id": "j", "value": true},
-          {"id": "k", "value": true}
-        ]
+        "seriesId": "j, k"
       },
       {
-        "id": 188,
+        "id": 190,
         "imgurl": "./img/고룡종/다라 아마듈라 아종.webp",
         "name": "다라 아마듈라 아종",
         "nickname": "사제룡[蛇帝龍: 뱀 사(蛇), 임금 제(帝), 용 룡(龍)] / 사황룡",
         "type": "고룡종",
         "speices": "아종",
         "series": "MH4G",
-        "seriesId": "k",
-        "seriesBool": [
-          {"id": "k", "value": true}
-        ]
+        "seriesId": "k"
       },
       {
-        "id": 189,
+        "id": 191,
         "imgurl": "./img/고룡종/다렌 모란.webp",
         "name": "다렌 모란",
         "nickname": "호산룡[豪山龍: 호탕할 호(豪), 뫼 산(山), 용 룡(龍)]",
         "type": "고룡종",
         "speices": "원종",
         "series": "MH4, MH4G",
-        "seriesId": "j, k",
-        "seriesBool": [
-          {"id": "j", "value": true},
-          {"id": "k", "value": true}
-        ]
+        "seriesId": "j, k"
       },
       {
-        "id": 190,
+        "id": 192,
         "imgurl": "./img/고룡종/라오샨룽.webp",
         "name": "라오샨룽",
         "nickname": "노산룡[老山龍: 늙을 노(老), 뫼 산(山), 용 룡(龍)]",
         "type": "고룡종",
         "speices": "원종",
         "series": "MH, MHG, MHP, MH2, MHP2, MHP2G, MHXX",
-        "seriesId": "a, b, c, d, e, f, m",
-        "seriesBool": [
-          {"id": "a", "value": true},
-          {"id": "b", "value": true},
-          {"id": "c", "value": true},
-          {"id": "d", "value": true},
-          {"id": "e", "value": true},
-          {"id": "f", "value": true},
-          {"id": "m", "value": true}
-        ]
+        "seriesId": "a, b, c, d, e, f, m"
       },
       {
-        "id": 191,
+        "id": 193,
         "imgurl": "./img/고룡종/라오샨룽 아종.webp",
         "name": "라오샨룽 아종",
         "nickname": "암산룡[岩山龍: 바위 암(岩), 뫼 산(山), 용 룡(龍)]",
         "type": "고룡종",
         "speices": "아종",
         "series": "MHG, MHP, MH2, MHP2, MHP2G",
-        "seriesId": "b, c, d, e, f",
-        "seriesBool": [
-          {"id": "b", "value": true},
-          {"id": "c", "value": true},
-          {"id": "d", "value": true},
-          {"id": "e", "value": true},
-          {"id": "f", "value": true}
-        ]
+        "seriesId": "b, c, d, e, f"
       },
       {
-        "id": 192,
+        "id": 194,
         "imgurl": "./img/고룡종/맘타로트.webp",
         "name": "맘-타로트",
         "nickname": "난휘룡[爛輝龍: 빛날 난(爛), 빛날 휘(輝), 용 룡(龍)]",
         "type": "고룡종",
         "speices": "원종",
         "series": "MHW, MHWI",
-        "seriesId": "n, o",
-        "seriesBool": [
-          {"id": "n", "value": true},
-          {"id": "o", "value": true}
-        ]
+        "seriesId": "n, o"
       },
       {
-        "id": 193,
+        "id": 195,
         "imgurl": "./img/고룡종/멜제나.webp",
         "name": "멜-제나",
         "nickname": "작은룡[爵銀龍: 벼슬 작(爵), 은빛 은(銀), 용 룡(龍)] / 은작룡",
         "type": "고룡종",
         "speices": "원종",
         "series": "MHRSB",
-        "seriesId": "q",
-        "seriesBool": [
-          {"id": "q", "value": true}
-        ]
+        "seriesId": "q"
       },
       {
-        "id": 194,
+        "id": 196,
         "imgurl": "./img/고룡종/원초 멜제나 특개.webp",
         "name": "원초를 새기는 멜-제나",
         "nickname": "작은룡[爵銀龍: 벼슬 작(爵), 은빛 은(銀), 용 룡(龍)] / 은작룡",
         "type": "고룡종",
         "speices": "특수 개체",
         "series": "MHRSB",
-        "seriesId": "q",
-        "seriesBool": [
-          {"id": "q", "value": true}
-        ]
+        "seriesId": "q"
       },
       {
-        "id": 195,
+        "id": 197,
         "imgurl": "./img/고룡종/무페토지바.webp",
         "name": "무페토-지바",
         "nickname": "적룡[赤龍: 붉을 적(赤), 용 룡(龍)] / 명적룡",
         "type": "고룡종",
         "speices": "원종",
         "series": "MHWI",
-        "seriesId": "o",
-        "seriesBool": [
-          {"id": "o", "value": true}
-        ]
+        "seriesId": "o"
       },
       {
-        "id": 196,
+        "id": 198,
         "imgurl": "./img/고룡종/밀라보레아스.webp",
         "name": "밀라보레아스",
         "nickname": "흑룡[黑龍: 검을 흑(黑), 용 룡(龍)]",
         "type": "고룡종",
         "speices": "원종",
         "series": "MH, MHG, MHP, MH2, MHP2, MHP2G, MH4, MH4G, MHXX, MHWI",
-        "seriesId": "a, b, c, d, e, f, j, k, m, o",
-        "seriesBool": [
-          {"id": "a", "value": true},
-          {"id": "b", "value": true},
-          {"id": "c", "value": true},
-          {"id": "d", "value": true},
-          {"id": "e", "value": true},
-          {"id": "f", "value": true},
-          {"id": "j", "value": true},
-          {"id": "k", "value": true},
-          {"id": "m", "value": true},
-          {"id": "o", "value": true}
-        ]
+        "seriesId": "a, b, c, d, e, f, j, k, m, o"
       },
       {
-        "id": 197,
+        "id": 199,
         "imgurl": "./img/고룡종/홍룡 밀라보레아스.webp",
         "name": "홍룡 밀라보레아스",
         "nickname": "홍룡[紅龍: 붉을 홍(紅), 용 룡(龍)]",
         "type": "고룡종",
         "speices": "아종",
         "series": "MHG, MHP, MH2, MHP2, MHP2G, MH4, MH4G, MHXX",
-        "seriesId": "b, c, d, e, f, j, k, m",
-        "seriesBool": [
-          {"id": "b", "value": true},
-          {"id": "c", "value": true},
-          {"id": "d", "value": true},
-          {"id": "e", "value": true},
-          {"id": "f", "value": true},
-          {"id": "j", "value": true},
-          {"id": "k", "value": true},
-          {"id": "m", "value": true}
-        ]
+        "seriesId": "b, c, d, e, f, j, k, m"
       },
       {
-        "id": 198,
+        "id": 200,
         "imgurl": "./img/고룡종/선조룡 밀라보레아스.webp",
         "name": "선조룡 밀라보레아스",
         "nickname": "조룡[祖龍: 할아비 조(祖), 용 룡(龍)] / 선조룡",
         "type": "고룡종",
         "speices": "태초의 존재",
         "series": "MH2, MHP2, MHP2G, MH4G, MHXX",
-        "seriesId": "d, e, f, k, m",
-        "seriesBool": [
-          {"id": "d", "value": true},
-          {"id": "e", "value": true},
-          {"id": "f", "value": true},
-          {"id": "k", "value": true},
-          {"id": "m", "value": true}
-        ]
+        "seriesId": "d, e, f, k, m"
       },
       {
-        "id": 199,
+        "id": 201,
         "imgurl": "./img/고룡종/발파루크.webp",
         "name": "발파루크",
         "nickname": "천혜룡[天彗龍: 하늘 천(天), 살별 혜(彗), 용 룡(龍)]",
         "type": "고룡종",
         "speices": "원종",
         "series": "MHXX",
-        "seriesId": "m",
-        "seriesBool": [
-          {"id": "m", "value": true}
-        ]
+        "seriesId": "m"
       },
       {
-        "id": 200,
+        "id": 202,
         "imgurl": "./img/고룡종/영묘 발파루크 특개.webp",
         "name": "영묘한 광채의 발파루크",
         "nickname": "천혜룡[天彗龍: 하늘 천(天), 살별 혜(彗), 용 룡(龍)]",
         "type": "고룡종",
         "speices": "특수 개체",
         "series": "MHRise, MHRSB",
-        "seriesId": "p, q",
-        "seriesBool": [
-          {"id": "p", "value": true},
-          {"id": "q", "value": true}
-        ]
+        "seriesId": "p, q"
       },
       {
-        "id": 201,
+        "id": 203,
         "imgurl": "./img/고룡종/괴극 발파루크.webp",
         "name": "괴이 극복 발파루크",
         "nickname": "천혜룡[天彗龍: 하늘 천(天), 살별 혜(彗), 용 룡(龍)]",
         "type": "고룡종",
         "speices": "괴이 극복",
         "series": "MHRSB",
-        "seriesId": "q",
-        "seriesBool": [
-          {"id": "q", "value": true}
-        ]
+        "seriesId": "q"
       },
       {
-        "id": 202,
+        "id": 204,
         "imgurl": "./img/고룡종/발하자크.webp",
         "name": "발하자크",
         "nickname": "시투룡[屍套龍: 주검 시(屍), 덮개 투(套), 용 룡(龍)]",
         "type": "고룡종",
         "speices": "원종",
         "series": "MHW, MHWI",
-        "seriesId": "n, o",
-        "seriesBool": [
-          {"id": "n", "value": true},
-          {"id": "o", "value": true}
-        ]
+        "seriesId": "n, o"
       },
       {
-        "id": 203,
+        "id": 205,
         "imgurl": "./img/고룡종/죽두발하자크 특개.webp",
         "name": "죽음을 두른 발하자크",
         "nickname": "시투룡[屍套龍: 주검 시(屍), 덮개 투(套), 용 룡(龍)]",
         "type": "고룡종",
         "speices": "특수 개체",
         "series": "MHWI",
-        "seriesId": "o",
-        "seriesBool": [
-          {"id": "o", "value": true}
-        ]
+        "seriesId": "o"
       },
       {
-        "id": 204,
+        "id": 206,
         "imgurl": "./img/고룡종/샤가르마가라.webp",
         "name": "샤가르마가라",
         "nickname": "천회룡[天廻龍: 하늘 천(天), 돌 회(廻), 용 룡(龍)]",
         "type": "고룡종",
         "speices": "원종",
         "series": "MH4, MH4G, MHX, MHXX, MHRSB",
-        "seriesId": "j, k, l, m, q",
-        "seriesBool": [
-          {"id": "j", "value": true},
-          {"id": "k", "value": true},
-          {"id": "l", "value": true},
-          {"id": "m", "value": true},
-          {"id": "q", "value": true}
-        ]
+        "seriesId": "j, k, l, m, q"
       },
       {
-        "id": 205,
+        "id": 207,
         "imgurl": "./img/고룡종/괴극 샤가르마가라.webp",
         "name": "괴이 극복 샤가르마가라",
         "nickname": "천회룡[天廻龍: 하늘 천(天), 돌 회(廻), 용 룡(龍)]",
         "type": "고룡종",
         "speices": "괴이 극복",
         "series": "MHRSB",
-        "seriesId": "q",
-        "seriesBool": [
-          {"id": "q", "value": true}
-        ]
+        "seriesId": "q"
       },
       {
-        "id": 206,
+        "id": 208,
         "imgurl": "./img/고룡종/아마츠마가츠치.webp",
         "name": "아마츠마가츠치",
         "nickname": "남룡[嵐龍: 남기 남(風), 용 룡(龍)] / 폭풍룡",
         "type": "고룡종",
         "speices": "원종",
         "series": "MHP3, MHX, MHXX, MHRSB",
-        "seriesId": "i, l, m, q",
-        "seriesBool": [
-          {"id": "i", "value": true},
-          {"id": "l", "value": true},
-          {"id": "m", "value": true},
-          {"id": "q", "value": true}
-        ]
+        "seriesId": "i, l, m, q"
       },
       {
-        "id": 207,
+        "id": 209,
         "imgurl": "./img/고룡종/안 이슈왈다.webp",
         "name": "안-이슈왈다",
         "nickname": "지제룡[地啼龍: 땅 지(地), 울 제(啼), 용 룡(龍)]",
         "type": "고룡종",
         "speices": "원종",
         "series": "MHWI",
-        "seriesId": "o",
-        "seriesBool": [
-          {"id": "o", "value": true}
-        ]
+        "seriesId": "o"
       },
       {
-        "id": 208,
+        "id": 210,
         "imgurl": "./img/고룡종/알바트리온.webp",
         "name": "알바트리온",
         "nickname": "황흑룡[煌黒龍: 빛날 황(煌), 검을 흑(黒), 용 룡(竜)]",
         "type": "고룡종",
         "speices": "원종",
         "series": "MH3, MH3G, MHP3, MHX, MHXX, MHWI",
-        "seriesId": "g, h, i, l, m, o",
-        "seriesBool": [
-          {"id": "g", "value": true},
-          {"id": "h", "value": true},
-          {"id": "i", "value": true},
-          {"id": "l", "value": true},
-          {"id": "m", "value": true},
-          {"id": "o", "value": true}
-        ]
+        "seriesId": "g, h, i, l, m, o"
       },
       {
-        "id": 209,
+        "id": 211,
         "imgurl": "./img/고룡종/야마츠카미.webp",
         "name": "야마츠카미",
         "nickname": "부악룡[浮岳龍: 뜰 부(浮), 큰산 악(岳), 용 룡(龍)] / 비악룡",
         "type": "고룡종",
         "speices": "원종",
         "series": "MH2, MHP2G",
-        "seriesId": "d, f",
-        "seriesBool": [
-          {"id": "d", "value": true},
-          {"id": "f", "value": true}
-        ]
+        "seriesId": "d, f"
       },
       {
-        "id": 210,
+        "id": 212,
         "imgurl": "./img/고룡종/오나즈치.webp",
         "name": "오나즈치",
         "nickname": "하룡[霞龍: 노을/무지개 하(霞), 용 룡(龍)]",
         "type": "고룡종",
         "speices": "원종",
         "series": "MH2, MHP2, MHP2G, MH4G, MHX, MHXX, MHRise, MHRSB",
-        "seriesId": "d, e, f, k, l, m, p, q",
-        "seriesBool": [
-          {"id": "d", "value": true},
-          {"id": "e", "value": true},
-          {"id": "f", "value": true},
-          {"id": "k", "value": true},
-          {"id": "l", "value": true},
-          {"id": "m", "value": true},
-          {"id": "p", "value": true},
-          {"id": "q", "value": true}
-        ]
+        "seriesId": "d, e, f, k, l, m, p, q"
       },
       {
-        "id": 211,
+        "id": 213,
         "imgurl": "./img/고룡종/괴극 오나즈치.webp",
         "name": "괴이 극복 오나즈치",
         "nickname": "하룡[霞龍: 노을/무지개 하(霞), 용 룡(龍)]",
         "type": "고룡종",
         "speices": "괴이 극복",
         "series": "MHRSB",
-        "seriesId": "q",
-        "seriesBool": [
-          {"id": "q", "value": true}
-        ]
+        "seriesId": "q"
       },
       {
-        "id": 212,
+        "id": 214,
         "imgurl": "./img/고룡종/오스트가로아.webp",
         "name": "오스트가로아",
         "nickname": "해룡[骸龍: 뼈 해(骸), 용 룡(龍)]",
         "type": "고룡종",
         "speices": "원종",
         "series": "MHX, MHXX",
-        "seriesId": "l, m",
-        "seriesBool": [
-          {"id": "l", "value": true},
-          {"id": "m", "value": true}
-        ]
+        "seriesId": "l, m"
       },
       {
-        "id": 213,
+        "id": 215,
         "imgurl": "./img/고룡종/이베르카나.webp",
         "name": "이베르카나",
         "nickname": "빙룡[冰龍: 얼음 빙(冰), 용 룡(龍)]",
         "type": "고룡종",
         "speices": "원종",
         "series": "MHWI, MHRSB",
-        "seriesId": "o, q",
-        "seriesBool": [
-          {"id": "o", "value": true},
-          {"id": "q", "value": true}
-        ]
+        "seriesId": "o, q"
       },
       {
-        "id": 214,
+        "id": 216,
         "imgurl": "./img/고룡종/이부시마키히코.webp",
         "name": "이부시마키히코",
         "nickname": "풍신룡[風神龍: 바람 풍(風), 신 신(神), 용 룡(龍)]",
         "type": "고룡종",
         "speices": "원종",
         "series": "MHRise, MHRSB",
-        "seriesId": "p, q",
-        "seriesBool": [
-          {"id": "p", "value": true},
-          {"id": "q", "value": true}
-        ]
+        "seriesId": "p, q"
       },
       {
-        "id": 215,
+        "id": 217,
         "imgurl": "./img/고룡종/제노지바.webp",
         "name": "제노-지바",
         "nickname": "명등룡[冥灯龍: 저승 명(冥), 등불 등(灯), 용 룡(龍)]",
         "type": "고룡종",
         "speices": "원종",
         "series": "MHW, MHWI",
-        "seriesId": "n, o",
-        "seriesBool": [
-          {"id": "n", "value": true},
-          {"id": "o", "value": true}
-        ]
+        "seriesId": "n, o"
       },
       {
-        "id": 216,
+        "id": 218,
         "imgurl": "./img/고룡종/조라 마그다라오스.webp",
         "name": "조라-마그다라오스",
         "nickname": "용산룡[熔山龍: 녹일 용(熔), 뫼 산(山), 용 룡(龍)]",
         "type": "고룡종",
         "speices": "원종",
         "series": "MHW",
-        "seriesId": "n",
-        "seriesBool": [
-          {"id": "n", "value": true}
-        ]
+        "seriesId": "n"
       },
       {
-        "id": 217,
+        "id": 219,
         "imgurl": "./img/고룡종/지엔 모란.webp",
         "name": "지엔 모란",
         "nickname": "봉산룡[峯山龍: 봉우리 봉(峯), 뫼 산(山), 용 룡(竜)]",
         "type": "고룡종",
         "speices": "원종",
         "series": "MH3, MH3G, MHP3",
-        "seriesId": "g, h, i",
-        "seriesBool": [
-          {"id": "g", "value": true},
-          {"id": "h", "value": true},
-          {"id": "i", "value": true}
-        ]
+        "seriesId": "g, h, i"
       },
       {
-        "id": 218,
+        "id": 220,
         "imgurl": "./img/고룡종/지엔 모란 아종.webp",
         "name": "지엔 모란 아종",
         "nickname": "영산룡[霊山龍: 신령 령(峯), 뫼 산(山), 용 룡(龍)]",
         "type": "고룡종",
         "speices": "아종",
         "series": "MH3G",
-        "seriesId": "h",
-        "seriesBool": [
-          {"id": "h", "value": true}
-        ]
+        "seriesId": "h"
       },
       {
-        "id": 219,
+        "id": 221,
         "imgurl": "./img/고룡종/크샬다오라.webp",
         "name": "크샬다오라",
         "nickname": "강룡[鋼龍: 강철 강(鋼), 용 룡(龍)] / 풍상룡[風翔龍: 바람 풍(風), 날 상(翔), 용 룡(龍)]",
         "type": "고룡종",
         "speices": "원종",
         "series": "MH2, MHP2, MHP2G, MH4, MH4G, MHX, MHXX, MHW, MHWI, MHRise, MHRSB",
-        "seriesId": "d, e, f, j, k, l, m, n, o, p, q",
-        "seriesBool": [
-          {"id": "d", "value": true},
-          {"id": "e", "value": true},
-          {"id": "f", "value": true},
-          {"id": "j", "value": true},
-          {"id": "k", "value": true},
-          {"id": "l", "value": true},
-          {"id": "m", "value": true},
-          {"id": "n", "value": true},
-          {"id": "o", "value": true},
-          {"id": "p", "value": true},
-          {"id": "q", "value": true}
-        ]
+        "seriesId": "d, e, f, j, k, l, m, n, o, p, q"
       },
       {
-        "id": 220,
+        "id": 222,
         "imgurl": "./img/고룡종/녹슨 크샬다오라 특개.webp",
         "name": "녹슨 크샬다오라",
         "nickname": "창강룡[錆鋼龍: 녹 창(錆), 강철 강(鋼), 용 룡(龍)]",
         "type": "고룡종",
         "speices": "특수 개체",
         "series": "MH2, MHP2, MHP2G, MH4G",
-        "seriesId": "d, e, f, k",
-        "seriesBool": [
-          {"id": "d", "value": true},
-          {"id": "e", "value": true},
-          {"id": "f", "value": true},
-          {"id": "k", "value": true}
-        ]
+        "seriesId": "d, e, f, k"
       },
       {
-        "id": 221,
+        "id": 223,
         "imgurl": "./img/고룡종/괴극 크샬다오라.webp",
         "name": "괴이 극복 크샬다오라",
         "nickname": "강룡[鋼龍: 강철 강(鋼), 용 룡(龍)]",
         "type": "고룡종",
         "speices": "괴이 극복",
         "series": "MHRSB",
-        "seriesId": "q",
-        "seriesBool": [
-          {"id": "q", "value": true}
-        ]
+        "seriesId": "q"
       },
       {
-        "id": 222,
+        "id": 224,
         "imgurl": "./img/고룡종/키린.webp",
         "name": "키린",
         "nickname": "환수[幻獣: 헛보일 환(幻), 짐승 수(獣)]",
         "type": "고룡종",
         "speices": "원종",
         "series": "MH, MHG, MHP, MH2, MHP2, MHP2G, MH4, MH4G, MHX, MHXX, MHW, MHWI",
-        "seriesId": "a, b, c, d, e, f, j, k, l, m, n, o",
-        "seriesBool": [
-          {"id": "a", "value": true},
-          {"id": "b", "value": true},
-          {"id": "c", "value": true},
-          {"id": "d", "value": true},
-          {"id": "e", "value": true},
-          {"id": "f", "value": true},
-          {"id": "j", "value": true},
-          {"id": "k", "value": true},
-          {"id": "l", "value": true},
-          {"id": "m", "value": true},
-          {"id": "n", "value": true},
-          {"id": "o", "value": true}
-        ]
+        "seriesId": "a, b, c, d, e, f, j, k, l, m, n, o"
       },
       {
-        "id": 223,
+        "id": 225,
         "imgurl": "./img/고룡종/키린 아종.webp",
         "name": "키린 아종",
         "nickname": "환수[幻獣: 헛보일 환(幻), 짐승 수(獣)]",
         "type": "고룡종",
         "speices": "아종",
         "series": "MH4, MH4G",
-        "seriesId": "j, k",
-        "seriesBool": [
-          {"id": "j", "value": true},
-          {"id": "k", "value": true}
-        ]
+        "seriesId": "j, k"
       },
       {
-        "id": 224,
+        "id": 226,
         "imgurl": "./img/고룡종/테오 테스카토르.webp",
         "name": "테오-테스카토르",
         "nickname": "염왕룡[炎王龍: 불꽃 염(炎), 임금 왕(王), 용 룡(龍)]",
         "type": "고룡종",
         "speices": "원종",
         "series": "MH2, MHP2, MHP2G, MH4, MH4G, MHX, MHXX, MHW, MHWI, MHRise, MHRSB",
-        "seriesId": "d, e, f, j, k, l, m, n, o, p, q",
-        "seriesBool": [
-          {"id": "d", "value": true},
-          {"id": "e", "value": true},
-          {"id": "f", "value": true},
-          {"id": "j", "value": true},
-          {"id": "k", "value": true},
-          {"id": "l", "value": true},
-          {"id": "m", "value": true},
-          {"id": "n", "value": true},
-          {"id": "o", "value": true},
-          {"id": "p", "value": true},
-          {"id": "q", "value": true}
-        ]
+        "seriesId": "d, e, f, j, k, l, m, n, o, p, q"
       },
       {
-        "id": 225,
+        "id": 227,
         "imgurl": "./img/고룡종/괴극 테오 테스카토르.webp",
         "name": "괴이 극복 테오-테스카토르",
         "nickname": "염왕룡[炎王龍: 불꽃 염(炎), 임금 왕(王), 용 룡(龍)]",
         "type": "고룡종",
         "speices": "괴이 극복",
         "series": "MHRSB",
-        "seriesId": "q",
-        "seriesBool": [
-          {"id": "q", "value": true}
-        ]
-      },
-      {
-        "id": 226,
-        "imgurl": "./img/물음표/고어마가라.webp",
-        "name": "고어-마가라",
-        "nickname": "흑식룡[黒蝕竜: 검을 흑(黒), 좀먹을 식(蝕), 용 룡(竜)]",
-        "type": "???",
-        "speices": "원종",
-        "series": "MH4, MH4G, MHX, MHXX, MHRSB",
-        "seriesId": "j, k, l, m, q",
-        "seriesBool": [
-          {"id": "j", "value": true},
-          {"id": "k", "value": true},
-          {"id": "l", "value": true},
-          {"id": "m", "value": true},
-          {"id": "q", "value": true}
-        ]
-      },
-      {
-        "id": 227,
-        "imgurl": "./img/물음표/혼돈 고어마가라.webp",
-        "name": "혼돈에 신음하는 고어-마가라",
-        "nickname": "흑식룡[黒蝕竜: 검을 흑(黒), 좀먹을 식(蝕), 용 룡(竜)]",
-        "type": "???",
-        "speices": "특수 개체",
-        "series": "MH4G, MHXX, MHRSB",
-        "seriesId": "k, m, q",
-        "seriesBool": [
-          {"id": "k", "value": true},
-          {"id": "m", "value": true},
-          {"id": "q", "value": true}
-        ]
+        "seriesId": "q"
       }
     ]
   },
@@ -3630,10 +2326,6 @@
       {
         "id": 13,
         "type": "고룡종"
-      },
-      {
-        "id": 14,
-        "type": "???"
       }
     ]
   },

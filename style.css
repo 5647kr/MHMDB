@@ -114,18 +114,42 @@ main .monster-wrap {
 
 .monster-list .monster-card {
   width: 360px;
-  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  height: 370px;
   border-radius: 10px;
-  position: relative;
+  perspective: 1000px;
 }
 
-.monster-card img {
+.monster-card .monster-inner {
+  width: 100%;
+  height: 100%;
+  position: relative;
+  transform-style: preserve-3d;
+  transition: transform 0.5s;
+}
+
+.monster-card.flipped .monster-inner {
+  transform: rotateY(180deg);
+}
+
+.monster-card .monster-inner .monster-intro,
+.monster-card .monster-inner .detail {
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  border-radius: 10px;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  backface-visibility: hidden;
+  cursor: pointer;
+}
+
+.monster-card .monster-intro img {
   width: 360px;
   aspect-ratio: 360 / 340;
   vertical-align: top;
+  border-radius: 10px;
 }
 
-.monster-card strong {
+.monster-card .monster-intro strong {
   font-size: 1.8rem;
   text-align: center;
   display: block;
@@ -143,8 +167,8 @@ main .monster-wrap {
   box-sizing: border-box;
   font-size: 1.6rem;
   line-height: 4rem;
-  overflow: auto;
   border-radius: 10px;
+  transform: rotateY(180deg);
 }
 
 footer {

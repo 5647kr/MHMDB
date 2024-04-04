@@ -892,7 +892,7 @@
         "nickname": "굉룡[轟竜: 울릴 굉(轟), 용 룡(轟)]",
         "type": "비룡종",
         "speices": "원종",
-        "series": "MHP2, MHP2G, MHP3, MH4, MH4G, MHX, MHXX, MHWI, MHR, MHRSB",
+        "series": "MHP2, MHP2G, MHP3, MH4, MH4G, MHX, MHXX, MHWI, MHRise, MHRSB",
         "seriesId": "e, f, i, j, k, l, m, o, p, q",
         "seriesBool": [
           {"id": "e", "value": true},
@@ -1641,7 +1641,7 @@
         "nickname": "금사자[金獅子: 금 금(金), 사자 사(獅), 아들 자(子)]",
         "type": "아수종",
         "speices": "원종",
-        "series": "MH2, MHP2, MHP2G, MH4, MH4G, MHX, MHXX, MHWI, MHR, MHRSB",
+        "series": "MH2, MHP2, MHP2G, MH4, MH4G, MHX, MHXX, MHWI, MHRise, MHRSB",
         "seriesId": "d, e, f, j, k, l, m, o, p, q",
         "seriesBool": [
           {"id": "d", "value": true},
@@ -1760,7 +1760,7 @@
         "nickname": "청웅수[青熊獣: 푸를 청(青), 곰 웅(熊), 짐승 수(獣)]",
         "type": "아수종",
         "speices": "원종",
-        "series": "MH3G, MHP3, MHX, MHXX, MHR, MHRSB",
+        "series": "MH3G, MHP3, MHX, MHXX, MHRise, MHRSB",
         "seriesId": "h, i, l, m, p, q",
         "seriesBool": [
           {"id": "h", "value": true},

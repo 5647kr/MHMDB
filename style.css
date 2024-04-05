@@ -146,7 +146,7 @@ main .monster-wrap {
   width: 360px;
   aspect-ratio: 360 / 340;
   vertical-align: top;
-  border-radius: 10px;
+  border-radius: 10px 10px 0 0;
 }
 
 .monster-card .monster-intro strong {
@@ -169,6 +169,7 @@ main .monster-wrap {
   line-height: 4rem;
   border-radius: 10px;
   transform: rotateY(180deg);
+  word-break: keep-all;
 }
 
 footer {

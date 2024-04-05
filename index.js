@@ -140,7 +140,6 @@ document.addEventListener("DOMContentLoaded", () => {
 
     // typeBtn event 처리
     typeBtn.addEventListener("click", () => {
-      console.log(checkedIds);
 
       if (typeBtn.value === "true") {
         typeBtn.value = "false";
@@ -272,14 +271,8 @@ document.addEventListener("DOMContentLoaded", () => {
 
     // 체크박스와 카드 종류별 선언문
     const typeCheck = document.querySelectorAll(".type-list input");
-    const cardType = document.querySelectorAll(
-      ".monster-list li .monster-card #type"
-    );
 
     const seriesCheck = document.querySelectorAll(".work-list input");
-    const cardSeries = document.querySelectorAll(
-      ".monster-list li .monster-card #series"
-    );
 
     // type 필터링 기능
     typeCheck.forEach((checkbox) => {
@@ -302,16 +295,13 @@ document.addEventListener("DOMContentLoaded", () => {
         });
         seriesBtn.value = "true";
         seriesBtn.textContent = "전체 선택";
-        console.log(checkedIds);
 
         if (e.target.checked) {
           //will add the clicked checkbox id to the selectedIds array
           checkedIds.push(e.target.id);
-          console.log(checkedIds);
         } else {
           //will remove the clicked checbkox id from the selectedIds array
           checkedIds = checkedIds.filter((id) => id !== e.target.id);
-          console.log(checkedIds);
         }
         refreshCards();
       });
@@ -343,11 +333,9 @@ document.addEventListener("DOMContentLoaded", () => {
         if (e.target.checked) {
           //will add the clicked checkbox id to the selectedIds array
           checkedIds.push(e.target.id);
-          console.log(checkedIds);
         } else {
           //will remove the clicked checbkox id from the selectedIds array
           checkedIds = checkedIds.filter((id) => id !== e.target.id);
-          console.log(checkedIds);
         }
         refreshCards();
       });

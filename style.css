@@ -169,6 +169,7 @@ main .monster-wrap {
   line-height: 4rem;
   border-radius: 10px;
   transform: rotateY(180deg);
+  overflow: auto;
   word-break: keep-all;
 }
 

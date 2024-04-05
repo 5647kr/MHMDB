@@ -1,4 +1,20 @@
 document.addEventListener("DOMContentLoaded", () => {
+  // checkedIds 배열을 초기화합니다.
+  let checkedIds = [
+    "갑각종",
+    "갑충종",
+    "비룡종",
+    "사룡종",
+    "수룡종",
+    "아룡종",
+    "아수종",
+    "양서종",
+    "어룡종",
+    "조룡종",
+    "해룡종",
+    "협각종",
+    "고룡종"];
+
   fetch("./index.json")
     .then((response) => {
       return response.json();
@@ -120,23 +136,6 @@ document.addEventListener("DOMContentLoaded", () => {
     btnList.appendChild(seriesBtn);
     seriesBtn.value = "true";
     seriesBtn.textContent = "전체 선택";
-
-    // 체크id 초기설정
-    let checkedIds = [
-      "갑각종",
-      "갑충종",
-      "비룡종",
-      "사룡종",
-      "수룡종",
-      "아룡종",
-      "아수종",
-      "양서종",
-      "어룡종",
-      "조룡종",
-      "해룡종",
-      "협각종",
-      "고룡종",
-    ];
 
     // typeBtn event 처리
     typeBtn.addEventListener("click", () => {
@@ -276,8 +275,6 @@ document.addEventListener("DOMContentLoaded", () => {
 
     // type 필터링 기능
     typeCheck.forEach((checkbox) => {
-      checkbox.checked = true;
-      checkedIds = [];
 
       // 체크박스 하나라도 checked가 아닌 경우
       if (!checkbox.checked) {
@@ -295,7 +292,7 @@ document.addEventListener("DOMContentLoaded", () => {
         });
         seriesBtn.value = "true";
         seriesBtn.textContent = "전체 선택";
-
+        
         if (e.target.checked) {
           //will add the clicked checkbox id to the selectedIds array
           checkedIds.push(e.target.id);
@@ -354,7 +351,7 @@ document.addEventListener("DOMContentLoaded", () => {
     });
     seriesCheck.forEach((checkbox) => {
       checkbox.addEventListener("click", (e) => {
-        if (e.target.checked) {
+        if (!e.target.checked) {
           typeCheck.forEach((checkbox) => {
             if (checkedIds.includes(checkbox.id)) {
               checkedIds = checkedIds.filter((id) => id !== checkbox.id);
@@ -365,7 +362,3 @@ document.addEventListener("DOMContentLoaded", () => {
     });
   }
 });
-
-//! 문제점1: 시리즈 누르고 다시 종별 checkbox누르면 시리즈필터링한  카드가 그대로 있음
-
-//! 문제점2: 시리즈 전체 선택한 뒤 시리즈 체크박스 하나만 눌러도 카드가 전부다 사라짐

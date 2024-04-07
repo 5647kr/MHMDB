@@ -351,7 +351,7 @@ document.addEventListener("DOMContentLoaded", () => {
     });
     seriesCheck.forEach((checkbox) => {
       checkbox.addEventListener("click", (e) => {
-        if (!e.target.checked) {
+        if (e.target.checked) {
           typeCheck.forEach((checkbox) => {
             if (checkedIds.includes(checkbox.id)) {
               checkedIds = checkedIds.filter((id) => id !== checkbox.id);

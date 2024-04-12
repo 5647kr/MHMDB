@@ -153,6 +153,22 @@ main .monster-wrap {
   position: absolute;
   backface-visibility: hidden;
   cursor: pointer;
+  overflow: hidden;
+}
+
+.monster-card .monster-intro .title-series {
+  background-color: #d2b48c;
+  position: absolute;
+  width: 200px;
+  padding: 10px;
+  top: 10px;
+  left: -80px;
+  transform: rotate(-45deg);
+  text-align: center;
+  z-index: 1;
+  font-size: 1.8rem;
+  color: #fff;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
 }
 
 .monster-card .monster-intro img {

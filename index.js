@@ -31,6 +31,8 @@ document.addEventListener("DOMContentLoaded", () => {
     const typeList = document.querySelector(".type-list");
     const seriesList = document.querySelector(".work-list");
     const btnList = document.querySelector(".btn-list");
+    const main = document.querySelector("main");
+    const html = document.querySelector("html");
     // element 생성 함수
     function createLi() {
       return document.createElement("li");
@@ -57,6 +59,7 @@ document.addEventListener("DOMContentLoaded", () => {
       const cardContent = `
     <img src="${monster.imgurl}">
     <strong>${monster.name}</strong>
+    <p id="sign">${monster.sign}</p>
     <p class="a11y-hidden" id="type">${monster.type}</p>
     <p class="a11y-hidden" id="series">${monster.seriesId}</p>
     `;
@@ -80,6 +83,16 @@ document.addEventListener("DOMContentLoaded", () => {
 
       cardInner.appendChild(cardDetailWrap);
 
+      // 간판몬스터 설정
+      const seriesSign = document.querySelectorAll("#sign")
+      seriesSign.forEach((sign) => {
+        if(sign.textContent === "") {
+          sign.classList.add("a11y-hidden")
+        } else {
+          sign.classList.add("title-series")
+        }
+      })
+      
       // 카드 클릭 이벤트
       cardWrap.addEventListener("click", () => {
         cardWrap.classList.toggle("flipped");
@@ -114,6 +127,7 @@ document.addEventListener("DOMContentLoaded", () => {
       const seriesAbbr = document.createElement("abbr");
 
       seriesCheckBox.id = series.id;
+      seriesCheckBox.textContent = series.work;
 
       checkBoxLabel.htmlFor = series.id;
 
@@ -326,6 +340,10 @@ document.addEventListener("DOMContentLoaded", () => {
         // 타입버튼 초기화
         typeBtn.value = "false";
         typeBtn.textContent = "전체 선택";
+
+        const seriesSign = document.querySelectorAll("#sign")
+        seriesSign.forEach((sign) => {
+        })
 
         if (e.target.checked) {
           //will add the clicked checkbox id to the selectedIds array

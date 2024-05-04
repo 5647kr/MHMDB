@@ -50,38 +50,57 @@ document.addEventListener("DOMContentLoaded", () => {
     monsterData.forEach((monster) => {
       const cardItem = createLi();
       const cardWrap = document.createElement("div");
-      const cardInner = document.createElement("div");
-      const cardIntro = document.createElement("div");
+      const monNickName = monster.nickname.substring(0, monster.nickname.indexOf("["));
       cardWrap.classList.add("monster-card");
-      cardInner.classList.add("monster-inner");
-      cardIntro.classList.add("monster-intro");
 
       const cardContent = `
-    <img src="${monster.imgurl}">
-    <strong>${monster.name}</strong>
-    <p id="sign">${monster.sign}</p>
-    <p class="a11y-hidden" id="type">${monster.type}</p>
-    <p class="a11y-hidden" id="series">${monster.seriesId}</p>
-    `;
+      <div class="fontStyle">
+        <h2>${monster.name}</h2>
+      </div>
+      <img src="${monster.icon}" alt="몬스터 아이콘">
+      <div class="elementList"></div>
+      <div class="stateList"></div>
+      <p id="sign">${monster.sign}</p>
+      <div class="fontStyle">
+        <p id="nickname">${monNickName}</p>
+        <p id="type">${monster.type}</p>
+        <p id="size"><span>${monster.small}</span> - <span>${monster.large}</span></p>
+      </div>
+        <p class="a11y-hidden" id="series">${monster.seriesId}</p>
+      `;
 
-      const cardDetailWrap = document.createElement("div");
-      cardDetailWrap.classList.add("detail");
+    
 
-      cardDetailWrap.innerHTML = `
-      <h3><span>종별: </span>${monster.type}</h3>
-      <h3><span>종: </span>${monster.speices}</h3>
-      <h3><span>이름: </span>${monster.name}</h3>
-      <h3><span>별명: </span>${monster.nickname}</h3>
-      <h3><span>등장 작품: </span>${monster.series}</h3>
-    `;
 
-      cardIntro.innerHTML = cardContent;
-      cardInner.appendChild(cardIntro);
-      cardWrap.appendChild(cardInner);
+      cardWrap.innerHTML = cardContent;
       cardItem.appendChild(cardWrap);
       monsterList.appendChild(cardItem);
 
-      cardInner.appendChild(cardDetailWrap);
+      // 몬스터별 속성아이콘 추가
+      const elementImgWrap = cardWrap.querySelector('.elementList');
+
+      if(monster.element !== "") {
+        monster.element.split(",").forEach((el) => {
+          const elementImg = document.createElement("img");
+          elementImg.classList.add("elements")
+          elementImg.src = `./icon/속성/${el.trim()}.webp`;
+          elementImg.alt = el.trim();
+          elementImgWrap.appendChild(elementImg); 
+        });
+      }
+
+      // 몬스터별 상태아이콘 추가
+      const stateImgWrap = cardWrap.querySelector(".stateList")
+
+      if(monster.ailments !== "") {
+        monster.ailments.split(",").forEach((ail) => {
+          const ailmentsImg = document.createElement("img");
+          ailmentsImg.classList.add("elements")
+          ailmentsImg.src = `./icon/상태/${ail.trim()}.webp`;
+          ailmentsImg.alt = ail.trim();
+          stateImgWrap.appendChild(ailmentsImg); 
+        });
+      }
 
       // 간판몬스터 설정
       const seriesSign = document.querySelectorAll("#sign")
@@ -92,11 +111,7 @@ document.addEventListener("DOMContentLoaded", () => {
           sign.classList.add("title-series")
         }
       })
-      
-      // 카드 클릭 이벤트
-      cardWrap.addEventListener("click", () => {
-        cardWrap.classList.toggle("flipped");
-      });
+
     });
 
     //! card 초기설정 삭제 가능성

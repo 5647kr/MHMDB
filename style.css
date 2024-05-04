@@ -1,10 +1,18 @@
 /* reset css */
+@font-face {
+  font-family: 'FUNFLOWSURVIVORKR';
+  src: url('https://fastly.jsdelivr.net/gh/projectnoonnu/noonfonts_2210-2@1.0/FUNFLOWSURVIVORKR.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
 html {
   font-size: 10px;
   width: 100%;
   height: 100%;
   margin: 0;
   padding: 0;
+  font-family: "FUNFLOWSURVIVORKR";
 }
 
 body {
@@ -57,11 +65,11 @@ header h1::after {
 }
 header strong {
   font-size: 2rem;
-  color: red;
   display: block;
   padding-left: 20px;
   text-align: center;
 }
+
 main {
   position: relative;
 }
@@ -86,15 +94,18 @@ main .btn-list ul {
   display: flex;
   gap: 20px;
 }
+main .btn-list button {
+  font-family: "FUNFLOWSURVIVORKR";
+}
 
 main .list-wrap {
   padding: 0 20px 20px;
   display: flex;
   justify-content: space-around;
   box-sizing: border-box;
-  /* position: fixed; */
   background: #fff;
 }
+
 main .list-wrap .type-list,
 main .list-wrap .work-list {
   display: grid;
@@ -114,50 +125,30 @@ main .list-wrap label abbr {
 }
 
 main .monster-wrap {
-  margin-top: 20px;
-  padding: 20px;
+  padding: 100px;
 }
 
 .monster-wrap .monster-list {
   display: flex;
   justify-content: center;
   flex-wrap: wrap;
-  gap: 15px;
+  gap: 80px;
 }
 
 .monster-list .monster-card {
   width: 360px;
-  height: 370px;
   border-radius: 10px;
-  perspective: 1000px;
-}
-
-.monster-card .monster-inner {
-  width: 100%;
-  height: 100%;
-  position: relative;
-  transform-style: preserve-3d;
-  transition: transform 0.5s;
-}
-
-.monster-card.flipped .monster-inner {
-  transform: rotateY(180deg);
-}
-
-.monster-card .monster-inner .monster-intro,
-.monster-card .monster-inner .detail {
   box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
-  border-radius: 10px;
-  width: 100%;
-  height: 100%;
-  position: absolute;
-  backface-visibility: hidden;
-  cursor: pointer;
-  overflow: auto;
+  position: relative;
+  overflow: hidden;
+  background: url(./img/bg3.jpg) no-repeat 50% 50% / cover;
+  padding: 20px;
+  box-sizing: border-box;
+  transition: all 0.1s;
 }
 
-.monster-card .monster-intro .title-series {
-  background-color: #d2b48c;
+.monster-card .title-series {
+  background: url(./img/bg.jpg) no-repeat 0 0 / cover;
   position: absolute;
   width: 200px;
   padding: 10px;
@@ -165,23 +156,78 @@ main .monster-wrap {
   left: -80px;
   transform: rotate(-45deg);
   text-align: center;
-  z-index: 1;
+  z-index: 0;
   font-size: 1.8rem;
-  color: #fff;
   box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
 }
 
-.monster-card .monster-intro img {
-  width: 360px;
-  aspect-ratio: 360 / 340;
-  vertical-align: top;
-  border-radius: 10px 10px 0 0;
-}
-
-.monster-card .monster-intro strong {
-  font-size: 1.8rem;
+.monster-card h2 {
+  font-size: 2.7rem;
+  font-weight: bold;
   text-align: center;
   display: block;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+.monster-card .fontStyle {
+  background: linear-gradient(to top right , rgba(35,0,2,1), rgba(125,22,4,1), rgba(197,143,69,1));
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
+
+.monster-card img {
+  width: 320px;
+  aspect-ratio: 320 / 320;
+  vertical-align: top;
+  border-radius: 10px 10px 0 0;
+  display: inline-block;
+  align-items: center;
+  margin-bottom: 10px;
+}
+.monster-card .elements,
+.monster-card .ailments {
+  width: 30px;
+  aspect-ratio: 30 / 30;
+  vertical-align: top;
+  margin: 0;
+}
+
+.monster-card .elementList {
+  display: flex;
+  justify-content: center;
+  width: 100px;
+  flex-wrap: wrap;
+  position: absolute;
+}
+
+.monster-card .stateList {
+  display: flex;
+  justify-content: center;
+  width: 100px;
+  flex-wrap: wrap;
+  position: absolute;
+  right: 20px;
+}
+
+.monster-card .elements.a11y-hidden {
+  clip: rect(1px, 1px, 1px, 1px);
+  clip-path: inset(50%);
+  width: 1px;
+  height: 1px;
+  margin: -1px;
+  overflow: hidden;
+  padding: 0;
+  position: absolute;
+}
+.monster-card p {
+  font-size: 2rem;
+  font-weight: 600;
+  text-align: center;
+}
+
+.monster-card #size {
+  font-size: 1rem;
 }
 
 .monster-card .detail {
@@ -191,7 +237,6 @@ main .monster-wrap {
   width: 100%;
   height: 100%;
   background: rgba(0, 0, 0, 0.5);
-  color: #fff;
   padding: 20px;
   box-sizing: border-box;
   font-size: 1.6rem;
@@ -210,6 +255,8 @@ footer {
   top: 0;
   right: 0;
 }
+
+
 
 .a11y-hidden {
   clip: rect(1px, 1px, 1px, 1px);

@@ -4,6 +4,7 @@
       {
         "id": 1,
         "imgurl": "./img/갑각종/다이묘자자미.webp",
+        "icon": "./icon/갑각종/다이묘자자미.png",
         "name": "다이묘자자미",
         "nickname": "순해[盾蟹: 방패 순(盾), 게 해(蟹)] / 방패게",
         "type": "갑각종",
@@ -11,6 +12,10 @@
         "series": "MH2, MHP2, MHP2G, MH4G, MHX, MHXX, MHRSB",
         "seriesId": "d, e, f, k, l, m, q",
         "sign": "",
+        "element": "물",
+        "ailments": "물",
+        "small": "450.45",
+        "large": "1451.2",
         "weak": [
           {
             "이름": "MH2",
@@ -72,7 +77,8 @@
       },
       {
         "id": 2,
-        "imgurl": "./img/갑각종/다이묘자자미 아종.webp",
+        "imgurl": "./img/갑각종/다이묘자자미-아종.webp",
+        "icon": "./icon/갑각종/다이묘자자미-아종.png",
         "name": "다이묘자자미 아종",
         "nickname": "자순해[紫盾蟹: 자줏빛 자(紫), 방패 순(盾), 게 해(蟹)] / 보라방패게",
         "type": "갑각종",
@@ -80,6 +86,10 @@
         "series": "MHP2G, MH4G",
         "seriesId": "f, k",
         "sign": "",
+        "element": "물",
+        "ailments": "물",
+        "small": "247.5",
+        "large": "1346.8",
         "weak": [
           {
             "이름": "MHP2G",
@@ -101,7 +111,8 @@
       },
       {
         "id": 3,
-        "imgurl": "./img/갑각종/다이묘자자미 이명특개.webp",
+        "imgurl": "./img/갑각종/다이묘자자미-이명특개.webp",
+        "icon": "./icon/갑각종/다이묘자자미-이명특개.png",
         "name": "모쇄 다이묘자자미",
         "nickname": "모쇄[矛砕: 창 모(矛), 부술 쇄(砕)]",
         "type": "갑각종",
@@ -109,6 +120,10 @@
         "series": "MHX, MHXX",
         "seriesId": "l, m",
         "sign": "",
+        "element": "물",
+        "ailments": "물",
+        "small": "1449.89",
+        "large": "1793.68",
         "weak": [
           {
             "이름": "MHX",
@@ -131,6 +146,7 @@
       {
         "id": 4,
         "imgurl": "./img/갑각종/쇼군기자미.webp",
+        "icon": "./icon/갑각종/쇼군기자미.png",
         "name": "쇼군기자미",
         "nickname": "겸해[鎌蟹: 낫 겸(鎌), 게 해(蟹)] / 낫게",
         "type": "갑각종",
@@ -138,6 +154,10 @@
         "series": "MH2, MHP2, MHP2G, MHX, MHXX, MHRSB",
         "seriesId": "d, e, f, l, m, q",
         "sign": "",
+        "element": "물",
+        "ailments": "물, 열상",
+        "small": "586.03",
+        "large": "1294.5",
         "weak": [
           {
             "이름": "MH2",
@@ -191,7 +211,8 @@
       },
       {
         "id": 5,
-        "imgurl": "./img/갑각종/쇼군기자미 아종.webp",
+        "imgurl": "./img/갑각종/쇼군기자미-아종.webp",
+        "icon": "./icon/갑각종/쇼군기자미-아종.png",
         "name": "쇼군기자미 아종",
         "nickname": "겸해[鎌蟹: 낫 겸(鎌), 게 해(蟹)] / 낫게",
         "type": "갑각종",
@@ -199,6 +220,10 @@
         "series": "MHP2G",
         "seriesId": "f",
         "sign": "",
+        "element": "물",
+        "ailments": "",
+        "small": "742.2",
+        "large": "1294.5",
         "weak": [
           {
             "이름": "MHP2G",
@@ -212,7 +237,8 @@
       },
       {
         "id": 6,
-        "imgurl": "./img/갑각종/쇼군기자미 이명특개.webp",
+        "imgurl": "./img/갑각종/쇼군기자미-이명특개.png",
+        "icon": "./icon/갑각종/쇼군기자미-이명특개.png",
         "name": "개열 쇼군기자미",
         "nickname": "개열[鎧裂: 갑옷 개(鎧), 찢어질 렬(裂)]",
         "type": "갑각종",
@@ -220,6 +246,10 @@
         "series": "MHXX",
         "seriesId": "m",
         "sign": "",
+        "element": "물",
+        "ailments": "물, 열상, 방다",
+        "small": "660.9",
+        "large": "784.82",
         "weak": [
           {
             "이름": "MHXX",
@@ -234,6 +264,7 @@
       {
         "id": 7,
         "imgurl": "./img/갑각종/센가오렌.webp",
+        "icon": "./icon/갑각종/센가오렌.png",
         "name": "센가오렌",
         "nickname": "채해[砦蟹: 목책 채(砦), 게 해(蟹)] / 성채게",
         "type": "갑각종",
@@ -241,6 +272,10 @@
         "series": "MH2, MHP2, MHP2G",
         "seriesId": "d, e, f",
         "sign": "",
+        "element": "",
+        "ailments": "",
+        "small": "3388",
+        "large": "3388",
         "weak": [
           {
             "이름": "MH2",
@@ -271,6 +306,7 @@
       {
         "id": 8,
         "imgurl": "./img/갑충종/게넬셀타스.webp",
+        "icon": "./icon/갑충종/게넬셀타스.png",
         "name": "게넬-셀타스",
         "nickname": "중갑충[重甲虫: 무거울 중(重), 갑옷 갑(甲), 벌레 충(虫)]",
         "type": "갑충종",
@@ -278,6 +314,10 @@
         "series": "MH4, MH4G, MHX, MHXX",
         "seriesId": "j, k, l, m",
         "sign": "",
+        "element": "물",
+        "ailments": "물, 아이템, 기절",
+        "small": "1271.42",
+        "large": "1791.55",
         "weak": [
           {
             "이름": "MH4",
@@ -315,7 +355,8 @@
       },
       {
         "id": 9,
-        "imgurl": "./img/갑충종/게넬셀타스 아종.webp",
+        "imgurl": "./img/갑충종/게넬셀타스-아종.webp",
+        "icon": "./icon/갑충종/게넬셀타스-아종.png",
         "name": "게넬-셀타스 아종",
         "nickname": "포갑충[砲甲虫: 돌 쇠뇌 포(砲), 갑옷 갑(甲), 벌레 충(虫)]",
         "type": "갑충종",
@@ -323,6 +364,10 @@
         "series": "MH4G",
         "seriesId": "k",
         "sign": "",
+        "element": "물",
+        "ailments": "물, 아이템, 기절",
+        "small": "2291.87",
+        "large": "1760.16",
         "weak": [
           {
             "이름": "MH4G",
@@ -337,6 +382,7 @@
       {
         "id": 10,
         "imgurl": "./img/갑충종/아르셀타스.webp",
+        "icon": "./icon/갑충종/아르셀타스.png",
         "name": "아르셀타스",
         "nickname": "철갑충[徹甲虫: 뚫을 철(徹), 갑옷 갑(甲), 벌레 충(虫)]",
         "type": "갑충종",
@@ -344,6 +390,10 @@
         "series": "MH4, MH4G, MHX, MHXX",
         "seriesId": "j, k, l, m",
         "sign": "",
+        "element": "",
+        "ailments": "방다, 피로",
+        "small": "541.99",
+        "large": "769.88",
         "weak": [
           {
             "이름": "MH4",
@@ -381,7 +431,8 @@
       },
       {
         "id": 11,
-        "imgurl": "./img/갑충종/아르셀타스 아종.webp",
+        "imgurl": "./img/갑충종/아르셀타스-아종.webp",
+        "icon": "./icon/갑충종/아르셀타스-아종.png",
         "name": "아르셀타스 아종",
         "nickname": "부갑충[斧甲虫: 도끼 부(斧), 갑옷 갑(甲), 벌레 충(虫)]",
         "type": "갑충종",
@@ -389,6 +440,10 @@
         "series": "MH4G",
         "seriesId": "k",
         "sign": "",
+        "element": "",
+        "ailments": "마비",
+        "small": "541.99",
+        "large": "769.88",
         "weak": [
           {
             "이름": "MH4G",
@@ -403,6 +458,7 @@
       {
         "id": 12,
         "imgurl": "./img/갑충종/아트랄카.webp",
+        "icon": "./icon/갑충종/아트랄카.png",
         "name": "아트랄 카",
         "nickname": "각당랑[閣蟷螂: 누각 각(閣), 버마재비 당(螳), 사마귀 랑(螂)]",
         "type": "갑충종",
@@ -410,6 +466,10 @@
         "series": "MHXX",
         "seriesId": "m",
         "sign": "",
+        "element": "",
+        "ailments": "방다, 실속박",
+        "small": "1504.11",
+        "large": "1504.11",
         "weak": [
           {
             "이름": "MHXX",
@@ -424,6 +484,7 @@
       {
         "id": 13,
         "imgurl": "./img/갑충종/퀸랑고스타.webp",
+        "icon": "./icon/갑충종/퀸랑고스타.png",
         "name": "퀸랑고스타",
         "nickname": "여왕충[女王虫: 여자 녀(女), 왕 왕(王), 벌레 충(虫)]",
         "type": "갑충종",
@@ -431,6 +492,10 @@
         "series": "MHP2G",
         "seriesId": "f",
         "sign": "",
+        "element": "",
+        "ailments": "방다, 마비",
+        "small": "691",
+        "large": "691",
         "weak": [
           {
             "이름": "MHP2G",
@@ -445,6 +510,7 @@
       {
         "id": 14,
         "imgurl": "./img/비룡종/그라비모스.webp",
+        "icon": "./icon/비룡종/그라비모스.png",
         "name": "그라비모스",
         "nickname": "개룡[鎧竜: 갑옷 개(鎧), 용 룡(竜)]",
         "type": "비룡종",
@@ -452,6 +518,10 @@
         "series": "MH, MHG, MHP, MH2, MHP2, MHP2G, MH4, MH4G, MHXX",
         "seriesId": "a, b, c, d, e, f, j, k, m",
         "sign": "",
+        "element": "불",
+        "ailments": "불, 수면",
+        "small": "1049.35",
+        "large": "3065.9",
         "weak": [
           {
             "이름": "MH",
@@ -529,7 +599,8 @@
       },
       {
         "id": 15,
-        "imgurl": "./img/비룡종/그라비모스 아종.webp",
+        "imgurl": "./img/비룡종/그라비모스-아종.webp",
+        "icon": "./icon/비룡종/그라비모스-아종.png",
         "name": "그라비모스 아종",
         "nickname": "흑개룡[黒鎧竜: 검을 흑(黒), 갑옷 개(鎧), 용 룡(竜)]",
         "type": "비룡종",
@@ -537,6 +608,10 @@
         "series": "MHG, MHP, MH2, MHP2, MHP2G, MH4, MH4G",
         "seriesId": "b, c, d, e, f, j, k",
         "sign": "",
+        "element": "불",
+        "ailments": "불, 수면",
+        "small": "1946.3",
+        "large": "3065.9",
         "weak": [
           {
             "이름": "MHG",
@@ -599,6 +674,7 @@
       {
         "id": 16,
         "imgurl": "./img/비룡종/기기네블라.png",
+        "icon": "./icon/비룡종/기기네블라.png",
         "name": "기기네블라",
         "nickname": "독괴룡[毒怪竜: 독 독(毒), 기괴할 괴(怪), 용 룡(竜)]",
         "type": "비룡종",
@@ -606,6 +682,10 @@
         "series": "MH3, MH3G, MHP3",
         "seriesId": "g, h, i",
         "sign": "",
+        "element": "",
+        "ailments": "독, 맹독",
+        "small": "982.8",
+        "large": "1266.7",
         "weak": [
           {
             "이름": "MH3",
@@ -635,7 +715,8 @@
       },
       {
         "id": 17,
-        "imgurl": "./img/비룡종/기기네블라 아종.webp",
+        "imgurl": "./img/비룡종/기기네블라-아종.webp",
+        "icon": "./icon/비룡종/기기네블라-아종.png",
         "name": "기기네블라 아종",
         "nickname": "전괴룡[電怪竜: 번개 전(電), 기괴할 괴(怪), 용 룡(竜)]",
         "type": "비룡종",
@@ -643,6 +724,10 @@
         "series": "MH3G, MHP3",
         "seriesId": "h, i",
         "sign": "",
+        "element": "번개",
+        "ailments": "번개, 마비",
+        "small": "982.6",
+        "large": "1266.7",
         "weak": [
           {
             "이름": "MH3G",
@@ -665,6 +750,7 @@
       {
         "id": 18,
         "imgurl": "./img/비룡종/나르가쿠르가.webp",
+        "icon": "./icon/비룡종/나르가쿠르가.png",
         "name": "나르가쿠르가",
         "nickname": "신룡[迅竜: 빠를 신(迅), 용 룡(竜)]",
         "type": "비룡종",
@@ -672,6 +758,10 @@
         "series": "MHP2G, MH3G, MHP3, MHX, MHXX, MHWI, MHR, MHRSB",
         "seriesId": "f, h, i, l, m, o, p, q",
         "sign": "MHP2G",
+        "element": "",
+        "ailments": "열상",
+        "small": "1602.19",
+        "large": "2355.13",
         "weak": [
           {
             "이름": "MHP2G",
@@ -741,7 +831,8 @@
       },
       {
         "id": 19,
-        "imgurl": "./img/비룡종/나르가쿠르가 아종.webp",
+        "imgurl": "./img/비룡종/나르가쿠르가-아종.webp",
+        "icon": "./icon/비룡종/나르가쿠르가-아종.png",
         "name": "나르가쿠르가 아종",
         "nickname": "녹신룡[綠迅竜: 푸를 녹(綠), 빠를 신(迅), 용 룡(竜)]",
         "type": "비룡종",
@@ -749,6 +840,10 @@
         "series": "MH3G, MHP3",
         "seriesId": "h, i",
         "sign": "",
+        "element": "",
+        "ailments": "기절",
+        "small": "1410.02",
+        "large": "2002.88",
         "weak": [
           {
             "이름": "MH3G",
@@ -770,7 +865,8 @@
       },
       {
         "id": 20,
-        "imgurl": "./img/비룡종/나르가쿠르가 희소종.webp",
+        "imgurl": "./img/비룡종/나르가쿠르가-희소종.webp",
+        "icon": "./icon/비룡종/나르가쿠르가-희소종.png",
         "name": "나르가쿠르가 희소종",
         "nickname": "월신룡[月迅竜: 달 월(月), 빠를 신(迅), 용 룡(竜)]",
         "type": "비룡종",
@@ -778,6 +874,10 @@
         "series": "MH3G, MHRSB",
         "seriesId": "h, q",
         "sign": "",
+        "element": "",
+        "ailments": "독, 기절",
+        "small": "2503.8",
+        "large": "2503.8",
         "weak": [
           {
             "이름": "MH3G",
@@ -799,7 +899,8 @@
       },
       {
         "id": 21,
-        "imgurl": "./img/비룡종/백질풍 나르가쿠르가 이명특개.webp",
+        "imgurl": "./img/비룡종/나르가쿠르가-이명특개.webp",
+        "icon": "./icon/비룡종/나르가쿠르가-이명특개.png",
         "name": "백질풍 나르가쿠르가",
         "nickname": "백질풍[白疾風: 흰 백(白), 병 질(疾), 바람 풍(風)]",
         "type": "비룡종",
@@ -807,6 +908,10 @@
         "series": "MHX, MHXX",
         "seriesId": "l, m",
         "sign": "",
+        "element": "",
+        "ailments": "열상",
+        "small": "1617.21",
+        "large": "2127.91",
         "weak": [
           {
             "이름": "MHX",
@@ -829,6 +934,7 @@
       {
         "id": 22,
         "imgurl": "./img/비룡종/디아블로스.webp",
+        "icon": "./icon/비룡종/디아블로스.png",
         "name": "디아블로스",
         "nickname": "각룡[角竜: 뿔 각(角), 용 룡(竜)]",
         "type": "비룡종",
@@ -836,6 +942,10 @@
         "series": "MH, MHG, MHP, MH2, MHP2, MHP2G, MH3, MH3G, MHP3, MH4G, MHXX, MHW, MHWI, MHR, MHRSB",
         "seriesId": "a, b, c, d, e, f, g, h, i, k, m, n, o, p, q",
         "sign": "",
+        "element": "",
+        "ailments": "",
+        "small": "1796.26",
+        "large": "3030.0",
         "weak": [
           {
             "이름": "MH",
@@ -961,7 +1071,8 @@
       },
       {
         "id": 23,
-        "imgurl": "./img/비룡종/디아블로스 아종.webp",
+        "imgurl": "./img/비룡종/디아블로스-아종.webp",
+        "icon": "./icon/비룡종/디아블로스-아종.png",
         "name": "디아블로스 아종",
         "nickname": "흑각룡[黒角竜: 검을 흑(黒), 뿔 각(角), 용 룡(竜)]",
         "type": "비룡종",
@@ -969,6 +1080,10 @@
         "series": "MHG, MHP, MH2, MHP2, MHP2G, MH3G, MHP3, MH4G, MHW, MHWI",
         "seriesId": "b, c, d, e, f, h, i, k, n, o",
         "sign": "",
+        "element": "",
+        "ailments": "기절",
+        "small": "1865.66",
+        "large": "2930.3",
         "weak": [
           {
             "이름": "MHG",
@@ -1054,7 +1169,8 @@
       },
       {
         "id": 24,
-        "imgurl": "./img/비룡종/오마 디아블로스 이명 특개.webp",
+        "imgurl": "./img/비룡종/디아블로스-이명특개.webp",
+        "icon": "./icon/비룡종/디아블로스-이명특개.png",
         "name": "오마 디아블로스",
         "nickname": "오마[鏖魔: 오살할 오(鏖), 마귀 마(魔)]",
         "type": "비룡종",
@@ -1062,6 +1178,10 @@
         "series": "MHXX",
         "seriesId": "m",
         "sign": "",
+        "element": "",
+        "ailments": "",
+        "small": "2288.88",
+        "large": "2770.75",
         "weak": [
           {
             "이름": "MHXX",
@@ -1075,7 +1195,8 @@
       },
       {
         "id": 25,
-        "imgurl": "./img/비룡종/주인 디아블로스.webp",
+        "imgurl": "./img/비룡종/디아블로스-주인.webp",
+        "icon": "./icon/비룡종/디아블로스-주인.png",
         "name": "주인 디아블로스",
         "nickname": "각룡[角竜: 뿔 각(角), 용 룡(竜)]",
         "type": "비룡종",
@@ -1083,6 +1204,10 @@
         "series": "MHR",
         "seriesId": "p",
         "sign": "",
+        "element": "",
+        "ailments": "",
+        "small": "2157.39",
+        "large": "2838.67",
         "weak": [
           {
             "이름": "MHR",
@@ -1097,6 +1222,7 @@
       {
         "id": 26,
         "imgurl": "./img/비룡종/라이젝스.webp",
+        "icon": "./icon/비룡종/라이젝스.png",
         "name": "라이젝스",
         "nickname": "전룡[電竜: 번개 전(電), 용 룡(竜)]",
         "type": "비룡종",
@@ -1104,6 +1230,10 @@
         "series": "MHX, MHXX, MHRSB",
         "seriesId": "l, m, q",
         "sign": "",
+        "element": "번개",
+        "ailments": "번개, 마비, 기절",
+        "small": "1544.63",
+        "large": "2194.07",
         "weak": [
           {
             "이름": "MHX",
@@ -1133,7 +1263,8 @@
       },
       {
         "id": 27,
-        "imgurl": "./img/비룡종/청전주 라이젝스 이명 특개.webp",
+        "imgurl": "./img/비룡종/라이젝스-이명특개.webp",
+        "icon": "./icon/비룡종/라이젝스-이명특개.png",
         "name": "청전주 라이젝스",
         "nickname": "청전주[青電主: 푸를 청(青), 전기 전(電), 주인 주(主)]",
         "type": "비룡종",
@@ -1141,6 +1272,10 @@
         "series": "MHXX",
         "seriesId": "m",
         "sign": "",
+        "element": "번개",
+        "ailments": "번개, 마비",
+        "small": "2108.45",
+        "large": "2441.36",
         "weak": [
           {
             "이름": "MHXX",
@@ -1155,6 +1290,7 @@
       {
         "id": 28,
         "imgurl": "./img/비룡종/레이기에나.webp",
+        "icon": "./icon/비룡종/레이기에나.png",
         "name": "레이기에나",
         "nickname": "풍표룡[風漂竜: 바람 풍(風), 떠돌 표(漂), 용 룡(竜)]",
         "type": "비룡종",
@@ -1162,6 +1298,10 @@
         "series": "MHW, MHWI",
         "seriesId": "n, o",
         "sign": "",
+        "element": "얼음",
+        "ailments": "얼음",
+        "small": "1495.78",
+        "large": "2124.69",
         "weak": [
           {
             "이름": "MHW",
@@ -1183,7 +1323,8 @@
       },
       {
         "id": 29,
-        "imgurl": "./img/비룡종/얼찌 레이기에나 특개.webp",
+        "imgurl": "./img/비룡종/레이기에나-특개.webp",
+        "icon": "./icon/비룡종/레이기에나-특개.png",
         "name": "얼려 찌르는 레이기에나",
         "nickname": "풍표룡[風漂竜: 바람 풍(風), 떠돌 표(漂), 용 룡(竜)]",
         "type": "비룡종",
@@ -1191,6 +1332,10 @@
         "series": "MHWI",
         "seriesId": "o",
         "sign": "",
+        "element": "얼음",
+        "ailments": "얼음",
+        "small": "1529.78",
+        "large": "2252.98",
         "weak": [
           {
             "이름": "MHWI",
@@ -1205,6 +1350,7 @@
       {
         "id": 30,
         "imgurl": "./img/비룡종/리오레우스.webp",
+        "icon": "./icon/비룡종/리오레우스.png",
         "name": "리오레우스",
         "nickname": "화룡[火竜: 불 화(火) 용 룡(竜)] / 웅화룡[雄火竜: 수컷 웅(雄), 불 화(火), 용 룡(竜)]",
         "type": "비룡종",
@@ -1212,6 +1358,10 @@
         "series": "MH, MHG, MHP, MH2, MHP2, MHP2G, MH3, MH3G, MHP3, MH4, MH4G, MHX, MHXX, MHW, MHWI, MHR, MHRSB",
         "seriesId": "a, b, c, d, e, f, g, h, i, j, k, l, m, n, o, p, q",
         "sign": "MH MHP",
+        "element": "불",
+        "ailments": "불, 기절, 독",
+        "small": "1140.6",
+        "large": "2248.6",
         "weak": [
           {
             "이름": "MH",
@@ -1353,7 +1503,8 @@
       },
       {
         "id": 31,
-        "imgurl": "./img/비룡종/리오레우스 아종.webp",
+        "imgurl": "./img/비룡종/리오레우스-아종.webp",
+        "icon": "./icon/비룡종/리오레우스-아종.png",
         "name": "리오레우스 아종",
         "nickname": "창화룡[蒼火竜: 푸를 창(火), 불 화(火), 용 룡(竜)]",
         "type": "비룡종",
@@ -1361,6 +1512,10 @@
         "series": "MHG, MHP, MH2, MHP2, MHP2G, MH3G, MH4, MH4G, MHW, MHWI",
         "seriesId": "b, c, d, e, f, h, j, k, n, o",
         "sign": "MHG",
+        "element": "불",
+        "ailments": "불, 기절, 독",
+        "small": "1140.6",
+        "large": "2248.6",
         "weak": [
           {
             "이름": "MHG",
@@ -1446,7 +1601,8 @@
       },
       {
         "id": 32,
-        "imgurl": "./img/비룡종/리오레우스 희소종.webp",
+        "imgurl": "./img/비룡종/리오레우스-희소종.webp",
+        "icon": "./icon/비룡종/리오레우스-희소종.png",
         "name": "리오레우스 희소종",
         "nickname": "은화룡[銀火竜: 은 은(銀), 불 화(火), 용 룡(竜)]",
         "type": "비룡종",
@@ -1454,6 +1610,10 @@
         "series": "MHG, MHP, MH2, MHP2, MHP2G, MH3G, MHP3, MH4, MH4G, MHX, MHXX, MHWI",
         "seriesId": "b, c, d, e, f, h, i, j, k, l, m, o",
         "sign": "",
+        "element": "불",
+        "ailments": "불, 기절, 독",
+        "small": "1140.6",
+        "large": "2248.6",
         "weak": [
           {
             "이름": "MHG",
@@ -1555,7 +1715,8 @@
       },
       {
         "id": 33,
-        "imgurl": "./img/비룡종/흑염왕 리오레우스 이명 특개.webp",
+        "imgurl": "./img/비룡종/리오레우스-이명특개.webp",
+        "icon": "./icon/비룡종/리오레우스-이명특개.png",
         "name": "흑염왕 리오레우스",
         "nickname": "흑염왕[黒炎王: 검을 흑(黒), 불꽃 염(炎), 임금 왕(王)]",
         "type": "비룡종",
@@ -1563,6 +1724,10 @@
         "series": "MHX, MHXX",
         "seriesId": "l, m",
         "sign": "",
+        "element": "불",
+        "ailments": "불, 맹독",
+        "small": "1954.89",
+        "large": "2263.56",
         "weak": [
           {
             "이름": "MHX",
@@ -1584,7 +1749,8 @@
       },
       {
         "id": 34,
-        "imgurl": "./img/비룡종/주인 리오레우스.webp",
+        "imgurl": "./img/비룡종/리오레우스-주인.webp",
+        "icon": "./icon/비룡종/리오레우스-주인.png",
         "name": "주인 리오레우스",
         "nickname": "화룡[火竜: 불 화(火), 용 룡(竜)]",
         "type": "비룡종",
@@ -1592,6 +1758,10 @@
         "series": "MHR",
         "seriesId": "p",
         "sign": "",
+        "element": "불",
+        "ailments": "불, 독",
+        "small": "1780.91",
+        "large": "2343.30",
         "weak": [
           {
             "이름": "MHR",
@@ -1606,6 +1776,7 @@
       {
         "id": 35,
         "imgurl": "./img/비룡종/리오레이아.webp",
+        "icon": "./icon/비룡종/리오레이아.png",
         "name": "리오레이아",
         "nickname": "자화룡[雌火竜: 암컷 자(雌), 불 화(火), 용 룡(竜)]",
         "type": "비룡종",
@@ -1613,6 +1784,10 @@
         "series": "MH, MHG, MHP, MH2, MHP2, MHP2G, MH3, MH3G, MHP3, MH4, MH4G, MHX, MHXX, MHW, MHWI, MHR, MHRSB",
         "seriesId": "a, b, c, d, e, f, g, h, i, j, k, l, m, n, o, p, q",
         "sign": "",
+        "element": "불",
+        "ailments": "불, 독",
+        "small": "1151.9",
+        "large": "2303.8",
         "weak": [
           {
             "이름": "MH",
@@ -1754,7 +1929,8 @@
       },
       {
         "id": 36,
-        "imgurl": "./img/비룡종/리오레이아 아종.webp",
+        "imgurl": "./img/비룡종/리오레이아-아종.webp",
+        "icon": "./icon/비룡종/리오레이아-아종.png",
         "name": "리오레이아 아종",
         "nickname": "앵화룡[桜火竜: 앵두나무 앵(桜), 불 화(火), 용 룡(竜)]",
         "type": "비룡종",
@@ -1762,6 +1938,10 @@
         "series": "MHG, MHP, MH2, MHP2, MHP2G, MH3G, MH4, MH4G, MHW, MHWI",
         "seriesId": "b, c, d, e, f, h, j, k, n, o",
         "sign": "",
+        "element": "불",
+        "ailments": "불, 독, 맹독",
+        "small": "1151.9",
+        "large": "2303.8",
         "weak": [
           {
             "이름": "MHG",
@@ -1847,7 +2027,8 @@
       },
       {
         "id": 37,
-        "imgurl": "./img/비룡종/리오레이아 희소종.webp",
+        "imgurl": "./img/비룡종/리오레이아-희소종.webp",
+        "icon": "./icon/비룡종/리오레이아-희소종.png",
         "name": "리오레이아 희소종",
         "nickname": "금화룡[金火竜: 금 금(金), 불 화(火), 용 룡(竜)]",
         "type": "비룡종",
@@ -1855,6 +2036,10 @@
         "series": "MHG, MHP, MH2, MHP2, MHP2G, MH3G, MHP3, MH4, MH4G, MHX, MHXX, MHWI, MHRSB",
         "seriesId": "b, c, d, e, f, h, i, j, k, l, m, o, q",
         "sign": "",
+        "element": "불",
+        "ailments": "불, 독, 맹독",
+        "small": "1151.9",
+        "large": "2303.8",
         "weak": [
           {
             "이름": "MHG",
@@ -1964,7 +2149,8 @@
       },
       {
         "id": 38,
-        "imgurl": "./img/비룡종/자독희 리오레이아 이명 특개.webp",
+        "imgurl": "./img/비룡종/리오레이아-이명특개.webp",
+        "icon": "./icon/비룡종/리오레이아-이명특개.png",
         "name": "자독희 리오레이아",
         "nickname": "자독희[紫毒姫: 자줏빛 자(紫), 독 독(毒), 여자 희(姫)]",
         "type": "비룡종",
@@ -1972,6 +2158,10 @@
         "series": "MHX, MHXX",
         "seriesId": "l, m",
         "sign": "",
+        "element": "불",
+        "ailments": "불, 독, 맹독",
+        "small": "1973.45",
+        "large": "2261.25",
         "weak": [
           {
             "이름": "MHX",
@@ -1993,7 +2183,8 @@
       },
       {
         "id": 39,
-        "imgurl": "./img/비룡종/주인 리오레이아.webp",
+        "imgurl": "./img/비룡종/리오레이아-주인.webp",
+        "icon": "./icon/비룡종/리오레이아-주인.png",
         "name": "주인 리오레이아",
         "nickname": "자화룡[雌火竜: 불 화(火), 암컷 자(雌), 용 룡(竜)]",
         "type": "비룡종",
@@ -2001,6 +2192,10 @@
         "series": "MHR",
         "seriesId": "p",
         "sign": "",
+        "element": "불",
+        "ailments": "불, 독, 맹독",
+        "small": "1916.65",
+        "large": "2340.33",
         "weak": [
           {
             "이름": "MHR",
@@ -2015,6 +2210,7 @@
       {
         "id": 40,
         "imgurl": "./img/비룡종/모노블로스.webp",
+        "icon": "./icon/비룡종/모노블로스.png",
         "name": "모노블로스",
         "nickname": "일각룡[一角竜: 하나 일(一), 뿔 각(角), 용 룡(竜)]",
         "type": "비룡종",
@@ -2022,6 +2218,10 @@
         "series": "MH, MHG, MHP, MH2, MHP2, MHP2G, MH4G",
         "seriesId": "a, b, c, d, e, f, k",
         "sign": "",
+        "element": "",
+        "ailments": "",
+        "small": "1683.5",
+        "large": "2918.8",
         "weak": [
           {
             "이름": "MH",
@@ -2083,7 +2283,8 @@
       },
       {
         "id": 41,
-        "imgurl": "./img/비룡종/모노블로스 아종.webp",
+        "imgurl": "./img/비룡종/모노블로스-아종.webp",
+        "icon": "./icon/비룡종/모노블로스-아종.png",
         "name": "모노블로스 아종",
         "nickname": "백일각룡[白一角竜: 흰 백(一), 하나 일(一), 뿔 각(角), 용 룡(竜)]",
         "type": "비룡종",
@@ -2091,6 +2292,10 @@
         "series": "MHG, MHP, MH2, MHP2, MHP2G, MH4G",
         "seriesId": "b, c, d, e, f, k",
         "sign": "",
+        "element": "",
+        "ailments": "",
+        "small": "1849.2",
+        "large": "2810.7",
         "weak": [
           {
             "이름": "MHG",
@@ -2145,6 +2350,7 @@
       {
         "id": 42,
         "imgurl": "./img/비룡종/바살모스.webp",
+        "icon": "./icon/비룡종/바살모스.png",
         "name": "바살모스",
         "nickname": "암룡[岩竜: 바위 암(岩), 용 룡(竜)]",
         "type": "비룡종",
@@ -2152,6 +2358,10 @@
         "series": "MH, MHG, MHP, MH2, MHP2, MHP2G, MH4, MH4G, MHXX, MHR, MHRSB",
         "seriesId": "a, b, c, d, e, f, j, k, m, p, q",
         "sign": "",
+        "element": "불",
+        "ailments": "불, 독, 맹독, 수면",
+        "small": "1154.9",
+        "large": "1754.6",
         "weak": [
           {
             "이름": "MH",
@@ -2245,7 +2455,8 @@
       },
       {
         "id": 43,
-        "imgurl": "./img/비룡종/바살모스 아종.webp",
+        "imgurl": "./img/비룡종/바살모스-아종.webp",
+        "icon": "./icon/비룡종/바살모스-아종.png",
         "name": "바살모스 아종",
         "nickname": "도암룡[桃岩竜: 복숭아 도(桃), 바위 암(岩), 용 룡(竜)]",
         "type": "비룡종",
@@ -2253,6 +2464,10 @@
         "series": "MH4, MH4G",
         "seriesId": "j, k",
         "sign": "",
+        "element": "불",
+        "ailments": "불, 독, 맹독, 수면, 기절",
+        "small": "1269.59",
+        "large": "1783.13",
         "weak": [
           {
             "이름": "MH4",
@@ -2275,6 +2490,7 @@
       {
         "id": 44,
         "imgurl": "./img/비룡종/바젤기우스.webp",
+        "icon": "./icon/비룡종/바젤기우스.png",
         "name": "바젤기우스",
         "nickname": "폭린룡[爆鱗竜: 불터질 폭(爆), 비늘 린(鱗), 용 룡(竜)]",
         "type": "비룡종",
@@ -2282,6 +2498,10 @@
         "series": "MHW, MHWI, MHR, MHRSB",
         "seriesId": "n, o, p, q",
         "sign": "",
+        "element": "불",
+        "ailments": "불, 폭파",
+        "small": "1696.97",
+        "large": "2410.48",
         "weak": [
           {
             "이름": "MHW",
@@ -2319,7 +2539,8 @@
       },
       {
         "id": 45,
-        "imgurl": "./img/비룡종/홍련바젤기우스 특개.webp",
+        "imgurl": "./img/비룡종/바젤기우스-특개.webp",
+        "icon": "./icon/비룡종/바젤기우스-특개.png",
         "name": "홍련에 솟구치는 바젤기우스",
         "nickname": "폭린룡[爆鱗竜: 불터질 폭(爆), 비늘 린(鱗), 용 룡(竜)]",
         "type": "비룡종",
@@ -2327,6 +2548,10 @@
         "series": "MHWI, MHRSB",
         "seriesId": "o, q",
         "sign": "",
+        "element": "불",
+        "ailments": "불, 폭파",
+        "small": "1696.97",
+        "large": "2410.48",
         "weak": [
           {
             "이름": "MHWI",
@@ -2349,6 +2574,7 @@
       {
         "id": 46,
         "imgurl": "./img/비룡종/벨리오로스.webp",
+        "icon": "./icon/비룡종/벨리오로스.png",
         "name": "벨리오로스",
         "nickname": "빙아룡[氷牙竜: 얼음 빙(氷), 어금니 아(牙), 용 룡(竜)]",
         "type": "비룡종",
@@ -2356,6 +2582,10 @@
         "series": "MH3, MH3G, MHP3, MHXX, MHWI, MHR, MHRSB",
         "seriesId": "g, h, i, m, o, p, q",
         "sign": "",
+        "element": "얼음",
+        "ailments": "얼음, 눈사람",
+        "small": "1888.47",
+        "large": "2580.91",
         "weak": [
           {
             "이름": "MH3",
@@ -2417,7 +2647,8 @@
       },
       {
         "id": 47,
-        "imgurl": "./img/비룡종/벨리오로스 아종.webp",
+        "imgurl": "./img/비룡종/벨리오로스-아종.webp",
+        "icon": "./icon/비룡종/벨리오로스-아종.png",
         "name": "벨리오로스 아종",
         "nickname": "풍아룡[風牙竜: 바람 풍(風), 어금니 아(牙), 용 룡(竜)]",
         "type": "비룡종",
@@ -2425,6 +2656,10 @@
         "series": "MH3G, MHP3",
         "seriesId": "h, i",
         "sign": "",
+        "element": "",
+        "ailments": "",
+        "small": "1730.62",
+        "large": "2277.13",
         "weak": [
           {
             "이름": "MH3G",
@@ -2446,7 +2681,8 @@
       },
       {
         "id": 48,
-        "imgurl": "./img/비룡종/얼칼 벨리오로스 특개.webp",
+        "imgurl": "./img/비룡종/벨리오로스-특개.webp",
+        "icon": "./icon/비룡종/벨리오로스-특개.png",
         "name": "얼음 칼날을 찬 벨리오로스",
         "nickname": "빙아룡[氷牙竜: 얼음 빙(氷), 어금니 아(牙), 용 룡(竜)]",
         "type": "비룡종",
@@ -2454,6 +2690,10 @@
         "series": "MHWI",
         "seriesId": "o",
         "sign": "",
+        "element": "얼음",
+        "ailments": "얼음",
+        "small": "1888.47",
+        "large": "2580.91",
         "weak": [
           {
             "이름": "MHWI",
@@ -2468,6 +2708,7 @@
       {
         "id": 49,
         "imgurl": "./img/비룡종/셀레기오스.webp",
+        "icon": "./icon/비룡종/셀레기오스.png",
         "name": "셀레기오스",
         "nickname": "천인룡[千刃竜: 일천 천(千), 칼날 인(刃), 용 룡(竜)]",
         "type": "비룡종",
@@ -2475,6 +2716,10 @@
         "series": "MH4G, MHX, MHXX, MHRSB",
         "seriesId": "k, l, m, q",
         "sign": "MH4G",
+        "element": "",
+        "ailments": "열상",
+        "small": "1520.73",
+        "large": "2246.53",
         "weak": [
           {
             "이름": "MH4G",
@@ -2513,6 +2758,7 @@
       {
         "id": 50,
         "imgurl": "./img/비룡종/아캄토름.webp",
+        "icon": "./icon/비룡종/아캄토름.png",
         "name": "아캄토름",
         "nickname": "패룡[覇竜: 으뜸 패(覇), 용 룡(轟)]",
         "type": "비룡종",
@@ -2520,6 +2766,10 @@
         "series": "MHP2, MHP2G, MHP3, MH4, MH4G, MHX, MHXX",
         "seriesId": "e, f, i, j, k, l, m",
         "sign": "",
+        "element": "불, 용",
+        "ailments": "불, 용, 방다",
+        "small": "3049",
+        "large": "3049",
         "weak": [
           {
             "이름": "MHP2",
@@ -2582,6 +2832,7 @@
       {
         "id": 51,
         "imgurl": "./img/비룡종/에스피나스.webp",
+        "icon": "./icon/비룡종/에스피나스.png",
         "name": "에스피나스",
         "nickname": "극룡[棘茶竜: 가시 극(棘), 용 룡(竜)]",
         "type": "비룡종",
@@ -2589,6 +2840,10 @@
         "series": "MHRSB",
         "seriesId": "q",
         "sign": "",
+        "element": "불",
+        "ailments": "불, 독, 마비",
+        "small": "836.9",
+        "large": "2477.2",
         "weak": [
           {
             "이름": "MHRSB",
@@ -2602,7 +2857,8 @@
       },
       {
         "id": 52,
-        "imgurl": "./img/비룡종/에스피나스 아종.webp",
+        "imgurl": "./img/비룡종/에스피나스-아종.webp",
+        "icon": "./icon/비룡종/에스피나스-아종.png",
         "name": "에스피나스 아종",
         "nickname": "극다룡[棘茶竜: 가시 극(棘), 차 다(茶), 용 룡(竜)]",
         "type": "비룡종",
@@ -2610,6 +2866,10 @@
         "series": "MHRSB",
         "seriesId": "q",
         "sign": "",
+        "element": "불",
+        "ailments": "불, 독, 방다",
+        "small": "1489.7",
+        "large": "2812",
         "weak": [
           {
             "이름": "MHRSB",
@@ -2624,6 +2884,7 @@
       {
         "id": 53,
         "imgurl": "./img/비룡종/우캄루바스.webp",
+        "icon": "./icon/비룡종/우캄루바스.png",
         "name": "우캄루바스",
         "nickname": "붕룡[崩竜: 무너질 붕(崩), 용 룡(竜)]",
         "type": "비룡종",
@@ -2631,6 +2892,10 @@
         "series": "MHP2G, MHP3, MH4G, MHX, MHXX",
         "seriesId": "f, i, k, l, m",
         "sign": "",
+        "element": "얼음",
+        "ailments": "얼음, 눈사람",
+        "small": "3188",
+        "large": "3188",
         "weak": [
           {
             "이름": "MHP2G",
@@ -2677,6 +2942,7 @@
       {
         "id": 54,
         "imgurl": "./img/비룡종/티가렉스.webp",
+        "icon": "./icon/비룡종/티가렉스.png",
         "name": "티가렉스",
         "nickname": "굉룡[轟竜: 울릴 굉(轟), 용 룡(轟)]",
         "type": "비룡종",
@@ -2684,6 +2950,10 @@
         "series": "MHP2, MHP2G, MHP3, MH4, MH4G, MHX, MHXX, MHWI, MHR, MHRSB",
         "seriesId": "e, f, i, j, k, l, m, o, p, q",
         "sign": "MHP2",
+        "element": "",
+        "ailments": "",
+        "small": "1388.2",
+        "large": "2914.8",
         "weak": [
           {
             "이름": "MHP2",
@@ -2769,7 +3039,8 @@
       },
       {
         "id": 55,
-        "imgurl": "./img/비룡종/티가렉스 아종.webp",
+        "imgurl": "./img/비룡종/티가렉스-아종.webp",
+        "icon": "./icon/비룡종/티가렉스-아종.png",
         "name": "티가렉스 아종",
         "nickname": "흑굉룡[黑轟竜: 검을 흑(黑), 울릴 굉(轟), 용 룡(竜)]",
         "type": "비룡종",
@@ -2777,6 +3048,10 @@
         "series": "MHP3, MH4, MH4G, MHWI",
         "seriesId": "i, j, k, o",
         "sign": "",
+        "element": "",
+        "ailments": "",
+        "small": "1579.21",
+        "large": "2169.38",
         "weak": [
           {
             "이름": "MHP3",
@@ -2814,7 +3089,8 @@
       },
       {
         "id": 56,
-        "imgurl": "./img/비룡종/티가렉스 희소종.webp",
+        "imgurl": "./img/비룡종/티가렉스-희소종.webp",
+        "icon": "./icon/비룡종/티가렉스-희소종.png",
         "name": "티가렉스 희소종",
         "nickname": "대굉룡[大轟竜: 클 대(大), 울릴 굉(轟), 용 룡(竜)]",
         "type": "비룡종",
@@ -2822,6 +3098,10 @@
         "series": "MH4, MH4G",
         "seriesId": "j, k",
         "sign": "",
+        "element": "",
+        "ailments": "폭파",
+        "small": "2313.9",
+        "large": "2313.9",
         "weak": [
           {
             "이름": "MH4",
@@ -2843,7 +3123,8 @@
       },
       {
         "id": 57,
-        "imgurl": "./img/비룡종/황구조 티가렉스 이명 특개.webp",
+        "imgurl": "./img/비룡종/티가렉스-이명특개.webp",
+        "icon": "./icon/비룡종/티가렉스-이명특개.png",
         "name": "황구조 티가렉스",
         "nickname": "황구조[荒鉤爪: 거칠 황(荒), 갈고리 구(鉤), 손톱 조(爪)]",
         "type": "비룡종",
@@ -2851,6 +3132,10 @@
         "series": "MHX, MHXX",
         "seriesId": "l, m",
         "sign": "",
+        "element": "",
+        "ailments": "물, 얼음",
+        "small": "2036.26",
+        "large": "2333.21",
         "weak": [
           {
             "이름": "MHX",
@@ -2873,6 +3158,7 @@
       {
         "id": 58,
         "imgurl": "./img/비룡종/파오우르무.webp",
+        "icon": "./icon/비룡종/파오우르무.png",
         "name": "파오우르무",
         "nickname": "부공룡[浮空竜: 뜰 부(浮), 빌 공(空), 용 룡(竜)]",
         "type": "비룡종",
@@ -2880,6 +3166,10 @@
         "series": "MHW, MHWI",
         "seriesId": "n, o",
         "sign": "",
+        "element": "",
+        "ailments": "",
+        "small": "1006.16",
+        "large": "1429.2",
         "weak": [
           {
             "이름": "MHW",
@@ -2901,7 +3191,8 @@
       },
       {
         "id": 59,
-        "imgurl": "./img/비룡종/파오우르무 아종.webp",
+        "imgurl": "./img/비룡종/파오우르무-아종.webp",
+        "icon": "./icon/비룡종/파오우르무-아종.png",
         "name": "파오우르무 아종",
         "nickname": "부면룡[浮眠竜: 뜰 부(浮), 잘 면(眠), 용 룡(竜)]",
         "type": "비룡종",
@@ -2909,6 +3200,10 @@
         "series": "MHWI",
         "seriesId": "o",
         "sign": "",
+        "element": "",
+        "ailments": "수면",
+        "small": "1006.16",
+        "large": "1406.33",
         "weak": [
           {
             "이름": "MHWI",
@@ -2923,6 +3218,7 @@
       {
         "id": 60,
         "imgurl": "./img/비룡종/푸루푸루.webp",
+        "icon": "./icon/비룡종/푸루푸루.png",
         "name": "푸루푸루",
         "nickname": "기괴룡[奇怪竜: 기이할 기(奇), 괴이할 괴(怪), 용 룡(竜)]",
         "type": "비룡종",
@@ -2930,6 +3226,10 @@
         "series": "MH, MHG, MHP, MH2, MHP2, MHP2G, MH4, MH4G, MHX, MHXX, MHR, MHRSB",
         "seriesId": "a, b, c, d, e, f, j, k, l, m, p, q",
         "sign": "",
+        "element": "번개",
+        "ailments": "번개, 마비, 기절",
+        "small": "436.6",
+        "large": "1225.5",
         "weak": [
           {
             "이름": "MH",
@@ -3031,7 +3331,8 @@
       },
       {
         "id": 61,
-        "imgurl": "./img/비룡종/푸루푸루 아종.webp",
+        "imgurl": "./img/비룡종/푸루푸루-아종.webp",
+        "icon": "./icon/비룡종/푸루푸루-아종.png",
         "name": "푸루푸루 아종",
         "nickname": "적괴룡[赤怪竜: 붉을 적(赤), 괴이할 괴(怪), 용 룡(竜)] / 염괴룡",
         "type": "비룡종",
@@ -3039,6 +3340,10 @@
         "series": "MHG, MHP, MH2, MHP2, MHP2G, MH4, MH4G",
         "seriesId": "b, c, d, e, f, j, k",
         "sign": "",
+        "element": "번개",
+        "ailments": "번개, 마비",
+        "small": "436.6",
+        "large": "1205",
         "weak": [
           {
             "이름": "MHG",
@@ -3101,6 +3406,7 @@
       {
         "id": 62,
         "imgurl": "./img/사룡종/가라라아자라.webp",
+        "icon": "./icon/사룡종/가라라아자라.png",
         "name": "가라라아자라",
         "nickname": "교사룡[絞蛇竜: 목맬 교(絞), 뱀 사(蛇), 용 룡(竜)]",
         "type": "사룡종",
@@ -3108,6 +3414,10 @@
         "series": "MH4, MH4G, MHX, MHXX",
         "seriesId": "j, k, l, m",
         "sign": "",
+        "element": "",
+        "ailments": "마비, 기절",
+        "small": "3568.4",
+        "large": "5068.75",
         "weak": [
           {
             "이름": "MH4",
@@ -3145,7 +3455,8 @@
       },
       {
         "id": 63,
-        "imgurl": "./img/사룡종/가라라아자라 아종.webp",
+        "imgurl": "./img/사룡종/가라라아자라-아종.webp",
+        "icon": "./icon/사룡종/가라라아자라-아종.png",
         "name": "가라라아자라 아종",
         "nickname": "수사룡[絞蛇竜: 물 수(水), 뱀 사(蛇), 용 룡(竜)]",
         "type": "사룡종",
@@ -3153,6 +3464,10 @@
         "series": "MH4G",
         "seriesId": "k",
         "sign": "",
+        "element": "물",
+        "ailments": "물, 마비",
+        "small": "3933.4",
+        "large": "5271.50",
         "weak": [
           {
             "이름": "MH4G",
@@ -3167,6 +3482,7 @@
       {
         "id": 64,
         "imgurl": "./img/수룡종/도볼베르크.webp",
+        "icon": "./icon/수룡종/도볼베르크.png",
         "name": "도볼베르크",
         "nickname": "미추룡[尾槌竜: 꼬리 미(尾), 망치 추(槌), 용 룡(竜)]",
         "type": "수룡종",
@@ -3174,6 +3490,10 @@
         "series": "MH3G, MHP3, MHX, MHXX",
         "seriesId": "h, i, l, m",
         "sign": "",
+        "element": "",
+        "ailments": "기절",
+        "small": "1317.84",
+        "large": "2611.5",
         "weak": [
           {
             "이름": "MH3G",
@@ -3211,7 +3531,8 @@
       },
       {
         "id": 65,
-        "imgurl": "./img/수룡종/도볼베르크 아종.webp",
+        "imgurl": "./img/수룡종/도볼베르크-아종.webp",
+        "icon": "./icon/수룡종/도볼베르크-아종.png",
         "name": "도볼베르크 아종",
         "nickname": "미부룡[尾斧竜: 꼬리 미(尾), 도끼 부(斧), 용 룡(竜)]",
         "type": "수룡종",
@@ -3219,6 +3540,10 @@
         "series": "MH3G",
         "seriesId": "h",
         "sign": "",
+        "element": "",
+        "ailments": "진흙",
+        "small": "2116.045",
+        "large": "4454.84",
         "weak": [
           {
             "이름": "MH3G",
@@ -3233,6 +3558,7 @@
       {
         "id": 66,
         "imgurl": "./img/수룡종/디노발드.webp",
+        "icon": "./icon/수룡종/디노발드.png",
         "name": "디노발드",
         "nickname": "참룡[斬竜: 벨 참(斬), 용 룡(竜)]",
         "type": "수룡종",
@@ -3240,6 +3566,10 @@
         "series": "MHX, MHXX, MHWI",
         "seriesId": "l, m, o",
         "sign": "MHX",
+        "element": "불",
+        "ailments": "불",
+        "small": "2234.75",
+        "large": "3174.36",
         "weak": [
           {
             "이름": "MHX",
@@ -3269,7 +3599,8 @@
       },
       {
         "id": 67,
-        "imgurl": "./img/수룡종/디노발드 아종.webp",
+        "imgurl": "./img/수룡종/디노발드-아종.webp",
+        "icon": "./icon/수룡종/디노발드-아종.png",
         "name": "디노발드 아종",
         "nickname": "류참룡[硫斬竜: 유황 류(硫), 벨 참(斬), 용 룡(竜)]",
         "type": "수룡종",
@@ -3277,6 +3608,10 @@
         "series": "MHWI",
         "seriesId": "o",
         "sign": "",
+        "element": "",
+        "ailments": "방다",
+        "small": "2135.2",
+        "large": "2846.93",
         "weak": [
           {
             "이름": "MHWI",
@@ -3290,7 +3625,8 @@
       },
       {
         "id": 68,
-        "imgurl": "./img/수룡종/신멸인 디노발드 이명 특개.webp",
+        "imgurl": "./img/수룡종/디노발드-이명특개.webp",
+        "icon": "./icon/수룡종/디노발드-이명특개.png",
         "name": "신멸인 디노발드",
         "nickname": "신멸인[燼滅刃: 불탄 끝 신(燼), 멸할 멸(滅), 칼날 인(刃)]",
         "type": "수룡종",
@@ -3298,6 +3634,10 @@
         "series": "MHX, MHXX",
         "seriesId": "l, m",
         "sign": "",
+        "element": "불",
+        "ailments": "불, 폭파",
+        "small": "2727.22",
+        "large": "3409.02",
         "weak": [
           {
             "이름": "MHX",
@@ -3320,6 +3660,7 @@
       {
         "id": 69,
         "imgurl": "./img/수룡종/라도발킨.webp",
+        "icon": "./icon/수룡종/라도발킨.png",
         "name": "라도발킨",
         "nickname": "골추룡[骨鎚竜: 뼈 골(骨), 쇠망치 추(鎚), 용 룡(竜)]",
         "type": "수룡종",
@@ -3327,6 +3668,10 @@
         "series": "MHW, MHWI",
         "seriesId": "n, o",
         "sign": "",
+        "element": "",
+        "ailments": "수면",
+        "small": "1587.05",
+        "large": "2182.2",
         "weak": [
           {
             "이름": "MHW",
@@ -3349,6 +3694,7 @@
       {
         "id": 70,
         "imgurl": "./img/수룡종/버프바로.webp",
+        "icon": "./icon/수룡종/버프바로.png",
         "name": "버프바로",
         "nickname": "맹우룡[猛牛竜: 사나울 맹(猛), 소 우(牛), 용 룡(竜)]",
         "type": "수룡종",
@@ -3356,6 +3702,10 @@
         "series": "MHWI",
         "seriesId": "o",
         "sign": "",
+        "element": "",
+        "ailments": "",
+        "small": "2164.36",
+        "large": "2957.95",
         "weak": [
           {
             "이름": "MHWI",
@@ -3370,6 +3720,7 @@
       {
         "id": 71,
         "imgurl": "./img/수룡종/볼보로스.webp",
+        "icon": "./icon/수룡종/볼보로스.png",
         "name": "볼보로스",
         "nickname": "토사룡[土沙竜: 흙 토(土), 모래 사(沙), 용 룡(竜)]",
         "type": "수룡종",
@@ -3377,6 +3728,10 @@
         "series": "MH3, MH3G, MHP3, MHXX, MHW, MHWI, MHR, MHRSB",
         "seriesId": "g, h, i, m, n, o, p, q",
         "sign": "",
+        "element": "",
+        "ailments": "물, 진흙",
+        "small": "1217.1",
+        "large": "1744.3",
         "weak": [
           {
             "이름": "MH3",
@@ -3446,7 +3801,8 @@
       },
       {
         "id": 72,
-        "imgurl": "./img/수룡종/볼보로스 아종.webp",
+        "imgurl": "./img/수룡종/볼보로스-아종.webp",
+        "icon": "./icon/수룡종/볼보로스-아종.png",
         "name": "볼보로스 아종",
         "nickname": "빙쇄룡[氷砕竜: 얼음 빙(氷), 부술 쇄(砕), 용 룡(竜)]",
         "type": "수룡종",
@@ -3454,6 +3810,10 @@
         "series": "MH3G, MHP3",
         "seriesId": "h, i",
         "sign": "",
+        "element": "얼음",
+        "ailments": "얼음, 눈사람",
+        "small": "1266",
+        "large": "1744.31",
         "weak": [
           {
             "이름": "MH3G",
@@ -3476,6 +3836,7 @@
       {
         "id": 73,
         "imgurl": "./img/수룡종/브라키디오스.webp",
+        "icon": "./icon/수룡종/브라키디오스.png",
         "name": "브라키디오스",
         "nickname": "쇄룡[砕竜: 부술 쇄(砕), 용 룡(竜)]",
         "type": "수룡종",
@@ -3483,6 +3844,10 @@
         "series": "MH3G, MH4, MH4G, MHX, MHXX, MHWI",
         "seriesId": "h, j, k, l, m, o",
         "sign": "MH3G",
+        "element": "불",
+        "ailments": "폭파, 점균폭파",
+        "small": "1339.18",
+        "large": "1932.69",
         "weak": [
           {
             "이름": "MH3G",
@@ -3536,7 +3901,8 @@
       },
       {
         "id": 74,
-        "imgurl": "./img/수룡종/임계 브라키디오스 특개.webp",
+        "imgurl": "./img/수룡종/브라키디오스-특개.webp",
+        "icon": "./icon/수룡종/브라키디오스-특개.png",
         "name": "사납게 터지는 브라키디오스",
         "nickname": "쇄룡[砕竜: 부술 쇄(砕), 용 룡(竜)]",
         "type": "수룡종",
@@ -3544,6 +3910,10 @@
         "series": "MH4G, MHXX, MHWI",
         "seriesId": "k, m, o",
         "sign": "",
+        "element": "",
+        "ailments": "불, 폭파, 점균폭파",
+        "small": "2130.5",
+        "large": "2282.77",
         "weak": [
           {
             "이름": "MH4G",
@@ -3574,6 +3944,7 @@
       {
         "id": 75,
         "imgurl": "./img/수룡종/안쟈나프.webp",
+        "icon": "./icon/수룡종/안쟈나프.png",
         "name": "안쟈나프",
         "nickname": "만악룡[蛮顎竜: 오랑캐 만(蛮), 턱 악(顎), 용 룡(竜)]",
         "type": "수룡종",
@@ -3581,6 +3952,10 @@
         "series": "MHW, MHWI, MHR, MHRSB",
         "seriesId": "n, o, p, q",
         "sign": "",
+        "element": "불",
+        "ailments": "불",
+        "small": "1448.88",
+        "large": "2008.68",
         "weak": [
           {
             "이름": "MHW",
@@ -3618,7 +3993,8 @@
       },
       {
         "id": 76,
-        "imgurl": "./img/수룡종/안쟈나프 아종.webp",
+        "imgurl": "./img/수룡종/안쟈나프-아종.webp",
+        "icon": "./icon/수룡종/안쟈나프-아종.png",
         "name": "안쟈나프 아종",
         "nickname": "뇌악룡[雷顎竜: 우레 뇌(雷), 턱 악(顎), 용 룡(竜)]",
         "type": "수룡종",
@@ -3626,6 +4002,10 @@
         "series": "MHWI",
         "seriesId": "o",
         "sign": "",
+        "element": "번개",
+        "ailments": "번개",
+        "small": "1481.81",
+        "large": "2008.68",
         "weak": [
           {
             "이름": "MHWI",
@@ -3640,6 +4020,7 @@
       {
         "id": 77,
         "imgurl": "./img/수룡종/우라간킨.webp",
+        "icon": "./icon/수룡종/우라간킨.png",
         "name": "우라간킨",
         "nickname": "폭추룡[爆鎚竜: 터질 폭(爆), 쇠망치 추(鎚), 용 룡(竜)]",
         "type": "수룡종",
@@ -3647,6 +4028,10 @@
         "series": "MH3, MH3G, MHP3, MHX, MHXX, MHW, MHWI",
         "seriesId": "g, h, i, l, m, n, o",
         "sign": "",
+        "element": "불",
+        "ailments": "불, 수면",
+        "small": "410.06",
+        "large": "3344.48",
         "weak": [
           {
             "이름": "MH3",
@@ -3708,7 +4093,8 @@
       },
       {
         "id": 78,
-        "imgurl": "./img/수룡종/우라간킨 아종.webp",
+        "imgurl": "./img/수룡종/우라간킨-아종.webp",
+        "icon": "./icon/수룡종/우라간킨-아종.png",
         "name": "우라간킨 아종",
         "nickname": "강추룡[鋼鎚竜: 강철 강(爆), 쇠망치 추(鎚), 용 룡(竜)]",
         "type": "수룡종",
@@ -3716,6 +4102,10 @@
         "series": "MH3G, MHP3",
         "seriesId": "h, i",
         "sign": "",
+        "element": "불",
+        "ailments": "불, 아이템",
+        "small": "1985.78",
+        "large": "2008.68",
         "weak": [
           {
             "이름": "MH3G",
@@ -3737,7 +4127,8 @@
       },
       {
         "id": 79,
-        "imgurl": "./img/수룡종/보전 우라간킨 이명 특개.webp",
+        "imgurl": "./img/수룡종/우라간킨-이명특개.webp",
+        "icon": "./icon/수룡종/우라간킨-이명특개.png",
         "name": "보전 우라간킨",
         "nickname": "보전[宝纏: 보배 보(宝), 얽을 전(纏)]",
         "type": "수룡종",
@@ -3745,6 +4136,10 @@
         "series": "MHX, MHXX",
         "seriesId": "l, m",
         "sign": "",
+        "element": "불",
+        "ailments": "불, 수면, 기절",
+        "small": "2548.55",
+        "large": "2920.21",
         "weak": [
           {
             "이름": "MHX",
@@ -3767,6 +4162,7 @@
       {
         "id": 80,
         "imgurl": "./img/수룡종/이블조.webp",
+        "icon": "./icon/수룡종/이블조.png",
         "name": "이블조",
         "nickname": "공폭룡[恐暴竜: 두려울 공(恐), 사나울 폭(暴), 용 룡(竜)]",
         "type": "수룡종",
@@ -3774,6 +4170,10 @@
         "series": "MH3, MH3G, MHP3, MH4, MH4G, MHX, MHXX, MHW, MHWI",
         "seriesId": "g, h, i, j, k, l, m, n, o",
         "sign": "",
+        "element": "용",
+        "ailments": "용, 방다",
+        "small": "1803",
+        "large": "4097.8",
         "weak": [
           {
             "이름": "MH3",
@@ -3851,7 +4251,8 @@
       },
       {
         "id": 81,
-        "imgurl": "./img/수룡종/미친 이블조 특개.webp",
+        "imgurl": "./img/수룡종/이블조-특개.webp",
+        "icon": "./icon/수룡종/이블조-특개.png",
         "name": "미친 이블조",
         "nickname": "공폭룡[恐暴竜: 두려울 공(恐), 사나울 폭(暴), 용 룡(竜)]",
         "type": "수룡종",
@@ -3859,6 +4260,10 @@
         "series": "MH3G, MH4, MH4G, MHX, MHXX, MHWI",
         "seriesId": "h, j, k, l, m, o",
         "sign": "",
+        "element": "용",
+        "ailments": "용, 방다",
+        "small": "1803",
+        "large": "4097.8",
         "weak": [
           {
             "이름": "MH3G",
@@ -3913,6 +4318,7 @@
       {
         "id": 82,
         "imgurl": "./img/아룡종/도도가마루.webp",
+        "icon": "./icon/아룡종/도도가마루.png",
         "name": "도도가마루",
         "nickname": "암적룡[岩賊竜: 바위 암(岩), 도둑 적(賊), 용 룡(竜)]",
         "type": "아룡종",
@@ -3920,6 +4326,10 @@
         "series": "MHW, MHWI",
         "seriesId": "n, o",
         "sign": "",
+        "element": "",
+        "ailments": "폭파",
+        "small": "977.78",
+        "large": "2000",
         "weak": [
           {
             "이름": "MHW",
@@ -3942,6 +4352,7 @@
       {
         "id": 83,
         "imgurl": "./img/아룡종/도스기르오스.webp",
+        "icon": "./icon/아룡종/도스기르오스.png",
         "name": "도스기르오스",
         "nickname": "비적룡[痺賊竜: 저릴 비(痺), 도둑 적(賊), 용 룡(竜)]",
         "type": "아룡종",
@@ -3949,6 +4360,10 @@
         "series": "MHW, MHWI",
         "seriesId": "n, o",
         "sign": "",
+        "element": "",
+        "ailments": "마비",
+        "small": "937.3",
+        "large": "1316.44",
         "weak": [
           {
             "이름": "MHW",
@@ -3971,6 +4386,7 @@
       {
         "id": 84,
         "imgurl": "./img/아룡종/도스쟈그라스.webp",
+        "icon": "./icon/아룡종/도스쟈그라스.png",
         "name": "도스쟈그라스",
         "nickname": "적룡[賊竜: 도둑 적(賊), 용 룡(竜)]",
         "type": "아룡종",
@@ -3978,6 +4394,10 @@
         "series": "MHW, MHWI",
         "seriesId": "n, o",
         "sign": "",
+        "element": "",
+        "ailments": "",
+        "small": "277.42",
+        "large": "1997.39",
         "weak": [
           {
             "이름": "MHW",
@@ -4000,6 +4420,7 @@
       {
         "id": 85,
         "imgurl": "./img/아룡종/루나가론.webp",
+        "icon": "./icon/아룡종/루나가론.png",
         "name": "루나가론",
         "nickname": "빙랑룡[氷狼竜: 얼음 빙(氷), 늑대 랑(狼), 용 룡(竜)]",
         "type": "아룡종",
@@ -4007,6 +4428,10 @@
         "series": "MHRSB",
         "seriesId": "q",
         "sign": "",
+        "element": "얼음",
+        "ailments": "얼음, 기절",
+        "small": "1272.8",
+        "large": "1739.5",
         "weak": [
           {
             "이름": "MHRSB",
@@ -4021,6 +4446,7 @@
       {
         "id": 86,
         "imgurl": "./img/아룡종/마가이마가도.webp",
+        "icon": "./icon/아룡종/마가이마가도.png",
         "name": "마가이마가도",
         "nickname": "원호룡[怨虎竜: 원한 원(怨), 범 호(虎), 용 룡(竜)]",
         "type": "아룡종",
@@ -4028,6 +4454,10 @@
         "series": "MHR, MHRSB",
         "seriesId": "p, q",
         "sign": "MHR",
+        "element": "",
+        "ailments": "귀화",
+        "small": "1602.38",
+        "large": "2276.11",
         "weak": [
           {
             "이름": "MHR",
@@ -4049,7 +4479,8 @@
       },
       {
         "id": 87,
-        "imgurl": "./img/아룡종/원망 마가이마가도 특개.webp",
+        "imgurl": "./img/아룡종/마가이마가도-특개.webp",
+        "icon": "./icon/아룡종/마가이마가도-특개.png",
         "name": "원망 서린 마가이마가도",
         "nickname": "원호룡[怨虎竜: 원한 원(怨), 범 호(虎), 용 룡(竜)]",
         "type": "아룡종",
@@ -4057,6 +4488,10 @@
         "series": "MHRSB",
         "seriesId": "q",
         "sign": "",
+        "element": "",
+        "ailments": "용, 귀화",
+        "small": "1762.61",
+        "large": "2383.53",
         "weak": [
           {
             "이름": "MHRSB",
@@ -4071,6 +4506,7 @@
       {
         "id": 88,
         "imgurl": "./img/아룡종/오도가론.webp",
+        "icon": "./icon/아룡종/오도가론.png",
         "name": "오도가론",
         "nickname": "참조룡[惨爪竜: 참혹할 참(惨), 손톱 조(爪), 용 룡(竜)]",
         "type": "아룡종",
@@ -4078,6 +4514,10 @@
         "series": "MHW, MHWI",
         "seriesId": "n, o",
         "sign": "",
+        "element": "",
+        "ailments": "열상",
+        "small": "541.61",
+        "large": "1735.94",
         "weak": [
           {
             "이름": "MHW",
@@ -4099,7 +4539,8 @@
       },
       {
         "id": 89,
-        "imgurl": "./img/아룡종/오도가론 아종.webp",
+        "imgurl": "./img/아룡종/오도가론-아종.webp",
+        "icon": "./icon/아룡종/오도가론-아종.png",
         "name": "오도가론 아종",
         "nickname": "흉조룡[兇爪竜: 흉악할 흉(兇), 손톱 조(爪), 용 룡(竜)]",
         "type": "아룡종",
@@ -4107,6 +4548,10 @@
         "series": "MHWI",
         "seriesId": "o",
         "sign": "",
+        "element": "용",
+        "ailments": "용, 열상",
+        "small": "1249.88",
+        "large": "1722.05",
         "weak": [
           {
             "이름": "MHWI",
@@ -4121,6 +4566,7 @@
       {
         "id": 90,
         "imgurl": "./img/아룡종/진오우거.webp",
+        "icon": "./icon/아룡종/진오우거.png",
         "name": "진오우거",
         "nickname": "뇌랑룡[雷狼竜: 우레 뇌(雷), 늑대 랑(狼), 용 룡(竜)]",
         "type": "아룡종",
@@ -4128,6 +4574,10 @@
         "series": "MH3G, MHP3, MH4, MH4G, MHX, MHXX, MHWI, MHR, MHRSB",
         "seriesId": "h, i, j, k, l, m, o, p, q",
         "sign": "MHP3",
+        "element": "번개",
+        "ailments": "번개, 마비",
+        "small": "1217.4",
+        "large": "2144.49",
         "weak": [
           {
             "이름": "MH3G",
@@ -4205,7 +4655,8 @@
       },
       {
         "id": 91,
-        "imgurl": "./img/아룡종/진오우거 아종.webp",
+        "imgurl": "./img/아룡종/진오우거-아종.webp",
+        "icon": "./icon/아룡종/진오우거-아종.png",
         "name": "진오우거 아종",
         "nickname": "옥랑룡[獄狼竜: 감옥 옥(獄), 늑대 랑(狼), 용 룡(竜)]",
         "type": "아룡종",
@@ -4213,6 +4664,10 @@
         "series": "MH3G, MH4, MH4G, MHWI",
         "seriesId": "h, j, k, o",
         "sign": "",
+        "element": "용",
+        "ailments": "용",
+        "small": "1397.18",
+        "large": "1887",
         "weak": [
           {
             "이름": "MH3G",
@@ -4250,7 +4705,8 @@
       },
       {
         "id": 92,
-        "imgurl": "./img/아룡종/금뢰공 진오우거 이명 특개.webp",
+        "imgurl": "./img/아룡종/진오우거-이명특개.webp",
+        "icon": "./icon/아룡종/진오우거-이명특개.png",
         "name": "금뢰공 진오우거",
         "nickname": "금뢰공[金雷公: 금 금(金), 우레 뇌(雷), 공평할 공(公)]",
         "type": "아룡종",
@@ -4258,6 +4714,10 @@
         "series": "MHX, MHXX",
         "seriesId": "l, m",
         "sign": "",
+        "element": "번개",
+        "ailments": "번개, 기절",
+        "small": "1488.43",
+        "large": "1918.07",
         "weak": [
           {
             "이름": "MHX",
@@ -4279,7 +4739,8 @@
       },
       {
         "id": 93,
-        "imgurl": "./img/아룡종/주인 진오우거.webp",
+        "imgurl": "./img/아룡종/진오우거-주인.webp",
+        "icon": "./icon/아룡종/진오우거-주인.png",
         "name": "주인 진오우거",
         "nickname": "뇌랑룡[雷狼竜: 우레 뇌(雷), 늑대 랑(狼), 용 룡(竜)]",
         "type": "아룡종",
@@ -4287,6 +4748,10 @@
         "series": "MHR",
         "seriesId": "p",
         "sign": "",
+        "element": "번개",
+        "ailments": "번개",
+        "small": "1648.89",
+        "large": "1925.83",
         "weak": [
           {
             "이름": "MHR",
@@ -4301,6 +4766,7 @@
       {
         "id": 94,
         "imgurl": "./img/아룡종/토비카가치.webp",
+        "icon": "./icon/아룡종/토비카가치.png",
         "name": "토비카가치",
         "nickname": "비뢰룡[飛雷竜: 날 비(飛), 우레 뢰(雷), 용 룡(竜)]",
         "type": "아룡종",
@@ -4308,6 +4774,10 @@
         "series": "MHW, MHWI, MHR, MHRSB",
         "seriesId": "n, o, p, q",
         "sign": "",
+        "element": "번개",
+        "ailments": "번개",
+        "small": "1157.46",
+        "large": "1573.63",
         "weak": [
           {
             "이름": "MHW",
@@ -4345,7 +4815,8 @@
       },
       {
         "id": 95,
-        "imgurl": "./img/아룡종/토비카가치 아종.webp",
+        "imgurl": "./img/아룡종/토비카가치-아종.webp",
+        "icon": "./icon/아룡종/토비카가치-아종.png",
         "name": "토비카가치 아종",
         "nickname": "비독룡[飛毒竜: 날 비(飛), 독 독(毒), 용 룡(竜)]",
         "type": "아룡종",
@@ -4353,6 +4824,10 @@
         "series": "MHWI",
         "seriesId": "o",
         "sign": "",
+        "element": "",
+        "ailments": "독, 맹독, 마비",
+        "small": "1170.47",
+        "large": "1560.62",
         "weak": [
           {
             "이름": "MHWI",
@@ -4367,6 +4842,7 @@
       {
         "id": 96,
         "imgurl": "./img/아수종/가란고르무.webp",
+        "icon": "./icon/아수종/가란고르무.png",
         "name": "가란고르무",
         "nickname": "강전수[剛纏獣: 굳셀 강(剛), 얽을 전(纏), 짐승 수(獣)]",
         "type": "아수종",
@@ -4374,6 +4850,10 @@
         "series": "MHRSB",
         "seriesId": "q",
         "sign": "",
+        "element": "불, 물",
+        "ailments": "불, 물, 폭파",
+        "small": "1529.3",
+        "large": "1789.39",
         "weak": [
           {
             "이름": "MHRSB",
@@ -4388,6 +4868,7 @@
       {
         "id": 97,
         "imgurl": "./img/아수종/가무토.webp",
+        "icon": "./icon/아수종/가무토.png",
         "name": "가무토",
         "nickname": "거수[巨獣: 클 거(巨), 짐승 수(獣)]",
         "type": "아수종",
@@ -4395,6 +4876,10 @@
         "series": "MHX, MHXX",
         "seriesId": "l, m",
         "sign": "",
+        "element": "얼음",
+        "ailments": "얼음, 눈사람",
+        "small": "455.21",
+        "large": "2617.48",
         "weak": [
           {
             "이름": "MHX",
@@ -4416,7 +4901,8 @@
       },
       {
         "id": 98,
-        "imgurl": "./img/아수종/은령 가무토 이명특개.webp",
+        "imgurl": "./img/아수종/가무토-이명특개.webp",
+        "icon": "./icon/아수종/가무토-이명특개.png",
         "name": "은령 가무토",
         "nickname": "은령[銀嶺: 은 은(銀), 고개 령(嶺)]",
         "type": "아수종",
@@ -4424,6 +4910,10 @@
         "series": "MHXX",
         "seriesId": "m",
         "sign": "",
+        "element": "얼음",
+        "ailments": "얼음, 눈사람",
+        "small": "2207.79",
+        "large": "2594.72",
         "weak": [
           {
             "이름": "MHXX",
@@ -4438,6 +4928,7 @@
       {
         "id": 99,
         "imgurl": "./img/아수종/고샤하기.webp",
+        "icon": "./icon/아수종/고샤하기.png",
         "name": "고샤하기",
         "nickname": "설귀수[雪鬼獣: 눈 설(雪), 귀신 귀(鬼), 짐승 수(獣)]",
         "type": "아수종",
@@ -4445,6 +4936,10 @@
         "series": "MHR, MHRSB",
         "seriesId": "p, q",
         "sign": "",
+        "element": "얼음",
+        "ailments": "얼음, 기절",
+        "small": "643.25",
+        "large": "906.04",
         "weak": [
           {
             "이름": "MHR",
@@ -4467,6 +4962,7 @@
       {
         "id": 100,
         "imgurl": "./img/아수종/도도블랑고.webp",
+        "icon": "./icon/아수종/도도블랑고.png",
         "name": "도도블랑고",
         "nickname": "설사자[雪獅子: 눈 설(雪), 사자 사(獅), 아들 자(子)] / 눈사자",
         "type": "아수종",
@@ -4474,6 +4970,10 @@
         "series": "MH2, MHP2, MHP2G, MHX, MHXX",
         "seriesId": "d, e, f, l, m",
         "sign": "",
+        "element": "얼음",
+        "ailments": "얼음, 눈사람",
+        "small": "791.12",
+        "large": "1221.2",
         "weak": [
           {
             "이름": "MH2",
@@ -4519,7 +5019,8 @@
       },
       {
         "id": 101,
-        "imgurl": "./img/아수종/도도블랑고 아종.webp",
+        "imgurl": "./img/아수종/도도블랑고-아종.webp",
+        "icon": "./icon/아수종/도도블랑고-아종.png",
         "name": "도도블랑고 아종",
         "nickname": "사사자[砂獅子: 모래 사(砂), 사자 사(獅), 아들 자(子)]",
         "type": "아수종",
@@ -4527,6 +5028,10 @@
         "series": "MHP2G",
         "seriesId": "f",
         "sign": "",
+        "element": "",
+        "ailments": "기절",
+        "small": "799.8",
+        "large": "1221.2",
         "weak": [
           {
             "이름": "MHP2G",
@@ -4541,6 +5046,7 @@
       {
         "id": 102,
         "imgurl": "./img/아수종/도스팽고.webp",
+        "icon": "./icon/아수종/도스팽고.png",
         "name": "도스팽고",
         "nickname": "대저[大猪: 클 대(大), 돼지 저(猪)]",
         "type": "아수종",
@@ -4548,6 +5054,10 @@
         "series": "MH2, MHP2, MHP2G, MHP3, MHX, MHXX",
         "seriesId": "d, e, f, i, l, m",
         "sign": "",
+        "element": "",
+        "ailments": "",
+        "small": "509.26",
+        "large": "1188.6",
         "weak": [
           {
             "이름": "MHP2",
@@ -4594,6 +5104,7 @@
       {
         "id": 103,
         "imgurl": "./img/아수종/라잔.webp",
+        "icon": "./icon/아수종/라잔.png",
         "name": "라잔",
         "nickname": "금사자[金獅子: 금 금(金), 사자 사(獅), 아들 자(子)]",
         "type": "아수종",
@@ -4601,6 +5112,10 @@
         "series": "MH2, MHP2, MHP2G, MH4, MH4G, MHX, MHXX, MHWI, MHR, MHRSB",
         "seriesId": "d, e, f, j, k, l, m, o, p, q",
         "sign": "",
+        "element": "번개",
+        "ailments": "번개",
+        "small": "729.62",
+        "large": "1631.2",
         "weak": [
           {
             "이름": "MHP2",
@@ -4678,7 +5193,8 @@
       },
       {
         "id": 104,
-        "imgurl": "./img/아수종/격앙 라잔 특개.webp",
+        "imgurl": "./img/아수종/라잔-특개.webp",
+        "icon": "./icon/아수종/라잔-특개.png",
         "name": "격앙 라잔",
         "nickname": "금사자[金獅子: 금 금(金), 사자 사(獅), 아들 자(子)]",
         "type": "아수종",
@@ -4686,6 +5202,10 @@
         "series": "MHP2G, MH4, MH4G, MHX, MHXX, MHWI, MHRSB",
         "seriesId": "f, j, k, l, m, o, q",
         "sign": "",
+        "element": "번개",
+        "ailments": "번개",
+        "small": "869.4",
+        "large": "1188.18",
         "weak": [
           {
             "이름": "MHP2G",
@@ -4748,6 +5268,7 @@
       {
         "id": 105,
         "imgurl": "./img/아수종/랑그로토라.webp",
+        "icon": "./icon/아수종/랑그로토라.png",
         "name": "랑그로토라",
         "nickname": "적갑수[赤甲獣: 붉을 적(赤), 갑옷 갑(甲), 짐승 수(獣)]",
         "type": "아수종",
@@ -4755,6 +5276,10 @@
         "series": "MH3G, MHP3, MHX, MHXX, MHR, MHRSB",
         "seriesId": "h, i, l, m, p, q",
         "sign": "",
+        "element": "",
+        "ailments": "마비, 아이템",
+        "small": "613.08",
+        "large": "892",
         "weak": [
           {
             "이름": "MH3G",
@@ -4809,6 +5334,7 @@
       {
         "id": 106,
         "imgurl": "./img/아수종/바바콩가.webp",
+        "icon": "./icon/아수종/바바콩가.png",
         "name": "바바콩가",
         "nickname": "도모수[桃毛獣: 복숭아 도(桃), 털 모(毛), 짐승 수(獣)]",
         "type": "아수종",
@@ -4816,6 +5342,10 @@
         "series": "MH2, MHP2, MHP2G, MH4, MH4G, MHXX",
         "seriesId": "d, e, f, j, k, m",
         "sign": "",
+        "element": "불",
+        "ailments": "불, 수면, 아이템, 독, 마비, 폭파",
+        "small": "491.4",
+        "large": "1670.76",
         "weak": [
           {
             "이름": "MHP2",
@@ -4861,7 +5391,8 @@
       },
       {
         "id": 107,
-        "imgurl": "./img/아수종/바바콩가 아종.webp",
+        "imgurl": "./img/아수종/바바콩가-아종.webp",
+        "icon": "./icon/아수종/바바콩가-아종.png",
         "name": "바바콩가 아종",
         "nickname": "녹모수[綠毛獸: 푸를 녹(綠), 털 모(毛), 짐승 수(獣)]",
         "type": "아수종",
@@ -4869,6 +5400,10 @@
         "series": "MHP2G, MH4, MH4G",
         "seriesId": "f, j, k",
         "sign": "",
+        "element": "불",
+        "ailments": "불, 수면, 아이템, 독, 마비, 폭파",
+        "small": "491.4",
+        "large": "1670.76",
         "weak": [
           {
             "이름": "MHP2G",
@@ -4899,6 +5434,7 @@
       {
         "id": 108,
         "imgurl": "./img/아수종/비슈텐고.webp",
+        "icon": "./icon/아수종/비슈텐고.png",
         "name": "비슈텐고",
         "nickname": "천구수[天狗獣: 하늘 천(天), 개 구(狗), 짐승 수(獣)]",
         "type": "아수종",
@@ -4906,6 +5442,10 @@
         "series": "MHR, MHRSB",
         "seriesId": "p, q",
         "sign": "",
+        "element": "",
+        "ailments": "독, 마비, 기절",
+        "small": "832.3",
+        "large": "1054.26",
         "weak": [
           {
             "이름": "MHR",
@@ -4927,7 +5467,8 @@
       },
       {
         "id": 109,
-        "imgurl": "./img/아수종/비슈텐고 아종.webp",
+        "imgurl": "./img/아수종/비슈텐고-아종.webp",
+        "icon": "./icon/아수종/비슈텐고-아종.png",
         "name": "비슈텐고 아종",
         "nickname": "비천구수[緋天狗獣: 비단 비(緋), 하늘 천(天), 개 구(狗), 짐승 수(獣)]",
         "type": "아수종",
@@ -4935,6 +5476,10 @@
         "series": "MHRSB",
         "seriesId": "q",
         "sign": "",
+        "element": "불",
+        "ailments": "불",
+        "small": "832.31",
+        "large": "1054.26",
         "weak": [
           {
             "이름": "MHRSB",
@@ -4949,6 +5494,7 @@
       {
         "id": 110,
         "imgurl": "./img/아수종/아오아시라.webp",
+        "icon": "./icon/아수종/아오아시라.png",
         "name": "아오아시라",
         "nickname": "청웅수[青熊獣: 푸를 청(青), 곰 웅(熊), 짐승 수(獣)]",
         "type": "아수종",
@@ -4956,6 +5502,10 @@
         "series": "MH3G, MHP3, MHX, MHXX, MHR, MHRSB",
         "seriesId": "h, i, l, m, p, q",
         "sign": "",
+        "element": "",
+        "ailments": "",
+        "small": "501.34",
+        "large": "854.55",
         "weak": [
           {
             "이름": "MH3G",
@@ -5009,7 +5559,8 @@
       },
       {
         "id": 111,
-        "imgurl": "./img/아수종/홍두 아오아시라 이명 특개.webp",
+        "imgurl": "./img/아수종/아오아시라-이명특개.webp",
+        "icon": "./icon/아수종/아오아시라-이명특개.png",
         "name": "홍두 아오아시라",
         "nickname": "홍두[紅兜: 붉을 홍(紅), 투구 두(兜)]",
         "type": "아수종",
@@ -5017,6 +5568,10 @@
         "series": "MHX, MHXX",
         "seriesId": "l, m",
         "sign": "",
+        "element": "",
+        "ailments": "기절",
+        "small": "781.22",
+        "large": "904.57",
         "weak": [
           {
             "이름": "MHX",
@@ -5038,7 +5593,8 @@
       },
       {
         "id": 112,
-        "imgurl": "./img/아수종/주인 아오아시라.webp",
+        "imgurl": "./img/아수종/아오아시라-주인.webp",
+        "icon": "./icon/아수종/아오아시라-주인.png",
         "name": "주인 아오아시라",
         "nickname": "청웅수[青熊獣: 푸를 청(青), 곰 웅(熊), 용 룡(竜)]",
         "type": "아수종",
@@ -5046,6 +5602,10 @@
         "series": "MHR",
         "seriesId": "p",
         "sign": "",
+        "element": "",
+        "ailments": "기절",
+        "small": "674.78",
+        "large": "752.92",
         "weak": [
           {
             "이름": "MHR",
@@ -5060,6 +5620,7 @@
       {
         "id": 113,
         "imgurl": "./img/아수종/울크스스.webp",
+        "icon": "./icon/아수종/울크스스.png",
         "name": "울크스스",
         "nickname": "백토수[白兎獣: 흰 백(白), 토끼 토(兎), 짐승 수(獣)]",
         "type": "아수종",
@@ -5067,6 +5628,10 @@
         "series": "MH3G, MHP3, MH4, MH4G, MHX, MHXX, MHR, MHRSB",
         "seriesId": "h, i, j, k, l, m, p, q",
         "sign": "",
+        "element": "얼음",
+        "ailments": "얼음, 눈사람",
+        "small": "214.16",
+        "large": "1581.9",
         "weak": [
           {
             "이름": "MH3G",
@@ -5136,7 +5701,8 @@
       },
       {
         "id": 114,
-        "imgurl": "./img/아수종/대설주 울크스스 이명 특개.webp",
+        "imgurl": "./img/아수종/울크스스-이명특개.webp",
+        "icon": "./icon/아수종/울크스스-이명특개.png",
         "name": "대설주 울크스스",
         "nickname": "대설주[大雪主: 클 대(大), 눈 설(雪), 주인 주(主)]",
         "type": "아수종",
@@ -5144,6 +5710,10 @@
         "series": "MHX, MHXX",
         "seriesId": "l, m",
         "sign": "",
+        "element": "얼음",
+        "ailments": "얼음, 눈사람, 기절",
+        "small": "607.52",
+        "large": "799.36",
         "weak": [
           {
             "이름": "MHX",
@@ -5166,6 +5736,7 @@
       {
         "id": 115,
         "imgurl": "./img/아수종/케차와차.webp",
+        "icon": "./icon/아수종/케차와차.png",
         "name": "케차와차",
         "nickname": "기원호[奇猿狐: 기이할 기(奇), 원숭이 원(猿), 여우 호(狐)]",
         "type": "아수종",
@@ -5173,6 +5744,10 @@
         "series": "MH4, MH4G, MHX, MHXX",
         "seriesId": "j, k, l, m",
         "sign": "",
+        "element": "물",
+        "ailments": "물",
+        "small": "779.77",
+        "large": "1019.01",
         "weak": [
           {
             "이름": "MH4",
@@ -5210,7 +5785,8 @@
       },
       {
         "id": 116,
-        "imgurl": "./img/아수종/케차와차 아종.webp",
+        "imgurl": "./img/아수종/케차와차-아종.webp",
+        "icon": "./icon/아수종/케차와차-아종.png",
         "name": "케차와차 아종",
         "nickname": "백원호[白猿狐: 흰 백(白), 원숭이 원(猿), 여우 호(狐)]",
         "type": "아수종",
@@ -5218,6 +5794,10 @@
         "series": "MH4G",
         "seriesId": "k",
         "sign": "",
+        "element": "불",
+        "ailments": "불",
+        "small": "491.4",
+        "large": "1670.76",
         "weak": [
           {
             "이름": "MH4G",
@@ -5232,6 +5812,7 @@
       {
         "id": 117,
         "imgurl": "./img/양서종/요츠미와두.webp",
+        "icon": "./icon/양서종/요츠미와두.png",
         "name": "요츠미와두",
         "nickname": "하동와[河童蛙: 강 하(河), 개구쟁이 동(童), 개구리 와(蛙)]",
         "type": "양서종",
@@ -5239,6 +5820,10 @@
         "series": "MHR, MHRSB",
         "seriesId": "p, q",
         "sign": "",
+        "element": "물",
+        "ailments": "물, 기절",
+        "small": "858.84",
+        "large": "1206.23",
         "weak": [
           {
             "이름": "MHR",
@@ -5261,6 +5846,7 @@
       {
         "id": 118,
         "imgurl": "./img/양서종/자보아자길.webp",
+        "icon": "./icon/양서종/자보아자길.png",
         "name": "자보아자길",
         "nickname": "괴상어[化け鮫]",
         "type": "양서종",
@@ -5268,6 +5854,10 @@
         "series": "MH4, MH4G, MHX, MHXX",
         "seriesId": "j, k, l, m",
         "sign": "",
+        "element": "물, 얼음",
+        "ailments": "물, 얼음, 눈사람",
+        "small": "1367.64",
+        "large": "3039.2",
         "weak": [
           {
             "이름": "MH4",
@@ -5305,7 +5895,8 @@
       },
       {
         "id": 119,
-        "imgurl": "./img/양서종/자보아자길 아종.webp",
+        "imgurl": "./img/양서종/자보아자길-아종.webp",
+        "icon": "./icon/양서종/자보아자길-아종.png",
         "name": "자보아자길 아종",
         "nickname": "호교[虎鮫: 범 호(虎), 상어 교(鮫)] / 호상어",
         "type": "양서종",
@@ -5313,6 +5904,10 @@
         "series": "MH4G",
         "seriesId": "k",
         "sign": "",
+        "element": "물",
+        "ailments": "물, 마비",
+        "small": "1458.82",
+        "large": "1899.5",
         "weak": [
           {
             "이름": "MH4G",
@@ -5327,6 +5922,7 @@
       {
         "id": 120,
         "imgurl": "./img/양서종/테츠카브라.webp",
+        "icon": "./icon/양서종/테츠카브라.png",
         "name": "테츠카브라",
         "nickname": "귀와[鬼蛙: 귀신 귀(鬼), 개구리 와(蛙)]",
         "type": "양서종",
@@ -5334,6 +5930,10 @@
         "series": "MH4, MH4G, MHX, MHXX",
         "seriesId": "j, k, l, m",
         "sign": "",
+        "element": "",
+        "ailments": "피로",
+        "small": "632.9",
+        "large": "1582.25",
         "weak": [
           {
             "이름": "MH4",
@@ -5371,7 +5971,8 @@
       },
       {
         "id": 121,
-        "imgurl": "./img/양서종/테츠카브라 아종.webp",
+        "imgurl": "./img/양서종/테츠카브라-아종.webp",
+        "icon": "./icon/양서종/테츠카브라-아종.png",
         "name": "테츠카브라 아종",
         "nickname": "황귀와[荒鬼蛙: 거칠 황(荒), 귀신 귀(鬼), 개구리 와(蛙)]",
         "type": "양서종",
@@ -5379,6 +5980,10 @@
         "series": "MH4G",
         "seriesId": "k",
         "sign": "",
+        "element": "",
+        "ailments": "피로",
+        "small": "632.9",
+        "large": "1582.25",
         "weak": [
           {
             "이름": "MH4G",
@@ -5392,7 +5997,8 @@
       },
       {
         "id": 122,
-        "imgurl": "./img/양서종/암천 테츠카브라 이명 특개.webp",
+        "imgurl": "./img/양서종/테츠카브라-이명특개.webp",
+        "icon": "./icon/양서종/테츠카브라-이명특개.png",
         "name": "암천 테츠카브라",
         "nickname": "암천[岩穿: 바위 암(岩), 뚫을 천(穿)]",
         "type": "양서종",
@@ -5400,6 +6006,10 @@
         "series": "MHX, MHXX",
         "seriesId": "l, m",
         "sign": "",
+        "element": "",
+        "ailments": "기절, 피로",
+        "small": "1437.26",
+        "large": "1649.07",
         "weak": [
           {
             "이름": "MHX",
@@ -5422,6 +6032,7 @@
       {
         "id": 123,
         "imgurl": "./img/어룡종/가노토토스.webp",
+        "icon": "./icon/어룡종/가노토토스.png",
         "name": "가노토토스",
         "nickname": "수룡[水竜: 물 수(水), 용 룡(竜)]",
         "type": "어룡종",
@@ -5429,6 +6040,10 @@
         "series": "MH, MHG, MHP, MH2, MHP2, MHP2G, MH3G, MH4, MH4G, MHX, MHXX",
         "seriesId": "a, b, c, d, e, f, h, j, k, l, m",
         "sign": "",
+        "element": "물",
+        "ailments": "물, 수면",
+        "small": "1991.11",
+        "large": "3877.9",
         "weak": [
           {
             "이름": "MH3G",
@@ -5474,7 +6089,8 @@
       },
       {
         "id": 124,
-        "imgurl": "./img/어룡종/가노토토스 아종.webp",
+        "imgurl": "./img/어룡종/가노토토스-아종.webp",
+        "icon": "./icon/어룡종/가노토토스-아종.png",
         "name": "가노토토스 아종",
         "nickname": "취수룡[翠水竜: 푸를 취(翠), 물 수(水), 용 룡(竜)]",
         "type": "어룡종",
@@ -5482,6 +6098,10 @@
         "series": "MHG, MH2, MHP2, MHP2G, MH3G, MH4G",
         "seriesId": "b, d, e, f, h, k",
         "sign": "",
+        "element": "물",
+        "ailments": "물, 수면",
+        "small": "2125.3",
+        "large": "3877.9",
         "weak": [
           {
             "이름": "MHG",
@@ -5536,6 +6156,7 @@
       {
         "id": 125,
         "imgurl": "./img/어룡종/도스가레오스.webp",
+        "icon": "./icon/어룡종/도스가레오스.png",
         "name": "도스가레오스",
         "nickname": "사룡[沙竜: 모래 사(沙), 용 룡(竜)] / 사토룡",
         "type": "어룡종",
@@ -5543,6 +6164,10 @@
         "series": "MH, MHG, MHP, MH2, MHP2, MHP2G, MH4G, MHX, MHXX",
         "seriesId": "a, b, c, d, e, f, k, l, m",
         "sign": "",
+        "element": "물",
+        "ailments": "물, 마비",
+        "small": "889.13",
+        "large": "2097",
         "weak": [
           {
             "이름": "MHG",
@@ -5597,6 +6222,7 @@
       {
         "id": 126,
         "imgurl": "./img/어룡종/볼가노스.webp",
+        "icon": "./icon/어룡종/볼가노스.png",
         "name": "볼가노스",
         "nickname": "용암룡[溶岩竜: 녹을 용(溶), 바위 암(岩), 용 룡(竜)]",
         "type": "어룡종",
@@ -5604,6 +6230,10 @@
         "series": "MHP2G, MHX, MHXX, MHW, MHWI",
         "seriesId": "f, l, m, n, o",
         "sign": "",
+        "element": "불",
+        "ailments": "불",
+        "small": "1581.57",
+        "large": "3476.6",
         "weak": [
           {
             "이름": "MHP2G",
@@ -5650,6 +6280,7 @@
       {
         "id": 127,
         "imgurl": "./img/어룡종/브란토도스.webp",
+        "icon": "./icon/어룡종/브란토도스.png",
         "name": "브란토도스",
         "nickname": "동어룡[凍魚竜: 얼 동(凍), 물고기 어(魚), 용 룡(竜)]",
         "type": "어룡종",
@@ -5657,6 +6288,10 @@
         "series": "MHWI",
         "seriesId": "o",
         "sign": "",
+        "element": "얼음",
+        "ailments": "얼음",
+        "small": "1945.78",
+        "large": "2044.26",
         "weak": [
           {
             "이름": "MHWI",
@@ -5671,6 +6306,7 @@
       {
         "id": 128,
         "imgurl": "./img/어룡종/쥬라토도스.webp",
+        "icon": "./icon/어룡종/쥬라토도스.png",
         "name": "쥬라토도스",
         "nickname": "이어룡[泥魚竜: 진흙 이(泥), 물고기 어(魚), 용 룡(竜)]",
         "type": "어룡종",
@@ -5678,6 +6314,10 @@
         "series": "MHW, MHWI, MHR, MHRSB",
         "seriesId": "n, o, p, q",
         "sign": "",
+        "element": "물",
+        "ailments": "물, 진흙",
+        "small": "1327.66",
+        "large": "1885.89",
         "weak": [
           {
             "이름": "MHW",
@@ -5716,6 +6356,7 @@
       {
         "id": 129,
         "imgurl": "./img/조룡종/게리오스.webp",
+        "icon": "./icon/조룡종/게리오스.png",
         "name": "게리오스",
         "nickname": "독괴조[毒怪鳥: 독 독(毒), 괴이할 괴(怪), 새 조(鳥)]",
         "type": "조룡종",
@@ -5723,6 +6364,10 @@
         "series": "MH, MHG, MHP, MH2, MHP2, MHP2G, MH4, MH4G, MHX, MHXX",
         "seriesId": "a, b, c, d, e, f, j, k, l, m",
         "sign": "",
+        "element": "",
+        "ailments": "독, 맹독, 기절",
+        "small": "811",
+        "large": "1348.2",
         "weak": [
           {
             "이름": "MHG",
@@ -5784,7 +6429,8 @@
       },
       {
         "id": 130,
-        "imgurl": "./img/조룡종/게리오스 아종.webp",
+        "imgurl": "./img/조룡종/게리오스-아종.webp",
+        "icon": "./icon/조룡종/게리오스-아종.png",
         "name": "게리오스 아종",
         "nickname": "자독조[紫毒鳥: 자줏빛 자(紫), 독 독(毒), 새 조(鳥)]",
         "type": "조룡종",
@@ -5792,6 +6438,10 @@
         "series": "MHG, MHP, MH2, MHP2, MHP2G, MH4, MH4G",
         "seriesId": "b, c, d, e, f, j, k",
         "sign": "",
+        "element": "",
+        "ailments": "독, 맹독, 기절",
+        "small": "912.3",
+        "large": "1348.2",
         "weak": [
           {
             "이름": "MHG",
@@ -5838,13 +6488,18 @@
       {
         "id": 131,
         "imgurl": "./img/조룡종/도스게네포스.webp",
+        "icon": "./icon/조룡종/도스게네포스.png",
         "name": "도스게네포스",
-        "nickname": "없음",
+        "nickname": "-[없음]",
         "type": "조룡종",
         "speices": "원종",
         "series": "MH, MHG, MHP, MH2, MHP2, MHP2G, MH4, MH4G, MHX, MHXX",
         "seriesId": "a, b, c, d, e, f, j, k, l, m",
         "sign": "",
+        "element": "",
+        "ailments": "마비, 기절",
+        "small": "615",
+        "large": "1037.4",
         "weak": [
           {
             "이름": "MH",
@@ -5931,13 +6586,18 @@
       {
         "id": 132,
         "imgurl": "./img/조룡종/도스기아노스.webp",
+        "icon": "./icon/조룡종/도스기아노스.png",
         "name": "도스기아노스",
-        "nickname": "없음",
+        "nickname": "-[없음]",
         "type": "조룡종",
         "speices": "원종",
         "series": "MHP2, MHP2G, MHXX",
         "seriesId": "e, f, m",
         "sign": "",
+        "element": "얼음",
+        "ailments": "얼음, 눈사람",
+        "small": "649.8",
+        "large": "1048.77",
         "weak": [
           {
             "이름": "MHP2",
@@ -5968,13 +6628,18 @@
       {
         "id": 133,
         "imgurl": "./img/조룡종/도스람포스.webp",
+        "icon": "./icon/조룡종/도스람포스.png",
         "name": "도스람포스",
-        "nickname": "없음",
+        "nickname": "-[없음]",
         "type": "조룡종",
         "speices": "원종",
         "series": "MH, MHG, MHP, MH2, MHP2, MHP2G, MH4, MH4G, MHX, MHXX",
         "seriesId": "a, b, c, d, e, f, j, k, l, m",
         "sign": "",
+        "element": "",
+        "ailments": "아이템, 방다",
+        "small": "590.7",
+        "large": "1936.4",
         "weak": [
           {
             "이름": "MH",
@@ -6061,6 +6726,7 @@
       {
         "id": 134,
         "imgurl": "./img/조룡종/도스마카오.webp",
+        "icon": "./icon/조룡종/도스마카오.png",
         "name": "도스마카오",
         "nickname": "도구룡[跳狗竜: 뛸 도(跳), 개 구(狗), 용 룡(竜)]",
         "type": "조룡종",
@@ -6068,6 +6734,10 @@
         "series": "MHX, MHXX",
         "seriesId": "l, m",
         "sign": "",
+        "element": "",
+        "ailments": "",
+        "small": "701.63",
+        "large": "1275.7",
         "weak": [
           {
             "이름": "MHX",
@@ -6090,6 +6760,7 @@
       {
         "id": 135,
         "imgurl": "./img/조룡종/도스바기.webp",
+        "icon": "./icon/조룡종/도스바기.png",
         "name": "도스바기",
         "nickname": "면구룡[眠狗竜: 잘 면(眠), 개 구(狗), 용 룡(竜)]",
         "type": "조룡종",
@@ -6097,6 +6768,10 @@
         "series": "MH3, MH3G, MHP3, MHR, MHRSB",
         "seriesId": "g, h, i, p, q",
         "sign": "",
+        "element": "",
+        "ailments": "수면",
+        "small": "839.12",
+        "large": "1457.97",
         "weak": [
           {
             "이름": "MH3",
@@ -6143,13 +6818,18 @@
       {
         "id": 136,
         "imgurl": "./img/조룡종/도스이오스.webp",
+        "icon": "./icon/조룡종/도스이오스.png",
         "name": "도스이오스",
-        "nickname": "없음",
+        "nickname": "-[없음]",
         "type": "조룡종",
         "speices": "원종",
         "series": "MH, MHG, MHP, MH2, MHP2, MHP2G, MH4, MH4G, MHX, MHXX",
         "seriesId": "a, b, c, d, e, f, j, k, l, m",
         "sign": "",
+        "element": "",
+        "ailments": "독",
+        "small": "619.7",
+        "large": "1641.06",
         "weak": [
           {
             "이름": "MH",
@@ -6236,6 +6916,7 @@
       {
         "id": 137,
         "imgurl": "./img/조룡종/도스재기.webp",
+        "icon": "./icon/조룡종/도스재기.png",
         "name": "도스재기",
         "nickname": "구룡[狗竜: 개 구(狗), 용 룡(竜)]",
         "type": "조룡종",
@@ -6243,6 +6924,10 @@
         "series": "MH3, MH3G, MHP3, MH4, MH4G",
         "seriesId": "g, h, i, j, k",
         "sign": "",
+        "element": "",
+        "ailments": "",
+        "small": "822.27",
+        "large": "1261.31",
         "weak": [
           {
             "이름": "MH3",
@@ -6289,6 +6974,7 @@
       {
         "id": 138,
         "imgurl": "./img/조룡종/도스프로기.webp",
+        "icon": "./icon/조룡종/도스프로기.png",
         "name": "도스프로기",
         "nickname": "독구룡[毒狗竜: 독 독(毒), 개 구(狗), 용 룡(竜)]",
         "type": "조룡종",
@@ -6296,6 +6982,10 @@
         "series": "MH3G, MHP3, MHR, MHRSB",
         "seriesId": "h, i, p, q",
         "sign": "",
+        "element": "",
+        "ailments": "독",
+        "small": "831.7",
+        "large": "1168.13",
         "weak": [
           {
             "이름": "MH3G",
@@ -6334,6 +7024,7 @@
       {
         "id": 139,
         "imgurl": "./img/조룡종/아케노시름.webp",
+        "icon": "./icon/조룡종/아케노시름.png",
         "name": "아케노시름",
         "nickname": "산조[傘鳥: 우산 산(傘), 새 조(鳥)]",
         "type": "조룡종",
@@ -6341,6 +7032,10 @@
         "series": "MHR, MHRSB",
         "seriesId": "p, q",
         "sign": "",
+        "element": "불",
+        "ailments": "불",
+        "small": "763.72",
+        "large": "1043.75",
         "weak": [
           {
             "이름": "MHR",
@@ -6363,6 +7058,7 @@
       {
         "id": 140,
         "imgurl": "./img/조룡종/얀가루루가.webp",
+        "icon": "./icon/조룡종/얀가루루가.png",
         "name": "얀가루루가",
         "nickname": "흑랑조[黒狼鳥: 검을 흑(黒), 늑대 랑(狼), 새 조(鳥)]",
         "type": "조룡종",
@@ -6370,6 +7066,10 @@
         "series": "MHP, MH2, MHP2, MHP2G, MH4, MH4G, MHX, MHXX, MHWI",
         "seriesId": "c, d, e, f, j, k, l, m, o",
         "sign": "",
+        "element": "불",
+        "ailments": "불, 독",
+        "small": "887.3",
+        "large": "1744.5",
         "weak": [
           {
             "이름": "MHP",
@@ -6447,7 +7147,8 @@
       },
       {
         "id": 141,
-        "imgurl": "./img/조룡종/상가루루가 특개.webp",
+        "imgurl": "./img/조룡종/얀가루루가-특개.webp",
+        "icon": "./icon/조룡종/얀가루루가-특개.png",
         "name": "상처 입은 얀가루루가",
         "nickname": "흑랑조[黒狼鳥: 검을 흑(黒), 늑대 랑(狼), 새 조(鳥)]",
         "type": "조룡종",
@@ -6455,6 +7156,10 @@
         "series": "MHP2G, MHWI",
         "seriesId": "f, o",
         "sign": "",
+        "element": "불",
+        "ailments": "불, 독",
+        "small": "1250.11",
+        "large": "1708.48",
         "weak": [
           {
             "이름": "MHP2G",
@@ -6477,7 +7182,8 @@
       },
       {
         "id": 142,
-        "imgurl": "./img/조룡종/척안 얀가루루가 이명 특개.webp",
+        "imgurl": "./img/조룡종/얀가루루가-이명특개.webp",
+        "icon": "./icon/조룡종/얀가루루가-이명특개.png",
         "name": "척안 얀가루루가",
         "nickname": "척안[隻眼: 외짝 척(隻), 눈 안(眼)]",
         "type": "조룡종",
@@ -6485,6 +7191,10 @@
         "series": "MHX, MHXX",
         "seriesId": "l, m",
         "sign": "",
+        "element": "불",
+        "ailments": "불, 독, 맹독",
+        "small": "1150.74",
+        "large": "1482.91",
         "weak": [
           {
             "이름": "MHX",
@@ -6507,6 +7217,7 @@
       {
         "id": 143,
         "imgurl": "./img/조룡종/얀쿡크.webp",
+        "icon": "./icon/조룡종/얀쿡크.png",
         "name": "얀쿡크",
         "nickname": "괴조[怪鳥: 괴이할 괴(怪), 새 조(鳥)]",
         "type": "조룡종",
@@ -6514,6 +7225,10 @@
         "series": "MH, MHG, MHP, MH2, MHP2, MHP2G, MH4, MH4G, MHX, MHXX",
         "seriesId": "a, b, c, d, e, f, j, k, l, m",
         "sign": "",
+        "element": "불",
+        "ailments": "불",
+        "small": "449.3",
+        "large": "1204.9",
         "weak": [
           {
             "이름": "MHG",
@@ -6575,7 +7290,8 @@
       },
       {
         "id": 144,
-        "imgurl": "./img/조룡종/얀쿡크 아종.webp",
+        "imgurl": "./img/조룡종/얀쿡크-아종.webp",
+        "icon": "./icon/조룡종/얀쿡크-아종.png",
         "name": "얀쿡크 아종",
         "nickname": "청괴조[青怪鳥: 푸를 청(青), 괴이할 괴(怪), 새 조(鳥)]",
         "type": "조룡종",
@@ -6583,6 +7299,10 @@
         "series": "MHG, MHP, MH2, MHP2, MHP2G, MH4, MH4G",
         "seriesId": "b, c, d, e, f, j, k",
         "sign": "",
+        "element": "불",
+        "ailments": "불",
+        "small": "449.3",
+        "large": "1195.7",
         "weak": [
           {
             "이름": "MHG",
@@ -6629,6 +7349,7 @@
       {
         "id": 145,
         "imgurl": "./img/조룡종/오사이즈치.webp",
+        "icon": "./icon/조룡종/오사이즈치.png",
         "name": "오사이즈치",
         "nickname": "겸유룡[鎌鼬竜: 낫 겸(鎌), 족제비 유(鼬), 용 룡(竜)]",
         "type": "조룡종",
@@ -6636,6 +7357,10 @@
         "series": "MHR, MHRSB",
         "seriesId": "p, q",
         "sign": "",
+        "element": "",
+        "ailments": "",
+        "small": "946.08",
+        "large": "1343.87",
         "weak": [
           {
             "이름": "MHR",
@@ -6658,6 +7383,7 @@
       {
         "id": 146,
         "imgurl": "./img/조룡종/치치야크.webp",
+        "icon": "./icon/조룡종/치치야크.png",
         "name": "치치야크",
         "nickname": "현조[眩鳥: 어지러울 현(眩), 새 조(鳥)]",
         "type": "조룡종",
@@ -6665,6 +7391,10 @@
         "series": "MHW, MHWI",
         "seriesId": "n, o",
         "sign": "",
+        "element": "",
+        "ailments": "기절",
+        "small": "786.76",
+        "large": "1117.55",
         "weak": [
           {
             "이름": "MHW",
@@ -6687,6 +7417,7 @@
       {
         "id": 147,
         "imgurl": "./img/조룡종/쿠루루야크.webp",
+        "icon": "./icon/조룡종/쿠루루야크.png",
         "name": "쿠루루야크",
         "nickname": "소조[掻鳥: 긁을 소(掻), 새 조(鳥)]",
         "type": "조룡종",
@@ -6694,6 +7425,10 @@
         "series": "MHW, MHWI, MHR, MHRSB",
         "seriesId": "n, o, p, q",
         "sign": "",
+        "element": "",
+        "ailments": "기절",
+        "small": "802.1",
+        "large": "1126.55",
         "weak": [
           {
             "이름": "MHW",
@@ -6732,6 +7467,7 @@
       {
         "id": 148,
         "imgurl": "./img/조룡종/쿠르페코.webp",
+        "icon": "./icon/조룡종/쿠르페코.png",
         "name": "쿠르페코",
         "nickname": "채조[彩鳥: 채색 채(彩), 새 조(鳥)]",
         "type": "조룡종",
@@ -6739,6 +7475,10 @@
         "series": "MH3, MH3G, MHP3",
         "seriesId": "g, h, i",
         "sign": "",
+        "element": "불",
+        "ailments": "불, 방다, 수면",
+        "small": "772.8",
+        "large": "1085.4",
         "weak": [
           {
             "이름": "MH3",
@@ -6768,7 +7508,8 @@
       },
       {
         "id": 149,
-        "imgurl": "./img/조룡종/쿠르페코 아종.webp",
+        "imgurl": "./img/조룡종/쿠르페코-아종.webp",
+        "icon": "./icon/조룡종/쿠르페코-아종.png",
         "name": "쿠르페코 아종",
         "nickname": "홍채조[紅彩鳥: 붉을 홍(紅), 채색 채(彩), 새 조(鳥)]",
         "type": "조룡종",
@@ -6776,6 +7517,10 @@
         "series": "MH3G, MHP3",
         "seriesId": "h, i",
         "sign": "",
+        "element": "번개",
+        "ailments": "번개, 기절, 수면",
+        "small": "347.32",
+        "large": "1085.4",
         "weak": [
           {
             "이름": "MH3G",
@@ -6798,6 +7543,7 @@
       {
         "id": 150,
         "imgurl": "./img/조룡종/푸케푸케.webp",
+        "icon": "./icon/조룡종/푸케푸케.png",
         "name": "푸케푸케",
         "nickname": "독요조[毒妖鳥: 독 독(毒), 요사할 요(妖), 새 조(鳥)]",
         "type": "조룡종",
@@ -6805,6 +7551,10 @@
         "series": "MHW, MHWI, MHR, MHRSB",
         "seriesId": "n, o, p, q",
         "sign": "",
+        "element": "",
+        "ailments": "독, 기절",
+        "small": "970.16",
+        "large": "1344.99",
         "weak": [
           {
             "이름": "MHW",
@@ -6842,7 +7592,8 @@
       },
       {
         "id": 151,
-        "imgurl": "./img/조룡종/푸케푸케 아종.webp",
+        "imgurl": "./img/조룡종/푸케푸케-아종.webp",
+        "icon": "./icon/조룡종/푸케푸케-아종.png",
         "name": "푸케푸케 아종",
         "nickname": "수요조[水妖鳥: 물 수(水), 요사할 요(妖), 새 조(鳥)]",
         "type": "조룡종",
@@ -6850,6 +7601,10 @@
         "series": "MHWI",
         "seriesId": "o",
         "sign": "",
+        "element": "물",
+        "ailments": "물",
+        "small": "992.21",
+        "large": "1322.94",
         "weak": [
           {
             "이름": "MHWI",
@@ -6864,6 +7619,7 @@
       {
         "id": 152,
         "imgurl": "./img/조룡종/호로로호루루.webp",
+        "icon": "./icon/조룡종/호로로호루루.png",
         "name": "호로로호루루",
         "nickname": "야조[夜鳥: 밤 야(夜), 새 조(鳥)]",
         "type": "조룡종",
@@ -6871,6 +7627,10 @@
         "series": "MHX, MHXX",
         "seriesId": "l, m",
         "sign": "",
+        "element": "",
+        "ailments": "수면, 혼란",
+        "small": "305.83",
+        "large": "758.46",
         "weak": [
           {
             "이름": "MHX",
@@ -6892,7 +7652,8 @@
       },
       {
         "id": 153,
-        "imgurl": "./img/조룡종/농은 호로로호루루 이명 특개.webp",
+        "imgurl": "./img/조룡종/호로로호루루-이명특개.webp",
+        "icon": "./icon/조룡종/호로로호루루-이명특개.png",
         "name": "농은 호로로호루루",
         "nickname": "농은[朧隠: 흐릿할 농(朧), 숨을 은(隠)]",
         "type": "조룡종",
@@ -6900,6 +7661,10 @@
         "series": "MHXX",
         "seriesId": "m",
         "sign": "",
+        "element": "",
+        "ailments": "수면, 혼란",
+        "small": "711.03",
+        "large": "901.61",
         "weak": [
           {
             "이름": "MHXX",
@@ -6914,6 +7679,7 @@
       {
         "id": 154,
         "imgurl": "./img/조룡종/히프노크.webp",
+        "icon": "./icon/조룡종/히프노크.webp",
         "name": "히프노크",
         "nickname": "면조[眠鳥:  잘 면(眠), 새 조(鳥)]",
         "type": "조룡종",
@@ -6921,6 +7687,10 @@
         "series": "MHP2G",
         "seriesId": "f",
         "sign": "",
+        "element": "",
+        "ailments": "수면",
+        "small": "751.4",
+        "large": "1485.8",
         "weak": [
           {
             "이름": "MHP2G",
@@ -6935,6 +7705,7 @@
       {
         "id": 155,
         "imgurl": "./img/해룡종/라기아크루스.webp",
+        "icon": "./icon/해룡종/라기아크루스.png",
         "name": "라기아크루스",
         "nickname": "해룡[海竜: 바다 해(海), 용 룡(竜)]",
         "type": "해룡종",
@@ -6942,6 +7713,10 @@
         "series": "MH3, MH3G, MHX, MHXX",
         "seriesId": "g, h, l, m",
         "sign": "MH3",
+        "element": "번개",
+        "ailments": "물, 번개",
+        "small": "2330.7",
+        "large": "3310.6",
         "weak": [
           {
             "이름": "MH3",
@@ -6979,7 +7754,8 @@
       },
       {
         "id": 156,
-        "imgurl": "./img/해룡종/라기아크루스 아종.webp",
+        "imgurl": "./img/해룡종/라기아크루스-아종.webp",
+        "icon": "./icon/해룡종/라기아크루스-아종.png",
         "name": "라기아크루스 아종",
         "nickname": "백해룡[白海竜: 흰 백(白), 바다 해(海), 용 룡(竜)]",
         "type": "해룡종",
@@ -6987,6 +7763,10 @@
         "series": "MH3G",
         "seriesId": "h",
         "sign": "",
+        "element": "물, 번개",
+        "ailments": "물, 번개",
+        "small": "2516",
+        "large": "3310.6",
         "weak": [
           {
             "이름": "MH3G",
@@ -7000,7 +7780,8 @@
       },
       {
         "id": 157,
-        "imgurl": "./img/해룡종/라기아크루스 희소종.webp",
+        "imgurl": "./img/해룡종/라기아크루스-희소종.webp",
+        "icon": "./icon/해룡종/라기아크루스-희소종.png",
         "name": "라기아크루스 희소종",
         "nickname": "명해룡[冥海竜: 어두울 명(冥), 바다 해(海), 용 룡(竜)]",
         "type": "해룡종",
@@ -7008,6 +7789,10 @@
         "series": "MH3G",
         "seriesId": "h",
         "sign": "",
+        "element": "번개",
+        "ailments": "물, 번개",
+        "small": "3969.3",
+        "large": "3969.3",
         "weak": [
           {
             "이름": "MH3G",
@@ -7022,6 +7807,7 @@
       {
         "id": 158,
         "imgurl": "./img/해룡종/로아루드로스.webp",
+        "icon": "./icon/해룡종/로아루드로스.png",
         "name": "로아루드로스",
         "nickname": "수수[水獣: 물 수(水), 짐승 수(獣)] / 수괴수",
         "type": "해룡종",
@@ -7029,6 +7815,10 @@
         "series": "MH3, MH3G, MHP3, MHX, MHXX, MHR, MHRSB",
         "seriesId": "g, h, i, l, m, p, q",
         "sign": "",
+        "element": "물",
+        "ailments": "물",
+        "small": "1359.78",
+        "large": "1931.5",
         "weak": [
           {
             "이름": "MH3",
@@ -7090,7 +7880,8 @@
       },
       {
         "id": 159,
-        "imgurl": "./img/해룡종/로아루드로스 아종.webp",
+        "imgurl": "./img/해룡종/로아루드로스-아종.webp",
+        "icon": "./icon/해룡종/로아루드로스-아종.png",
         "name": "로아루드로스 아종",
         "nickname": "자수수[紫水獣: 자줏빛 자(紫), 물 수(水), 짐승 수(獣)] / 자수괴수",
         "type": "해룡종",
@@ -7098,6 +7889,10 @@
         "series": "MH3G, MHP3",
         "seriesId": "h, i",
         "sign": "",
+        "element": "",
+        "ailments": "독, 맹독",
+        "small": "1467.94",
+        "large": "1939.5",
         "weak": [
           {
             "이름": "MH3G",
@@ -7120,13 +7915,18 @@
       {
         "id": 160,
         "imgurl": "./img/해룡종/아그나코트르.webp",
+        "icon": "./icon/해룡종/아그나코트르.png",
         "name": "아그나코트르",
-        "nickname": "염과룡([炎戈竜: 불꽃 염(炎), 창 과(戈), 용 룡(竜)]",
+        "nickname": "염과룡[炎戈竜: 불꽃 염(炎), 창 과(戈), 용 룡(竜)]",
         "type": "해룡종",
         "speices": "원종",
         "series": "MH3, MH3G, MHP3, MHX, MHXX",
         "seriesId": "g, h, i, l, m",
         "sign": "",
+        "element": "불",
+        "ailments": "불",
+        "small": "2416.1",
+        "large": "3421.64",
         "weak": [
           {
             "이름": "MH3",
@@ -7172,7 +7972,8 @@
       },
       {
         "id": 161,
-        "imgurl": "./img/해룡종/아그나코트르 아종.webp",
+        "imgurl": "./img/해룡종/아그나코트르-아종.webp",
+        "icon": "./icon/해룡종/아그나코트르-아종.png",
         "name": "아그나코트르 아종",
         "nickname": "동과룡[凍戈竜: 얼 동(凍), 창 과(戈), 용 룡(竜)]",
         "type": "해룡종",
@@ -7180,6 +7981,10 @@
         "series": "MH3G, MHP3",
         "seriesId": "h, i",
         "sign": "",
+        "element": "물, 얼음",
+        "ailments": "물, 얼음",
+        "small": "2198.91",
+        "large": "3176.2",
         "weak": [
           {
             "이름": "MH3G",
@@ -7202,6 +8007,7 @@
       {
         "id": 162,
         "imgurl": "./img/해룡종/오로미도로.webp",
+        "icon": "./icon/해룡종/오로미도로.png",
         "name": "오로미도로",
         "nickname": "이옹룡[泥翁竜: 진흙 이(泥), 늙은이 옹(翁), 용 룡(竜)]",
         "type": "해룡종",
@@ -7209,6 +8015,10 @@
         "series": "MHR, MHRSB",
         "seriesId": "p, q",
         "sign": "",
+        "element": "물",
+        "ailments": "물, 진흙",
+        "small": "2425.04",
+        "large": "3368.12",
         "weak": [
           {
             "이름": "MHR",
@@ -7230,7 +8040,8 @@
       },
       {
         "id": 163,
-        "imgurl": "./img/해룡종/오로미도로 아종.webp",
+        "imgurl": "./img/해룡종/오로미도로-아종.webp",
+        "icon": "./icon/해룡종/오로미도로-아종.png",
         "name": "오로미도로 아종",
         "nickname": "용옹룡[溶翁竜: 녹을 용(溶), 늙은이 옹(翁), 용 룡(竜)]",
         "type": "해룡종",
@@ -7238,6 +8049,10 @@
         "series": "MHRSB",
         "seriesId": "q",
         "sign": "",
+        "element": "불",
+        "ailments": "불",
+        "small": "2478.94",
+        "large": "3341.18",
         "weak": [
           {
             "이름": "MHRSB",
@@ -7252,6 +8067,7 @@
       {
         "id": 164,
         "imgurl": "./img/해룡종/이소네미쿠니.webp",
+        "icon": "./icon/해룡종/이소네미쿠니.png",
         "name": "이소네미쿠니",
         "nickname": "인어룡[人魚竜: 사람 인(人), 물고기 어(魚), 용 룡(竜)]",
         "type": "해룡종",
@@ -7259,6 +8075,10 @@
         "series": "MHR, MHRSB",
         "seriesId": "p, q",
         "sign": "",
+        "element": "",
+        "ailments": "물, 수면, 기절, 폭파",
+        "small": "1390.52",
+        "large": "1899.97",
         "weak": [
           {
             "이름": "MHR",
@@ -7280,7 +8100,8 @@
       },
       {
         "id": 165,
-        "imgurl": "./img/해룡종/이소네미쿠니 아종.webp",
+        "imgurl": "./img/해룡종/이소네미쿠니-아종.webp",
+        "icon": "./icon/해룡종/이소네미쿠니-아종.png",
         "name": "이소네미쿠니 아종",
         "nickname": "빙인어룡[氷人魚竜: 얼음 빙(氷), 사람 인(人), 물고기 어(魚), 용 룡(竜)]",
         "type": "해룡종",
@@ -7288,6 +8109,10 @@
         "series": "MHRSB",
         "seriesId": "q",
         "sign": "",
+        "element": "얼음",
+        "ailments": "얼음",
+        "small": "1375.04",
+        "large": "1931.25",
         "weak": [
           {
             "이름": "MHRSB",
@@ -7302,6 +8127,7 @@
       {
         "id": 166,
         "imgurl": "./img/해룡종/차나가블.webp",
+        "icon": "./icon/해룡종/차나가블.png",
         "name": "차나가블",
         "nickname": "등어룡[灯魚竜: 등 등(灯), 물고기 어(魚), 용 룡(竜)]",
         "type": "해룡종",
@@ -7309,6 +8135,10 @@
         "series": "MH3, MH3G",
         "seriesId": "g, h",
         "sign": "",
+        "element": "",
+        "ailments": "물, 마비, 기절",
+        "small": "1562.9",
+        "large": "2844.8",
         "weak": [
           {
             "이름": "MH3",
@@ -7331,6 +8161,7 @@
       {
         "id": 167,
         "imgurl": "./img/해룡종/타마미츠네.webp",
+        "icon": "./icon/해룡종/타마미츠네.png",
         "name": "타마미츠네",
         "nickname": "포호룡[泡狐竜: 거품 포(泡), 여우 호(狐), 용 룡(竜)]",
         "type": "해룡종",
@@ -7338,6 +8169,10 @@
         "series": "MHX, MHXX, MHR, MHRSB",
         "seriesId": "l, m, p, q",
         "sign": "",
+        "element": "물",
+        "ailments": "물, 거품",
+        "small": "565.54",
+        "large": "2356.4",
         "weak": [
           {
             "이름": "MHX",
@@ -7375,7 +8210,8 @@
       },
       {
         "id": 168,
-        "imgurl": "./img/해룡종/타마미츠네 희소종.webp",
+        "imgurl": "./img/해룡종/타마미츠네-희소종.webp",
+        "icon": "./icon/해룡종/타마미츠네-희소종.png",
         "name": "타마미츠네 희소종",
         "nickname": "염호룡[焔狐竜: 불꽃 염(焔), 여우 호(狐), 용 룡(竜)]",
         "type": "해룡종",
@@ -7383,6 +8219,10 @@
         "series": "MHRSB",
         "seriesId": "q",
         "sign": "",
+        "element": "불",
+        "ailments": "불, 속내",
+        "small": "1738",
+        "large": "2269.9",
         "weak": [
           {
             "이름": "MHRSB",
@@ -7396,7 +8236,8 @@
       },
       {
         "id": 169,
-        "imgurl": "./img/해룡종/천안 타마미츠네 이명 특개.webp",
+        "imgurl": "./img/해룡종/타마미츠네-이명특개.webp",
+        "icon": "./icon/해룡종/타마미츠네-이명특개.png",
         "name": "천안 타마미츠네",
         "nickname": "천안[天眼: 하늘 천(天), 눈 안(眼)]",
         "type": "해룡종",
@@ -7404,6 +8245,10 @@
         "series": "MHXX",
         "seriesId": "m",
         "sign": "",
+        "element": "불, 물",
+        "ailments": "불, 물, 거품",
+        "small": "2792.77",
+        "large": "2797.77",
         "weak": [
           {
             "이름": "MHXX",
@@ -7417,7 +8262,8 @@
       },
       {
         "id": 170,
-        "imgurl": "./img/해룡종/주인 타마미츠네.webp",
+        "imgurl": "./img/해룡종/타마미츠네-주인.webp",
+        "icon": "./icon/해룡종/타마미츠네-주인.png",
         "name": "주인 타마미츠네",
         "nickname": "포호룡[泡狐竜: 거품 포(泡), 여우 호(狐), 용 룡(竜)]",
         "type": "해룡종",
@@ -7425,6 +8271,10 @@
         "series": "MHR",
         "seriesId": "p",
         "sign": "",
+        "element": "물",
+        "ailments": "물, 귀화, 폭파",
+        "small": "1934.7",
+        "large": "2748.15",
         "weak": [
           {
             "이름": "MHR",
@@ -7439,6 +8289,7 @@
       {
         "id": 171,
         "imgurl": "./img/해룡종/하플보카.webp",
+        "icon": "./icon/해룡종/하플보카.png",
         "name": "하플보카",
         "nickname": "잠구룡[潜口竜: 잠길 잠(潜), 입 구(口), 용 룡(竜)]",
         "type": "해룡종",
@@ -7446,6 +8297,10 @@
         "series": "MH3G, MHP3, MHX, MHXX",
         "seriesId": "h, i, l, m",
         "sign": "",
+        "element": "",
+        "ailments": "물",
+        "small": "1808.1",
+        "large": "4693.15",
         "weak": [
           {
             "이름": "MH3G",
@@ -7484,6 +8339,7 @@
       {
         "id": 172,
         "imgurl": "./img/협각종/네르스큐라.webp",
+        "icon": "./icon/협각종/네르스큐라.png",
         "name": "네르스큐라",
         "nickname": "영지주[影蜘蛛: 그림자 영(影), 거미 지(蜘), 거미 주(蛛)]",
         "type": "협각종",
@@ -7491,6 +8347,10 @@
         "series": "MH4, MH4G, MHXX",
         "seriesId": "j, k, m",
         "sign": "",
+        "element": "",
+        "ailments": "독, 맹독, 수면, 실속박",
+        "small": "833.1",
+        "large": "1126.57",
         "weak": [
           {
             "이름": "MH4",
@@ -7520,7 +8380,8 @@
       },
       {
         "id": 173,
-        "imgurl": "./img/협각종/네르스큐라 아종.webp",
+        "imgurl": "./img/협각종/네르스큐라-아종.webp",
+        "icon": "./icon/협각종/네르스큐라-아종.png",
         "name": "네르스큐라 아종",
         "nickname": "해지주[骸蜘蛛: 뼈 해(骸), 거미 지(蜘), 거미 주(蛛)]",
         "type": "협각종",
@@ -7528,6 +8389,10 @@
         "series": "MH4G",
         "seriesId": "k",
         "sign": "",
+        "element": "",
+        "ailments": "마비, 독, 맹독, 실속박",
+        "small": "389.57",
+        "large": "1188.69",
         "weak": [
           {
             "이름": "MH4G",
@@ -7542,6 +8407,7 @@
       {
         "id": 174,
         "imgurl": "./img/협각종/야츠카다키.webp",
+        "icon": "./icon/협각종/야츠카다키.png",
         "name": "야츠카다키",
         "nickname": "비지주[妃蜘蛛: 왕비 비(妃), 거미 지(蜘), 거미 주(蛛)]",
         "type": "협각종",
@@ -7549,6 +8415,10 @@
         "series": "MHR, MHRSB",
         "seriesId": "p, q",
         "sign": "",
+        "element": "불",
+        "ailments": "불, 실속박",
+        "small": "771.23",
+        "large": "1071.16",
         "weak": [
           {
             "이름": "MHR",
@@ -7570,7 +8440,8 @@
       },
       {
         "id": 175,
-        "imgurl": "./img/협각종/야츠카다키 아종.webp",
+        "imgurl": "./img/협각종/야츠카다키-아종.webp",
+        "icon": "./icon/협각종/야츠카다키-아종.png",
         "name": "야츠카다키 아종",
         "nickname": "치비지주[熾妃蜘蛛: 성할 치(熾), 왕비 비(妃), 거미 지(蜘), 거미 주(蛛)]",
         "type": "협각종",
@@ -7578,6 +8449,10 @@
         "series": "MHRSB",
         "seriesId": "q",
         "sign": "",
+        "element": "불",
+        "ailments": "불, 폭파, 실속박",
+        "small": "754.1",
+        "large": "1071.16",
         "weak": [
           {
             "이름": "MHRSB",
@@ -7592,6 +8467,7 @@
       {
         "id": 176,
         "imgurl": "./img/고룡종/가이아델름.webp",
+        "icon": "./icon/고룡종/가이아델름.png",
         "name": "가이아델름",
         "nickname": "명연룡[冥淵龍: 어두울 명(冥), 못 연(淵), 용 룡(龍)]",
         "type": "고룡종",
@@ -7599,6 +8475,10 @@
         "series": "MHRSB",
         "seriesId": "q",
         "sign": "",
+        "element": "",
+        "ailments": "폭파, 겁혈",
+        "small": "4807.54",
+        "large": "4807.54",
         "weak": [
           {
             "이름": "MHRSB",
@@ -7613,6 +8493,7 @@
       {
         "id": 177,
         "imgurl": "./img/고룡종/고그마지오스.webp",
+        "icon": "./icon/고룡종/고그마지오스.png",
         "name": "고그마지오스",
         "nickname": "거극룡[巨戟龍: 클 거(巨), 창 극(戟), 용 룡(龍)]",
         "type": "고룡종",
@@ -7620,6 +8501,10 @@
         "series": "MH4G",
         "seriesId": "k",
         "sign": "",
+        "element": "불",
+        "ailments": "불, 중유속박",
+        "small": "4920.5",
+        "large": "4920.5",
         "weak": [
           {
             "이름": "MH4G",
@@ -7633,7 +8518,8 @@
       },
       {
         "id": 178,
-        "imgurl": "./img/물음표/고어마가라.webp",
+        "imgurl": "./img/고룡종/고어마가라.webp",
+        "icon": "./icon/고룡종/고어마가라.png",
         "name": "고어-마가라",
         "nickname": "흑식룡[黒蝕竜: 검을 흑(黒), 좀먹을 식(蝕), 용 룡(竜)]",
         "type": "고룡종",
@@ -7641,6 +8527,10 @@
         "series": "MH4, MH4G, MHX, MHXX, MHRSB",
         "seriesId": "j, k, l, m, q",
         "sign": "MH4",
+        "element": "",
+        "ailments": "광룡증",
+        "small": "1549.59",
+        "large": "2201.12",
         "weak": [
           {
             "이름": "MH4",
@@ -7686,7 +8576,8 @@
       },
       {
         "id": 179,
-        "imgurl": "./img/물음표/혼돈 고어마가라.webp",
+        "imgurl": "./img/고룡종/고어마가라-특개.webp",
+        "icon": "./icon/고룡종/고어마가라-특개.png",
         "name": "혼돈에 신음하는 고어-마가라",
         "nickname": "흑식룡[黒蝕竜: 검을 흑(黒), 좀먹을 식(蝕), 용 룡(竜)]",
         "type": "고룡종",
@@ -7694,6 +8585,10 @@
         "series": "MH4G, MHXX, MHRSB",
         "seriesId": "k, m, q",
         "sign": "",
+        "element": "",
+        "ailments": "광룡증",
+        "small": "1584.8",
+        "large": "2165.9",
         "weak": [
           {
             "이름": "MH4G",
@@ -7724,6 +8619,7 @@
       {
         "id": 180,
         "imgurl": "./img/고룡종/그란밀라오스.webp",
+        "icon": "./icon/고룡종/그란밀라오스.png",
         "name": "그란 밀라오스",
         "nickname": "연흑룡[煉黒龍: 달굴 련(煉), 검을 흑(黒), 용 룡(龍)]",
         "type": "고룡종",
@@ -7731,6 +8627,10 @@
         "series": "MH3G",
         "seriesId": "h",
         "sign": "",
+        "element": "불",
+        "ailments": "불",
+        "small": "6288",
+        "large": "6288",
         "weak": [
           {
             "이름": "MH3G",
@@ -7745,6 +8645,7 @@
       {
         "id": 181,
         "imgurl": "./img/고룡종/나나테스카토리.webp",
+        "icon": "./icon/고룡종/나나테스카토리.png",
         "name": "나나-테스카토리",
         "nickname": "염비룡[炎妃龍: 불꽃 염(炎), 왕비 비(妃), 용 룡(龍)]",
         "type": "고룡종",
@@ -7752,6 +8653,10 @@
         "series": "MH2, MHP2, MHP2G, MHW, MHWI",
         "seriesId": "d, e, f, n, o",
         "sign": "",
+        "element": "불, 용",
+        "ailments": "불",
+        "small": "1444.2",
+        "large": "2575.2",
         "weak": [
           {
             "이름": "MH2",
@@ -7798,6 +8703,7 @@
       {
         "id": 182,
         "imgurl": "./img/고룡종/나루하타타히메.webp",
+        "icon": "./icon/고룡종/나루하타타히메.png",
         "name": "나루하타타히메",
         "nickname": "뇌신룡[雷神龍: 우레 뢰(雷), 신 신(神), 용 룡(龍)]",
         "type": "고룡종",
@@ -7805,6 +8711,10 @@
         "series": "MHR",
         "seriesId": "p",
         "sign": "",
+        "element": "번개",
+        "ailments": "번개, 기절",
+        "small": "3875.05",
+        "large": "3875.05",
         "weak": [
           {
             "이름": "MHR",
@@ -7818,7 +8728,8 @@
       },
       {
         "id": 183,
-        "imgurl": "./img/고룡종/백룡 연원 나루하타타히메 특개.webp",
+        "imgurl": "./img/고룡종/나루하타타히메-특개.webp",
+        "icon": "./icon/고룡종/나루하타타히메-특개.png",
         "name": "백룡 연원 나루하타타히메",
         "nickname": "뇌신룡[雷神龍: 우레 뢰(雷), 신 신(神), 용 룡(龍)]",
         "type": "고룡종",
@@ -7826,6 +8737,10 @@
         "series": "MHR, MHRSB",
         "seriesId": "p, q",
         "sign": "",
+        "element": "번개",
+        "ailments": "번개",
+        "small": "3875.05",
+        "large": "3875.05",
         "weak": [
           {
             "이름": "MHR",
@@ -7848,6 +8763,7 @@
       {
         "id": 184,
         "imgurl": "./img/고룡종/나발데우스.webp",
+        "icon": "./icon/고룡종/나발데우스.png",
         "name": "나발데우스",
         "nickname": "대해룡[大海龍: 클 대(大), 바다 해(海), 용 룡(竜)]",
         "type": "고룡종",
@@ -7855,6 +8771,10 @@
         "series": "MH3, MH3G",
         "seriesId": "g, h",
         "sign": "",
+        "element": "물, 용",
+        "ailments": "물, 용",
+        "small": "5837.2",
+        "large": "5837.2",
         "weak": [
           {
             "이름": "MH3",
@@ -7876,7 +8796,8 @@
       },
       {
         "id": 185,
-        "imgurl": "./img/고룡종/나발데우스 아종.webp",
+        "imgurl": "./img/고룡종/나발데우스-아종.webp",
+        "icon": "./icon/고룡종/나발데우스-아종.png",
         "name": "나발데우스 아종",
         "nickname": "황해룡[皇海龍: 임금 황(皇), 바다 해(海), 용 룡(龍)]",
         "type": "고룡종",
@@ -7884,6 +8805,10 @@
         "series": "MH3G",
         "seriesId": "h",
         "sign": "",
+        "element": "물",
+        "ailments": "물",
+        "small": "5837.2",
+        "large": "5837.2",
         "weak": [
           {
             "이름": "MH3G",
@@ -7898,6 +8823,7 @@
       {
         "id": 186,
         "imgurl": "./img/고룡종/네로미에르.webp",
+        "icon": "./icon/고룡종/네로미에르.png",
         "name": "네로미에르",
         "nickname": "명룡[溟龍: 바다 명(溟), 용 룡(龍)]",
         "type": "고룡종",
@@ -7905,6 +8831,10 @@
         "series": "MHWI",
         "seriesId": "o",
         "sign": "",
+        "element": "물, 번개",
+        "ailments": "물, 번개",
+        "small": "1822.94",
+        "large": "2560.31",
         "weak": [
           {
             "이름": "MHWI",
@@ -7919,6 +8849,7 @@
       {
         "id": 187,
         "imgurl": "./img/고룡종/네르기간테.webp",
+        "icon": "./icon/고룡종/네르기간테.png",
         "name": "네르기간테",
         "nickname": "멸진룡[滅尽龍: 멸할 멸(滅), 다할 진(尽), 용 룡(龍)]",
         "type": "고룡종",
@@ -7926,6 +8857,10 @@
         "series": "MHW, MHWI",
         "seriesId": "n, o",
         "sign": "MHW",
+        "element": "",
+        "ailments": "",
+        "small": "1626.35",
+        "large": "2310.14",
         "weak": [
           {
             "이름": "MHW",
@@ -7947,7 +8882,8 @@
       },
       {
         "id": 188,
-        "imgurl": "./img/고룡종/모멸 네르기간테 특개.webp",
+        "imgurl": "./img/고룡종/네르기간테-특개.webp",
+        "icon": "./icon/고룡종/네르기간테-특개.png",
         "name": "모두를 멸하는 네르기간테",
         "nickname": "멸진룡[滅尽龍: 멸할 멸(滅), 다할 진(尽), 용 룡(龍)]",
         "type": "고룡종",
@@ -7955,6 +8891,10 @@
         "series": "MHWI",
         "seriesId": "o",
         "sign": "",
+        "element": "",
+        "ailments": "열상",
+        "small": "1663.31",
+        "large": "2310.15",
         "weak": [
           {
             "이름": "MHWI",
@@ -7968,7 +8908,8 @@
       },
       {
         "id": 189,
-        "imgurl": "./img/고룡종/다라 아마듈라.webp",
+        "imgurl": "./img/고룡종/다라아마듈라.webp",
+        "icon": "./icon/고룡종/다라아마듈라.png",
         "name": "다라 아마듈라",
         "nickname": "사왕룡[蛇王龍: 뱀 사(蛇), 임금 왕(王), 용 룡(龍)]",
         "type": "고룡종",
@@ -7976,6 +8917,10 @@
         "series": "MH4, MH4G",
         "seriesId": "j, k",
         "sign": "",
+        "element": "",
+        "ailments": "마비",
+        "small": "44039.7",
+        "large": "44039.7",
         "weak": [
           {
             "이름": "MH4",
@@ -7997,7 +8942,8 @@
       },
       {
         "id": 190,
-        "imgurl": "./img/고룡종/다라 아마듈라 아종.webp",
+        "imgurl": "./img/고룡종/다라아마듈라-아종.webp",
+        "icon": "./icon/고룡종/다라아마듈라-아종.png",
         "name": "다라 아마듈라 아종",
         "nickname": "사제룡[蛇帝龍: 뱀 사(蛇), 임금 제(帝), 용 룡(龍)] / 사황룡",
         "type": "고룡종",
@@ -8005,6 +8951,10 @@
         "series": "MH4G",
         "seriesId": "k",
         "sign": "",
+        "element": "",
+        "ailments": "마비",
+        "small": "44039.7",
+        "large": "44039.7",
         "weak": [
           {
             "이름": "MH4G",
@@ -8018,7 +8968,8 @@
       },
       {
         "id": 191,
-        "imgurl": "./img/고룡종/다렌 모란.webp",
+        "imgurl": "./img/고룡종/다렌모란.webp",
+        "icon": "./icon/고룡종/다렌모란.png",
         "name": "다렌 모란",
         "nickname": "호산룡[豪山龍: 호탕할 호(豪), 뫼 산(山), 용 룡(龍)]",
         "type": "고룡종",
@@ -8026,6 +8977,10 @@
         "series": "MH4, MH4G",
         "seriesId": "j, k",
         "sign": "",
+        "element": "",
+        "ailments": "",
+        "small": "11446.5",
+        "large": "11446.5",
         "weak": [
           {
             "이름": "MH4",
@@ -8048,6 +9003,7 @@
       {
         "id": 192,
         "imgurl": "./img/고룡종/라오샨룽.webp",
+        "icon": "./icon/고룡종/라오샨룽.png",
         "name": "라오샨룽",
         "nickname": "노산룡[老山龍: 늙을 노(老), 뫼 산(山), 용 룡(龍)]",
         "type": "고룡종",
@@ -8055,6 +9011,10 @@
         "series": "MH, MHG, MHP, MH2, MHP2, MHP2G, MHXX",
         "seriesId": "a, b, c, d, e, f, m",
         "sign": "",
+        "element": "용",
+        "ailments": "",
+        "small": "6960",
+        "large": "6960",
         "weak": [
           {
             "이름": "MH",
@@ -8116,7 +9076,8 @@
       },
       {
         "id": 193,
-        "imgurl": "./img/고룡종/라오샨룽 아종.webp",
+        "imgurl": "./img/고룡종/라오샨룽-아종.webp",
+        "icon": "./icon/고룡종/라오샨룽-아종.png",
         "name": "라오샨룽 아종",
         "nickname": "암산룡[岩山龍: 바위 암(岩), 뫼 산(山), 용 룡(龍)]",
         "type": "고룡종",
@@ -8124,6 +9085,10 @@
         "series": "MHG, MHP, MH2, MHP2, MHP2G",
         "seriesId": "b, c, d, e, f",
         "sign": "",
+        "element": "용",
+        "ailments": "",
+        "small": "6960",
+        "large": "6960",
         "weak": [
           {
             "이름": "MHG",
@@ -8170,6 +9135,7 @@
       {
         "id": 194,
         "imgurl": "./img/고룡종/맘타로트.webp",
+        "icon": "./icon/고룡종/맘타로트.png",
         "name": "맘-타로트",
         "nickname": "난휘룡[爛輝龍: 빛날 난(爛), 빛날 휘(輝), 용 룡(龍)]",
         "type": "고룡종",
@@ -8177,6 +9143,10 @@
         "series": "MHW, MHWI",
         "seriesId": "n, o",
         "sign": "",
+        "element": "불",
+        "ailments": "불",
+        "small": "4573.25",
+        "large": "4573.25",
         "weak": [
           {
             "이름": "MHW",
@@ -8199,6 +9169,7 @@
       {
         "id": 195,
         "imgurl": "./img/고룡종/멜제나.webp",
+        "icon": "./icon/고룡종/멜제나.png",
         "name": "멜-제나",
         "nickname": "작은룡[爵銀龍: 벼슬 작(爵), 은빛 은(銀), 용 룡(龍)] / 은작룡",
         "type": "고룡종",
@@ -8206,6 +9177,10 @@
         "series": "MHRSB",
         "seriesId": "q",
         "sign": "MHRSB",
+        "element": "용",
+        "ailments": "용, 겁혈",
+        "small": "1831.84",
+        "large": "2477.15",
         "weak": [
           {
             "이름": "MHRSB",
@@ -8219,7 +9194,8 @@
       },
       {
         "id": 196,
-        "imgurl": "./img/고룡종/원초 멜제나 특개.webp",
+        "imgurl": "./img/고룡종/멜제나-특개.webp",
+        "icon": "./icon/고룡종/멜제나-특개.png",
         "name": "원초를 새기는 멜-제나",
         "nickname": "작은룡[爵銀龍: 벼슬 작(爵), 은빛 은(銀), 용 룡(龍)] / 은작룡",
         "type": "고룡종",
@@ -8227,6 +9203,10 @@
         "series": "MHRSB",
         "seriesId": "q",
         "sign": "",
+        "element": "용",
+        "ailments": "용, 겁혈",
+        "small": "1831.84",
+        "large": "2477.15",
         "weak": [
           {
             "이름": "MHRSB",
@@ -8241,6 +9221,7 @@
       {
         "id": 197,
         "imgurl": "./img/고룡종/무페토지바.webp",
+        "icon": "./icon/고룡종/무페토지바.png",
         "name": "무페토-지바",
         "nickname": "적룡[赤龍: 붉을 적(赤), 용 룡(龍)] / 명적룡",
         "type": "고룡종",
@@ -8248,6 +9229,10 @@
         "series": "MHWI",
         "seriesId": "o",
         "sign": "",
+        "element": "",
+        "ailments": "불",
+        "small": "4799.78",
+        "large": "4799.78",
         "weak": [
           {
             "이름": "MHWI",
@@ -8262,6 +9247,7 @@
       {
         "id": 198,
         "imgurl": "./img/고룡종/밀라보레아스.webp",
+        "icon": "./icon/고룡종/밀라보레아스.png",
         "name": "밀라보레아스",
         "nickname": "흑룡[黑龍: 검을 흑(黑), 용 룡(龍)]",
         "type": "고룡종",
@@ -8269,6 +9255,10 @@
         "series": "MH, MHG, MHP, MH2, MHP2, MHP2G, MH4, MH4G, MHXX, MHWI",
         "seriesId": "a, b, c, d, e, f, j, k, m, o",
         "sign": "",
+        "element": "불, 용",
+        "ailments": "불, 용",
+        "small": "4110.6",
+        "large": "4137.17",
         "weak": [
           {
             "이름": "MH",
@@ -8354,7 +9344,8 @@
       },
       {
         "id": 199,
-        "imgurl": "./img/고룡종/홍룡 밀라보레아스.webp",
+        "imgurl": "./img/고룡종/밀라보레아스-아종.webp",
+        "icon": "./icon/고룡종/밀라보레아스-아종.png",
         "name": "홍룡 밀라보레아스",
         "nickname": "홍룡[紅龍: 붉을 홍(紅), 용 룡(龍)]",
         "type": "고룡종",
@@ -8362,6 +9353,10 @@
         "series": "MHG, MHP, MH2, MHP2, MHP2G, MH4, MH4G, MHXX",
         "seriesId": "b, c, d, e, f, j, k, m",
         "sign": "",
+        "element": "불, 용",
+        "ailments": "불, 폭파",
+        "small": "4110.6",
+        "large": "4110.6",
         "weak": [
           {
             "이름": "MHG",
@@ -8431,7 +9426,8 @@
       },
       {
         "id": 200,
-        "imgurl": "./img/고룡종/선조룡 밀라보레아스.webp",
+        "imgurl": "./img/고룡종/밀라보레아스-선조룡.webp",
+        "icon": "./icon/고룡종/밀라보레아스-선조룡.png",
         "name": "선조룡 밀라보레아스",
         "nickname": "조룡[祖龍: 할아비 조(祖), 용 룡(龍)] / 선조룡",
         "type": "고룡종",
@@ -8439,6 +9435,10 @@
         "series": "MH2, MHP2, MHP2G, MH4G, MHXX",
         "seriesId": "d, e, f, k, m",
         "sign": "",
+        "element": "번개, 용",
+        "ailments": "번개, 용",
+        "small": "4119.2",
+        "large": "4119.2",
         "weak": [
           {
             "이름": "MH2",
@@ -8485,6 +9485,7 @@
       {
         "id": 201,
         "imgurl": "./img/고룡종/발파루크.webp",
+        "icon": "./icon/고룡종/발파루크.png",
         "name": "발파루크",
         "nickname": "천혜룡[天彗龍: 하늘 천(天), 살별 혜(彗), 용 룡(龍)]",
         "type": "고룡종",
@@ -8492,6 +9493,10 @@
         "series": "MHXX",
         "seriesId": "m",
         "sign": "MHXX",
+        "element": "용",
+        "ailments": "용",
+        "small": "2267",
+        "large": "2698.15",
         "weak": [
           {
             "이름": "MHXX",
@@ -8505,7 +9510,8 @@
       },
       {
         "id": 202,
-        "imgurl": "./img/고룡종/영묘 발파루크 특개.webp",
+        "imgurl": "./img/고룡종/발파루크-특개.webp",
+        "icon": "./icon/고룡종/발파루크-특개.png",
         "name": "영묘한 광채의 발파루크",
         "nickname": "천혜룡[天彗龍: 하늘 천(天), 살별 혜(彗), 용 룡(龍)]",
         "type": "고룡종",
@@ -8513,6 +9519,10 @@
         "series": "MHR, MHRSB",
         "seriesId": "p, q",
         "sign": "",
+        "element": "용",
+        "ailments": "용",
+        "small": "1796.06",
+        "large": "2551.22",
         "weak": [
           {
             "이름": "MHR",
@@ -8534,7 +9544,8 @@
       },
       {
         "id": 203,
-        "imgurl": "./img/고룡종/괴극 발파루크.webp",
+        "imgurl": "./img/고룡종/발파루크-괴극.webp",
+        "icon": "./icon/고룡종/발파루크-괴극.png",
         "name": "괴이 극복 발파루크",
         "nickname": "천혜룡[天彗龍: 하늘 천(天), 살별 혜(彗), 용 룡(龍)]",
         "type": "고룡종",
@@ -8542,6 +9553,10 @@
         "series": "MHRSB",
         "seriesId": "q",
         "sign": "",
+        "element": "용",
+        "ailments": "용",
+        "small": "1796.06",
+        "large": "2408.35",
         "weak": [
           {
             "이름": "MHRSB",
@@ -8556,6 +9571,7 @@
       {
         "id": 204,
         "imgurl": "./img/고룡종/발하자크.webp",
+        "icon": "./icon/고룡종/발하자크.png",
         "name": "발하자크",
         "nickname": "시투룡[屍套龍: 주검 시(屍), 덮개 투(套), 용 룡(龍)]",
         "type": "고룡종",
@@ -8563,6 +9579,10 @@
         "series": "MHW, MHWI",
         "seriesId": "n, o",
         "sign": "",
+        "element": "",
+        "ailments": "독기",
+        "small": "1843.95",
+        "large": "2598.3",
         "weak": [
           {
             "이름": "MHW",
@@ -8584,7 +9604,8 @@
       },
       {
         "id": 205,
-        "imgurl": "./img/고룡종/죽두발하자크 특개.webp",
+        "imgurl": "./img/고룡종/발하자크-특개.webp",
+        "icon": "./icon/고룡종/발하자크-특개.png",
         "name": "죽음을 두른 발하자크",
         "nickname": "시투룡[屍套龍: 주검 시(屍), 덮개 투(套), 용 룡(龍)]",
         "type": "고룡종",
@@ -8592,6 +9613,10 @@
         "series": "MHWI",
         "seriesId": "o",
         "sign": "",
+        "element": "",
+        "ailments": "독기",
+        "small": "1885.86",
+        "large": "2577.34",
         "weak": [
           {
             "이름": "MHWI",
@@ -8606,6 +9631,7 @@
       {
         "id": 206,
         "imgurl": "./img/고룡종/샤가르마가라.webp",
+        "icon": "./icon/고룡종/샤가르마가라.png",
         "name": "샤가르마가라",
         "nickname": "천회룡[天廻龍: 하늘 천(天), 돌 회(廻), 용 룡(龍)]",
         "type": "고룡종",
@@ -8613,6 +9639,10 @@
         "series": "MH4, MH4G, MHX, MHXX, MHRSB",
         "seriesId": "j, k, l, m, q",
         "sign": "",
+        "element": "",
+        "ailments": "광룡증",
+        "small": "1564.73",
+        "large": "2187.06",
         "weak": [
           {
             "이름": "MH4",
@@ -8658,7 +9688,8 @@
       },
       {
         "id": 207,
-        "imgurl": "./img/고룡종/괴극 샤가르마가라.webp",
+        "imgurl": "./img/고룡종/샤가르마가라-괴극.webp",
+        "icon": "./icon/고룡종/샤가르마가라-괴극.png",
         "name": "괴이 극복 샤가르마가라",
         "nickname": "천회룡[天廻龍: 하늘 천(天), 돌 회(廻), 용 룡(龍)]",
         "type": "고룡종",
@@ -8666,6 +9697,10 @@
         "series": "MHRSB",
         "seriesId": "q",
         "sign": "",
+        "element": "",
+        "ailments": "광룡증",
+        "small": "1527.28",
+        "large": "2065.29",
         "weak": [
           {
             "이름": "MHRSB",
@@ -8680,6 +9715,7 @@
       {
         "id": 208,
         "imgurl": "./img/고룡종/아마츠마가츠치.webp",
+        "icon": "./icon/고룡종/아마츠마가츠치.png",
         "name": "아마츠마가츠치",
         "nickname": "남룡[嵐龍: 남기 남(風), 용 룡(龍)] / 폭풍룡",
         "type": "고룡종",
@@ -8687,6 +9723,10 @@
         "series": "MHP3, MHX, MHXX, MHRSB",
         "seriesId": "i, l, m, q",
         "sign": "",
+        "element": "물, 번개",
+        "ailments": "물, 번개",
+        "small": "3133.8",
+        "large": "3133.8",
         "weak": [
           {
             "이름": "MHP3",
@@ -8724,7 +9764,8 @@
       },
       {
         "id": 209,
-        "imgurl": "./img/고룡종/안 이슈왈다.webp",
+        "imgurl": "./img/고룡종/안이슈왈다.webp",
+        "icon": "./icon/고룡종/안이슈왈다.png",
         "name": "안-이슈왈다",
         "nickname": "지제룡[地啼龍: 땅 지(地), 울 제(啼), 용 룡(龍)]",
         "type": "고룡종",
@@ -8732,6 +9773,10 @@
         "series": "MHWI",
         "seriesId": "o",
         "sign": "",
+        "element": "",
+        "ailments": "기절",
+        "small": "2910.91",
+        "large": "2910.91",
         "weak": [
           {
             "이름": "MHWI",
@@ -8746,6 +9791,7 @@
       {
         "id": 210,
         "imgurl": "./img/고룡종/알바트리온.webp",
+        "icon": "./icon/고룡종/알바트리온.png",
         "name": "알바트리온",
         "nickname": "황흑룡[煌黒龍: 빛날 황(煌), 검을 흑(黒), 용 룡(竜)]",
         "type": "고룡종",
@@ -8753,6 +9799,10 @@
         "series": "MH3, MH3G, MHP3, MHX, MHXX, MHWI",
         "seriesId": "g, h, i, l, m, o",
         "sign": "",
+        "element": "불, 물, 번개, 얼음, 용",
+        "ailments": "불, 물, 번개, 얼음, 용, 눈사람",
+        "small": "2969",
+        "large": "3105",
         "weak": [
           {
             "이름": "MH3",
@@ -8807,6 +9857,7 @@
       {
         "id": 211,
         "imgurl": "./img/고룡종/야마츠카미.webp",
+        "icon": "./icon/고룡종/야마츠카미.png",
         "name": "야마츠카미",
         "nickname": "부악룡[浮岳龍: 뜰 부(浮), 큰산 악(岳), 용 룡(龍)] / 비악룡",
         "type": "고룡종",
@@ -8814,6 +9865,10 @@
         "series": "MH2, MHP2G",
         "seriesId": "d, f",
         "sign": "",
+        "element": "불",
+        "ailments": "",
+        "small": "4137",
+        "large": "4137",
         "weak": [
           {
             "이름": "MH2",
@@ -8836,6 +9891,7 @@
       {
         "id": 212,
         "imgurl": "./img/고룡종/오나즈치.webp",
+        "icon": "./icon/고룡종/오나즈치.png",
         "name": "오나즈치",
         "nickname": "하룡[霞龍: 노을/무지개 하(霞), 용 룡(龍)]",
         "type": "고룡종",
@@ -8843,6 +9899,10 @@
         "series": "MH2, MHP2, MHP2G, MH4G, MHX, MHXX, MHR, MHRSB",
         "seriesId": "d, e, f, k, l, m, p, q",
         "sign": "",
+        "element": "용",
+        "ailments": "독, 맹독, 피로, 방다",
+        "small": "1395.2",
+        "large": "2811.32",
         "weak": [
           {
             "이름": "MH2",
@@ -8912,7 +9972,8 @@
       },
       {
         "id": 213,
-        "imgurl": "./img/고룡종/괴극 오나즈치.webp",
+        "imgurl": "./img/고룡종/오나즈치-괴극.webp",
+        "icon": "./icon/고룡종/오나즈치-괴극.png",
         "name": "괴이 극복 오나즈치",
         "nickname": "하룡[霞龍: 노을/무지개 하(霞), 용 룡(龍)]",
         "type": "고룡종",
@@ -8920,6 +9981,10 @@
         "series": "MHRSB",
         "seriesId": "q",
         "sign": "",
+        "element": "",
+        "ailments": "맹독",
+        "small": "2249.06",
+        "large": "2811.32",
         "weak": [
           {
             "이름": "MHRSB",
@@ -8934,6 +9999,7 @@
       {
         "id": 214,
         "imgurl": "./img/고룡종/오스트가로아.webp",
+        "icon": "./icon/고룡종/오스트가로아.png",
         "name": "오스트가로아",
         "nickname": "해룡[骸龍: 뼈 해(骸), 용 룡(龍)]",
         "type": "고룡종",
@@ -8941,6 +10007,10 @@
         "series": "MHX, MHXX",
         "seriesId": "l, m",
         "sign": "",
+        "element": "용",
+        "ailments": "불, 번개, 용, 폭파, 마비, 뼈, 점액",
+        "small": "3547.57",
+        "large": "3547.57",
         "weak": [
           {
             "이름": "MHX",
@@ -8963,6 +10033,7 @@
       {
         "id": 215,
         "imgurl": "./img/고룡종/이베르카나.webp",
+        "icon": "./icon/고룡종/이베르카나.png",
         "name": "이베르카나",
         "nickname": "빙룡[冰龍: 얼음 빙(冰), 용 룡(龍)]",
         "type": "고룡종",
@@ -8970,6 +10041,10 @@
         "series": "MHWI, MHRSB",
         "seriesId": "o, q",
         "sign": "MHWI",
+        "element": "얼음",
+        "ailments": "얼음",
+        "small": "2336.45",
+        "large": "3245.06",
         "weak": [
           {
             "이름": "MHWI",
@@ -8992,6 +10067,7 @@
       {
         "id": 216,
         "imgurl": "./img/고룡종/이부시마키히코.webp",
+        "icon": "./icon/고룡종/이부시마키히코.png",
         "name": "이부시마키히코",
         "nickname": "풍신룡[風神龍: 바람 풍(風), 신 신(神), 용 룡(龍)]",
         "type": "고룡종",
@@ -8999,6 +10075,10 @@
         "series": "MHR, MHRSB",
         "seriesId": "p, q",
         "sign": "",
+        "element": "용",
+        "ailments": "용",
+        "small": "3068.6",
+        "large": "3068.6",
         "weak": [
           {
             "이름": "MHR",
@@ -9021,6 +10101,7 @@
       {
         "id": 217,
         "imgurl": "./img/고룡종/제노지바.webp",
+        "icon": "./icon/고룡종/제노지바.png",
         "name": "제노-지바",
         "nickname": "명등룡[冥灯龍: 저승 명(冥), 등불 등(灯), 용 룡(龍)]",
         "type": "고룡종",
@@ -9028,6 +10109,10 @@
         "series": "MHW, MHWI",
         "seriesId": "n, o",
         "sign": "",
+        "element": "불, 용",
+        "ailments": "불, 용",
+        "small": "4509.1",
+        "large": "4509.1",
         "weak": [
           {
             "이름": "MHW",
@@ -9049,7 +10134,8 @@
       },
       {
         "id": 218,
-        "imgurl": "./img/고룡종/조라 마그다라오스.webp",
+        "imgurl": "./img/고룡종/조라마그다라오스.webp",
+        "icon": "./icon/고룡종/조라마그다라오스.png",
         "name": "조라-마그다라오스",
         "nickname": "용산룡[熔山龍: 녹일 용(熔), 뫼 산(山), 용 룡(龍)]",
         "type": "고룡종",
@@ -9057,6 +10143,10 @@
         "series": "MHW",
         "seriesId": "n",
         "sign": "",
+        "element": "불",
+        "ailments": "불, 기절",
+        "small": "25764.59",
+        "large": "25764.59",
         "weak": [
           {
             "이름": "MHW",
@@ -9070,7 +10160,8 @@
       },
       {
         "id": 219,
-        "imgurl": "./img/고룡종/지엔 모란.webp",
+        "imgurl": "./img/고룡종/지엔모란.webp",
+        "icon": "./icon/고룡종/지엔모란.png",
         "name": "지엔 모란",
         "nickname": "봉산룡[峯山龍: 봉우리 봉(峯), 뫼 산(山), 용 룡(竜)]",
         "type": "고룡종",
@@ -9078,6 +10169,10 @@
         "series": "MH3, MH3G, MHP3",
         "seriesId": "g, h, i",
         "sign": "",
+        "element": "",
+        "ailments": "",
+        "small": "11161.9",
+        "large": "11161.9",
         "weak": [
           {
             "이름": "MH3",
@@ -9107,7 +10202,8 @@
       },
       {
         "id": 220,
-        "imgurl": "./img/고룡종/지엔 모란 아종.webp",
+        "imgurl": "./img/고룡종/지엔모란-아종.webp",
+        "icon": "./icon/고룡종/지엔모란-아종.png",
         "name": "지엔 모란 아종",
         "nickname": "영산룡[霊山龍: 신령 령(峯), 뫼 산(山), 용 룡(龍)]",
         "type": "고룡종",
@@ -9115,6 +10211,10 @@
         "series": "MH3G",
         "seriesId": "h",
         "sign": "",
+        "element": "",
+        "ailments": "",
+        "small": "11161.9",
+        "large": "11161.9",
         "weak": [
           {
             "이름": "MH3G",
@@ -9129,6 +10229,7 @@
       {
         "id": 221,
         "imgurl": "./img/고룡종/크샬다오라.webp",
+        "icon": "./icon/고룡종/크샬다오라.png",
         "name": "크샬다오라",
         "nickname": "강룡[鋼龍: 강철 강(鋼), 용 룡(龍)] / 풍상룡[風翔龍: 바람 풍(風), 날 상(翔), 용 룡(龍)]",
         "type": "고룡종",
@@ -9136,6 +10237,10 @@
         "series": "MH2, MHP2, MHP2G, MH4, MH4G, MHX, MHXX, MHW, MHWI, MHR, MHRSB",
         "seriesId": "d, e, f, j, k, l, m, n, o, p, q",
         "sign": "MH2",
+        "element": "용",
+        "ailments": "얼음, 용",
+        "small": "2161.6",
+        "large": "2391.41",
         "weak": [
           {
             "이름": "MH2",
@@ -9229,7 +10334,8 @@
       },
       {
         "id": 222,
-        "imgurl": "./img/고룡종/녹슨 크샬다오라 특개.webp",
+        "imgurl": "./img/고룡종/크샬다오라-특개.webp",
+        "icon": "./icon/고룡종/크샬다오라-특개.png",
         "name": "녹슨 크샬다오라",
         "nickname": "창강룡[錆鋼龍: 녹 창(錆), 강철 강(鋼), 용 룡(龍)]",
         "type": "고룡종",
@@ -9237,6 +10343,10 @@
         "series": "MH2, MHP2, MHP2G, MH4G",
         "seriesId": "d, e, f, k",
         "sign": "",
+        "element": "얼음, 용",
+        "ailments": "얼음, 방다",
+        "small": "2161.6",
+        "large": "2129",
         "weak": [
           {
             "이름": "MH2",
@@ -9274,7 +10384,8 @@
       },
       {
         "id": 223,
-        "imgurl": "./img/고룡종/괴극 크샬다오라.webp",
+        "imgurl": "./img/고룡종/크샬다오라-괴극.webp",
+        "icon": "./icon/고룡종/크샬다오라-괴극.png",
         "name": "괴이 극복 크샬다오라",
         "nickname": "강룡[鋼龍: 강철 강(鋼), 용 룡(龍)]",
         "type": "고룡종",
@@ -9282,6 +10393,10 @@
         "series": "MHRSB",
         "seriesId": "q",
         "sign": "",
+        "element": "용",
+        "ailments": "얼음, 용",
+        "small": "1817.47",
+        "large": "2391.41",
         "weak": [
           {
             "이름": "MHRSB",
@@ -9296,6 +10411,7 @@
       {
         "id": 224,
         "imgurl": "./img/고룡종/키린.webp",
+        "icon": "./icon/고룡종/키린.png",
         "name": "키린",
         "nickname": "환수[幻獣: 헛보일 환(幻), 짐승 수(獣)]",
         "type": "고룡종",
@@ -9303,6 +10419,10 @@
         "series": "MH, MHG, MHP, MH2, MHP2, MHP2G, MH4, MH4G, MHX, MHXX, MHW, MHWI",
         "seriesId": "a, b, c, d, e, f, j, k, l, m, n, o",
         "sign": "",
+        "element": "번개",
+        "ailments": "번개, 마비",
+        "small": "371.4",
+        "large": "989.64",
         "weak": [
           {
             "이름": "MH",
@@ -9404,7 +10524,8 @@
       },
       {
         "id": 225,
-        "imgurl": "./img/고룡종/키린 아종.webp",
+        "imgurl": "./img/고룡종/키린-아종.webp",
+        "icon": "./icon/고룡종/키린-아종.png",
         "name": "키린 아종",
         "nickname": "환수[幻獣: 헛보일 환(幻), 짐승 수(獣)]",
         "type": "고룡종",
@@ -9412,6 +10533,10 @@
         "series": "MH4, MH4G",
         "seriesId": "j, k",
         "sign": "",
+        "element": "얼음",
+        "ailments": "얼음, 눈사람",
+        "small": "483.82",
+        "large": "989.64",
         "weak": [
           {
             "이름": "MH4",
@@ -9433,7 +10558,8 @@
       },
       {
         "id": 226,
-        "imgurl": "./img/고룡종/테오 테스카토르.webp",
+        "imgurl": "./img/고룡종/테오테스카토르.webp",
+        "icon": "./icon/고룡종/테오테스카토르.png",
         "name": "테오-테스카토르",
         "nickname": "염왕룡[炎王龍: 불꽃 염(炎), 임금 왕(王), 용 룡(龍)]",
         "type": "고룡종",
@@ -9441,6 +10567,10 @@
         "series": "MH2, MHP2, MHP2G, MH4, MH4G, MHX, MHXX, MHW, MHWI, MHR, MHRSB",
         "seriesId": "d, e, f, j, k, l, m, n, o, p, q",
         "sign": "",
+        "element": "불",
+        "ailments": "불, 폭파, 기절",
+        "small": "483.82",
+        "large": "989.64",
         "weak": [
           {
             "이름": "MH2",
@@ -9534,7 +10664,8 @@
       },
       {
         "id": 227,
-        "imgurl": "./img/고룡종/괴극 테오 테스카토르.webp",
+        "imgurl": "./img/고룡종/테오테스카토르-괴극.webp",
+        "icon": "./icon/고룡종/테오테스카토르-괴극.png",
         "name": "괴이 극복 테오-테스카토르",
         "nickname": "염왕룡[炎王龍: 불꽃 염(炎), 임금 왕(王), 용 룡(龍)]",
         "type": "고룡종",
@@ -9542,6 +10673,10 @@
         "series": "MHRSB",
         "seriesId": "q",
         "sign": "",
+        "element": "불",
+        "ailments": "불, 폭파",
+        "small": "1700.64",
+        "large": "2237.69",
         "weak": [
           {
             "이름": "MHRSB",

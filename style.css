@@ -125,18 +125,18 @@ main .list-wrap label abbr {
 }
 
 main .monster-wrap {
-  padding: 100px;
+  padding: 10px;
 }
 
 .monster-wrap .monster-list {
   display: flex;
   justify-content: center;
   flex-wrap: wrap;
-  gap: 80px;
+  gap: 30px;
 }
 
 .monster-list .monster-card {
-  width: 360px;
+  width: 340px;
   border-radius: 10px;
   box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
   position: relative;
@@ -144,7 +144,13 @@ main .monster-wrap {
   background: url(./img/bg3.jpg) no-repeat 50% 50% / cover;
   padding: 20px;
   box-sizing: border-box;
-  transition: all 0.1s;
+  transition: transform 0.5s ease;
+}
+
+.monster-list .monster-card:hover {
+  transform: scale(1.1);
+  cursor: pointer;
+  z-index: 1;
 }
 
 .monster-card .title-series {
@@ -177,8 +183,8 @@ main .monster-wrap {
 }
 
 .monster-card img {
-  width: 320px;
-  aspect-ratio: 320 / 320;
+  width: 300px;
+  aspect-ratio: 300 / 300;
   vertical-align: top;
   border-radius: 10px 10px 0 0;
   display: inline-block;

@@ -103,7 +103,7 @@ document.addEventListener("DOMContentLoaded", () => {
       }
 
       // 간판몬스터 설정
-      const seriesSign = document.querySelectorAll("#sign")
+      const seriesSign = cardWrap.querySelectorAll("#sign")
       seriesSign.forEach((sign) => {
         if(sign.textContent === "") {
           sign.classList.add("a11y-hidden")
@@ -282,15 +282,10 @@ document.addEventListener("DOMContentLoaded", () => {
     function refreshCards() {
       //for each card
       for (let card of document.querySelectorAll(".monster-list li")) {
-        //hide the card
         card.style.display = "none";
-        //for each checked id
         for (let id of checkedIds) {
-          //if the current card contains the current id
           if (card.textContent.includes(id)) {
-            //show the card
             card.style.display = "block";
-            //and exit the loop and skip to the next card
             break;
           }
         }
@@ -323,10 +318,8 @@ document.addEventListener("DOMContentLoaded", () => {
         seriesBtn.textContent = "전체 선택";
         
         if (e.target.checked) {
-          //will add the clicked checkbox id to the selectedIds array
           checkedIds.push(e.target.id);
         } else {
-          //will remove the clicked checbkox id from the selectedIds array
           checkedIds = checkedIds.filter((id) => id !== e.target.id);
         }
         refreshCards();
@@ -361,10 +354,8 @@ document.addEventListener("DOMContentLoaded", () => {
         })
 
         if (e.target.checked) {
-          //will add the clicked checkbox id to the selectedIds array
           checkedIds.push(e.target.id);
         } else {
-          //will remove the clicked checbkox id from the selectedIds array
           checkedIds = checkedIds.filter((id) => id !== e.target.id);
         }
         refreshCards();

@@ -247,7 +247,7 @@
         "seriesId": "m",
         "sign": "",
         "element": "물",
-        "ailments": "물, 열상, 방다",
+        "ailments": "물, 열상, 방어력다운",
         "small": "660.9",
         "large": "784.82",
         "weak": [
@@ -315,7 +315,7 @@
         "seriesId": "j, k, l, m",
         "sign": "",
         "element": "물",
-        "ailments": "물, 아이템, 기절",
+        "ailments": "물, 아이템사용금지, 기절",
         "small": "1271.42",
         "large": "1791.55",
         "weak": [
@@ -365,7 +365,7 @@
         "seriesId": "k",
         "sign": "",
         "element": "물",
-        "ailments": "물, 아이템, 기절",
+        "ailments": "물, 아이템사용금지, 기절",
         "small": "2291.87",
         "large": "1760.16",
         "weak": [
@@ -391,7 +391,7 @@
         "seriesId": "j, k, l, m",
         "sign": "",
         "element": "",
-        "ailments": "방다, 피로",
+        "ailments": "방어력다운, 피로",
         "small": "541.99",
         "large": "769.88",
         "weak": [
@@ -467,7 +467,7 @@
         "seriesId": "m",
         "sign": "",
         "element": "",
-        "ailments": "방다, 실속박",
+        "ailments": "방어력다운, 실속박",
         "small": "1504.11",
         "large": "1504.11",
         "weak": [
@@ -493,7 +493,7 @@
         "seriesId": "f",
         "sign": "",
         "element": "",
-        "ailments": "방다, 마비",
+        "ailments": "방어력다운, 마비",
         "small": "691",
         "large": "691",
         "weak": [
@@ -2767,7 +2767,7 @@
         "seriesId": "e, f, i, j, k, l, m",
         "sign": "",
         "element": "불, 용",
-        "ailments": "불, 용, 방다",
+        "ailments": "불, 용, 방어력다운",
         "small": "3049",
         "large": "3049",
         "weak": [
@@ -2867,7 +2867,7 @@
         "seriesId": "q",
         "sign": "",
         "element": "불",
-        "ailments": "불, 독, 방다",
+        "ailments": "불, 독, 방어력다운",
         "small": "1489.7",
         "large": "2812",
         "weak": [
@@ -3609,7 +3609,7 @@
         "seriesId": "o",
         "sign": "",
         "element": "",
-        "ailments": "방다",
+        "ailments": "방어력다운",
         "small": "2135.2",
         "large": "2846.93",
         "weak": [
@@ -4103,7 +4103,7 @@
         "seriesId": "h, i",
         "sign": "",
         "element": "불",
-        "ailments": "불, 아이템",
+        "ailments": "불, 아이템사용금지",
         "small": "1985.78",
         "large": "2008.68",
         "weak": [
@@ -4171,7 +4171,7 @@
         "seriesId": "g, h, i, j, k, l, m, n, o",
         "sign": "",
         "element": "용",
-        "ailments": "용, 방다",
+        "ailments": "용, 방어력다운",
         "small": "1803",
         "large": "4097.8",
         "weak": [
@@ -4261,7 +4261,7 @@
         "seriesId": "h, j, k, l, m, o",
         "sign": "",
         "element": "용",
-        "ailments": "용, 방다",
+        "ailments": "용, 방어력다운",
         "small": "1803",
         "large": "4097.8",
         "weak": [
@@ -5277,7 +5277,7 @@
         "seriesId": "h, i, l, m, p, q",
         "sign": "",
         "element": "",
-        "ailments": "마비, 아이템",
+        "ailments": "마비, 아이템사용금지",
         "small": "613.08",
         "large": "892",
         "weak": [
@@ -5343,7 +5343,7 @@
         "seriesId": "d, e, f, j, k, m",
         "sign": "",
         "element": "불",
-        "ailments": "불, 수면, 아이템, 독, 마비, 폭파",
+        "ailments": "불, 수면, 아이템사용금지, 독, 마비, 폭파",
         "small": "491.4",
         "large": "1670.76",
         "weak": [
@@ -5401,7 +5401,7 @@
         "seriesId": "f, j, k",
         "sign": "",
         "element": "불",
-        "ailments": "불, 수면, 아이템, 독, 마비, 폭파",
+        "ailments": "불, 수면, 아이템사용금지, 독, 마비, 폭파",
         "small": "491.4",
         "large": "1670.76",
         "weak": [
@@ -6637,7 +6637,7 @@
         "seriesId": "a, b, c, d, e, f, j, k, l, m",
         "sign": "",
         "element": "",
-        "ailments": "아이템, 방다",
+        "ailments": "아이템사용금지, 방어력다운",
         "small": "590.7",
         "large": "1936.4",
         "weak": [
@@ -7476,7 +7476,7 @@
         "seriesId": "g, h, i",
         "sign": "",
         "element": "불",
-        "ailments": "불, 방다, 수면",
+        "ailments": "불, 방어력다운, 수면",
         "small": "772.8",
         "large": "1085.4",
         "weak": [
@@ -9900,7 +9900,7 @@
         "seriesId": "d, e, f, k, l, m, p, q",
         "sign": "",
         "element": "용",
-        "ailments": "독, 맹독, 피로, 방다",
+        "ailments": "독, 맹독, 피로, 방어력다운",
         "small": "1395.2",
         "large": "2811.32",
         "weak": [
@@ -10344,7 +10344,7 @@
         "seriesId": "d, e, f, k",
         "sign": "",
         "element": "얼음, 용",
-        "ailments": "얼음, 방다",
+        "ailments": "얼음, 방어력다운",
         "small": "2161.6",
         "large": "2129",
         "weak": [

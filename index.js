@@ -82,10 +82,15 @@ document.addEventListener("DOMContentLoaded", () => {
       if(monster.element !== "") {
         monster.element.split(",").forEach((el) => {
           const elementImg = document.createElement("img");
+          const elementAbbr = document.createElement("abbr");
+          
           elementImg.classList.add("elements")
           elementImg.src = `./icon/속성/${el.trim()}.webp`;
           elementImg.alt = el.trim();
-          elementImgWrap.appendChild(elementImg); 
+          
+          elementAbbr.title = `${el.trim()}`;
+          elementImgWrap.appendChild(elementAbbr)
+          elementAbbr.appendChild(elementImg); 
         });
       }
 
@@ -95,10 +100,17 @@ document.addEventListener("DOMContentLoaded", () => {
       if(monster.ailments !== "") {
         monster.ailments.split(",").forEach((ail) => {
           const ailmentsImg = document.createElement("img");
+          const ailmentsAbbr = document.createElement("abbr");
+
+          console.log(ail.trim());
+          
           ailmentsImg.classList.add("elements")
           ailmentsImg.src = `./icon/상태/${ail.trim()}.webp`;
           ailmentsImg.alt = ail.trim();
-          stateImgWrap.appendChild(ailmentsImg); 
+
+          ailmentsAbbr.title = `${ail.trim()}`
+          stateImgWrap.appendChild(ailmentsAbbr);
+          ailmentsAbbr.appendChild(ailmentsImg); 
         });
       }
 

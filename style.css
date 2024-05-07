@@ -39,19 +39,23 @@ input {
   margin: 0;
   padding: 0;
 }
+
 li {
   list-style: none;
 }
 
 header {
   padding: 26px 0;
+  position: relative;
 }
+
 header h1 {
   font-size: 4rem;
-  text-align: center;
   position: relative;
+  text-align: center;
   padding: 20px;
 }
+
 header h1::after {
   content: "";
   position: absolute;
@@ -60,7 +64,7 @@ header h1::after {
   top: 0;
   left: 0;
   opacity: 0.3;
-  background: url(./img/조사단\ 이미지.png) no-repeat 50% 50% / 5%;
+  background: url(./img/조사단\ 이미지.png) no-repeat 50% 50% / contain;
   z-index: -1;
 }
 header strong {
@@ -69,6 +73,68 @@ header strong {
   padding-left: 20px;
   text-align: center;
 }
+
+.sampleWrap {
+  display: flex;
+  position: absolute;
+  top: 20px;
+  left: 100px;
+  align-items: center;
+}
+
+.sampleWrap .sampleCard {
+  width: 180px;
+  padding: 10px;
+  text-align: center;
+  z-index: 3;
+  border-radius: 10px;
+  background: url(./img/bg3.jpg)no-repeat 0 0 / cover;
+  box-sizing: border-box;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  overflow: hidden;
+  position: relative;
+}
+.sampleCard img {
+  width: 160px;
+  aspect-ratio: 160 / 160;
+  vertical-align: top;
+  margin-bottom: 4px;
+}
+
+.sampleCard .sampleState,
+.sampleCard .sampleElement {
+  width: 40px;
+  display: flex;
+  flex-wrap: wrap;
+  position: absolute;
+  justify-content: center;
+}
+
+.sampleCard .sampleState {
+  right: 10px;
+}
+
+.sampleCard .sampleState img,
+.sampleCard .sampleElement img{
+  width: 12px;
+  aspect-ratio: 12 / 12;
+  vertical-align: top;
+}
+
+.sampleCard #sampleSign {
+  background: url(./img/bg.jpg) no-repeat 0 0 / cover;
+  position: absolute;
+  top: 0;
+  left: 0;
+  padding: 6px;
+  transform: rotate(-45deg);
+  top: 8px;
+  left: -88px;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  width: 200px;
+}
+
+
 
 main {
   position: relative;
@@ -82,6 +148,7 @@ main .click-wrap {
   width: 100%;
   z-index: 2;
   box-shadow: rgba(0, 0, 0, 0.1) 0px 10px 15px -3px, rgba(0, 0, 0, 0.05) 0px 4px 6px -2px;
+  margin-top: 10px;
 }
 
 main .btn-list {
@@ -141,7 +208,7 @@ main .monster-wrap {
   box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
   position: relative;
   overflow: hidden;
-  background: url(./img/bg3.jpg) no-repeat 50% 50% / cover;
+  background: url(./img/bg3.jpg) no-repeat 0 0 / cover;
   padding: 20px;
   box-sizing: border-box;
   transition: transform 0.5s ease;
@@ -175,7 +242,7 @@ main .monster-wrap {
   font-weight: bold;
   margin-bottom: 10px;
 }
-.monster-card .fontStyle {
+.fontStyle {
   background: linear-gradient(to top right , rgba(35,0,2,1), rgba(125,22,4,1), rgba(197,143,69,1));
   -webkit-background-clip: text;
   background-clip: text;
@@ -186,9 +253,6 @@ main .monster-wrap {
   width: 300px;
   aspect-ratio: 300 / 300;
   vertical-align: top;
-  border-radius: 10px 10px 0 0;
-  display: inline-block;
-  align-items: center;
   margin-bottom: 10px;
 }
 .monster-card .elements,
@@ -199,33 +263,19 @@ main .monster-wrap {
   margin: 0;
 }
 
-.monster-card .elementList {
+.monster-card .elementList,
+.monster-card .stateList {
+  width: 100px;
   display: flex;
   justify-content: center;
-  width: 100px;
   flex-wrap: wrap;
   position: absolute;
 }
 
 .monster-card .stateList {
-  display: flex;
-  justify-content: center;
-  width: 100px;
-  flex-wrap: wrap;
-  position: absolute;
   right: 20px;
 }
 
-.monster-card .elements.a11y-hidden {
-  clip: rect(1px, 1px, 1px, 1px);
-  clip-path: inset(50%);
-  width: 1px;
-  height: 1px;
-  margin: -1px;
-  overflow: hidden;
-  padding: 0;
-  position: absolute;
-}
 .monster-card p {
   font-size: 2rem;
   font-weight: 600;
@@ -263,8 +313,8 @@ footer {
 }
 
 
-
-.a11y-hidden {
+.a11y-hidden,
+.monster-card .elements.a11y-hidden {
   clip: rect(1px, 1px, 1px, 1px);
   clip-path: inset(50%);
   width: 1px;

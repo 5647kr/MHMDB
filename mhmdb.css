@@ -1,0 +1,281 @@
+/* 펀필로 생존자폰트(눈누) */
+@font-face {
+  font-family: 'FUNFLOWSURVIVORKR';
+  src: url('https://fastly.jsdelivr.net/gh/projectnoonnu/noonfonts_2210-2@1.0/FUNFLOWSURVIVORKR.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* reset css */
+html, body, section, h1, h2, h3, h4, h5, p, div, ul, li, img {
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  font-size: 10px;
+  font-family: FUNFLOWSURVIVORKR;
+}
+
+body {
+  width: 1320px;
+  margin: 0 auto;
+}
+
+li {
+  list-style: none;
+}
+
+.a11y-hidden {
+  clip: rect(1px, 1px, 1px, 1px);
+  clip-path: inset(50%);
+  width: 1px;
+  height: 1px;
+  margin: -1px;
+  overflow: hidden;
+  padding: 0;
+  position: absolute;
+}
+
+
+/* header */
+header {
+  text-align: center;
+  padding: 26px;
+  box-sizing: border-box;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.35);
+}
+
+h1 {
+  font-size: 4rem;
+  padding: 10px;
+  position: relative;
+}
+
+h1::after {
+  content: "";
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  opacity: 0.3;
+  background: url(./img/조사단-이미지.webp) no-repeat 50% 50% / contain;
+  z-index: -1;
+}
+/* /header */
+
+/* main */
+
+/* guideSection */
+#guideSection {
+  padding: 80px 60px 60px;
+  position: relative;
+  min-height: 80vh;
+  box-sizing: border-box;
+}
+
+.contentWrap :not(:first-child) {
+  margin-top: 60px;
+}
+.contentWrap h2 {
+  font-size: 3.6rem;
+}
+
+.contentWrap h3,
+.contentWrap p {
+  font-size: 2rem;
+}
+
+.cardWrap {
+  display: flex;
+  gap: 24px;
+  position: absolute;
+  right: 60px;
+  bottom: 60px;
+}
+
+.titleImg {
+  position: absolute;
+  top: 6px;
+  left: -44px;
+  transform: rotate(-45deg);
+}
+
+.card {
+  width: 300px;
+  background: url(./img/background.webp) no-repeat 0 0 / cover;
+  border-radius: 10px;
+  padding: 20px;
+  box-sizing: border-box;
+  text-align: center;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.35);
+}
+
+.card img {
+  width: 260px;
+  aspect-ratio: 260 / 260;
+  vertical-align: top;
+  margin-bottom: 10px;
+}
+
+.card h4 {
+  font-size: 3rem;
+  margin-bottom: 10px;
+}
+.card p {
+  font-size: 1.6rem;
+}
+
+.card p:nth-of-type(n+3) { 
+/* n을 기준으로 3번쨰 요소부터 뒤로 오는 모든 요소를 선택 */
+  font-size: 1.2rem;
+}
+
+.card .cardContent {
+  position: relative;
+}
+.card p:nth-of-type(4),
+.card p:nth-of-type(5) {
+  position: absolute;
+  top: 0;
+}
+.card p:nth-of-type(4) {
+  left: 0;
+}
+.card p:nth-of-type(5) {
+  right: 0;
+}
+
+.guide ul {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.guide li {
+  min-height: calc(389px / 6);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  flex-basis: 52px;
+}
+.guide li img {
+  width: 28px;
+  height: calc(389px / 6 - 36px);
+  vertical-align: top;
+  margin-bottom: 0;
+}
+.guide li p {
+  font-size: 1.2rem;
+}
+/* /guideSection */
+
+/* btnSection */
+#btnSection {
+  padding: 60px 60px;
+}
+#btnSection h5 {
+  font-size: 2.4rem;
+  text-align: center;
+}
+#btnSection ul {
+  margin: 24px auto;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 24px;
+}
+
+.species {
+  width: 858px;
+}
+.series {
+  width: 1110px;
+}
+
+button {
+  width: 102px;
+  padding: 8px;
+  font-family: FUNFLOWSURVIVORKR;
+  font-size: 1.6rem;
+  border-radius: 42.5px;
+  border: 0;
+  background-color: #fff;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.35);
+  cursor: pointer;
+}
+
+.searchWrap {
+  padding: 16px 0 0;
+  position: relative;
+  text-align: center;
+}
+
+.searchWrap input {
+  width: 600px;
+  padding: 11px 20px;
+  font-size: 1.6rem;
+  border-radius: 20px;
+  display: inline-block;
+  border: 1px solid black;
+}
+
+.searchBtn {
+  width: 30px;
+  box-shadow: none;
+  background: transparent;
+  padding: 0;
+  position: absolute;
+  top: 50%;
+  left: 72%;
+  transform: translate(0, -25%);
+  border-radius: 0;
+}
+
+.searchBtn i {
+  font-size: 30px;
+}
+
+.allBtn {
+  display: inline-block;
+  position: absolute;
+  right: 0;
+  bottom: 0;
+}
+/* /btnSection */
+
+
+/* cardSection */
+#cardSection {
+  margin: 60px 0;
+}
+
+#cardSection .cardList {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 40px;
+}
+/* /cardSection */
+/* /main */
+
+/* footer */
+footer {
+  min-height: 130px;
+  padding: 40px 0;
+  box-sizing: border-box;
+  border-top: 1px solid rgba(0, 0, 0, 0.35);
+}
+
+.footerContent {
+  float: left;
+}
+.footerContent cite {
+  font-style: normal;
+}
+footer img {
+  float: right;
+  width: 49px;
+  aspect-ratio: 49 / 49;
+  vertical-align: top;
+  opacity: 0.5;
+}
+/* /footer */

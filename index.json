@@ -1,6 +1,6 @@
 [
   {
-    "bigMonster": [
+    "monster": [
       {
         "id": 1,
         "imgurl": "./img/갑각종/다이묘자자미.webp",
@@ -757,7 +757,7 @@
         "speices": "원종",
         "series": "MHP2G, MH3G, MHP3, MHX, MHXX, MHWI, MHR, MHRSB",
         "seriesId": "f, h, i, l, m, o, p, q",
-        "sign": "MHP2G",
+        "sign": "5",
         "element": "",
         "ailments": "열상",
         "small": "1602.19",
@@ -1357,7 +1357,7 @@
         "speices": "원종",
         "series": "MH, MHG, MHP, MH2, MHP2, MHP2G, MH3, MH3G, MHP3, MH4, MH4G, MHX, MHXX, MHW, MHWI, MHR, MHRSB",
         "seriesId": "a, b, c, d, e, f, g, h, i, j, k, l, m, n, o, p, q",
-        "sign": "MH MHP",
+        "sign": "1",
         "element": "불",
         "ailments": "불, 기절, 독",
         "small": "1140.6",
@@ -1511,7 +1511,7 @@
         "speices": "아종",
         "series": "MHG, MHP, MH2, MHP2, MHP2G, MH3G, MH4, MH4G, MHW, MHWI",
         "seriesId": "b, c, d, e, f, h, j, k, n, o",
-        "sign": "MHG",
+        "sign": "2",
         "element": "불",
         "ailments": "불, 기절, 독",
         "small": "1140.6",
@@ -2715,7 +2715,7 @@
         "speices": "원종",
         "series": "MH4G, MHX, MHXX, MHRSB",
         "seriesId": "k, l, m, q",
-        "sign": "MH4G",
+        "sign": "10",
         "element": "",
         "ailments": "열상",
         "small": "1520.73",
@@ -2949,7 +2949,7 @@
         "speices": "원종",
         "series": "MHP2, MHP2G, MHP3, MH4, MH4G, MHX, MHXX, MHWI, MHR, MHRSB",
         "seriesId": "e, f, i, j, k, l, m, o, p, q",
-        "sign": "MHP2",
+        "sign": "4",
         "element": "",
         "ailments": "",
         "small": "1388.2",
@@ -3565,7 +3565,7 @@
         "speices": "원종",
         "series": "MHX, MHXX, MHWI",
         "seriesId": "l, m, o",
-        "sign": "MHX",
+        "sign": "11",
         "element": "불",
         "ailments": "불",
         "small": "2234.75",
@@ -3843,7 +3843,7 @@
         "speices": "원종",
         "series": "MH3G, MH4, MH4G, MHX, MHXX, MHWI",
         "seriesId": "h, j, k, l, m, o",
-        "sign": "MH3G",
+        "sign": "7",
         "element": "불",
         "ailments": "폭파, 점균폭파",
         "small": "1339.18",
@@ -4453,7 +4453,7 @@
         "speices": "원종",
         "series": "MHR, MHRSB",
         "seriesId": "p, q",
-        "sign": "MHR",
+        "sign": "15",
         "element": "",
         "ailments": "귀화",
         "small": "1602.38",
@@ -4573,7 +4573,7 @@
         "speices": "원종",
         "series": "MH3G, MHP3, MH4, MH4G, MHX, MHXX, MHWI, MHR, MHRSB",
         "seriesId": "h, i, j, k, l, m, o, p, q",
-        "sign": "MHP3",
+        "sign": "8",
         "element": "번개",
         "ailments": "번개, 마비",
         "small": "1217.4",
@@ -7712,7 +7712,7 @@
         "speices": "원종",
         "series": "MH3, MH3G, MHX, MHXX",
         "seriesId": "g, h, l, m",
-        "sign": "MH3",
+        "sign": "6",
         "element": "번개",
         "ailments": "물, 번개",
         "small": "2330.7",
@@ -8526,7 +8526,7 @@
         "speices": "원종",
         "series": "MH4, MH4G, MHX, MHXX, MHRSB",
         "seriesId": "j, k, l, m, q",
-        "sign": "MH4",
+        "sign": "9",
         "element": "",
         "ailments": "광룡증",
         "small": "1549.59",
@@ -8856,7 +8856,7 @@
         "speices": "원종",
         "series": "MHW, MHWI",
         "seriesId": "n, o",
-        "sign": "MHW",
+        "sign": "13",
         "element": "",
         "ailments": "",
         "small": "1626.35",
@@ -9176,7 +9176,7 @@
         "speices": "원종",
         "series": "MHRSB",
         "seriesId": "q",
-        "sign": "MHRSB",
+        "sign": "16",
         "element": "용",
         "ailments": "용, 겁혈",
         "small": "1831.84",
@@ -9492,7 +9492,7 @@
         "speices": "원종",
         "series": "MHXX",
         "seriesId": "m",
-        "sign": "MHXX",
+        "sign": "12",
         "element": "용",
         "ailments": "용",
         "small": "2267",
@@ -10040,7 +10040,7 @@
         "speices": "원종",
         "series": "MHWI, MHRSB",
         "seriesId": "o, q",
-        "sign": "MHWI",
+        "sign": "14",
         "element": "얼음",
         "ailments": "얼음",
         "small": "2336.45",
@@ -10236,7 +10236,7 @@
         "speices": "원종",
         "series": "MH2, MHP2, MHP2G, MH4, MH4G, MHX, MHXX, MHW, MHWI, MHR, MHRSB",
         "seriesId": "d, e, f, j, k, l, m, n, o, p, q",
-        "sign": "MH2",
+        "sign": "3",
         "element": "용",
         "ailments": "얼음, 용",
         "small": "2161.6",
@@ -10691,7 +10691,7 @@
     ]
   },
   {
-    "typeList": [
+    "speciesList": [
       {
         "id": 1,
         "type": "갑각종"
@@ -10747,7 +10747,7 @@
     ]
   },
   {
-    "workList": [
+    "seriesList": [
       {
         "id": "a",
         "work": "MH",

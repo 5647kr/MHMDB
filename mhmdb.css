@@ -40,7 +40,6 @@ li {
 
 /* header */
 header {
-  text-align: center;
   padding: 26px;
   box-sizing: border-box;
   border-bottom: 1px solid rgba(0, 0, 0, 0.35);
@@ -50,6 +49,7 @@ h1 {
   font-size: 4rem;
   padding: 10px;
   position: relative;
+  text-align: center;
 }
 
 h1::after {
@@ -69,9 +69,9 @@ h1::after {
 
 /* guideSection */
 #guideSection {
-  padding: 80px 60px 60px;
+  padding: 60px 60px;
   position: relative;
-  min-height: 80vh;
+  min-height: 86vh;
   box-sizing: border-box;
 }
 
@@ -179,18 +179,17 @@ h1::after {
   text-align: center;
 }
 #btnSection ul {
-  margin: 24px auto;
+  margin: 40px auto;
   display: flex;
   flex-wrap: wrap;
+  justify-content: center;
   gap: 24px;
 }
 
-.species {
-  width: 858px;
+.species, .series {
+  width: 80%;
 }
-.series {
-  width: 1110px;
-}
+
 
 button {
   width: 102px;
@@ -211,7 +210,7 @@ button {
 }
 
 .searchWrap input {
-  width: 600px;
+  width: 50%;
   padding: 11px 20px;
   font-size: 1.6rem;
   border-radius: 20px;
@@ -225,9 +224,8 @@ button {
   background: transparent;
   padding: 0;
   position: absolute;
-  top: 50%;
+  top: 38%;
   left: 72%;
-  transform: translate(0, -25%);
   border-radius: 0;
 }
 
@@ -252,6 +250,7 @@ button {
 #cardSection .cardList {
   display: flex;
   flex-wrap: wrap;
+  justify-content: center;
   gap: 40px;
 }
 /* /cardSection */
@@ -279,3 +278,37 @@ footer img {
   opacity: 0.5;
 }
 /* /footer */
+
+
+/* media */
+@media (min-width: 1100px) and (max-width: 1380px) {
+  body {
+    width: 800px;
+  }
+  #guideSection {
+    text-align: center;
+  }
+  .cardWrap {
+    justify-content: center;
+    position: relative;
+    margin: 60px auto 0;
+    top: 0;
+    left: 0;
+  }
+  .titleImg {
+    left: -17px;
+  }
+}
+
+@media (min-width: 600px) and (max-width: 1100px) {
+  body {
+    width: 500px;
+  }
+  #guideSection {
+    text-align: center;
+  }
+  .cardWrap {
+    justify-content: center;
+  }
+}
+

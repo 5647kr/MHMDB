@@ -28,9 +28,9 @@ function Data(array) {
   const speciesData = array[1].speciesList;
   const seriesData = array[2].seriesList;
 
-  // species, series BtnList
+  // species, series BtnList, cardList
   const btnSection = document.querySelector("#btnSection");
-  const seriesBtn = btnSection.querySelector(".series");
+  const cardSection = document.querySelector("#cardSection");
 
   // species btn 생성
   speciesData.map((species) => {
@@ -39,15 +39,51 @@ function Data(array) {
     const speciesBtn = document.createElement("button");
 
     speciesBtn.textContent = species.type;
+
     speciesItem.appendChild(speciesBtn);
     speciesList.appendChild(speciesItem);
   })
 
 
   // series btn 생성
+  seriesData.map((series) => {
+    const seriesList = btnSection.querySelector(".series");
+    const seriesItem = document.createElement("li");
+    const seriesBtn = document.createElement("button");
+    const seriesAbbr = document.createElement("abbr");
+
+    seriesAbbr.title = series.fullName
+    seriesAbbr.textContent = series.work;
+    seriesBtn.id = series.id;
+
+    seriesBtn.appendChild(seriesAbbr);
+    seriesItem.appendChild(seriesBtn);
+    seriesList.appendChild(seriesItem);
+  })
 
 
+  // monster card 생성
+  monsterData.map((monster) => {
+    const cardList = cardSection.querySelector(".cardList");
+    const cardItem = document.createElement("li");
+    const card = document.createElement("div");
+    const cardContent = `
+    <h4>${monster.name}</h4>
+    <img src="${monster.icon}" alt="${monster.name}">
+    <div class="cardContent">
+    <p>몬스터 이명</p>
+    <p>${monster.type}</p>
+    <p>${monster.small} - ${monster.large}</p>
+    <p>몬스터<br>속성</p>
+    <p>속성피해<br>상태이상</p>
+    </div>
+    `
+    card.classList.add("card");
 
+    card.innerHTML = cardContent;
+    cardItem.appendChild(card);
+    cardList.appendChild(cardItem);
+  })
 
 
 

@@ -74,8 +74,8 @@ function Data(array) {
     <p>몬스터 이명</p>
     <p>${monster.type}</p>
     <p>${monster.small} - ${monster.large}</p>
-    <p>몬스터<br>속성</p>
-    <p>속성피해<br>상태이상</p>
+    <div></div>
+    <div></div>
     </div>
     `
     card.classList.add("card");
@@ -83,8 +83,49 @@ function Data(array) {
     card.innerHTML = cardContent;
     cardItem.appendChild(card);
     cardList.appendChild(cardItem);
-  })
+    
+    // 카드 내부 속성아이콘 설정
+    const elementWrap = card.querySelector(".cardContent div");
 
+    if(monster.element !== "") {
+      monster.element.split(",").map((element) => {
+        const elementImg = document.createElement("img");
+
+        elementImg.src = `./icon/속성상태/${element.trim()}.webp`;
+        elementImg.alt = element.trim();
+
+        elementWrap.appendChild(elementImg);
+      })
+    }
+
+    // 카드 내부 속성아이콘 설정
+    const ailmentWrap = card.querySelector(".cardContent div:last-child");
+
+    if(monster.ailment !== "") {
+      monster.ailment.split(",").map((ailment) => {
+        const ailmentImg = document.createElement("img");
+
+        ailmentImg.src = `./icon/속성상태/${ailment.trim()}.webp`;
+        ailmentImg.alt = ailment.trim();
+
+        ailmentWrap.appendChild(ailmentImg);
+      })
+    }
+
+    // 카드 간판img 설정
+
+    if(monster.sign !== "") {
+      console.log(monster.sign)
+      const signImg = document.createElement("img");
+      
+      signImg.classList.add("signImg");
+
+      signImg.src = `./간판/${monster.sign}.webp`;
+      signImg.alt = "간판 몬스터";
+
+      cardItem.appendChild(signImg);
+    }
+  })
 
 
 

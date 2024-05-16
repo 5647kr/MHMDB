@@ -261,15 +261,25 @@ button {
   gap: 40px;
 }
 
-.cardList li {
+.monster {
   position: relative;
 }
 
-li .signImg {
+.monster .signImg {
+  width: 160px;
+  aspect-ratio: 160 / 60;
   position: absolute;
   top: 6px;
   left: -44px;
   transform: rotate(-45deg);
+}
+
+.monster {
+  transition: transform 0.5s ease;
+}
+
+.monster:hover {
+  transform: scale(1.1);
 }
 
 .cardContent div {

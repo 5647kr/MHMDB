@@ -67,11 +67,14 @@ function Data(array) {
     const cardList = cardSection.querySelector(".cardList");
     const cardItem = document.createElement("li");
     const card = document.createElement("div");
+
+    const monsterNickname = monster.nickname.substring(0, monster.nickname.indexOf("["));
+
     const cardContent = `
     <h4>${monster.name}</h4>
     <img src="${monster.icon}" alt="${monster.name}">
     <div class="cardContent">
-    <p>몬스터 이명</p>
+    <p>${monsterNickname}</p>
     <p>${monster.type}</p>
     <p>${monster.small} - ${monster.large}</p>
     <div></div>
@@ -79,6 +82,7 @@ function Data(array) {
     </div>
     `
     card.classList.add("card");
+    card.classList.add("monster");
 
     card.innerHTML = cardContent;
     cardItem.appendChild(card);
@@ -113,7 +117,6 @@ function Data(array) {
     }
 
     // 카드 간판img 설정
-
     if(monster.sign !== "") {
       console.log(monster.sign)
       const signImg = document.createElement("img");
@@ -123,7 +126,7 @@ function Data(array) {
       signImg.src = `./간판/${monster.sign}.webp`;
       signImg.alt = "간판 몬스터";
 
-      cardItem.appendChild(signImg);
+      card.appendChild(signImg);
     }
   })
 

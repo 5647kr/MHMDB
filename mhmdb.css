@@ -120,7 +120,7 @@ h1::after {
 }
 
 .card h4 {
-  font-size: 3rem;
+  font-size: 2.1rem;
   margin-bottom: 10px;
 }
 .card p {
@@ -135,6 +135,8 @@ h1::after {
 .card .cardContent {
   position: relative;
 }
+
+/* 가이드카드용 */
 .card p:nth-of-type(4),
 .card p:nth-of-type(5) {
   position: absolute;
@@ -146,6 +148,7 @@ h1::after {
 .card p:nth-of-type(5) {
   right: 0;
 }
+
 
 .guide ul {
   display: flex;
@@ -159,6 +162,7 @@ h1::after {
   align-items: center;
   flex-basis: 52px;
 }
+
 .guide li img {
   width: 28px;
   height: calc(389px / 6 - 36px);
@@ -190,6 +194,9 @@ h1::after {
   width: 80%;
 }
 
+.series button abbr {
+  text-decoration: none;
+}
 
 button {
   width: 102px;
@@ -252,6 +259,40 @@ button {
   flex-wrap: wrap;
   justify-content: center;
   gap: 40px;
+}
+
+.cardList li {
+  position: relative;
+}
+
+li .signImg {
+  position: absolute;
+  top: 6px;
+  left: -44px;
+  transform: rotate(-45deg);
+}
+
+.cardContent div {
+  position: absolute;
+  top: 0;
+  width: 80px;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.cardContent img {
+  width: 26px;
+  aspect-ratio: 26 / 26;
+  vertical-align: top;
+  margin: 0;
+}
+
+.cardContent div:first-child {
+  left: 0;
+}
+.cardContent div:last-child {
+  right: 0;
 }
 /* /cardSection */
 /* /main */

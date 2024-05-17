@@ -59,16 +59,11 @@ function Data(array) {
     })
   })
 
-  // 전체선택 btn 설정
-  const totalBtn = btnSection.querySelector(".totalBtn");
-
-  totalBtn.addEventListener("click", () => {
-    totalBtn.textContent = totalBtn.state === "true" ? "전체해제" : "전체선택"
-  })
 
   // 종별, 시리즈 버튼 중복선택 예외처리
   const speciesBtn = btnSection.querySelectorAll(".species li button");
   const seriesBtn = btnSection.querySelectorAll(".series li button")
+  const totalBtn = btnSection.querySelector(".totalBtn");
   
   // 종별 예외처리
   speciesBtn.forEach((species) => {
@@ -77,13 +72,11 @@ function Data(array) {
         // 모든 시리즈 버튼 초기화
         series.state = "false"
         series.classList.remove("active")
-
         // checkList에 시리즈id 포함시 삭제
         if(checkList.includes(series.id)) {
           checkList = checkList.filter((id) => id !== series.id)
         }
       })
-
       // 해당버튼이 true시 checkList에 추가
       if(species.state === "true") {
         checkList.push(species.id)
@@ -103,13 +96,17 @@ function Data(array) {
         // 모든 종별 버튼 초기화
         species.state = "false"
         species.classList.remove("active")
-
         // checkList에 종별id 포함시 삭제
         if(checkList.includes(species.id)) {
           checkList = checkList.filter((id) => id !== species.id)
         }
       })
-
+      // 전체선택버튼이 true인 경우 초기화
+      if(totalBtn.state === "true") {
+        totalBtn.state = "false";
+        totalBtn.classList.remove("active");
+        totalBtn.textContent = "전체선택"
+      }
       // 해당버튼이 true시 checkList에 추가
       if(series.state === "true") {
         checkList.push(series.id)
@@ -121,6 +118,36 @@ function Data(array) {
       }
       cardFilter();
     })
+  })
+
+  // 전체선택 btn 설정
+  totalBtn.addEventListener("click", () => {
+    totalBtn.textContent = totalBtn.state === "true" ? "전체해제" : "전체선택"
+    console.log(totalBtn.state)
+    
+    if(totalBtn.state === "true") {
+      speciesBtn.forEach((species) => {
+        checkList.push(species.id)
+        species.state = "true";
+        species.classList.add("active");
+      })
+
+      seriesBtn.forEach((series) => {
+        series.state = "false";
+        series.classList.remove("active")
+        checkList = checkList.filter((id) => id !== series.id)
+      })
+      cardFilter();
+      console.log(checkList)
+    } else {
+      checkList = []
+      speciesBtn.forEach((species) => {
+        species.state = "false";
+        species.classList.remove("active");
+      })
+      cardFilter();
+      console.log(checkList)
+    }
   })
 
   // monster card 생성

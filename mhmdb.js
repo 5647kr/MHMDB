@@ -90,6 +90,7 @@ function Data(array) {
     })
   })
 
+  // 시리즈 예외처리
   seriesBtn.forEach((series) => {
     series.addEventListener("click", () => {
       speciesBtn.forEach((species) => {
@@ -126,21 +127,27 @@ function Data(array) {
     console.log(totalBtn.state)
     
     if(totalBtn.state === "true") {
+      // 전체선택버튼 true시 종별 버튼 전체 활성화
       speciesBtn.forEach((species) => {
         checkList.push(species.id)
         species.state = "true";
         species.classList.add("active");
       })
 
+      // 전체선택버튼 true시 시리즈 버튼 전체 초기화
       seriesBtn.forEach((series) => {
         series.state = "false";
         series.classList.remove("active")
         checkList = checkList.filter((id) => id !== series.id)
       })
+      // 필터링 함수 작동
       cardFilter();
       console.log(checkList)
     } else {
+      // 전체선택버튼 false시 checkList 초기화
       checkList = []
+
+      // 전체선택버튼 false시 종별 버튼 전체 초기화
       speciesBtn.forEach((species) => {
         species.state = "false";
         species.classList.remove("active");
@@ -170,6 +177,7 @@ function Data(array) {
     <div></div>
     </div>
     `
+
     card.classList.add("card");
     card.classList.add("monster");
 
@@ -232,9 +240,51 @@ function Data(array) {
     }
   }
 
-  // 모든 버튼 필터링 함수 처리
+  // 검색 기능
+  const searchIpt = btnSection.querySelector("input");
+  const searchBtn = btnSection.querySelector(".searchBtn");
+  let isSearched = false;
+  const searchItem = cardSection.querySelectorAll(".cardList li")
+  const searchName = cardSection.querySelectorAll(".cardList li .monster h4")
+  
+  function searchCard() {
+    isSearched = false;
 
+    // 안보이는 항목을 모두 보이게
+    searchItem.forEach(item => item.style.display = 'block');
 
+    // 이름 검색 기능
+    searchName.forEach((search, index) => {
+      const name = search.textContent;
 
+      if (name.includes(searchIpt.value)) {
+        if (!isSearched) {
+          // 해당하는 카드로 화면 이동
+          searchItem[index].scrollIntoView({ behavior: 'smooth', block: 'center' });
+          isSearched = true;
+        }
+      }
+    });
+    
+    if (!isSearched) {
+      alert('검색 결과가 없습니다.');
+    }
+  }
+  
+  searchBtn.addEventListener("click", () => {
+    searchCard();
+    // 검색 후 ipt 초기화
+    searchIpt.value = "";
+  });
+  
+  searchIpt.addEventListener("keydown", (event) => {
+    if (event.key === "Enter") {
+      searchCard();
+      // 검색 후 ipt 초기화
+      searchIpt.value = ""
+    }
+  });
 
 }
+
+

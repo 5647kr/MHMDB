@@ -1,18 +1,4 @@
-let checkList = [
-  // "갑각종",
-  // "갑충종",
-  // "비룡종",
-  // "사룡종",
-  // "수룡종",
-  // "아룡종",
-  // "아수종",
-  // "양서종",
-  // "어룡종",
-  // "조룡종",
-  // "해룡종",
-  // "협각종",
-  // "고룡종"
-];
+let checkList = [];
 
 fetch("./index.json")
   .then((response) => {
@@ -78,6 +64,63 @@ function Data(array) {
 
   totalBtn.addEventListener("click", () => {
     totalBtn.textContent = totalBtn.state === "true" ? "전체해제" : "전체선택"
+  })
+
+  // 종별, 시리즈 버튼 중복선택 예외처리
+  const speciesBtn = btnSection.querySelectorAll(".species li button");
+  const seriesBtn = btnSection.querySelectorAll(".series li button")
+  
+  // 종별 예외처리
+  speciesBtn.forEach((species) => {
+    species.addEventListener("click", () => {
+      seriesBtn.forEach((series) => {
+        // 모든 시리즈 버튼 초기화
+        series.state = "false"
+        series.classList.remove("active")
+
+        // checkList에 시리즈id 포함시 삭제
+        if(checkList.includes(series.id)) {
+          checkList = checkList.filter((id) => id !== series.id)
+        }
+      })
+
+      // 해당버튼이 true시 checkList에 추가
+      if(species.state === "true") {
+        checkList.push(species.id)
+        console.log(checkList)
+      } else {
+        // 해당버튼이 false시 checkList에 삭제
+        checkList = checkList.filter((id) => id !== species.id)
+        console.log(checkList)
+      }
+      cardFilter();
+    })
+  })
+
+  seriesBtn.forEach((series) => {
+    series.addEventListener("click", () => {
+      speciesBtn.forEach((species) => {
+        // 모든 종별 버튼 초기화
+        species.state = "false"
+        species.classList.remove("active")
+
+        // checkList에 종별id 포함시 삭제
+        if(checkList.includes(species.id)) {
+          checkList = checkList.filter((id) => id !== species.id)
+        }
+      })
+
+      // 해당버튼이 true시 checkList에 추가
+      if(series.state === "true") {
+        checkList.push(series.id)
+        console.log(checkList)
+      } else {
+        //해당버튼이 false시 checkList에 삭제
+        checkList = checkList.filter((id) => id !== series.id)
+        console.log(checkList)
+      }
+      cardFilter();
+    })
   })
 
   // monster card 생성
@@ -163,16 +206,8 @@ function Data(array) {
   }
 
   // 모든 버튼 필터링 함수 처리
-  allBtnArr.map(btn => {
-    btn.addEventListener("click", () => {
-      if(btn.state === "true") {
-        checkList.push(btn.id)
-        console.log(checkList)
-      } else {
-        checkList = checkList.filter((id) => id !== btn.id)
-        console.log(checkList)
-      }
-      cardFilter();
-    })
-  })
+
+
+
+
 }

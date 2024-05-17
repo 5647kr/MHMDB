@@ -95,7 +95,13 @@ h1::after {
   bottom: 60px;
 }
 
-.titleImg {
+.guide {
+  position: relative;
+}
+
+.guide .signImg {
+  width: 160px;
+  aspect-ratio: 160 / 60;
   position: absolute;
   top: 6px;
   left: -44px;
@@ -208,6 +214,11 @@ button {
   background-color: #fff;
   box-shadow: 0 5px 15px rgba(0, 0, 0, 0.35);
   cursor: pointer;
+  transition: transform 10s ease;
+}
+
+.active {
+  box-shadow: inset 0 5px 15px rgba(0, 0, 0, 0.35);
 }
 
 .searchWrap {
@@ -240,7 +251,7 @@ button {
   font-size: 30px;
 }
 
-.allBtn {
+.totalBtn {
   display: inline-block;
   position: absolute;
   right: 0;
@@ -280,6 +291,7 @@ button {
 
 .monster:hover {
   transform: scale(1.1);
+  cursor: pointer;
 }
 
 .cardContent div {

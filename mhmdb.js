@@ -61,6 +61,25 @@ function Data(array) {
     seriesList.appendChild(seriesItem);
   })
 
+  // 모든 btn 기본값 설정
+  const allBtn = btnSection.querySelectorAll("button");
+  const allBtnArr = Array.from(allBtn);
+
+  allBtnArr.map(btn => {
+    btn.state = "false";
+    btn.addEventListener("click", () => {
+      (btn.state = btn.state === "false" ? "true" : "false") && btn.classList.toggle("active", btn.state === "true");
+    })
+  })
+
+  // 전체선택 btn 설정
+  const totalBtn = btnSection.querySelector(".totalBtn");
+
+  totalBtn.addEventListener("click", () => {
+    totalBtn.textContent = totalBtn.state === "true" ? "전체해제" : "전체선택"
+  })
+
+
 
   // monster card 생성
   monsterData.map((monster) => {
@@ -118,7 +137,6 @@ function Data(array) {
 
     // 카드 간판img 설정
     if(monster.sign !== "") {
-      console.log(monster.sign)
       const signImg = document.createElement("img");
       
       signImg.classList.add("signImg");
@@ -129,6 +147,7 @@ function Data(array) {
       card.appendChild(signImg);
     }
   })
+
 
 
 

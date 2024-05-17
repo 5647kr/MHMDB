@@ -1,17 +1,17 @@
 let checkList = [
-  "갑각종",
-  "갑충종",
-  "비룡종",
-  "사룡종",
-  "수룡종",
-  "아룡종",
-  "아수종",
-  "양서종",
-  "어룡종",
-  "조룡종",
-  "해룡종",
-  "협각종",
-  "고룡종"
+  // "갑각종",
+  // "갑충종",
+  // "비룡종",
+  // "사룡종",
+  // "수룡종",
+  // "아룡종",
+  // "아수종",
+  // "양서종",
+  // "어룡종",
+  // "조룡종",
+  // "해룡종",
+  // "협각종",
+  // "고룡종"
 ];
 
 fetch("./index.json")
@@ -39,6 +39,7 @@ function Data(array) {
     const speciesBtn = document.createElement("button");
 
     speciesBtn.textContent = species.type;
+    speciesBtn.id = species.type
 
     speciesItem.appendChild(speciesBtn);
     speciesList.appendChild(speciesItem);
@@ -79,8 +80,6 @@ function Data(array) {
     totalBtn.textContent = totalBtn.state === "true" ? "전체해제" : "전체선택"
   })
 
-
-
   // monster card 생성
   monsterData.map((monster) => {
     const cardList = cardSection.querySelector(".cardList");
@@ -96,6 +95,7 @@ function Data(array) {
     <p>${monsterNickname}</p>
     <p>${monster.type}</p>
     <p>${monster.small} - ${monster.large}</p>
+    <p class="a11y-hidden">${monster.seriesId}</p>
     <div></div>
     <div></div>
     </div>
@@ -148,8 +148,31 @@ function Data(array) {
     }
   })
 
+  // 필터링 함수
+  function cardFilter() {
+    const cardList = cardSection.querySelector(".cardList")
+    for(let card of cardList.querySelectorAll("li")) {
+      card.style.display = "none";
+      for (let id of checkList) {
+        if (card.textContent.includes(id)) {
+          card.style.display = "block";
+          break;
+        }
+      }
+    }
+  }
 
-
-
-
+  // 모든 버튼 필터링 함수 처리
+  allBtnArr.map(btn => {
+    btn.addEventListener("click", () => {
+      if(btn.state === "true") {
+        checkList.push(btn.id)
+        console.log(checkList)
+      } else {
+        checkList = checkList.filter((id) => id !== btn.id)
+        console.log(checkList)
+      }
+      cardFilter();
+    })
+  })
 }

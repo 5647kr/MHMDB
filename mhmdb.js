@@ -14,10 +14,11 @@ function Data(array) {
   const speciesData = array[1].speciesList;
   const seriesData = array[2].seriesList;
 
-  // species, series BtnList, cardList
+  // section 모음
   const btnSection = document.querySelector("#btnSection");
   const searchSection = document.querySelector("#searchSection");
   const cardSection = document.querySelector("#cardSection");
+  const popUpSection = document.querySelector("#popUpSection");
 
   // species btn 생성
   speciesData.map((species) => {
@@ -224,7 +225,94 @@ function Data(array) {
 
       card.appendChild(signImg);
     }
-  })
+
+// 카드 popUp 이벤트 기능
+  const popUpWrap = popUpSection.querySelector("#popUpWrap");
+  const popUpImg = popUpWrap.querySelector(".popUpImg");
+  const popUpInfo = popUpWrap.querySelector(".popUpInfo");
+  const popUpWeak = popUpWrap.querySelector(".popUpWeak");
+  const popUpEco = popUpWrap.querySelector(".popUpEco");
+
+    card.addEventListener("click", () => {
+      // 이미지
+      const monsterImg = `
+      <img src="${monster.imgurl}" alt="${monster.name}">
+      `
+
+      // 기본 정보
+      const monsterInfo = `
+      <h5>이름: </h5>
+      <p>
+      ${monster.name}
+      </p>
+      <h5>별명: </h5>
+      <p>
+      ${monster.nickname}
+      </p>
+      <h5>종별: </h5>
+      <p>
+      ${monster.type}
+      </p>
+      <h5>종: </h5>
+      <p>
+      ${monster.species}
+      </p>
+      <h5>등장작품: </h5>
+      <p>
+      ${monster.series}
+      </p>
+      <h5>속성: </h5>
+      <p>
+      ${monster.element}
+      </p>
+      <h5>속성피해 & 상태이상: </h5>
+      <p>
+      ${monster.ailment}
+      </p>
+      <h5>최소크기: </h5>
+      <p>
+      ${monster.small}
+      </p>
+      <h5>최대크기: </h5>
+      <p>
+      ${monster.large}
+      </p>
+      `
+
+      // 약점
+      const tbody = popUpWeak.querySelector("tbody");
+      monster.weak.forEach((weak) => {
+        const tr = document.createElement("tr");
+        for(const key in weak) {
+          const cell = document.createElement("td");
+          cell.textContent = weak[key];
+          tr.appendChild(cell)
+        }
+        tbody.appendChild(tr);
+      })
+
+      popUpImg.innerHTML = monsterImg;
+      popUpInfo.innerHTML = monsterInfo;
+
+
+      popUpSection.style.display = "block";
+    
+      // 스크롤 작동 비활성화
+      document.body.classList.add("no-scroll");
+    
+      const closeBtn = popUpSection.querySelector(".popUpClose");
+      closeBtn.addEventListener("click", () => {
+        popUpSection.style.display = "none";
+      
+        // 팝업 닫으면 스크롤 작동 활성화
+        document.body.classList.remove("no-scroll");
+
+        tbody.innerHTML = "";
+      });
+    });
+
+
+})
 
   // 필터링 함수
   function cardFilter() {
@@ -297,10 +385,13 @@ function Data(array) {
     }
   });
 
+  // 상단으로 이동하는 btn
   const topBtn = document.querySelector(".topBtn");
   topBtn.addEventListener("click", () => {
     btnSection.scrollIntoView({behavior: "smooth"});
   })
+
+
 
 }
 /**

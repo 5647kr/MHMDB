@@ -16,6 +16,7 @@ function Data(array) {
 
   // species, series BtnList, cardList
   const btnSection = document.querySelector("#btnSection");
+  const searchSection = document.querySelector("#searchSection");
   const cardSection = document.querySelector("#cardSection");
 
   // species btn 생성
@@ -63,7 +64,7 @@ function Data(array) {
   // 종별, 시리즈 버튼 중복선택 예외처리
   const speciesBtn = btnSection.querySelectorAll(".species li button");
   const seriesBtn = btnSection.querySelectorAll(".series li button")
-  const totalBtn = btnSection.querySelector(".totalBtn");
+  const totalBtn = searchSection.querySelector(".totalBtn");
   
   // 종별 예외처리
   speciesBtn.forEach((species) => {
@@ -80,11 +81,9 @@ function Data(array) {
       // 해당버튼이 true시 checkList에 추가
       if(species.state === "true") {
         checkList.push(species.id)
-        console.log(checkList)
       } else {
         // 해당버튼이 false시 checkList에 삭제
         checkList = checkList.filter((id) => id !== species.id)
-        console.log(checkList)
       }
       cardFilter();
     })
@@ -111,20 +110,23 @@ function Data(array) {
       // 해당버튼이 true시 checkList에 추가
       if(series.state === "true") {
         checkList.push(series.id)
-        console.log(checkList)
       } else {
         //해당버튼이 false시 checkList에 삭제
         checkList = checkList.filter((id) => id !== series.id)
-        console.log(checkList)
       }
       cardFilter();
     })
   })
 
   // 전체선택 btn 설정
+  totalBtn.state = "false"
+
   totalBtn.addEventListener("click", () => {
+    // totalBtn 초기설정
+    (totalBtn.state = totalBtn.state === "false" ? "true" : "false") && totalBtn.classList.toggle("active", totalBtn.state === "true");
+
+    // totalBtn 클릭시 textContent 수정
     totalBtn.textContent = totalBtn.state === "true" ? "전체해제" : "전체선택"
-    console.log(totalBtn.state)
     
     if(totalBtn.state === "true") {
       // 전체선택버튼 true시 종별 버튼 전체 활성화
@@ -142,7 +144,6 @@ function Data(array) {
       })
       // 필터링 함수 작동
       cardFilter();
-      console.log(checkList)
     } else {
       // 전체선택버튼 false시 checkList 초기화
       checkList = []
@@ -153,7 +154,6 @@ function Data(array) {
         species.classList.remove("active");
       })
       cardFilter();
-      console.log(checkList)
     }
   })
 
@@ -241,8 +241,7 @@ function Data(array) {
   }
 
   // 검색 기능
-  const searchIpt = btnSection.querySelector("input");
-  const searchBtn = btnSection.querySelector(".searchBtn");
+  const searchIpt = searchSection.querySelector("input");
   let isSearched = false;
   const searchItem = cardSection.querySelectorAll(".cardList li")
   const searchName = cardSection.querySelectorAll(".cardList li .monster h4")
@@ -271,20 +270,41 @@ function Data(array) {
     }
   }
   
-  searchBtn.addEventListener("click", () => {
-    searchCard();
-    // 검색 후 ipt 초기화
-    searchIpt.value = "";
-  });
-  
   searchIpt.addEventListener("keydown", (event) => {
     if (event.key === "Enter") {
       searchCard();
       // 검색 후 ipt 초기화
       searchIpt.value = ""
+
+      speciesBtn.forEach((species) => {
+        // 모든 시리즈 버튼 초기화
+        species.state = "false"
+        species.classList.remove("active")
+        // checkList에 시리즈id 포함시 삭제
+        if(checkList.includes(species.id)) {
+          checkList = checkList.filter((id) => id !== species.id)
+        }
+      })
+      seriesBtn.forEach((series) => {
+        // 모든 시리즈 버튼 초기화
+        series.state = "false"
+        series.classList.remove("active")
+        // checkList에 시리즈id 포함시 삭제
+        if(checkList.includes(series.id)) {
+          checkList = checkList.filter((id) => id !== series.id)
+        }
+      })
     }
   });
 
+  const topBtn = document.querySelector(".topBtn");
+  topBtn.addEventListener("click", () => {
+    btnSection.scrollIntoView({behavior: "smooth"});
+  })
+
 }
+/**
+ * todo 상세페이지 작성
+ *  */ 
 
 

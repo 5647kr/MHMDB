@@ -231,8 +231,8 @@ button {
 #searchSection {
   padding: 16px 0;
   position: sticky;
-  position: -webkit-sticky;
   top: 0;
+  left: 0;
   width: 100%;
   background: #fff;
   text-align: center;
@@ -328,6 +328,136 @@ button {
   right: 0;
 }
 /* /cardSection */
+
+/* popUpSection */
+#popUpSection {
+  display: none;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: #fff;
+  padding: 26px 300px 40px;
+  z-index: 3;
+  box-sizing: border-box;
+  overflow: auto;
+}
+#popUpSection h4 {
+  font-size: 4rem;
+  padding: 10px;
+  text-align: center;
+  margin-bottom: 26px;
+  position: relative;
+}
+#popUpSection h4::after {
+  content: "";
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  opacity: 0.3;
+  background: url(./img/조사단-이미지.webp) no-repeat 50% 50% / contain;
+  z-index: -1;
+}
+#popUpWrap {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  justify-content: space-between;
+  border-top: 1px solid black;
+  padding-top: 40px;
+}
+#popUpWrap div {
+  width: 600px;
+  &::-webkit-scrollbar {
+    padding-top: 5px;
+    height: 10px;
+  }
+  &::-webkit-scrollbar-thumb {
+    background-color: rgba(0, 0, 0, 0.35);
+    border-radius: 10px;
+    background-clip: padding-box;
+    border: 2px solid rgba(0, 0, 0, 0.35);
+  }
+  border-radius: 10px;
+}
+
+#popUpWrap div:not(:first-child) {
+  padding: 40px;
+  box-sizing: border-box;
+  overflow: auto;
+  background: url(./img/background.webp) no-repeat 0 0 / cover;
+  border-radius: 10px;
+}
+
+#popUpWrap button {
+  position: absolute;
+  right: 300px;
+  border-radius: 50%;
+  width: 40px;
+  height: 40px;
+  font-size: 1.6rem;
+}
+
+#popUpSection img {
+  width: 600px;
+  aspect-ratio: 600 / 600;
+  vertical-align: top;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.35);
+  border-radius: 10px;
+}
+
+#popUpSection .popUpInfo {
+  max-height: 470px;
+  margin-top: 130px;
+  font-size: 2.4rem;
+}
+.popUpInfo p {
+  display: inline-block;
+  margin-left: 40px;
+}
+
+#popUpSection .popUpWeak {
+  height: 295px;
+  box-sizing: border-box;
+}
+
+.popUpWeak h5 {
+  font-size: 2.8rem;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.popUpWeak .monsterWeak {
+  width: 100%;
+  text-align: center;
+  border: 1px solid black;
+  border-collapse: collapse;
+  font-size: 1.8rem;
+  table-layout: fixed;
+}
+table, th, td {
+  border: 1px solid black;
+}
+th, td {
+  padding: 8px;
+  width: 50%;
+}
+
+
+
+
+
+#popUpSection .popUpEco {
+  box-shadow: inset 0 0 10px green;
+}
+/* 스크롤 막기 */
+.no-scroll {
+  overflow: hidden;
+}
+/* /popUpSection */
 /* /main */
 
 /* footer */
@@ -367,6 +497,7 @@ footer button:active {
   box-shadow: inset 0 5px 15px rgba(0, 0, 0, 0.35);
 }
 /* /footer */
+
 
 
 /* media */

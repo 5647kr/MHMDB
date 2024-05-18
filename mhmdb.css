@@ -22,6 +22,11 @@ body {
   margin: 0 auto;
 }
 
+main {
+  position: relative;
+}
+
+
 li {
   list-style: none;
 }
@@ -183,6 +188,8 @@ h1::after {
 /* btnSection */
 #btnSection {
   padding: 60px 60px;
+  position: relative;
+  overflow: visible;
 }
 #btnSection h5 {
   font-size: 2.4rem;
@@ -221,41 +228,45 @@ button {
   box-shadow: inset 0 5px 15px rgba(0, 0, 0, 0.35);
 }
 
-.searchWrap {
-  padding: 16px 0 0;
-  position: relative;
+#searchSection {
+  padding: 16px 0;
+  position: sticky;
+  position: -webkit-sticky;
+  top: 0;
+  width: 100%;
+  background: #fff;
   text-align: center;
+  z-index: 3;
 }
 
-.searchWrap input {
+
+#searchSection input {
   width: 50%;
-  padding: 11px 20px;
+  padding: 11px 20px 11px 60px;
   font-size: 1.6rem;
   border-radius: 20px;
   display: inline-block;
   border: 1px solid black;
+  text-align: center;
 }
 
-.searchBtn {
-  width: 30px;
-  box-shadow: none;
-  background: transparent;
-  padding: 0;
+#searchSection::before {
+  content: "";
+  width: 20px;
+  height: 20px;
+  background: url(./icon/searchicon.svg) no-repeat 0 0 /cover;
+  display: inline-block;
   position: absolute;
   top: 38%;
-  left: 72%;
-  border-radius: 0;
-}
-
-.searchBtn i {
-  font-size: 30px;
+  left: 23.5%;
 }
 
 .totalBtn {
   display: inline-block;
   position: absolute;
+  top: 50%;
   right: 0;
-  bottom: 0;
+  transform: translate(-50%, -50%);
 }
 /* /btnSection */
 
@@ -325,6 +336,7 @@ footer {
   padding: 40px 0;
   box-sizing: border-box;
   border-top: 1px solid rgba(0, 0, 0, 0.35);
+  position: relative;
 }
 
 .footerContent {
@@ -333,12 +345,26 @@ footer {
 .footerContent cite {
   font-style: normal;
 }
+
 footer img {
   float: right;
   width: 49px;
   aspect-ratio: 49 / 49;
   vertical-align: top;
   opacity: 0.5;
+}
+
+footer button {
+  position: fixed;
+  right: 60px;
+  bottom: 60px;
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+}
+
+footer button:active {
+  box-shadow: inset 0 5px 15px rgba(0, 0, 0, 0.35);
 }
 /* /footer */
 

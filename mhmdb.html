@@ -19,6 +19,7 @@
 
   <!-- main -->
   <main>
+    <!-- 최상단 안내 section -->
     <section id="guideSection">
       <div class="contentWrap">
         <h2>MHMDB(Monster Hunter Monster DataBase)<br>
@@ -167,27 +168,33 @@
       </div>
     </section>
 
+    <!-- 필터링 기능 btnSection -->
     <section id="btnSection">
       <h5>종별</h5>
       <ul class="btn species">
       </ul>
+
       <h5>시리즈</h5>
       <ul class="btn series">
       </ul>
-
-      <div class="searchWrap">
-        <label class="a11y-hidden" for="#">몬스터 이름 검색</label>
-        <input type="text" placeholder="몬스터 이름을 입력해주세요.">
-        <button class="searchBtn" type="button">
-          <i class="fa-solid fa-magnifying-glass"></i>
-        </button>
-        <button class="totalBtn">전체선택</button>
-      </div>
     </section>
 
+    <!-- 검색 기능 searchSection -->
+    <section id="searchSection">
+      <label class="a11y-hidden" for="#">몬스터 이름 검색</label>
+      <input type="text" placeholder="몬스터 이름을 입력해주세요.">
+      <button class="totalBtn">전체선택</button>
+    </section>
+
+    <!-- 카드 section -->
     <section id="cardSection">
       <ul class="cardList">
       </ul>
+    </section>
+
+    <!-- 상세 팝업 section -->
+    <section id="popUpSection">
+      ...
     </section>
   </main>
   <!-- /main -->
@@ -201,6 +208,7 @@
       <cite>이미지출처 & 내용출처: 나무위키</cite>
     </div>
     <img src="./img/조사단-이미지.webp" alt="조사단 이미지">
+    <button class="topBtn">Top</button>
   </footer>
   <!-- /footer -->
 

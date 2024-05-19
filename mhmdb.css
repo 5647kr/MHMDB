@@ -221,7 +221,6 @@ button {
   background-color: #fff;
   box-shadow: 0 5px 15px rgba(0, 0, 0, 0.35);
   cursor: pointer;
-  transition: transform 10s ease;
 }
 
 .active {
@@ -233,10 +232,12 @@ button {
   position: sticky;
   top: 0;
   left: 0;
-  width: 100%;
+  transform: translate(-4.5%, 0);
+  width: 110%;
+  margin: 0 auto;
   background: #fff;
   text-align: center;
-  z-index: 3;
+  z-index: 2;
 }
 
 
@@ -247,7 +248,7 @@ button {
   border-radius: 20px;
   display: inline-block;
   border: 1px solid black;
-  text-align: center;
+  text-align: left;
 }
 
 #searchSection::before {
@@ -265,7 +266,7 @@ button {
   display: inline-block;
   position: absolute;
   top: 50%;
-  right: 0;
+  right: 80px;
   transform: translate(-50%, -50%);
 }
 /* /btnSection */
@@ -491,6 +492,7 @@ footer button {
   width: 60px;
   height: 60px;
   border-radius: 50%;
+  z-index: 3;
 }
 
 footer button:active {

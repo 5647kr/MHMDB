@@ -279,7 +279,7 @@ function Data(array) {
       </p>
       `
 
-      // 약점
+      // 약점표
       const tbody = popUpWeak.querySelector("tbody");
       monster.weak.forEach((weak) => {
         const tr = document.createElement("tr");
@@ -307,6 +307,7 @@ function Data(array) {
         // 팝업 닫으면 스크롤 작동 활성화
         document.body.classList.remove("no-scroll");
 
+        // 약점표 초기화
         tbody.innerHTML = "";
       });
     });

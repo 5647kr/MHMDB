@@ -370,7 +370,7 @@ button {
   border-top: 1px solid black;
   padding-top: 40px;
 }
-#popUpWrap div {
+.popUpImg, .popUpInfo, .popUpWeak, .popUpEco {
   width: 600px;
   &::-webkit-scrollbar {
     padding-top: 5px;
@@ -452,7 +452,14 @@ th, td {
 
 
 #popUpSection .popUpEco {
-  box-shadow: inset 0 0 10px green;
+  height: 295px;
+  overflow: auto;
+}
+.popUpEco p {
+  font-size: 1.6rem;
+}
+.popUpEco p:not(:last-child) {
+  margin-bottom: 10px;
 }
 /* 스크롤 막기 */
 .no-scroll {

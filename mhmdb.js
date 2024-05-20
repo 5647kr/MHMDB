@@ -291,8 +291,13 @@ function Data(array) {
         tbody.appendChild(tr);
       })
 
+      // 
+      const monsterEco = `
+      <div>${monster.eco}</div>
+      `
       popUpImg.innerHTML = monsterImg;
       popUpInfo.innerHTML = monsterInfo;
+      popUpEco.innerHTML = monsterEco;
 
 
       popUpSection.style.display = "block";

@@ -529,26 +529,3 @@ footer button:active {
   box-shadow: inset 0 5px 15px rgba(0, 0, 0, 0.35);
 }
 /* /footer */
-
-
-
-/* media */
-/* pc */
-@media screen and (min-width: 1200px) {
-
-}
-/* laptops */
-@media screen and (min-width: 992px) and (max-width: 1199px) {
-
-}
-/* tablets */
-@media screen and (min-width: 768px) and (max-width: 991px) {
-
-}
-/* mobile */
-@media screen and (max-width: 767px) {
-
-}
-
-
-

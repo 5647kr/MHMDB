@@ -7,7 +7,7 @@
 }
 
 /* reset css */
-html, body, section, h1, h2, h3, h4, h5, p, div, ul, li, img {
+html, body, section, h1, h2, h3, h4, h5, h6, p, div, ul, li, img {
   margin: 0;
   padding: 0;
 }
@@ -80,11 +80,20 @@ h1::after {
   box-sizing: border-box;
 }
 
-.contentWrap :not(:first-child) {
+h2 {
+  font-size: 3.6rem;
+}
+
+.guideWrap {
+  display: flex;
+  justify-content: space-between;
   margin-top: 60px;
 }
-.contentWrap h2 {
-  font-size: 3.6rem;
+
+.contentWrap {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
 }
 
 .contentWrap h3,
@@ -92,12 +101,10 @@ h1::after {
   font-size: 2rem;
 }
 
+
 .cardWrap {
   display: flex;
   gap: 24px;
-  position: absolute;
-  right: 60px;
-  bottom: 60px;
 }
 
 .guide {
@@ -340,10 +347,21 @@ button {
   height: 100%;
   background-color: #fff;
   padding: 26px 300px 40px;
-  z-index: 3;
+  z-index: 4;
   box-sizing: border-box;
   overflow: auto;
 }
+
+#popUpSection button {
+  position: absolute;
+  top: 60px;
+  right: 60px;
+  border-radius: 50%;
+  width: 60px;
+  height: 60px;
+  font-size: 2.4rem;
+}
+
 #popUpSection h4 {
   font-size: 4rem;
   padding: 10px;
@@ -351,6 +369,7 @@ button {
   margin-bottom: 26px;
   position: relative;
 }
+
 #popUpSection h4::after {
   content: "";
   position: absolute;
@@ -362,16 +381,20 @@ button {
   background: url(./img/조사단-이미지.webp) no-repeat 50% 50% / contain;
   z-index: -1;
 }
+
 #popUpWrap {
   display: flex;
   flex-wrap: wrap;
-  gap: 20px;
+  gap: 60px;
   justify-content: space-between;
   border-top: 1px solid black;
-  padding-top: 40px;
+  padding-top: 60px;
 }
+
 .popUpImg, .popUpInfo, .popUpWeak, .popUpEco {
   width: 600px;
+  max-height: 600px;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.35);
   &::-webkit-scrollbar {
     padding-top: 5px;
     height: 10px;
@@ -393,42 +416,33 @@ button {
   border-radius: 10px;
 }
 
-#popUpWrap button {
-  position: absolute;
-  right: 300px;
-  border-radius: 50%;
-  width: 40px;
-  height: 40px;
-  font-size: 1.6rem;
-}
-
-#popUpSection img {
-  width: 600px;
-  aspect-ratio: 600 / 600;
-  vertical-align: top;
-  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.35);
-  border-radius: 10px;
-}
-
-#popUpSection .popUpInfo {
-  max-height: 470px;
-  margin-top: 130px;
-  font-size: 2.4rem;
-}
-.popUpInfo p {
-  display: inline-block;
-  margin-left: 40px;
-}
-
-#popUpSection .popUpWeak {
-  height: 295px;
-  box-sizing: border-box;
-}
-
-.popUpWeak h5 {
+#popUpSection h5 {
   font-size: 2.8rem;
   text-align: center;
   margin-bottom: 20px;
+}
+
+#popUpSection .popUpImg img {
+  width: 600px;
+  aspect-ratio: 600 / 600;
+  vertical-align: top;
+  border-radius: 10px;
+}
+
+#popUpSection .popUpInfo h6,
+#popUpSection .popUpInfo p {
+  font-size: 2.4rem;
+}
+
+.popUpInfo p {
+  margin-left: 60px;
+}
+.popUpInfo p:not(:last-child) {
+  margin-bottom: 10px;
+}
+
+#popUpSection .popUpWeak {
+  box-sizing: border-box;
 }
 
 .popUpWeak .monsterWeak {
@@ -447,19 +461,28 @@ th, td {
   width: 50%;
 }
 
-
-
-
-
-#popUpSection .popUpEco {
-  height: 295px;
-  overflow: auto;
-}
 .popUpEco p {
   font-size: 1.6rem;
 }
 .popUpEco p:not(:last-child) {
   margin-bottom: 10px;
+}
+
+.popUpfooter {
+  margin-top: 60px;
+  min-height: 130px;
+  padding: 40px 0;
+  box-sizing: border-box;
+  border-top: 1px solid rgba(0, 0, 0, 0.35);
+  position: relative;
+}
+
+.popUpfooter img {
+  float: right;
+  width: 49px;
+  aspect-ratio: 49 / 49;
+  vertical-align: top;
+  opacity: 0.5;
 }
 /* 스크롤 막기 */
 .no-scroll {

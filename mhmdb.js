@@ -241,39 +241,40 @@ function Data(array) {
 
       // 기본 정보
       const monsterInfo = `
-      <h5>이름: </h5>
+      <h5>기본 정보</h5>
+      <h6>이름: </h6>
       <p>
       ${monster.name}
       </p>
-      <h5>별명: </h5>
+      <h6>별명: </h6>
       <p>
       ${monster.nickname}
       </p>
-      <h5>종별: </h5>
+      <h6>종별: </h6>
       <p>
       ${monster.type}
       </p>
-      <h5>종: </h5>
+      <h6>종: </h6>
       <p>
       ${monster.species}
       </p>
-      <h5>등장작품: </h5>
+      <h6>등장작품: </h6>
       <p>
       ${monster.series}
       </p>
-      <h5>속성: </h5>
+      <h6>속성: </h6>
       <p>
       ${monster.element}
       </p>
-      <h5>속성피해 & 상태이상: </h5>
+      <h6>속성피해 & 상태이상: </h6>
       <p>
       ${monster.ailment}
       </p>
-      <h5>최소크기: </h5>
+      <h6>최소크기: </h6>
       <p>
       ${monster.small}
       </p>
-      <h5>최대크기: </h5>
+      <h6>최대크기: </h6>
       <p>
       ${monster.large}
       </p>
@@ -293,7 +294,8 @@ function Data(array) {
 
       // 
       const monsterEco = `
-      <div>${monster.eco}</div>
+      <h5>생태 환경</h5>
+      ${monster.eco}
       `
       popUpImg.innerHTML = monsterImg;
       popUpInfo.innerHTML = monsterInfo;

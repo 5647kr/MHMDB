@@ -353,7 +353,7 @@ button {
 }
 
 #popUpSection button {
-  position: absolute;
+  position: fixed;
   top: 60px;
   right: 60px;
   border-radius: 50%;

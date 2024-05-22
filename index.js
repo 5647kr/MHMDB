@@ -264,11 +264,11 @@ function Data(array) {
       </p>
       <h6>속성: </h6>
       <p>
-      ${monster.element}
+      ${monster.element ? monster.element : '-'}
       </p>
       <h6>속성피해 & 상태이상: </h6>
       <p>
-      ${monster.ailment}
+      ${monster.ailment ? monster.ailment : '-'}
       </p>
       <h6>최소크기: </h6>
       <p>

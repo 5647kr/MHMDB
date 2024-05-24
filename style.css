@@ -247,10 +247,9 @@ button {
   z-index: 2;
 }
 
-
 #searchSection input {
   width: 50%;
-  padding: 11px 20px 11px 60px;
+  padding: 11px 20px;
   font-size: 1.6rem;
   border-radius: 20px;
   display: inline-block;
@@ -258,19 +257,7 @@ button {
   text-align: left;
 }
 
-#searchSection::before {
-  content: "";
-  width: 20px;
-  height: 20px;
-  background: url(./icon/searchicon.svg) no-repeat 0 0 /cover;
-  display: inline-block;
-  position: absolute;
-  top: 38%;
-  left: 23.5%;
-}
-
 .totalBtn {
-  display: inline-block;
   position: absolute;
   top: 50%;
   right: 80px;
@@ -346,31 +333,30 @@ button {
   width: 100%;
   height: 100%;
   background-color: #fff;
-  padding: 26px 300px 40px;
   z-index: 4;
   box-sizing: border-box;
   overflow: auto;
 }
 
-#popUpSection button {
-  position: fixed;
-  top: 60px;
-  right: 60px;
-  border-radius: 50%;
-  width: 60px;
-  height: 60px;
-  font-size: 2.4rem;
+#popUpWrap {
+  width: 1320px;
+  margin: 0 auto;
 }
 
-#popUpSection h4 {
+.popUpHeader {
+  padding: 26px;
+  box-sizing: border-box;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.35);
+}
+
+.popUpHeader h4 {
   font-size: 4rem;
   padding: 10px;
-  text-align: center;
-  margin-bottom: 26px;
   position: relative;
+  text-align: center;
 }
 
-#popUpSection h4::after {
+.popUpHeader h4::after {
   content: "";
   position: absolute;
   width: 100%;
@@ -382,18 +368,31 @@ button {
   z-index: -1;
 }
 
-#popUpWrap {
+#popUpContent {
+  padding: 60px 0;
   display: flex;
   flex-wrap: wrap;
-  gap: 60px;
   justify-content: space-between;
-  border-top: 1px solid black;
-  padding-top: 60px;
+  gap: 60px;
+}
+
+#popUpContent div:not(:first-child) {
+  padding: 40px;
+  box-sizing: border-box;
+  overflow: auto;
+  background: url(./img/background.webp) no-repeat 0 0 / cover;
+  border-radius: 10px;
+}
+
+#popUpContent h5 {
+  font-size: 2.8rem;
+  text-align: center;
+  margin-bottom: 20px;
 }
 
 .popUpImg, .popUpInfo, .popUpWeak, .popUpEco {
-  width: 600px;
-  max-height: 600px;
+  width: calc(100% / 2 - 30px);
+  aspect-ratio: 1 / 1;
   box-shadow: 0 5px 15px rgba(0, 0, 0, 0.35);
   &::-webkit-scrollbar {
     padding-top: 5px;
@@ -408,29 +407,15 @@ button {
   border-radius: 10px;
 }
 
-#popUpWrap div:not(:first-child) {
-  padding: 40px;
-  box-sizing: border-box;
-  overflow: auto;
-  background: url(./img/background.webp) no-repeat 0 0 / cover;
-  border-radius: 10px;
-}
-
-#popUpSection h5 {
-  font-size: 2.8rem;
-  text-align: center;
-  margin-bottom: 20px;
-}
-
-#popUpSection .popUpImg img {
-  width: 600px;
-  aspect-ratio: 600 / 600;
+#popUpContent .popUpImg img {
+  width: 100%;
+  aspect-ratio: 1 / 1;
   vertical-align: top;
   border-radius: 10px;
 }
 
-#popUpSection .popUpInfo h6,
-#popUpSection .popUpInfo p {
+#popUpContent .popUpInfo h6,
+#popUpContent .popUpInfo p {
   font-size: 2.4rem;
 }
 
@@ -441,11 +426,11 @@ button {
   margin-bottom: 10px;
 }
 
-#popUpSection .popUpWeak {
+#popUpContent .popUpWeak {
   box-sizing: border-box;
 }
 
-.popUpWeak .monsterWeak {
+#popUpContent .popUpWeak .monsterWeak {
   width: 100%;
   text-align: center;
   border: 1px solid black;
@@ -456,20 +441,33 @@ button {
 table, th, td {
   border: 1px solid black;
 }
+td {
+  font-size: 1.6rem;
+  text-align: center;
+}
 th, td {
   padding: 8px;
   width: 50%;
 }
 
-.popUpEco p {
+#popUpContent .popUpEco p {
   font-size: 1.6rem;
 }
-.popUpEco p:not(:last-child) {
+#popUpContent .popUpEco p:not(:last-child) {
   margin-bottom: 10px;
 }
 
-.popUpfooter {
-  margin-top: 60px;
+#popUpWrap .popUpClose {
+  position: fixed;
+  top: 60px;
+  right: 60px;
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  font-size: 2.4rem;
+}
+
+#popUpWrap .popUpfooter {
   min-height: 130px;
   padding: 40px 0;
   box-sizing: border-box;
@@ -477,13 +475,14 @@ th, td {
   position: relative;
 }
 
-.popUpfooter img {
+#popUpWrap .popUpfooter img {
   float: right;
   width: 49px;
   aspect-ratio: 49 / 49;
   vertical-align: top;
   opacity: 0.5;
 }
+
 /* 스크롤 막기 */
 .no-scroll {
   overflow: hidden;
@@ -529,3 +528,159 @@ footer button:active {
   box-shadow: inset 0 5px 15px rgba(0, 0, 0, 0.35);
 }
 /* /footer */
+
+
+/* media */
+@media (min-width: 390px) and (max-width: 1919px){
+  #guideSection {
+    text-align: center;
+  }
+  .guideWrap {
+    flex-direction: column;
+    align-items: center;
+    gap: 40px;
+  }
+  .contentWrap p {
+    margin-top: 40px;
+  }
+}
+
+/* pc */
+@media screen and (min-width: 1200px) and (max-width: 1470px) {
+  /* 전체 width */
+  body {
+    width: 1000px;
+  }
+
+  /* guideSection */
+  #guideSection h2 {
+    font-size: 3rem;
+  }
+  .contentWrap h3, 
+  .contentWrap p {
+    font-size: 1.8rem;
+  }
+  #popUpWrap {
+    width: 1000px;
+  }
+  #popUpContent .popUpInfo h6,
+  #popUpContent .popUpInfo p {
+    font-size: 2rem;
+  }
+
+  .popUpWeak th,
+  .popUpWeak td {
+    font-size: 1.2rem;
+  }
+}
+
+/* laptops */
+@media screen and (min-width: 990px) and (max-width: 1199px) {
+  body {
+    width: 790px;
+  }
+  /* guideSection */
+  #guideSection h2 {
+    font-size: 2.8rem;
+  }
+  .contentWrap h3, 
+  .contentWrap p {
+    font-size: 1.6rem;
+  }
+  #searchSection button {
+    position: static;
+    display: block;
+    margin: 40px auto;
+    width: 50%;
+    transform: translate(0, 0);
+  }
+
+  #popUpWrap {
+    width: 790px;
+  }
+
+  #popUpContent {
+    flex-direction: column;
+  }
+
+  .popUpImg, .popUpInfo, .popUpWeak, .popUpEco {
+    width: 100%;
+  }
+}
+/* tablet */
+@media screen and (min-width: 760px) and (max-width: 989px) {
+  body {
+    width: 560px;
+  }
+  /* guideSection */
+  #guideSection h2 {
+    font-size: 2.8rem;
+  }
+  .contentWrap h3, 
+  .contentWrap p {
+    font-size: 1.6rem;
+  }
+  .cardWrap {
+    flex-direction: column;
+  }
+  #searchSection button {
+    position: static;
+    display: block;
+    margin: 40px auto;
+    width: 50%;
+    transform: translate(0, 0);
+  }
+
+  #popUpWrap {
+    width: 560px;
+  }
+  #popUpContent {
+    flex-direction: column;
+  }
+  .popUpImg, .popUpInfo, .popUpWeak, .popUpEco {
+    width: 100%;
+  }
+}
+/* mobile */
+@media screen and (min-width: 390px) and (max-width: 759px) {
+  body {
+    width: 390px;
+  }
+    /* guideSection */
+    #guideSection h2 {
+      font-size: 2rem;
+    }
+    .contentWrap h3, 
+    .contentWrap p {
+      font-size: 1.4rem;
+    }
+    .cardWrap {
+      flex-direction: column;
+    }
+    #searchSection button {
+      position: static;
+      display: block;
+      margin: 40px auto;
+      width: 50%;
+      transform: translate(0, 0);
+    }
+  
+  #popUpWrap {
+    width: 390px;
+  }
+  #popUpContent {
+    flex-direction: column;
+  }
+  .popUpImg, .popUpInfo, .popUpWeak, .popUpEco {
+    width: 100%;
+  }
+  #popUpContent .popUpInfo h6,
+  #popUpContent .popUpInfo p {
+    font-size: 1.8rem;
+  }
+
+  .popUpWeak th,
+  .popUpWeak td {
+    font-size: 1rem;
+  }
+}

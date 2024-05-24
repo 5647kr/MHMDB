@@ -170,7 +170,7 @@ function Data(array) {
     <h4>${monster.name}</h4>
     <img src="${monster.icon}" alt="${monster.name}">
     <div class="cardContent">
-    <p>${monsterNickname}</p>
+    <p>${monsterNickname ? monsterNickname : '-'}</p>
     <p>${monster.type}</p>
     <p>${monster.small} - ${monster.large}</p>
     <p class="a11y-hidden">${monster.seriesId}</p>
@@ -248,7 +248,7 @@ function Data(array) {
       </p>
       <h6>별명: </h6>
       <p>
-      ${monster.nickname}
+      ${monster.nickname ? monster.nickname : '-'}
       </p>
       <h6>종별: </h6>
       <p>
@@ -398,12 +398,4 @@ function Data(array) {
   topBtn.addEventListener("click", () => {
     btnSection.scrollIntoView({behavior: "smooth"});
   })
-
-
-
 }
-/**
- * todo 상세페이지 작성
- *  */ 
-
-

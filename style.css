@@ -143,6 +143,7 @@ h2 {
 }
 .card p {
   font-size: 1.6rem;
+  margin-top: 0;
 }
 
 .card p:nth-of-type(n+3) { 

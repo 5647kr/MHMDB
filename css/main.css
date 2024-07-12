@@ -1,0 +1,44 @@
+.notice-section {
+  width: 100%;
+  min-height: 300px;
+  box-shadow: inset 0 0 10px pink;
+  margin-bottom: 40px;
+}
+
+.card-section {
+  position: relative;
+  box-shadow: inset 0 0 10px darkred;
+  height: 10000px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.card-section .control-panel {
+  width: 200px;
+  max-height: 668px;
+  position: sticky;
+  top: 140px;
+  left: 0;
+  box-shadow: inset 0 0 10px yellowgreen;
+}
+
+.card-section .card-wrap {
+  width: calc(100% - 220px);
+  box-shadow: inset 0 0 10px black;
+}
+
+.card-wrap .card-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  box-sizing: border-box;
+}
+
+.card-container .card-item {
+  width: 260px;
+  min-height: 400px;
+  padding: 20px;
+  box-sizing: border-box;
+  border: 2px solid var(--border-color);
+  border-radius: 20px;
+}

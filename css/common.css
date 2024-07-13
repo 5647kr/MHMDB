@@ -10,7 +10,7 @@
 }
 
 /* reset css */
-body, header, main, footer, h1, h2, h3, h4, h5, h6, p, ul, li {
+body, header, main, footer, h1, h2, h3, h4, h5, h6, p, ul, li, button {
   margin: 0;
   padding: 0;
 }
@@ -27,7 +27,7 @@ html {
   font-size: 10px;
 }
 
-h1, h2, h3, h4, h5, h6, p, strong {
+h1, h2, h3, h4, h5, h6, p, strong, button {
   color: #fff;
   font-family: "Monomaniac One";
 }

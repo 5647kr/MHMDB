@@ -24,16 +24,18 @@
   box-sizing: border-box;
 }
 
-.control-list>li>button {
+.control-list>li>div {
   width: 100%;
   border: none;
   padding: 5px 0;
   font-size: 20px;
+  font-weight: bold;
   text-align: center;
   background-color: var(--main-color);
+  color: #fff;
 }
 
-.control-list>li:first-child>button {
+.control-list>li:first-child>div {
   border-radius: 10px 10px 0 0;
 }
 

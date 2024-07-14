@@ -15,13 +15,88 @@
 
 .card-section .control-panel {
   width: 200px;
-  max-height: 668px;
+  height: fit-content;
   position: sticky;
   top: 140px;
   left: 0;
   border: 2px solid var(--border-color);
   border-radius: 12px;
   box-sizing: border-box;
+}
+
+.control-list>li>button {
+  width: 100%;
+  border: none;
+  padding: 5px 0;
+  font-size: 20px;
+  text-align: center;
+  background-color: var(--main-color);
+}
+
+.control-list>li:first-child>button {
+  border-radius: 10px 10px 0 0;
+}
+
+.series-list,
+.species-list {
+  padding: 12px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.species-list li,
+.series-list li {
+  margin-bottom: 4px;
+}
+
+.series-list li {
+  width: 80px;
+}
+
+
+input[type="checkbox"] {
+  position: relative;
+  width: 20px;
+  height: 20px;
+  background: var(--main-color);
+  border-radius: 4px;
+  appearance: none;
+  cursor: pointer;
+  margin-top: 3px;
+}
+
+input[type="checkbox"]:checked {
+  background-color: var(--border-color);
+}
+
+input[type="checkbox"]::before {
+  content: "";
+  position: absolute;
+  top: 1px;
+  left: 6px;
+  transform: rotate(45deg) scale(1);
+  width: 4px;
+  height: 12px;
+  border: 4px solid transparent;
+  border-left: none;
+  border-top: none;
+}
+
+input[type="checkbox"]:checked::before {
+  border-color: #fff;
+  animation: checkanimate 0.2s ease;
+}
+
+@keyframes checkanimate {
+  from {
+    transform: rotate(45deg) scale(0);
+  }
+}
+
+label {
+  font-size: 18px;
+  vertical-align: top;
 }
 
 .card-section .card-wrap {

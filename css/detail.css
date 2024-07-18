@@ -1,30 +1,113 @@
 main .wrap {
   box-shadow: inset 0 0 10px black;
   padding: 80px;
-  display: flex;
-  justify-content: space-between;
-  height: 10000px;
 }
 
-.wrap .img {
-  width: 600px;
-  max-height: 600px;
+.wrap [class$="wrap"] {
+  box-shadow: inset 0 0 10px blue;
+}
+
+.wrap [class$="wrap"]:not(:last-child) {
+  margin-bottom: 80px;
+}
+
+.basicinfo-wrap {
+  display: flex;
+  justify-content: space-between;
+}
+
+.basicinfo-wrap .img-container {
+  width: 460px;
+  max-height: 460px;
   border: 2px solid var(--border-color);
   border-radius: 20px;
   padding: 10px;
   box-sizing: border-box;
 }
 
-.img img {
-  width: 576px;
-  height: 576px;
+.img-container img {
+  width: 100%;
+  height: 100%;
   aspect-ratio: 1 / 1;
   vertical-align: top;
+}
+
+.basicinfo-wrap .info-container {
+  width: 672px;
+  height: 460px;
   box-sizing: border-box;
 }
 
-.wrap .info {
-  width: 648px;
-  padding: 0 12px;
+.info-container .info-basic {
+  width: 100%;
+  margin-bottom: 24px;
   box-shadow: inset 0 0 10px red;
+}
+
+.info-title span {
+  font-size: 12px;
+}
+
+.info-basic .monster-name {
+  font-size: 40px;
+  margin: 12px 0 24px;
+}
+
+.info-basic .monster-name::before {
+  content: "";
+  width: 50px;
+  height: 50px;
+  display: inline-block;
+  vertical-align: sub;
+  margin-right: 12px;
+  background: url(http://placehold.it/50x50) no-repeat 100% 100% / cover;
+}
+
+.info-basic .monster-intro {
+  font-size: 14px;
+}
+
+.info-detail {
+  padding: 12px;
+}
+
+
+.info-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.info-table tr {
+  padding: 12px;
+}
+
+tr th:first-child {
+  width: 50%;
+}
+
+.info-table tr:nth-child(2) {
+  border-bottom: 2px solid var(--border-color);
+}
+
+.info-table tr th:nth-child(2),
+.info-table tr td:nth-child(2),
+.info-table tr th:nth-child(3),
+.info-table tr td:nth-child(3) {
+  border-left: 2px solid var(--border-color);
+}
+
+th, td {
+  padding: 12px;
+  text-align: left;
+  color: #fff;
+}
+
+th {
+  font-size: 18px;
+}
+
+td {
+  font-size: 16px;
+  padding-left: 24px;
+  padding-top: 0;
 }

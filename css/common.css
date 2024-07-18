@@ -79,9 +79,17 @@ footer {
 }
 
 .wrap {
-  width: calc(100% - 303px);
-  /* 스크롤 width 17px 제외시킨 값 */
   min-height: 100px;
+  /* header와 footer의 기본 최소높이 */
   box-sizing: border-box;
   margin: 0 auto;
+}
+
+.wrap {
+  width: calc(100% - 320px);
+}
+
+.wrap.scroll {
+  width: calc(100% - 303px);
+  /* 스크롤 width 17px 제외시킨 값 */
 }

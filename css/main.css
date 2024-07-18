@@ -105,6 +105,7 @@ input[type="checkbox"]:checked::before {
 label {
   font-size: 18px;
   vertical-align: top;
+  cursor: pointer;
 }
 
 .card-section .card-wrap {

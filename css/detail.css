@@ -71,7 +71,6 @@ main .wrap {
   padding: 12px;
 }
 
-
 .info-table {
   width: 100%;
   border-collapse: collapse;
@@ -81,7 +80,7 @@ main .wrap {
   padding: 12px;
 }
 
-tr th:first-child {
+.info-table tr th:first-child {
   width: 50%;
 }
 
@@ -96,18 +95,55 @@ tr th:first-child {
   border-left: 2px solid var(--border-color);
 }
 
-th, td {
+.info-table th, .info-table td {
   padding: 12px;
   text-align: left;
   color: #fff;
 }
 
-th {
+.info-table th {
   font-size: 18px;
 }
 
-td {
+.info-table td {
   font-size: 16px;
   padding-left: 24px;
   padding-top: 0;
+}
+
+.extrainfo-wrap h3 {
+  font-size: 20px;
+  padding-bottom: 4px;
+  border-bottom: 2px solid var(--border-color);
+}
+
+.weak-table {
+  width: 100%;
+  /* box-shadow: inset 0 0 10px pink; */
+  border-collapse: collapse;
+  /* border: 1px solid var(--border-color); */
+  box-sizing: border-box;
+}
+
+.weak-table tr {
+  min-height: 40px;
+  width: 100%;
+  /* box-shadow: inset 0 0 10px red; */
+}
+
+.weak-table th, 
+.weak-table td {
+  padding: 7px;
+  font-size: 18px;
+  /* border: 1px solid var(--border-color); */
+  text-align: center;
+  box-sizing: border-box;
+}
+
+.weak-table tr:nth-child(even) {
+  background-color: var(--main-color);
+}
+
+.weak-table tr td {
+  min-width: 50px;
 }

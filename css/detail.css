@@ -3,10 +3,6 @@ main .wrap {
   padding: 80px;
 }
 
-.wrap [class$="wrap"] {
-  /* box-shadow: inset 0 0 10px blue; */
-}
-
 .wrap [class$="wrap"]:not(:last-child) {
   margin-bottom: 80px;
 }

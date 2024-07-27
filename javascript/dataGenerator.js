@@ -28,6 +28,7 @@ class DataGenerator {
   }
 
   monsterData(data) {
+    const cardFrag = document.createDocumentFragment();
     data.map((monster) => {
       const cardItem = document.createElement("li");
       const cardItemTemplate = `
@@ -41,12 +42,13 @@ class DataGenerator {
       `;
 
       cardItem.innerHTML = cardItemTemplate;
-      this.monsterList.append(cardItem)
+      cardFrag.append(cardItem);
     })
+    this.monsterList.append(cardFrag);
   }
 
   typeData(data) {
-    console.log(data)
+    const typeFrag = document.createDocumentFragment();
     data.map((type) => {
       const typeItem = document.createElement("li");
       const typeItemTemplate = `
@@ -54,12 +56,13 @@ class DataGenerator {
         <label for="${type.type}">${type.type}</label>
       `;
       typeItem.innerHTML = typeItemTemplate;
-      this.typeList.append(typeItem)
+      typeFrag.append(typeItem);
     })
+    this.typeList.append(typeFrag);
   }
 
   seriesData(data) {
-    console.log(data)
+    const seriesFrag = document.createDocumentFragment();
     data.map((series) => {
       const seriesItem = document.createElement("li");
       const seriesItemTemplate = `
@@ -67,8 +70,9 @@ class DataGenerator {
         <label for="${series.series}">${series.series}</label>
       `;
       seriesItem.innerHTML = seriesItemTemplate;
-      this.seriesList.append(seriesItem)
+      seriesFrag.append(seriesItem);
     })
+    this.seriesList.append(seriesFrag)
   }
 }
 

@@ -127,7 +127,46 @@ label {
   border-radius: 20px;
   box-sizing: border-box;
   text-align: center;
+  position: relative;
 }
+
+.card-list .card-item:hover {
+  &::before,
+  &::after {
+    content: "";
+    position: absolute;
+    top: -8px;
+    left: -8px;
+    right: -8px;
+    bottom: -8px;
+    border: 2px solid var(--border-color);
+    transition: all .5s;
+    animation: clippath 3s infinite linear;
+    border-radius: 20px;
+  }
+
+  &::after {
+    animation: clippath 3s infinite -1.5s linear;
+  }
+}
+
+@keyframes clippath {
+  0%,
+  100% {
+    clip-path: inset(0 0 98% 0);
+  }
+  
+  25% {
+    clip-path: inset(0 98% 0 0);
+  }
+  50% {
+    clip-path: inset(98% 0 0 0);
+  }
+  75% {
+    clip-path: inset(0 0 0 98%);
+  }
+}
+
 
 .card-item p {
   font-size: 17px;

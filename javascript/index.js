@@ -5,11 +5,8 @@ import MainPageEvent from "./main.js";
 const dataGenerator = new DataGenerator();
 const mainPageEvent = new MainPageEvent();
 
-dataGenerator.setup();
+(async function() {
+  await dataGenerator.setup();
+  mainPageEvent.eventHandle();
+})();
 // /module화
-
-
-// url 설정
-
-// /url 설정
-

@@ -46,14 +46,14 @@
 }
 
 .series-list,
-.species-list {
+.type-list {
   padding: 12px;
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between;
 }
 
-.species-list li,
+.type-list li,
 .series-list li {
   margin-bottom: 6px;
 }
@@ -112,14 +112,14 @@ label {
   width: calc(100% - 220px);
 }
 
-.card-wrap .card-container {
+.card-wrap .card-list {
   display: flex;
   flex-wrap: wrap;
   gap: 20px;
   box-sizing: border-box;
 }
 
-.card-container .card-item {
+.card-list .card-item {
   width: 260px;
   min-height: 370px;
   padding: 24px 18px;
@@ -130,7 +130,7 @@ label {
 }
 
 .card-item p {
-  font-size: 18px;
+  font-size: 17px;
   font-weight: bold;
 }
 
@@ -140,9 +140,13 @@ label {
   aspect-ratio: 1 / 1;
   vertical-align: top;
   margin: 24px 0;
+  background-color: var(--border-color);
+  border-radius: 20px;
+  padding: 10px;
+  box-sizing: border-box;
 }
 
 .card-item strong {
-  font-size: 20px;
+  font-size: 17px;
   font-weight: bold;
 }

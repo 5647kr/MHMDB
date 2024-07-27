@@ -5,7 +5,7 @@ import MainPageEvent from "./main.js";
 const dataGenerator = new DataGenerator();
 const mainPageEvent = new MainPageEvent();
 
-dataGenerator.data();
+dataGenerator.setup();
 // /module화
 
 // wrap 스크롤에 따라 width 값 조정

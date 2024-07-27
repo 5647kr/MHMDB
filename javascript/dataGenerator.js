@@ -32,7 +32,7 @@ class DataGenerator {
     data.map((monster) => {
       const cardItem = document.createElement("li");
       const cardItemTemplate = `
-        <a href="#" cardData-name = "${monster.name}" cardData-icon = "${monster.icon}" cardData-type = "${monster.type}" cardData-seriesId="${monster.seriesId}">
+        <a href="#" data-name = "${monster.name}" data-icon = "${monster.icon}" data-type = "${monster.type}" data-seriesId="${monster.seriesId}">
           <article class="card-item">
             <p class="species">${monster.type}</p>
             <img src="${monster.icon}" alt="더미이미지">

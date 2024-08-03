@@ -44,6 +44,8 @@ h1, h2, h3, h4, h5, h6, p, strong, button, input, label, span, th, td {
 }
 
 body {
+  /* 카드 너비 260px 두개, 좌우 여백의 전체 최소 너비 */
+  min-width: 1080px;
   height: 100%;
 }
 
@@ -69,6 +71,8 @@ main {
 }
 
 main .wrap {
+  /* 카드 너비 260px 두개일 때의 최소 main의 너비 */
+  min-width: 760px;
   min-height: calc(100vh - 200px);
 }
 

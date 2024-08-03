@@ -198,7 +198,7 @@ label {
 
 @media (min-width: 1080px) and (max-width: 1360px) {
   .card-list .card-item {
-    width: calc((100% - 40px) / 2);
+    width: calc((100% - 20px) / 2);
   }
 }
 

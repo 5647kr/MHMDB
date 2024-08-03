@@ -31,13 +31,13 @@ class DataGenerator {
     const cardFrag = document.createDocumentFragment();
     data.map((monster) => {
       const cardItem = document.createElement("li");
+      cardItem.classList.add("card-item")
       const cardItemTemplate = `
         <a href="#" data-name = "${monster.name}" data-icon = "${monster.icon}" data-type = "${monster.type}" data-seriesId="${monster.seriesId}">
-          <article class="card-item">
-            <p class="species">${monster.type}</p>
-            <img src="${monster.icon}" alt="더미이미지">
-            <strong>${monster.name}</strong>
-          </article>
+          <p class="species">${monster.type}</p>
+          <img src="${monster.icon}" alt="${monster.name} 이미지">
+          <strong>${monster.name}</strong>
+          <p class="a11y-hidden">${monster.seriesId}</p>
         </a>
       `;
 

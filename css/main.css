@@ -115,15 +115,12 @@ label {
 }
 
 .card-wrap .card-list {
-  display: flex;
-  flex-wrap: wrap;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
   gap: 20px;
-  box-sizing: border-box;
 }
 
 .card-list .card-item {
-  width: calc((100% - 60px) / 4);
-  min-width: 260px;
   padding: 24px 18px;
   border: 2px solid var(--border-color);
   border-radius: 20px;
@@ -169,6 +166,9 @@ label {
   }
 }
 
+.card-item article:hover {
+  cursor: pointer;
+}
 
 .card-item p {
   font-size: 17px;
@@ -192,22 +192,5 @@ label {
   font-weight: bold;
 }
 
-@media (min-width: 1361px) and (max-width: 1639px) {
-  .card-list .card-item {
-    width: calc((100% - 40px) / 3);
-  }
-}
-
-@media (min-width: 1080px) and (max-width: 1360px) {
-  .card-list .card-item {
-    width: calc((100% - 20px) / 2);
-  }
-}
-
-@media (max-width: 1080px) {
-  .card-list .card-item {
-    width: calc((100% - 20px) / 2);
-  }
-}
 
 /* 1080까지 스크롤 안생김 1079되는 순간 가로 스크롤 생김 */
